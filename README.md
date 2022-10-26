@@ -41,6 +41,7 @@
 - [Stenography](https://stenography.dev/) - Automatic code documentation.
 - [Mintlify](https://mintlify.com/) - AI powered documentation writer.
 - [Debuild](https://debuild.app/) - AI-powered low-code tool for web apps.
+- [AI2sql](https://www.ai2sql.io/) - With AI2sql, engineers and non-engineers can easily write efficient, error-free SQL queries without knowing SQL.
 
 ## Image
 
