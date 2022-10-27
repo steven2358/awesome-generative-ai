@@ -4,12 +4,24 @@
 
 ## Contents
 
+- [Recommended reading](#recommended-reading)
 - [Text](#text)
 - [Code](#image)
 - [Image](#image)
 - [Video](#video)
 - [Audio](#audio)
 - [Other](#other)
+- [More lists](#more-lists)
+
+## Recommended reading
+
+- [Generative AI: A Creative New World](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/) - By Sonya Huang, Pat Grady and GPT-3, September 19, 2022.
+- [A Coming-Out Party for Generative A.I., Silicon Valley’s New Craze](https://www.nytimes.com/2022/10/21/technology/generative-ai.html) - New York Times, October 21, 2022.
+
+## Milestones
+- [Stable Diffusion Public Release](https://stability.ai/blog/stable-diffusion-public-release) - Announcement on the Stable Diffusion blog, 22 August, 2022.
+- [DALL·E 2](https://openai.com/dall-e-2/) - Announcement on the OpenAI blog, April 6, 2022.
+- [Did a Person Write This Headline, or a Machine?](https://www.wired.com/story/ai-text-generator-gpt-3-learning-language-fitfully/) - article on GTP-3, Wired, July 22, 2020
 
 ## Text
 
@@ -86,6 +98,10 @@ Soon.
 - [This Image Does Not Exist](https://thisimagedoesnotexist.com/) - Test your ability to tell if an image is human or computer generated.
 - [Have I Been Trained?](https://haveibeentrained.com/) - Check if your image has been used to train popular AI art models.
 - [AI Dungeon](https://aidungeon.io/) - A text-based adventure-story game you direct (and star in) while the AI brings it to life.
+
+## More lists
+- [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html) - A large list of Google Colab notebooks for generative AI, by [@pharmapsychotic](https://twitter.com/pharmapsychotic).
+- [The Generative AI Application Landscape](https://twitter.com/sonyatweetybird/status/1584580362339962880) - An infographic that maps the generative AI ecosystem, by [Sonya Huang](https://twitter.com/sonyatweetybird) of Sequioa Capital.
 
 ## License
 
