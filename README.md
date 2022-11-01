@@ -82,6 +82,7 @@
 ### Image libraries
 - [Lexica](https://lexica.art/) - Stable Diffusion search engine.
 - [Libraire](https://libraire.ai/) - The largest library of AI-generated images.
+- [KREA](https://www.krea.ai/) - Explore millions of AI generated images and create collections of prompts. Featuring Stable Diffusion generations.
 
 ## Video
 
