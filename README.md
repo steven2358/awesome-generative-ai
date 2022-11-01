@@ -76,6 +76,7 @@
 - [Patience.ai](https://www.patience.ai/) - Patience.ai is an app for creating images with Stable Diffusion, a cutting edge AI developed by Stability.AI.
 - [GenShare](https://www.genshare.io/) - Generate art in seconds for free. Own and share what you create. A multimedia generative studio, democratizing design and creativity.
 - [Playground AI](https://playgroundai.com/) - Playground AI is a free-to-use online AI image creator. Use it to create art, social media posts, presentations, posters, videos, logos and more.
+- [Stable Horde](https://stablehorde.net/) - A crowdsourced distributed cluster of Stable Diffusion workers.
 
 ### Image libraries
 - [Lexica](https://lexica.art/) - Stable Diffusion search engine.
