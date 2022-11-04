@@ -22,7 +22,7 @@
 ## Milestones
 - [Stable Diffusion Public Release](https://stability.ai/blog/stable-diffusion-public-release) - Announcement on the Stable Diffusion blog, 22 August, 2022.
 - [DALL·E 2](https://openai.com/dall-e-2/) - Announcement on the OpenAI blog, April 6, 2022.
-- [Did a Person Write This Headline, or a Machine?](https://www.wired.com/story/ai-text-generator-gpt-3-learning-language-fitfully/) - Article on GTP-3, Wired, July 22, 2020
+- [Did a Person Write This Headline, or a Machine?](https://www.wired.com/story/ai-text-generator-gpt-3-learning-language-fitfully/) - Article on GTP-3, Wired, July 22, 2020.
 
 ## Text
 
@@ -30,7 +30,7 @@
 - [GPT-3](https://openai.com/api/) - OpenAI's API provides access to GPT-3, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code.
 - [Gopher](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - Gopher by DeepMind is a 280 billion parameter language model.
 - [OPT](https://huggingface.co/facebook/opt-350m) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. [Announcement](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/)
-- [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT3 that has been trained on 46 different languages and 13 programming languages.
+- [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming languages.
 
 ### Services
 - [Compose AI](https://www.compose.ai/) - Compose AI is a free Chrome extension that cuts your writing time by 40% with AI-powered autocompletion.
@@ -64,6 +64,7 @@
 - [Pygma](https://pygma.app/) - Turn Figma designs into high-quality code.
 - [Kite](https://www.kite.com/) - Kite adds AI powered code completions to your code editor, giving developers superpowers.
 - [MutableAI](https://mutable.ai/) - AI Accelerated Software Development.
+- [Stenography](https://www.stenography.dev/) - Automatic Documentation.
 
 ## Image
 
