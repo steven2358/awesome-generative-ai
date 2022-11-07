@@ -90,6 +90,7 @@
 - [Pixelz AI Art Generator](https://pixelz.ai/) - Pixelz AI Art Generator enables you to create incredible art from text. Stable Diffusion, CLIP Guided Diffusion & PXL·E realistic algorithms available.
 - [modyfi](https://www.modyfi.io/) - The image editor you've always wanted. AI-powered creative tools in your browser. Real-time collaboration.
 - [Ponzu](https://www.ponzu.ai/) - Ponzu is your free AI logo generator. Build your brand with creatively designed logos in seconds, using only your imagination.
+- [PhotoRoom](https://www.photoroom.com/) - Create product and portrait pictures using only your phone. Remove background, change background and showcase products.
 
 ### Image libraries
 - [Lexica](https://lexica.art/) - Stable Diffusion search engine.
