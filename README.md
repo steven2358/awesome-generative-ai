@@ -10,6 +10,7 @@
 - [Image](#image)
 - [Video](#video)
 - [Audio](#audio)
+- [Academia](#academia)
 - [Other](#other)
 - [More lists](#more-lists)
 
@@ -91,6 +92,7 @@
 - [modyfi](https://www.modyfi.io/) - The image editor you've always wanted. AI-powered creative tools in your browser. Real-time collaboration.
 - [Ponzu](https://www.ponzu.ai/) - Ponzu is your free AI logo generator. Build your brand with creatively designed logos in seconds, using only your imagination.
 - [PhotoRoom](https://www.photoroom.com/) - Create product and portrait pictures using only your phone. Remove background, change background and showcase products.
+- [Avatar AI](https://avatarai.me/) - Create your own AI-generated avatars.
 
 ### Image libraries
 - [Lexica](https://lexica.art/) - Stable Diffusion search engine.
@@ -114,7 +116,12 @@
 - [Coqui](https://coqui.ai/) - Generative AI for Voice.
 
 ### Music
-- [Harmonai](https://www.harmonai.org/) - We are a community-driven  organization releasing open-source generative audio tools to make music production more accessible and fun for everyone.
+- [Harmonai](https://www.harmonai.org/) - We are a community-driven organization releasing open-source generative audio tools to make music production more accessible and fun for everyone.
+- [Mubert](https://mubert.com/) - A royalty-free music ecosystem for content creators, brands and developers.
+
+### Academia
+- [Elicit](https://elicit.org/) - Ask a research question. Elicit will find answers from 175 million papers.
+- [Explainpaper](https://www.explainpaper.com/) - A better way to read academic papers. Upload a paper, highlight confusing text, get an explanation.
 
 ## Other
 - [Diagram](https://diagram.com/) - Magical new ways to design products.
