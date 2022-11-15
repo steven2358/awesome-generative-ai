@@ -124,6 +124,7 @@
 ### Academia
 - [Elicit](https://elicit.org/) - Ask a research question. Elicit will find answers from 175 million papers.
 - [Explainpaper](https://www.explainpaper.com/) - A better way to read academic papers. Upload a paper, highlight confusing text, get an explanation.
+- [Galactica](https://galactica.org/) - A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more.
 
 ## Other
 - [Diagram](https://diagram.com/) - Magical new ways to design products.
