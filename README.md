@@ -102,7 +102,7 @@
 
 ### Stable Diffusion resources
 - [Stable Diffusion Database](https://diffusiondb.com/) - A list of all public apps, developer tools, guides and plugins for Stable Diffusion. [Airtable version](https://airtable.com/shr0HlBwbw3nZ8Ht3/tblxOCylXV8ynh7ti).
-- [Stable Diffusion Models](https://rentry.org/) - [NSFW] A comprehensive list of Stable Diffusion checkpoints on rentry.org.
+- [Stable Diffusion Models](https://rentry.org/sdmodels) - [NSFW] A comprehensive list of Stable Diffusion checkpoints on rentry.org.
 
 ## Video
 - [RunwayML](https://runwayml.com/) - Magical AI tools, realtime collaboration, precision editing, and more. Your next-generation content creation suite.
