@@ -10,7 +10,6 @@
 - [Image](#image)
 - [Video](#video)
 - [Audio](#audio)
-- [Academia](#academia)
 - [Other](#other)
 - [More lists](#more-lists)
 
@@ -68,6 +67,11 @@
 - [MutableAI](https://mutable.ai/) - AI Accelerated Software Development.
 - [Stenography](https://www.stenography.dev/) - Automatic Documentation.
 
+### Academia
+- [Elicit](https://elicit.org/) - Ask a research question. Elicit will find answers from 175 million papers.
+- [Explainpaper](https://www.explainpaper.com/) - A better way to read academic papers. Upload a paper, highlight confusing text, get an explanation.
+- [Galactica](https://galactica.org/) - A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more. [Model API](https://github.com/paperswithcode/galai).
+
 ## Image
 
 ### Models
@@ -123,11 +127,6 @@
 ### Music
 - [Harmonai](https://www.harmonai.org/) - We are a community-driven organization releasing open-source generative audio tools to make music production more accessible and fun for everyone.
 - [Mubert](https://mubert.com/) - A royalty-free music ecosystem for content creators, brands and developers.
-
-### Academia
-- [Elicit](https://elicit.org/) - Ask a research question. Elicit will find answers from 175 million papers.
-- [Explainpaper](https://www.explainpaper.com/) - A better way to read academic papers. Upload a paper, highlight confusing text, get an explanation.
-- [Galactica](https://galactica.org/) - A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more.
 
 ## Other
 - [Diagram](https://diagram.com/) - Magical new ways to design products.
