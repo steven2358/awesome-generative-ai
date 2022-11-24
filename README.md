@@ -103,6 +103,7 @@
 - [Lexica](https://lexica.art/) - Stable Diffusion search engine.
 - [Libraire](https://libraire.ai/) - The largest library of AI-generated images.
 - [KREA](https://www.krea.ai/) - Explore millions of AI generated images and create collections of prompts. Featuring Stable Diffusion generations.
+- [OpenArt](https://openart.ai/) - Search 10M+ of prompts, and generate AI art via Stable Diffusion, DALL·E 2.
 
 ### Stable Diffusion resources
 - [Stable Diffusion Database](https://diffusiondb.com/) - A list of all public apps, developer tools, guides and plugins for Stable Diffusion. [Airtable version](https://airtable.com/shr0HlBwbw3nZ8Ht3/tblxOCylXV8ynh7ti).
