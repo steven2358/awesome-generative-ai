@@ -16,7 +16,7 @@
 ## Recommended reading
 
 - [Generative AI: A Creative New World](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/) - By Sonya Huang, Pat Grady and GPT-3, September 19, 2022.
-- [A Coming-Out Party for Generative A.I., Silicon Valley’s New Craze](https://www.nytimes.com/2022/10/21/technology/generative-ai.html) - New York Times, October 21, 2022.
+- [A Coming-Out Party for Generative A.I., Silicon Valley's New Craze](https://www.nytimes.com/2022/10/21/technology/generative-ai.html) - New York Times, October 21, 2022.
 - [AI's New Creative Streak Sparks a Silicon Valley Gold Rush](https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/) - Wired, October 27, 2022.
 
 ### Milestones
