@@ -104,10 +104,13 @@
 - [KREA](https://www.krea.ai/) - Explore millions of AI generated images and create collections of prompts. Featuring Stable Diffusion generations.
 - [OpenArt](https://openart.ai/) - Search 10M+ of prompts, and generate AI art via Stable Diffusion, DALL·E 2.
 
+### Model libraries
+- [Civitai](https://civitai.com/) - Community driven AI model sharing tool.
+- [Stable Diffusion Models](https://rentry.org/sdmodels) - [NSFW] A comprehensive list of Stable Diffusion checkpoints on rentry.org.
+
 ### Stable Diffusion resources
 - [Stable Horde](https://stablehorde.net/) - A crowdsourced distributed cluster of Stable Diffusion workers.
 - [Stable Diffusion Database](https://diffusiondb.com/) - A list of all public apps, developer tools, guides and plugins for Stable Diffusion. [Airtable version](https://airtable.com/shr0HlBwbw3nZ8Ht3/tblxOCylXV8ynh7ti).
-- [Stable Diffusion Models](https://rentry.org/sdmodels) - [NSFW] A comprehensive list of Stable Diffusion checkpoints on rentry.org.
 - [PublicPrompts](https://publicprompts.art/) - A collection of free prompts for Stable Diffusion.
 - [Stableboost](https://stableboost.ai/) - Stableboost is a Stable Diffusion WebUI that lets you quickly generate a lot of images so you can find the perfect ones.
 
