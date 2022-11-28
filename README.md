@@ -1,4 +1,4 @@
-# Awesome Generative AI
+# Awesome Generative AI [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > A curated list of modern Generative Artificial Intelligence projects and services.
 
@@ -19,7 +19,7 @@
 - [A Coming-Out Party for Generative A.I., Silicon Valley’s New Craze](https://www.nytimes.com/2022/10/21/technology/generative-ai.html) - New York Times, October 21, 2022.
 - [AI's New Creative Streak Sparks a Silicon Valley Gold Rush](https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/) - Wired, October 27, 2022.
 
-## Milestones
+### Milestones
 - [Stable Diffusion Public Release](https://stability.ai/blog/stable-diffusion-public-release) - Announcement on the Stable Diffusion blog, 22 August, 2022.
 - [DALL·E 2](https://openai.com/dall-e-2/) - Announcement on the OpenAI blog, April 6, 2022.
 - [Did a Person Write This Headline, or a Machine?](https://www.wired.com/story/ai-text-generator-gpt-3-learning-language-fitfully/) - Article on GTP-3, Wired, July 22, 2020.
@@ -46,7 +46,7 @@
 - [Hypotenuse AI](https://www.hypotenuse.ai/) - Turn a few keywords into original, insightful articles, product descriptions and social media copy with AI copywriting.
 - [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
 - [Elicit](https://elicit.org/) - Elicit uses language models to help you automate research workflows, like parts of literature review.
-- [genei](https://www.genei.io/) - Summarise academic articles in seconds and save 80% on your research times 
+- [genei](https://www.genei.io/) - Summarise academic articles in seconds and save 80% on your research times.
 - [Lavender](https://www.lavender.ai/) - Lavender email assistent helps you get more replies in less time.
 - [Lex](https://lex.page/) - A word processor with artificial intelligence baked in, so you can write faster.
 - [Jenni](https://jenni.ai/) - Jenni is the ultimate writing assistant that saves you hours of ideation and writing time.
@@ -151,9 +151,3 @@
 - [Startups - @builtwithgenai](https://airtable.com/shr6nfE9FOHp17IjG/tblL3ekHZfkm3p6YT) - An Airtable list by [@builtwithgenai](https://twitter.com/builtwithgenai).
 - [The Generative AI Index](https://airtable.com/shrH4REIgddv8SzUo/tbl5dsXdD1P859QLO) - An Airtable list by [Scale Venture Partners](https://www.scalevp.com/generative-ai).
 - [Generative AI for Games](https://twitter.com/gwertz/status/1593268767269670912) - A market map of companies working on Generative AI for games, by a16z.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Steven Van Vaerenbergh](https://github.com/steven2358) has waived all copyright and related or neighboring rights to this work.
