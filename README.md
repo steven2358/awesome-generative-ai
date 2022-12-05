@@ -21,6 +21,7 @@
 - [How Large Language Models Will Transform Science, Society, and AI](https://hai.stanford.edu/news/how-large-language-models-will-transform-science-society-and-ai) - By Alex Tamkin and Deep Ganguli, February 5, 2021.
 
 ### Milestones
+- [ChatGPT](https://openai.com/blog/chatgpt/) - Announcement on the OpenAI blog, November 30, 2022.
 - [Stable Diffusion Public Release](https://stability.ai/blog/stable-diffusion-public-release) - Announcement on the Stable Diffusion blog, 22 August, 2022.
 - [DALL·E 2](https://openai.com/blog/dall-e-2/) - Announcement on the OpenAI blog, April 6, 2022.
 - [OpenAI API](https://openai.com/blog/openai-api/) - Announcement on the OpenAI blog, June 11, 2020.
@@ -32,6 +33,7 @@
 - [Gopher](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - Gopher by DeepMind is a 280 billion parameter language model.
 - [OPT](https://huggingface.co/facebook/opt-350m) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. [Announcement](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/).
 - [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming languages.
+- [ChatGPT](https://chat.openai.com/chat) - ChatGPT by OpenAI is a large language model that interacts in a conversational way.
 
 ### Services
 - [Compose AI](https://www.compose.ai/) - Compose AI is a free Chrome extension that cuts your writing time by 40% with AI-powered autocompletion.
