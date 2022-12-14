@@ -53,6 +53,7 @@
 - [LAIKA](https://www.writewithlaika.com/) - LAIKA trains an artificial intelligence on your own writing to create a personalised creative partner-in-crime.
 - [Mem](https://mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
 - [QuillBot](https://quillbot.com) - AI-powered paraphrasing tool.
+- [Postwise](https://postwise.ai/) - Write tweets, schedule posts and grow your following using AI.
 
 ### Academia
 - [Elicit](https://elicit.org/) - Elicit uses language models to help you automate research workflows, like parts of literature review.
@@ -145,6 +146,8 @@
 - [Metaphor](https://metaphor.systems/) - Language model powered search.
 - [Scale Spellbook](https://scale.com/spellbook) - Build, compare, and deploy large language model apps with Scale Spellbook.
 - [Scenario AI](https://www.scenario.gg/) - AI-generated gaming assets.
+- [Brandmark](https://brandmark.io/) - AI-based logo design tool.
+- [Hello](https://sayhello.so/) - Search engine for developers.
 
 ## More lists
 - [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html) - A large list of Google Colab notebooks for generative AI, by [@pharmapsychotic](https://twitter.com/pharmapsychotic).
