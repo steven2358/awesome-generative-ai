@@ -53,6 +53,7 @@
 - [Mem](https://mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
 - [QuillBot](https://quillbot.com) - AI-powered paraphrasing tool.
 - [Postwise](https://postwise.ai/) - Write tweets, schedule posts and grow your following using AI.
+- [EmailTriager](https://www.emailtriager.com/) - Use AI to automatically draft email replies in the background.
 
 ### Academia
 - [Elicit](https://elicit.org/) - Elicit uses language models to help you automate research workflows, like parts of literature review.
