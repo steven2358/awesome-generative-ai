@@ -149,6 +149,7 @@
 - [Scenario AI](https://www.scenario.gg/) - AI-generated gaming assets.
 - [Brandmark](https://brandmark.io/) - AI-based logo design tool.
 - [Hello](https://sayhello.so/) - Search engine for developers.
+- [Perplexity AI](https://www.perplexity.ai/) - AI powered search tools.
 
 ## More lists
 - [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html) - A large list of Google Colab notebooks for generative AI, by [@pharmapsychotic](https://twitter.com/pharmapsychotic).
