@@ -54,7 +54,7 @@
 - [QuillBot](https://quillbot.com) - AI-powered paraphrasing tool.
 - [Postwise](https://postwise.ai/) - Write tweets, schedule posts and grow your following using AI.
 - [EmailTriager](https://www.emailtriager.com/) - Use AI to automatically draft email replies in the background.
-- [Copysmith](AI content creation solution for Enterprise & eCommerce) - AI content creation solution for Enterprise & eCommerce.
+- [Copysmith](https://copysmith.ai/) - AI content creation solution for Enterprise & eCommerce.
 
 ### Academia
 - [Elicit](https://elicit.org/) - Elicit uses language models to help you automate research workflows, like parts of literature review.
