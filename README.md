@@ -151,6 +151,7 @@
 - [Brandmark](https://brandmark.io/) - AI-based logo design tool.
 - [Hello](https://sayhello.so/) - Search engine for developers.
 - [Perplexity AI](https://www.perplexity.ai/) - AI powered search tools.
+- [Teleprompter](https://github.com/danielgross/teleprompter) - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
 
 ## More lists
 - [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html) - A large list of Google Colab notebooks for generative AI, by [@pharmapsychotic](https://twitter.com/pharmapsychotic).
