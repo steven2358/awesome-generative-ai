@@ -73,6 +73,7 @@
 - [Pygma](https://pygma.app/) - Turn Figma designs into high-quality code.
 - [Kite](https://www.kite.com/) - Kite adds AI powered code completions to your code editor, giving developers superpowers.
 - [MutableAI](https://mutable.ai/) - AI Accelerated Software Development.
+- [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 
 ## Image
 
