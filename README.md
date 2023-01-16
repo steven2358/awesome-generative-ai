@@ -55,6 +55,7 @@
 - [Postwise](https://postwise.ai/) - Write tweets, schedule posts and grow your following using AI.
 - [EmailTriager](https://www.emailtriager.com/) - Use AI to automatically draft email replies in the background.
 - [Copysmith](https://copysmith.ai/) - AI content creation solution for Enterprise & eCommerce.
+- [Character.AI](https://character.ai/) - Character.AI lets you create Characters and talk to them.
 
 ### Academia
 - [Elicit](https://elicit.org/) - Elicit uses language models to help you automate research workflows, like parts of literature review.
