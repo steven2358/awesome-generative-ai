@@ -33,6 +33,11 @@
 - [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming languages.
 - [ChatGPT](https://chat.openai.com/chat) - ChatGPT by OpenAI is a large language model that interacts in a conversational way.
 
+### Search engines
+- [Perplexity AI](https://www.perplexity.ai/) - AI powered search tools.
+- [Metaphor](https://metaphor.systems/) - Language model powered search.
+- [Phind](https://phind.com/) - AI-based search engine.
+
 ### Services
 - [Compose AI](https://www.compose.ai/) - Compose AI is a free Chrome extension that cuts your writing time by 40% with AI-powered autocompletion.
 - [Rytr](https://rytr.me/) - Rytr is an AI writing assistant that helps you create high-quality content.
@@ -149,12 +154,9 @@
 - [Have I Been Trained?](https://haveibeentrained.com/) - Check if your image has been used to train popular AI art models.
 - [AI Dungeon](https://aidungeon.io/) - A text-based adventure-story game you direct (and star in) while the AI brings it to life.
 - [Clickable](https://www.clickable.so/) - Generate ads in seconds with AI. Beautiful, brand-consistent, and highly converting ads for all marketing channels.
-- [Metaphor](https://metaphor.systems/) - Language model powered search.
 - [Scale Spellbook](https://scale.com/spellbook) - Build, compare, and deploy large language model apps with Scale Spellbook.
 - [Scenario AI](https://www.scenario.gg/) - AI-generated gaming assets.
 - [Brandmark](https://brandmark.io/) - AI-based logo design tool.
-- [Hello](https://sayhello.so/) - Search engine for developers.
-- [Perplexity AI](https://www.perplexity.ai/) - AI powered search tools.
 - [Teleprompter](https://github.com/danielgross/teleprompter) - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
 
 ## More lists
