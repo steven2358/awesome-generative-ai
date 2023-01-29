@@ -69,6 +69,7 @@
 - [Explainpaper](https://www.explainpaper.com/) - A better way to read academic papers. Upload a paper, highlight confusing text, get an explanation.
 - [Galactica](https://galactica.org/) - A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more. [Model API](https://github.com/paperswithcode/galai).
 - [GPTZero](https://gptzero.me/) - A tailored solution for educators to responsibly adopt AI-technologies in schools.
+- [Consensus](https://consensus.app/search/) - Consensus is a search engine that uses AI to find answers in scientific research.
 
 ## Code
 - [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
