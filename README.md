@@ -62,6 +62,7 @@
 - [Copysmith](https://copysmith.ai/) - AI content creation solution for Enterprise & eCommerce.
 - [Character.AI](https://character.ai/) - Character.AI lets you create Characters and chat to them.
 - [Sybill](https://www.sybill.ai/) - Sybill generates summaries of sales calls, including next steps, pain points and areas of interest, by combining transcript and emotion-based insights.
+- [Taskade](https://www.taskade.com/) - Outline tasks, notes, and generated structured lists and mind maps with Taskade AI.
 
 ### Academia
 - [Elicit](https://elicit.org/) - Elicit uses language models to help you automate research workflows, like parts of literature review.
