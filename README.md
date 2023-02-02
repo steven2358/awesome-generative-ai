@@ -175,3 +175,4 @@
 ### Lists on ChatGPT
 - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - A curated list of awesome tools, demos, docs for ChatGPT and GPT-3, by [@jordn](https://github.com/jordn).
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - A collection of prompt examples to be used with the ChatGPT model.
+- [FlowGPT](https://flowgpt.com/) - Amplify your workflow with best prompts.
