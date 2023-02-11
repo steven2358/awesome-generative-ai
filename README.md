@@ -2,6 +2,12 @@
 
 > A curated list of modern Generative Artificial Intelligence projects and services.
 
+Generative Artificial Intelligence is a type of AI that creates new content such as images, sounds, and texts by using machine learning algorithms that are trained on large amounts of data. Unlike other forms of AI, generative AI is capable of creating unique and previously unseen outputs such as photorealistic images, computer-generated art, music, and writing. These outputs often have their own unique style and can even be hard to distinguish from human-created works. Generative AI has a wide range of applications in fields such as of art, entertainment, marketing, academia, and computer science.
+
+This list provides an overview of popular generative AI models, apps, and services, providing insights into its capabilities and how it is being used in various industries.
+
+Contributions are welcome. Add links through [pull requests](https://github.com/steven2358/awesome-generative-ai/pulls) or create an [issue](https://github.com/steven2358/awesome-generative-ai/issues) to start a discussion.
+
 ## Contents
 - [Recommended reading](#recommended-reading)
 - [Text](#text)
