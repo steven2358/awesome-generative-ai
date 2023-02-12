@@ -155,6 +155,7 @@ Contributions are welcome. Add links through [pull requests](https://github.com/
 ### Music
 - [Harmonai](https://www.harmonai.org/) - We are a community-driven organization releasing open-source generative audio tools to make music production more accessible and fun for everyone.
 - [Mubert](https://mubert.com/) - A royalty-free music ecosystem for content creators, brands and developers.
+- [MusicLM](https://google-research.github.io/seanet/musiclm/examples/) - A model by Google Research for generating high-fidelity music from text descriptions.
 
 ## Other
 - [Diagram](https://diagram.com/) - Magical new ways to design products.
