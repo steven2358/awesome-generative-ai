@@ -25,6 +25,7 @@ Contributions are welcome. Add links through [pull requests](https://github.com/
 - [How Large Language Models Will Transform Science, Society, and AI](https://hai.stanford.edu/news/how-large-language-models-will-transform-science-society-and-ai) - Article summarizing the capabilities and limitations of the GPT-3 model, and its potential impact on society. By Alex Tamkin and Deep Ganguli, February 5, 2021.
 
 ### Milestones
+- [Bing Search](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) - Microsoft announces a new version of its search engine Bing, powered by GPT-4. Microsoft blog, February 7, 2023.
 - [ChatGPT](https://openai.com/blog/chatgpt/) - Announcement of ChatGPT, a conversational model trained to answer follow-up questions, admit mistakes, challenge incorrect premises, and reject inappropriate requests. OpenAI blog, November 30, 2022.
 - [Stable Diffusion Public Release](https://stability.ai/blog/stable-diffusion-public-release) - Announcement of the public release of Stable Diffusion, an AI-based image generation model trained on a broad internet scrape and licensed under a Creative ML OpenRAIL-M license. Stable Diffusion blog, 22 August, 2022.
 - [DALL·E 2](https://openai.com/blog/dall-e-2/) - Announcement of the release of DALL·E 2, an advanced image generation system with improved resolution, expanded image creation capabilities, and various safety mitigations. OpenAI blog, April 6, 2022.
