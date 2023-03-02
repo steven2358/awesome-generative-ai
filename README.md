@@ -23,7 +23,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [How Large Language Models Will Transform Science, Society, and AI](https://hai.stanford.edu/news/how-large-language-models-will-transform-science-society-and-ai) - Article summarizing the capabilities and limitations of the GPT-3 model, and its potential impact on society. By Alex Tamkin and Deep Ganguli, February 5, 2021.
 
 ### Milestones
-- [Bing Search](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) - Microsoft announces a new version of its search engine Bing, powered by GPT-4. Microsoft blog, February 7, 2023.
+- [Bing Search](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) - Microsoft announces a new version of its search engine Bing, powered by a next-generation OpenAI model. Microsoft blog, February 7, 2023.
 - [ChatGPT](https://openai.com/blog/chatgpt/) - Announcement of ChatGPT, a conversational model trained to answer follow-up questions, admit mistakes, challenge incorrect premises, and reject inappropriate requests. OpenAI blog, November 30, 2022.
 - [Stable Diffusion Public Release](https://stability.ai/blog/stable-diffusion-public-release) - Announcement of the public release of Stable Diffusion, an AI-based image generation model trained on a broad internet scrape and licensed under a Creative ML OpenRAIL-M license. Stable Diffusion blog, 22 August, 2022.
 - [DALL·E 2](https://openai.com/blog/dall-e-2/) - Announcement of the release of DALL·E 2, an advanced image generation system with improved resolution, expanded image creation capabilities, and various safety mitigations. OpenAI blog, April 6, 2022.
@@ -36,7 +36,11 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [Gopher](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - Gopher by DeepMind is a 280 billion parameter language model.
 - [OPT](https://huggingface.co/facebook/opt-350m) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. [Announcement](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/). [OPT-175B text generation](https://opt.alpa.ai/) hosted by Alpa.
 - [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming languages.
+
+### Chatbots
 - [ChatGPT](https://chat.openai.com/chat) - ChatGPT by OpenAI is a large language model that interacts in a conversational way.
+- [Bing Chat](https://www.bing.com/chat) - A conversational AI language model powered by Microsoft Bing.
+- [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
 
 ### Search engines
 - [Perplexity AI](https://www.perplexity.ai/) - AI powered search tools.
@@ -44,34 +48,45 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [Phind](https://phind.com/) - AI-based search engine.
 - [You.com](https://you.com/) - A search engine built on AI that provides users with a customized search experience while keeping their data 100% private.
 
-### Services
+### Writing assistants
+- [Jasper](https://www.jasper.ai/) - Create content faster with artificial intelligence.
 - [Compose AI](https://www.compose.ai/) - Compose AI is a free Chrome extension that cuts your writing time by 40% with AI-powered autocompletion.
 - [Rytr](https://rytr.me/) - Rytr is an AI writing assistant that helps you create high-quality content.
 - [wordtune](https://www.wordtune.com/) - Personal writing assistant.
-- [OthersideAI](https://www.othersideai.com/) - AI-powered writing assistant.
+- [HyperWrite](https://hyperwriteai.com/) - HyperWrite helps you write with confidence and get your work done faster from idea to final draft.
 - [Moonbeam](https://www.gomoonbeam.com/) - Better blogs in a fraction of the time.
 - [copy.ai](https://www.copy.ai/) - Write better marketing copy and content with AI.
-- [Jasper](https://www.jasper.ai/) - Create content faster with artificial intelligence.
 - [Anyword](https://anyword.com/) - Anyword's AI writing assistant generates effective copy for anyone.
-- [Cogram](https://www.cogram.com/) - Cogram takes automatic notes in virtual meetings and identifies action items.
 - [Contenda](https://contenda.co/) - Create the content your audience wants, from content you've already made.
-- [Hypotenuse AI](https://www.hypotenuse.ai/) - Turn a few keywords into original, insightful articles, product descriptions and social media copy with AI copywriting.
-- [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
+- [Hypotenuse AI](https://www.hypotenuse.ai/) - Turn a few keywords into original, insightful articles, product descriptions and social media copy.
 - [Lavender](https://www.lavender.ai/) - Lavender email assistent helps you get more replies in less time.
 - [Lex](https://lex.page/) - A word processor with artificial intelligence baked in, so you can write faster.
 - [Jenni](https://jenni.ai/) - Jenni is the ultimate writing assistant that saves you hours of ideation and writing time.
 - [LAIKA](https://www.writewithlaika.com/) - LAIKA trains an artificial intelligence on your own writing to create a personalised creative partner-in-crime.
-- [Mem](https://mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
 - [QuillBot](https://quillbot.com) - AI-powered paraphrasing tool.
 - [Postwise](https://postwise.ai/) - Write tweets, schedule posts and grow your following using AI.
-- [EmailTriager](https://www.emailtriager.com/) - Use AI to automatically draft email replies in the background.
 - [Copysmith](https://copysmith.ai/) - AI content creation solution for Enterprise & eCommerce.
-- [Character.AI](https://character.ai/) - Character.AI lets you create Characters and chat to them.
-- [Sybill](https://www.sybill.ai/) - Sybill generates summaries of sales calls, including next steps, pain points and areas of interest, by combining transcript and emotion-based insights.
-- [Taskade](https://www.taskade.com/) - Outline tasks, notes, generated structured lists and mind maps with Taskade AI.
+
+### ChatGPT extensions
+- [WebChatGPT](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn) - Augment your ChatGPT prompts with relevant results from the web.
 - [GPT for Sheets and Docs](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654) - ChatGPT extension for Google Sheets and Google Docs.
-- [HyperWrite](https://hyperwriteai.com/) - HyperWrite helps you write with confidence and get your work done faster from idea to final draft.
-- [AI Poem Generator](https://www.aipoemgenerator.org) - AI Poem Generator writes a beautiful rhyming poem for you on any subject, given a text prompt.
+- [YouTube Summary with ChatGPT](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) - Use ChatGPT to summarize YouTube videos.
+- [ChatGPT Prompt Genius](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo) - Discover, share, import, and use the best prompts for ChatGPT & save your chat history locally.
+- [ChatGPT for Search Engines](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban) - Display ChatGPT response alongside Google, Bing, and DuckDuckGo search results.
+- [ShareGPT](https://sharegpt.com/) - Share your ChatGPT conversations and explore conversations shared by others.
+- [Merlin](https://merlin.foyer.work/) - ChatGPT Plus extension on all websites.
+- [ChatGPT Writer](https://chatgptwriter.ai/) - Generate entire emails and messages using ChatGPT AI.
+- [ChatGPT for Jupyter](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - Add various helper functions in Jupyter Notebooks and Jupyter Lab, powered by ChatGPT.
+- [editGPT](https://www.editgpt.app/) - Easily proofread, edit, and track changes to your content in chatGPT.
+
+### Productivity platforms
+- [Mem](https://mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
+- [Taskade](https://www.taskade.com/) - Outline tasks, notes, generated structured lists and mind maps with Taskade AI.
+- [Notion AI](https://www.notion.so/product/ai) - Write better, more efficient notes and docs.
+
+### Meeting assistants
+- [Cogram](https://www.cogram.com/) - Cogram takes automatic notes in virtual meetings and identifies action items.
+- [Sybill](https://www.sybill.ai/) - Sybill generates summaries of sales calls, including next steps, pain points and areas of interest, by combining transcript and emotion-based insights.
 
 ### Academia
 - [Elicit](https://elicit.org/) - Elicit uses language models to help you automate research workflows, like parts of literature review.
@@ -80,6 +95,13 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [Galactica](https://galactica.org/) - A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more. [Model API](https://github.com/paperswithcode/galai).
 - [GPTZero](https://gptzero.me/) - A tailored solution for educators to responsibly adopt AI-technologies in schools.
 - [Consensus](https://consensus.app/search/) - Consensus is a search engine that uses AI to find answers in scientific research.
+
+### Other text generators
+- [EmailTriager](https://www.emailtriager.com/) - Use AI to automatically draft email replies in the background.
+- [AI Poem Generator](https://www.aipoemgenerator.org) - AI Poem Generator writes a beautiful rhyming poem for you on any subject, given a text prompt.
+
+### Developer tools
+- [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
 
 ## Code
 - [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
