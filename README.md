@@ -41,6 +41,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [ChatGPT](https://chat.openai.com/chat) - ChatGPT by OpenAI is a large language model that interacts in a conversational way.
 - [Bing Chat](https://www.bing.com/chat) - A conversational AI language model powered by Microsoft Bing.
 - [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
+- [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
 
 ### Search engines
 - [Perplexity AI](https://www.perplexity.ai/) - AI powered search tools.
