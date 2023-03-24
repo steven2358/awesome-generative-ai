@@ -41,9 +41,9 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 ### Chatbots
 - [ChatGPT](https://chat.openai.com/chat) - ChatGPT by OpenAI is a large language model that interacts in a conversational way.
 - [Bing Chat](https://www.bing.com/chat) - A conversational AI language model powered by Microsoft Bing.
+- [Bard](https://bard.google.com) - An experimental AI chatbot by Google, powered by the LaMDA model.
 - [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
-- [Bard](https://bard.google.com) - Chatbot from Google based on LaMDA, a transformer-based LLM.
 
 ### Search engines
 - [Perplexity AI](https://www.perplexity.ai/) - AI powered search tools.
