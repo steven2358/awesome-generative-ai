@@ -43,6 +43,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [Bing Chat](https://www.bing.com/chat) - A conversational AI language model powered by Microsoft Bing.
 - [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
+- [Bard](https://bard.google.com) - Chatbot from Google based on LaMDA, a transformer-based LLM.
 
 ### Search engines
 - [Perplexity AI](https://www.perplexity.ai/) - AI powered search tools.
