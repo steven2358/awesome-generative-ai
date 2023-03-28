@@ -195,7 +195,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [AI Dungeon](https://aidungeon.io/) - A text-based adventure-story game you direct (and star in) while the AI brings it to life.
 - [Clickable](https://www.clickable.so/) - Generate ads in seconds with AI. Beautiful, brand-consistent, and highly converting ads for all marketing channels.
 - [Scale Spellbook](https://scale.com/spellbook) - Build, compare, and deploy large language model apps with Scale Spellbook.
-- [Scenario AI](https://www.scenario.gg/) - AI-generated gaming assets.
+- [Scenario](https://www.scenario.com/) - AI-generated gaming assets.
 - [Brandmark](https://brandmark.io/) - AI-based logo design tool.
 - [Teleprompter](https://github.com/danielgross/teleprompter) - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
 - [Otter.ai](https://otter.ai/) - A meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries.
