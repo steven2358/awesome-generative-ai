@@ -81,6 +81,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [ChatGPT Writer](https://chatgptwriter.ai/) - Generate entire emails and messages using ChatGPT AI.
 - [ChatGPT for Jupyter](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - Add various helper functions in Jupyter Notebooks and Jupyter Lab, powered by ChatGPT.
 - [editGPT](https://www.editgpt.app/) - Easily proofread, edit, and track changes to your content in chatGPT.
+- [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [Source code](https://github.com/mckaywrigley/chatbot-ui).
 
 ### Productivity platforms
 - [Mem](https://mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
@@ -216,4 +217,5 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 ### Lists on ChatGPT
 - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - A curated list of awesome tools, demos, docs for ChatGPT and GPT-3, by [@jordn](https://github.com/jordn).
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - A collection of prompt examples to be used with the ChatGPT model.
-- [FlowGPT](https://flowgpt.com/) - Amplify your workflow with best prompts.
+- [FlowGPT](https://flowgpt.com/) - Amplify your workflow with the best prompts.
+- [ChatGPT Prompts for Data Science](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) - A repository of useful data science prompts for ChatGPT.
