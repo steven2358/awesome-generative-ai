@@ -202,6 +202,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [Brandmark](https://brandmark.io/) - AI-based logo design tool.
 - [Teleprompter](https://github.com/danielgross/teleprompter) - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
 - [Otter.ai](https://otter.ai/) - A meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries.
+- [Gamma](https://gamma.app/) - Create beautiful presentations and webpages with none of the formatting and design work.
 
 ## More lists
 - [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html) - A large list of Google Colab notebooks for generative AI, by [@pharmapsychotic](https://twitter.com/pharmapsychotic).
