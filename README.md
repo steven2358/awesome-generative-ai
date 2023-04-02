@@ -108,6 +108,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 
 ### Developer tools
 - [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
+- [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
 
 ## Code
 - [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
