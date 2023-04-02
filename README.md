@@ -109,6 +109,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 ### Developer tools
 - [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
 - [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
+- [gpt4all](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.
 
 ## Code
 - [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
