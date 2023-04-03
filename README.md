@@ -122,7 +122,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [Debuild](https://debuild.app/) - AI-powered low-code tool for web apps.
 - [AI2sql](https://www.ai2sql.io/) - With AI2sql, engineers and non-engineers can easily write efficient, error-free SQL queries without knowing SQL.
 - [Pygma](https://pygma.app/) - Turn Figma designs into high-quality code.
-- [Kite](https://www.kite.com/) - Kite adds AI powered code completions to your code editor, giving developers superpowers.
+- [CodiumAI](https://www.codium.ai/) - With CodiumAI, you get non-trivial tests suggested right inside your IDE, so you stay confident when you push.
 - [MutableAI](https://mutable.ai/) - AI Accelerated Software Development.
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 
