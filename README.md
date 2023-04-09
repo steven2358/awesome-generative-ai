@@ -178,6 +178,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [Synthesia](https://www.synthesia.io/) - Create videos from plain text in minutes.
 - [Rephrase AI](https://www.rephrase.ai/) - Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies.
 - [Hour One](https://hourone.ai/) -  Turn text into video, featuring virtual presenters, automatically.
+- [D-ID](https://www.d-id.com/) - Create and interact with talking avatars at the touch of a button.
 
 ## Audio
 
