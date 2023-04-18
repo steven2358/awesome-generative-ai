@@ -100,6 +100,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [Mem](https://mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
 - [Taskade](https://www.taskade.com/) - Outline tasks, notes, generated structured lists and mind maps with Taskade AI.
 - [Notion AI](https://www.notion.so/product/ai) - Write better, more efficient notes and docs.
+- [Nekton AI](https://nekton.ai) - Automate your workflows with AI. Describe your workflows step by step in plain language. Nekton will convert those steps to code using AI and run it in the cloud. Use Nekton to automate the routine processes for yourself and your team without needing to code or maintain infrastructure.
 
 ### Meeting assistants
 
