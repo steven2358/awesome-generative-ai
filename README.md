@@ -94,6 +94,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [ChatGPT for Jupyter](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - Add various helper functions in Jupyter Notebooks and Jupyter Lab, powered by ChatGPT.
 - [editGPT](https://www.editgpt.app/) - Easily proofread, edit, and track changes to your content in chatGPT.
 - [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [Source code](https://github.com/mckaywrigley/chatbot-ui).
+- [Forefront](https://www.forefront.ai/) - A Better ChatGPT Experience.
 
 ### Productivity platforms
 
