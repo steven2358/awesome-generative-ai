@@ -129,6 +129,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
 - [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
 - [gpt4all](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.
+- [LMQL](https://lmql.ai/) - LMQL is a query language for large language models.
 
 ## Code
 
