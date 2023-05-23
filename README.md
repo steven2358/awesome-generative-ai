@@ -55,7 +55,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation.
 
 ### Search engines
-
+- [GoodListen](https://goodlisten.co/) - Find your next Podcast with the help of AI. AI-driven audio comprehension app.
 - [Perplexity AI](https://www.perplexity.ai/) - AI powered search tools.
 - [Metaphor](https://metaphor.systems/) - Language model powered search.
 - [Phind](https://phind.com/) - AI-based search engine.
