@@ -240,6 +240,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [Gamma](https://gamma.app/) - Create beautiful presentations and webpages with none of the formatting and design work.
 - [Learn Prompting](https://learnprompting.org/) - A free, open source course on communicating with artificial intelligence.
 - [FinChat](https://finchat.io/) - Using AI, FinChat generates answers to questions about public companies and investors.
+- [Arize-Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment. Monitor and fine tune LLM, CV and Tabular Models.
 
 ## More lists
 
