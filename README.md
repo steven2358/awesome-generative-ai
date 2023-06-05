@@ -61,6 +61,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [Metaphor](https://metaphor.systems/) - Language model powered search.
 - [Phind](https://phind.com/) - AI-based search engine.
 - [You.com](https://you.com/) - A search engine built on AI that provides users with a customized search experience while keeping their data 100% private.
+- [Consensus](https://consensus.app/) - AI-powered search engine with scientific-evidence based search results.
 
 ### Writing assistants
 
@@ -81,6 +82,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [QuillBot](https://quillbot.com) - AI-powered paraphrasing tool.
 - [Postwise](https://postwise.ai/) - Write tweets, schedule posts and grow your following using AI.
 - [Copysmith](https://copysmith.ai/) - AI content creation solution for Enterprise & eCommerce.
+- [NeuronWriter](https://www.neuronwriter.com/) - AI writer and NLP content editor with SEO focus.
 
 ### ChatGPT extensions
 
@@ -258,7 +260,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guide and resources for prompt engineering.
 - [Molecular design](https://github.com/AspirinCode/papers-for-molecular-design-using-DL) - List of molecular design using Generative AI and Deep Learning.
 - [Open LLMs](https://github.com/eugeneyan/open-llms) - A list of open LLMs available for commercial use.
-- [Ai Finesse](https://aifinesse.com/) - Curated lists of AI Apps & models with *scientific* links and useful information.
+- [Ai Finesse](https://www.aifinesse.com/) - Curated lists of AI Applications & AI Models with *scientific* links and useful information.
 
 ### Lists on ChatGPT
 
