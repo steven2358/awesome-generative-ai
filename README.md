@@ -258,6 +258,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guide and resources for prompt engineering.
 - [Molecular design](https://github.com/AspirinCode/papers-for-molecular-design-using-DL) - List of molecular design using Generative AI and Deep Learning.
 - [Open LLMs](https://github.com/eugeneyan/open-llms) - A list of open LLMs available for commercial use.
+- [Ai Finesse](https://aifinesse.com/) - Curated lists of AI Apps & models with *scientific* links and useful information.
 
 ### Lists on ChatGPT
 
