@@ -57,6 +57,8 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 
 ### Search engines
 
+- [Deft](https://shopdeft.com/) - The fastest way to shop online. Search with natural language,
+  images, or both across ecommerce sites.
 - [Perplexity AI](https://www.perplexity.ai/) - AI powered search tools.
 - [Metaphor](https://metaphor.systems/) - Language model powered search.
 - [Phind](https://phind.com/) - AI-based search engine.
