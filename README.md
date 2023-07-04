@@ -180,6 +180,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [Lensa](https://prisma-ai.com/lensa) - An all-in-one image editing app that includes the generation of personalized avatars using Stable Diffusion.
 - [RunDiffusion](https://rundiffusion.com/) - Cloud-based workspace for creating AI-generated art.
 - [ClipDrop](https://clipdrop.co/) - Create professional visuals without a photo studio, powered by
+- [joliGEN](https://github.com/jolibrain/joliGEN) - Generative AI Image Toolset with GANs and Diffusion for Real-World Applications.
 
 ### Image libraries
 
