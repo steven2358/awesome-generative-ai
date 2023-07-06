@@ -246,7 +246,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [Gamma](https://gamma.app/) - Create beautiful presentations and webpages with none of the formatting and design work.
 - [FinChat](https://finchat.io/) - Using AI, FinChat generates answers to questions about public companies and investors.
 
-## Learning resoures
+## Learning resources
 
 - [Learn Prompting](https://learnprompting.org/) - A free, open source course on communicating with artificial intelligence.
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guide and resources for prompt engineering.
