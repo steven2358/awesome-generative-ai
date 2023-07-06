@@ -15,6 +15,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [Video](#video)
 - [Audio](#audio)
 - [Other](#other)
+- [Learning resources](#learning-resources)
 - [More lists](#more-lists)
 - [Autonomous agents](#autonomous-agents)
 
@@ -243,8 +244,13 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [Brandmark](https://brandmark.io/) - AI-based logo design tool.
 - [Teleprompter](https://github.com/danielgross/teleprompter) - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
 - [Gamma](https://gamma.app/) - Create beautiful presentations and webpages with none of the formatting and design work.
-- [Learn Prompting](https://learnprompting.org/) - A free, open source course on communicating with artificial intelligence.
 - [FinChat](https://finchat.io/) - Using AI, FinChat generates answers to questions about public companies and investors.
+
+## Learning resoures
+
+- [Learn Prompting](https://learnprompting.org/) - A free, open source course on communicating with artificial intelligence.
+- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guide and resources for prompt engineering.
+- [ChatGPT prompt engineering for developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - A short course by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI).
 
 ## More lists
 
@@ -257,7 +263,6 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [GPT-3 Demo](https://gpt3demo.com/) - Showcase with GPT-3 examples, demos, apps, showcase, and NLP use-cases.
 - [GPT-4 Demo](https://gpt4demo.com/) - GPT-4 apps and use-cases.
 - [The Generative AI Landscape](https://github.com/ai-collection/ai-collection) - A Collection of Awesome Generative AI Applications.
-- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guide and resources for prompt engineering.
 - [Molecular design](https://github.com/AspirinCode/papers-for-molecular-design-using-DL) - List of molecular design using Generative AI and Deep Learning.
 - [Open LLMs](https://github.com/eugeneyan/open-llms) - A list of open LLMs available for commercial use.
 
