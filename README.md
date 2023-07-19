@@ -227,7 +227,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [VALL-E X](https://vallex-demo.github.io/) - A cross-lingual neural codec language model for cross-lingual speech synthesis.
 - [TorToiSe](https://github.com/neonbjb/tortoise-tts) - A multi-voice text-to-speech system trained with an emphasis on quality. #opensource
 - [Bark](https://github.com/suno-ai/bark) - A transformer-based text-to-audio model. #opensource
-- [AI Voice Generator](https://www.aivoicegenerator.org) - A free online AI text-to-speech generator with natural, realistic voices
+- [AI Voice Generator](https://www.aivoicegenerator.org) - A free online AI text-to-speech generator with natural, realistic voices.
 
 ### Music
 
