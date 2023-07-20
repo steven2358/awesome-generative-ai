@@ -54,7 +54,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [Bard](https://bard.google.com) - An experimental AI chatbot by Google, powered by the LaMDA model.
 - [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
-- [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation.
+- [WriteSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation.
 
 ### Search engines
 
