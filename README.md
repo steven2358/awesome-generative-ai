@@ -18,6 +18,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [Learning resources](#learning-resources)
 - [More lists](#more-lists)
 - [Autonomous agents](#autonomous-agents)
+- [Finance](https://github.com/GenerativeAI4Finance)
 
 ## Recommended reading
 
@@ -136,6 +137,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
 - [gpt4all](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.
 - [LMQL](https://lmql.ai/) - LMQL is a query language for large language models.
+- [GenerativeAI4Finance](https://github.com/GenerativeAI4Finance) - Framework, Foundational models, Tools for use cases in Finance.
 
 ## Code
 
