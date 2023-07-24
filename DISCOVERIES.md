@@ -9,3 +9,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Text](#text)
 
 ## Text
+
+### Writing assistants
+
+- [Yarnit](https://www.yarnit.app/) - Yarnit, a digital storytelling application that uses generative AI to storyboard, research and design your ideas.
