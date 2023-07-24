@@ -8,6 +8,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Text](#text)
 - [Other](#other)
+- [More lists](#more-lists)
 
 ## Text
 
@@ -22,3 +23,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ## Other
 
 - [Deploy Prompt](https://deployprompt.com/) - A tool for prompt engineering that allows you to create and share prompts.
+
+## More lists
+
+- [Awesome Vector Search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers.
