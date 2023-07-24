@@ -7,6 +7,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ## Contents
 
 - [Text](#text)
+- [Other](#other)
 
 ## Text
 
@@ -17,3 +18,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Developer tools
 
 - [Makelog](https://makelog.com/gpt3) - Automatically generate changelog posts using GPT-3 and Jira, Linear, GitHub, Shortcut, and Asana issues, tasks, and pull requests.
+
+## Other
+
+- [Deploy Prompt](https://deployprompt.com/) - A tool for prompt engineering that allows you to create and share prompts.

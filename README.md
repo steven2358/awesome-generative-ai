@@ -252,7 +252,6 @@ Also, explore our special showcase, the [Discoveries List](DISCOVERIES.md), wher
 - [Teleprompter](https://github.com/danielgross/teleprompter) - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
 - [Gamma](https://gamma.app/) - Create beautiful presentations and webpages with none of the formatting and design work.
 - [FinChat](https://finchat.io/) - Using AI, FinChat generates answers to questions about public companies and investors.
-- [Deploy Prompt](https://deployprompt.com/) - A tool for prompt engineering that allows you to create and share prompts.
 
 ## Learning resources
 
