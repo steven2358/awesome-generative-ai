@@ -140,7 +140,6 @@ Also, explore our special showcase, the [Discoveries List](DISCOVERIES.md), wher
 - [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
 - [gpt4all](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.
 - [LMQL](https://lmql.ai/) - LMQL is a query language for large language models.
-- [Makelog](https://makelog.com/gpt3) - Automatically generate changelog posts using GPT-3 and Jira, Linear, GitHub, Shortcut, and Asana issues, tasks, and pull requests.
 
 ## Code
 
