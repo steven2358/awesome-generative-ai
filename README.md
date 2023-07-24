@@ -236,7 +236,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 
 ## Other
 
-- [Morpher](https://morpher.com/) - Morpher AI is a comprehensive tool for financial market analysis that acts as your personal investment analyst. Morpher AI delivers real-time insights and analysis for any market.
+- [Morpher](https://morpher.com/) - Morpher AI is a comprehensive tool for market analysis and decision-making. As your personal investment analyst, Morpher AI delivers real-time insights and analysis for any market.
 - [Diagram](https://diagram.com/) - Magical new ways to design products.
 - [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
 - [This Image Does Not Exist](https://thisimagedoesnotexist.com/) - Test your ability to tell if an image is human or computer generated.
