@@ -48,6 +48,8 @@ Also, explore our special showcase, the [Discoveries List](DISCOVERIES.md), wher
 - [OPT](https://huggingface.co/facebook/opt-350m) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. [Announcement](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/). [OPT-175B text generation](https://opt.alpa.ai/) hosted by Alpa.
 - [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming languages. #opensource
 - [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - A foundational, 65-billion-parameter large language model by Meta. #opensource
+- [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open source large language model. #opensource
+- [Claude 2](https://claude.ai/) - Talk to Claude, an AI assistant from Anthropic.
 
 ### Chatbots
 
@@ -278,7 +280,7 @@ Also, explore our special showcase, the [Discoveries List](DISCOVERIES.md), wher
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - A collection of prompt examples to be used with the ChatGPT model.
 - [FlowGPT](https://flowgpt.com/) - Amplify your workflow with the best prompts.
 - [ChatGPT Prompts for Data Science](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) - A repository of useful data science prompts for ChatGPT.
-- [Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt) - Another awesome list for ChatGPT
+- [Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt) - Another awesome list for ChatGPT.
 
 ## Autonomous agents
 
