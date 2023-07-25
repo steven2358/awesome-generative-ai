@@ -185,10 +185,15 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Ponzu](https://www.ponzu.ai/) - Ponzu is your free AI logo generator. Build your brand with creatively designed logos in seconds, using only your imagination.
 - [PhotoRoom](https://www.photoroom.com/) - Create product and portrait pictures using only your phone. Remove background, change background and showcase products.
 - [Avatar AI](https://avatarai.me/) - Create your own AI-generated avatars.
-- [ClipDrop](https://clipdrop.co/) - Create professional visuals without a photo studio.
+- [ClipDrop](https://clipdrop.co/) - Create professional visuals without a photo studio, powered by [stability.ai](https://stability.ai/).
 - [Lensa](https://prisma-ai.com/lensa) - An all-in-one image editing app that includes the generation of personalized avatars using Stable Diffusion.
 - [RunDiffusion](https://rundiffusion.com/) - Cloud-based workspace for creating AI-generated art.
-- [ClipDrop](https://clipdrop.co/) - Create professional visuals without a photo studio, powered by
+
+### Graphic design
+
+- [Brandmark](https://brandmark.io/) - AI-based logo design tool.
+- [Gamma](https://gamma.app/) - Create beautiful presentations and webpages with none of the formatting and design work.
+- [Microsoft Designer](https://designer.microsoft.com/) - Stunning designs in a flash.
 
 ### Image libraries
 
@@ -248,9 +253,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Clickable](https://www.clickable.so/) - Generate ads in seconds with AI. Beautiful, brand-consistent, and highly converting ads for all marketing channels.
 - [Scale Spellbook](https://scale.com/spellbook) - Build, compare, and deploy large language model apps with Scale Spellbook.
 - [Scenario](https://www.scenario.com/) - AI-generated gaming assets.
-- [Brandmark](https://brandmark.io/) - AI-based logo design tool.
 - [Teleprompter](https://github.com/danielgross/teleprompter) - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
-- [Gamma](https://gamma.app/) - Create beautiful presentations and webpages with none of the formatting and design work.
 - [FinChat](https://finchat.io/) - Using AI, FinChat generates answers to questions about public companies and investors.
 
 ## Learning resources
