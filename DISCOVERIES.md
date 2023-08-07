@@ -7,6 +7,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ## Contents
 
 - [Text](#text)
+- [Code](#code)
 - [Other](#other)
 - [More lists](#more-lists)
 
@@ -24,6 +25,10 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Developer tools
 
 - [Makelog](https://makelog.com/gpt3) - Automatically generate changelog posts using GPT-3 and Jira, Linear, GitHub, Shortcut, and Asana issues, tasks, and pull requests.
+
+## Code
+
+- [ZZZ Code AI](https://zzzcode.ai) - AI-powered free website to get any programming question answered or code generated.
 
 ## Other
 
