@@ -15,6 +15,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Writing assistants
 
 - [Yarnit](https://www.yarnit.app/) - Yarnit, a digital storytelling application that uses generative AI to storyboard, research and design your ideas.
+- [AI Story Generator](https://www.aistorygenerator.org) - Free AI-powered story generator that writes creative short stories for you on any topic.
 
 ### Developer tools
 
