@@ -13,9 +13,17 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ## Text
 
+### Models
+
+- [SambaNova](https://sambanova.ai/) - Full stack generative AI platform, from chip to model, designed for enterprise and government entities and powered by a dataflow architecture.
+
 ### Chatbots
 
 - [PageLines](https://www.pagelines.com) - AI Chat Agents to Enhance Websites 
+
+### Local search engines
+
+- [Rewind](https://www.rewind.ai/) - Rewind captures everything you’ve seen on your Mac and iPhone and makes it searchable with AI.
 
 ### Writing assistants
 
@@ -29,6 +37,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ## Code
 
 - [ZZZ Code AI](https://zzzcode.ai) - AI-powered free website to get any programming question answered or code generated.
+- [AiDA](https://www.bookmark.com/ai-website-builder) - Future proof your website with the power of AI. AiDA eliminates 90 percent of the pain points associated with web design.
 
 ## Other
 
