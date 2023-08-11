@@ -106,7 +106,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [Source code](https://github.com/mckaywrigley/chatbot-ui).
 - [Forefront](https://www.forefront.ai/) - A Better ChatGPT Experience.
 
-### Productivity platforms
+### Productivity
 
 - [Mem](https://mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
 - [Taskade](https://www.taskade.com/) - Outline tasks, notes, generated structured lists and mind maps with Taskade AI.
