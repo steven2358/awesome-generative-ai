@@ -30,6 +30,10 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Yarnit](https://www.yarnit.app/) - Yarnit, a digital storytelling application that uses generative AI to storyboard, research and design your ideas.
 - [AI Story Generator](https://www.aistorygenerator.org) - Free AI-powered story generator that writes creative short stories for you on any topic.
 
+### Productivity
+
+- [Ready to Send](Ready to Send) - Auto-generated draft email replies for Gmail.
+
 ### Developer tools
 
 - [Makelog](https://makelog.com/gpt3) - Automatically generate changelog posts using GPT-3 and Jira, Linear, GitHub, Shortcut, and Asana issues, tasks, and pull requests.
