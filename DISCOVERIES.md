@@ -9,6 +9,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Text](#text)
 - [Code](#code)
 - [Other](#other)
+- [Learning resources](#learning-resources)
 - [More lists](#more-lists)
 
 ## Text
@@ -46,6 +47,10 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ## Other
 
 - [Deploy Prompt](https://deployprompt.com/) - A tool for prompt engineering that allows you to create and share prompts.
+
+## Learning resources
+
+- [The AI-Powered Developer](https://www.manning.com/books/the-ai-powered-developer) - A book about techniques and best practices for getting the most out of AI-powered coding using tools like Copilot and ChatGPT.
 
 ## More lists
 
