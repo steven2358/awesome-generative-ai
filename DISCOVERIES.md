@@ -43,6 +43,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [ZZZ Code AI](https://zzzcode.ai) - AI-powered free website to get any programming question answered or code generated.
 - [AiDA](https://www.bookmark.com/ai-website-builder) - Future proof your website with the power of AI. AiDA eliminates 90 percent of the pain points associated with web design.
+- [GitPoet](https://www.gitpoet.dev) - Generate accurate and meaningful commit messages based on your git diff.
 
 ## Other
 
