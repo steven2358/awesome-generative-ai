@@ -191,6 +191,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [ClipDrop](https://clipdrop.co/) - Create professional visuals without a photo studio, powered by [stability.ai](https://stability.ai/).
 - [Lensa](https://prisma-ai.com/lensa) - An all-in-one image editing app that includes the generation of personalized avatars using Stable Diffusion.
 - [RunDiffusion](https://rundiffusion.com/) - Cloud-based workspace for creating AI-generated art.
+- [SmoothRide](https://smoothri.de/) - Use AI to ideate on - and reimagine the infrastructure around us, get inspired through curated urban-planning related content leading to more awareness in society and a lower threshold in sharing issues and ideas with the local municipality - for a smoother ride and a better quality of life.
+
 
 ### Graphic design
 
