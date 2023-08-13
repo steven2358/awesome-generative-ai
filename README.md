@@ -156,7 +156,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [PR-Agent](https://github.com/Codium-ai/pr-agent) - AI-powered tool for automated PR analysis, feedback, suggestions and more.
 - [MutableAI](https://mutable.ai/) - AI Accelerated Software Development.
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
-- [TurboPilot](https://github.com/ravenscroftj/turbopilot) - A self-hosted copilot clone which uses the library behind llama.cpp to run the 6 Billion Parameter Salesforce Codegen model in 4GiB of RAM. 
+- [TurboPilot](https://github.com/ravenscroftj/turbopilot) - A self-hosted copilot clone which uses the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model in 4 GB of RAM.
+- [GPT-Code UI](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter.
 
 ## Image
 
