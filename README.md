@@ -227,6 +227,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Hour One](https://hourone.ai/) - Turn text into video, featuring virtual presenters, automatically.
 - [D-ID](https://www.d-id.com/) - Create and interact with talking avatars at the touch of a button.
 
+### Animation
+
 ## Audio
 
 ### Speech
