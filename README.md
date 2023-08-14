@@ -91,6 +91,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [QuillBot](https://quillbot.com) - AI-powered paraphrasing tool.
 - [Postwise](https://postwise.ai/) - Write tweets, schedule posts and grow your following using AI.
 - [Copysmith](https://copysmith.ai/) - AI content creation solution for Enterprise & eCommerce.
+- [Regie.ai](https://regie.ai) - The only AI platform designed to boost the efficiency and impact of sales prospecting by automating prospect research, message personalization, and email analysis.
 
 ### ChatGPT extensions
 
