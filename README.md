@@ -59,7 +59,6 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
 - [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation.
-- [GPT for iPhone](https://apps.apple.com/app/apple-store/id1669558411?pt=94765902&ct=awesomegenerativeai&mt=8) - An AI-powered assistant that can write essays on your iPhone.
 
 ### Search engines
 
@@ -193,9 +192,6 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [ClipDrop](https://clipdrop.co/) - Create professional visuals without a photo studio, powered by [stability.ai](https://stability.ai/).
 - [Lensa](https://prisma-ai.com/lensa) - An all-in-one image editing app that includes the generation of personalized avatars using Stable Diffusion.
 - [RunDiffusion](https://rundiffusion.com/) - Cloud-based workspace for creating AI-generated art.
-- [ClipDrop](https://clipdrop.co/) - Create professional visuals without a photo studio, powered by
-- [AI Art Generator iOS App](https://apps.apple.com/app/apple-store/id1644315225?pt=94765902&ct=awsomegenerativeai&mt=8) - Create art in seconds using your iPhone.
-- [AI Anime Art Generator iOS App](https://apps.apple.com/app/apple-store/id6445922691?pt=94765902&ct=awesomenegertiveai&mt=8) - Create anime art in seconds using your iPhone.
 
 ### Graphic design
 
