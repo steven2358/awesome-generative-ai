@@ -6,11 +6,20 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ## Contents
 
+- [Recommended reading](#recommended-reading)
 - [Text](#text)
 - [Code](#code)
+- [Image](#image)
+- [Video](#video)
+- [Audio](#audio)
 - [Other](#other)
 - [Learning resources](#learning-resources)
 - [More lists](#more-lists)
+- [Autonomous agents](#autonomous-agents)
+
+## Recommended reading
+
+### Milestones
 
 ## Text
 
@@ -21,6 +30,9 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Chatbots
 
 - [PageLines](https://www.pagelines.com) - AI Chat Agents to Enhance Websites 
+- [GPT for iPhone](https://apps.apple.com/app/apple-store/id1669558411?pt=94765902&ct=awesomegenerativeai&mt=8) - An AI-powered assistant that can write essays on your iPhone.
+
+### Search engines
 
 ### Local search engines
 
@@ -31,9 +43,17 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Yarnit](https://www.yarnit.app/) - Yarnit, a digital storytelling application that uses generative AI to storyboard, research and design your ideas.
 - [AI Story Generator](https://www.aistorygenerator.org) - Free AI-powered story generator that writes creative short stories for you on any topic.
 
+### ChatGPT extensions
+
 ### Productivity
 
 - [Ready to Send](Ready to Send) - Auto-generated draft email replies for Gmail.
+
+### Meeting assistants
+
+### Academia
+
+### Other text generators
 
 ### Developer tools
 
@@ -44,6 +64,33 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [ZZZ Code AI](https://zzzcode.ai) - AI-powered free website to get any programming question answered or code generated.
 - [AiDA](https://www.bookmark.com/ai-website-builder) - Future proof your website with the power of AI. AiDA eliminates 90 percent of the pain points associated with web design.
 - [GitPoet](https://www.gitpoet.dev) - Generate accurate and meaningful commit messages based on your git diff.
+
+## Image
+
+### Models
+
+### Services
+
+- [AI Art Generator iOS App](https://apps.apple.com/app/apple-store/id1644315225?pt=94765902&ct=awsomegenerativeai&mt=8) - Create art in seconds using your iPhone.
+- [AI Anime Art Generator iOS App](https://apps.apple.com/app/apple-store/id6445922691?pt=94765902&ct=awesomenegertiveai&mt=8) - Create anime art in seconds using your iPhone.
+
+### Graphic design
+
+### Image libraries
+
+### Model libraries
+
+### Stable Diffusion resources
+
+## Video
+
+### Animation
+
+## Audio
+
+### Speech
+
+### Music
 
 ## Other
 
@@ -56,3 +103,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ## More lists
 
 - [Awesome Vector Search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers.
+
+### Lists on ChatGPT
+
+## Autonomous agents
