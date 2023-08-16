@@ -219,7 +219,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [PublicPrompts](https://publicprompts.art/) - A collection of free prompts for Stable Diffusion.
 - [Stableboost](https://stableboost.ai/) - Stableboost is a Stable Diffusion WebUI that lets you quickly generate a lot of images so you can find the perfect ones.
 - [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) - Python materials for the online course on diffusion models by [@huggingface](https://github.com/huggingface).
-
+- [OpenXLab stable-diffusion-webui graio APP](https://openxlab.org.cn/apps/detail/camenduru/stable-diffusion-webui) - An online SD Gradio application for inference with A100 by [@camenduru](https://github.com/camenduru).
 ## Video
 
 - [RunwayML](https://runwayml.com/) - Magical AI tools, realtime collaboration, precision editing, and more. Your next-generation content creation suite.
