@@ -227,6 +227,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Rephrase AI](https://www.rephrase.ai/) - Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies.
 - [Hour One](https://hourone.ai/) - Turn text into video, featuring virtual presenters, automatically.
 - [D-ID](https://www.d-id.com/) - Create and interact with talking avatars at the touch of a button.
+- [Twelve Labs](https://twelvelabs.io/) - Helping developers build programs that can see, listen, and understand the world as we do by giving them the most powerful video understanding infrastructure
 
 ### Animation
 
