@@ -297,3 +297,4 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [babyagi](https://github.com/yoheinakajima/babyagi) - An AI-powered task management system.
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [GPT Prompt Engineer](https://github.com/mshumer/gpt-prompt-engineer) - Automated prompt engineering. It generates, tests, and ranks prompts to find the best ones.
