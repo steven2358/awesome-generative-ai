@@ -42,6 +42,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Yarnit](https://www.yarnit.app/) - Yarnit, a digital storytelling application that uses generative AI to storyboard, research and design your ideas.
 - [AI Story Generator](https://www.aistorygenerator.org) - Free AI-powered story generator that writes creative short stories for you on any topic.
+- [NeuronWriter](https://www.neuronwriter.com/) - AI writer and NLP content editor with SEO focus.
 
 ### ChatGPT extensions
 
@@ -105,6 +106,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ## More lists
 
 - [Awesome Vector Search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers.
+- [Ai Finesse](https://www.aifinesse.com/) - Curated lists of AI applications and AI models with links and useful information.
 
 ### Lists on ChatGPT
 
