@@ -112,6 +112,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Taskade](https://www.taskade.com/) - Outline tasks, notes, generated structured lists and mind maps with Taskade AI.
 - [Notion AI](https://www.notion.so/product/ai) - Write better, more efficient notes and docs.
 - [Nekton AI](https://nekton.ai) - Automate your workflows with AI. Describe your workflows step by step in plain language.
+- [Kolega](https://kolega.ai) - AI powered employees for Slack and Teams.
 
 ### Meeting assistants
 
