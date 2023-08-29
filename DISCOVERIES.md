@@ -31,6 +31,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [PageLines](https://www.pagelines.com) - AI Chat Agents to Enhance Websites 
 - [GPT for iPhone](https://apps.apple.com/app/apple-store/id1669558411?pt=94765902&ct=awesomegenerativeai&mt=8) - An AI-powered assistant that can write essays on your iPhone.
+- [Netwrck.com](https://netwrck.com/) - Netwrck.com lets you chat with AI and create AI Characters.
+- [Text-Generator.io](https://text-generator.io) - Multimodal AI APIs for text and audio creation from text/images/speech.
 
 ### Search engines
 
