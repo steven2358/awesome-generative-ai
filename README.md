@@ -192,7 +192,9 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [ClipDrop](https://clipdrop.co/) - Create professional visuals without a photo studio, powered by [stability.ai](https://stability.ai/).
 - [Lensa](https://prisma-ai.com/lensa) - An all-in-one image editing app that includes the generation of personalized avatars using Stable Diffusion.
 - [RunDiffusion](https://rundiffusion.com/) - Cloud-based workspace for creating AI-generated art.
+- [ClipDrop](https://clipdrop.co/) - Create professional visuals without a photo studio, powered by.
 - [Ideogram](https://ideogram.ai/) - A text-to-image platform to make creative expression more accessible.
+- [ArtSmart](https://artsmart.ai/) - AI image generator that produces realistic images based on text and image prompts, featuring outpainting, pose control, and personalized avatar generation capabilities.
 
 ### Graphic design
 
