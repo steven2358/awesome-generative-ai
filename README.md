@@ -57,6 +57,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Bard](https://bard.google.com) - An experimental AI chatbot by Google, powered by the LaMDA model.
 - [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
+- [AskVideo](https://www.askvideo.ai) - Chat with any Youtube Video.
+- [AskPPT](https://www.askppt.io/) - Chat with any Presentation.
 - [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation.
 
 ### Search engines
@@ -127,6 +129,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Explainpaper](https://www.explainpaper.com/) - A better way to read academic papers. Upload a paper, highlight confusing text, get an explanation.
 - [Galactica](https://galactica.org/) - A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more. [Model API](https://github.com/paperswithcode/galai).
 - [Consensus](https://consensus.app/search/) - Consensus is a search engine that uses AI to find answers in scientific research.
+- [MagicSlides.app](https://www.magicslides.app/) - Ideas to Professional Presentations in Seconds, with info from wikipedia, google with AI images.
 
 ### Other text generators
 
