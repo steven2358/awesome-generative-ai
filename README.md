@@ -265,6 +265,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Scale Spellbook](https://scale.com/spellbook) - Build, compare, and deploy large language model apps with Scale Spellbook.
 - [Scenario](https://www.scenario.com/) - AI-generated gaming assets.
 - [Teleprompter](https://github.com/danielgross/teleprompter) - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
+- [Tailor](https://www.usetailor.com) - Get a daily podcast and newsletter, created for you by an AI
 - [FinChat](https://finchat.io/) - Using AI, FinChat generates answers to questions about public companies and investors.
 
 ## Learning resources
