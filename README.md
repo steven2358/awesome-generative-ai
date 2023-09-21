@@ -252,6 +252,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Mubert](https://mubert.com/) - A royalty-free music ecosystem for content creators, brands and developers.
 - [MusicLM](https://google-research.github.io/seanet/musiclm/examples/) - A model by Google Research for generating high-fidelity music from text descriptions.
 - [AudioCraft](https://audiocraft.metademolab.com/) - A single-stop code base for generative audio needs, by Meta. Includes MusicGen for music and AudioGen for sounds. #opensource
+- [Stable Audio](https://stability.ai/stable-audio) - Stable Audio is Stability AI's first product for music and sound effect generation.
 
 ## Other
 
