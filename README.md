@@ -193,6 +193,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Lensa](https://prisma-ai.com/lensa) - An all-in-one image editing app that includes the generation of personalized avatars using Stable Diffusion.
 - [RunDiffusion](https://rundiffusion.com/) - Cloud-based workspace for creating AI-generated art.
 - [Ideogram](https://ideogram.ai/) - A text-to-image platform to make creative expression more accessible.
+- [KREA](https://www.krea.ai/) - Generate high quality visuals with an AI that knows about your styles, concepts, or products.
 
 ### Graphic design
 
@@ -204,7 +205,6 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 - [Lexica](https://lexica.art/) - Stable Diffusion search engine.
 - [Libraire](https://libraire.ai/) - The largest library of AI-generated images.
-- [KREA](https://www.krea.ai/) - Explore millions of AI generated images and create collections of prompts. Featuring Stable Diffusion generations.
 - [OpenArt](https://openart.ai/) - Search 10M+ of prompts, and generate AI art via Stable Diffusion, DALL·E 2.
 
 ### Model libraries
