@@ -36,6 +36,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [ChatGPT](https://openai.com/blog/chatgpt/) - Announcement of ChatGPT, a conversational model trained to answer follow-up questions, admit mistakes, challenge incorrect premises, and reject inappropriate requests. OpenAI blog, November 30, 2022.
 - [Bing Search](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) - Microsoft announces a new version of its search engine Bing, powered by a next-generation OpenAI model. Microsoft blog, February 7, 2023.
 - [GPT-4](https://openai.com/research/gpt-4) - Announcement of GPT-4, a large multimodal model. OpenAI blog, March 14, 2023.
+- [DALL-E 3](https://openai.com/dall-e-3) - Announcement of the release of Dalle-3 via Bing Image Creator, an advanced image generation system with improved resolution, expanded image creation capabilities, and various safety mitigations. 
 
 ## Text
 
@@ -172,6 +173,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Imagen](https://imagen.research.google/) - Imagen by Google is a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding.
 - [Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/) - Make-A-Scene by Meta is a multimodal generative AI method puts creative control in the hands of people who use it by allowing them to describe and illustrate their vision through both text descriptions and freeform sketches.
 - [DragGAN](https://github.com/XingangPan/DragGAN) - Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.
+- [Bing Image Creator](https://www.bing.com/create) - DALLE-3 based text to image generator with numerous safety features.
 
 ### Services
 
