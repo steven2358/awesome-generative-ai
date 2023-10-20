@@ -149,6 +149,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [TurboPilot](https://github.com/ravenscroftj/turbopilot) - A self-hosted copilot clone which uses the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model in 4 GB of RAM.
 - [GPT-Code UI](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter.
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
+- [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally.
 
 ### Developer tools
 
