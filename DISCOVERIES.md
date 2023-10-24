@@ -6,10 +6,20 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ## Contents
 
+- [Recommended reading](#recommended-reading)
 - [Text](#text)
 - [Code](#code)
+- [Image](#image)
+- [Video](#video)
+- [Audio](#audio)
 - [Other](#other)
+- [Learning resources](#learning-resources)
 - [More lists](#more-lists)
+- [Autonomous agents](#autonomous-agents)
+
+## Recommended reading
+
+### Milestones
 
 ## Text
 
@@ -20,6 +30,11 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Chatbots
 
 - [PageLines](https://www.pagelines.com) - AI Chat Agents to Enhance Websites 
+- [GPT for iPhone](https://apps.apple.com/app/apple-store/id1669558411?pt=94765902&ct=awesomegenerativeai&mt=8) - An AI-powered assistant that can write essays on your iPhone.
+- [Netwrck.com](https://netwrck.com/) - Netwrck.com lets you chat with AI and create AI Characters.
+- [Text-Generator.io](https://text-generator.io) - Multimodal AI APIs for text and audio creation from text/images/speech.
+
+### Search engines
 
 ### Local search engines
 
@@ -29,20 +44,73 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Yarnit](https://www.yarnit.app/) - Yarnit, a digital storytelling application that uses generative AI to storyboard, research and design your ideas.
 - [AI Story Generator](https://www.aistorygenerator.org) - Free AI-powered story generator that writes creative short stories for you on any topic.
+- [NeuronWriter](https://www.neuronwriter.com/) - AI writer and NLP content editor with SEO focus.
+
+### ChatGPT extensions
+
+### Productivity
+
+- [Ready to Send](Ready to Send) - Auto-generated draft email replies for Gmail.
+
+### Meeting assistants
+
+### Academia
+
+### Other text generators
 
 ### Developer tools
 
 - [Makelog](https://makelog.com/gpt3) - Automatically generate changelog posts using GPT-3 and Jira, Linear, GitHub, Shortcut, and Asana issues, tasks, and pull requests.
+- [Wilco Sierra](https://trywilco.com/sierra) - A platform that generates engineering challenges for software engineers using AI.
 
 ## Code
 
 - [ZZZ Code AI](https://zzzcode.ai) - AI-powered free website to get any programming question answered or code generated.
 - [AiDA](https://www.bookmark.com/ai-website-builder) - Future proof your website with the power of AI. AiDA eliminates 90 percent of the pain points associated with web design.
+- [GitPoet](https://www.gitpoet.dev) - Generate accurate and meaningful commit messages based on your git diff.
+- [Safurai](https://www.safurai.com/) - Safurai is the AI Code Assistant that saves you time in changing, optimizing, and searching code.
+
+## Image
+
+### Models
+
+### Services
+
+- [AI Art Generator iOS App](https://apps.apple.com/app/apple-store/id1644315225?pt=94765902&ct=awsomegenerativeai&mt=8) - Create art in seconds using your iPhone.
+- [AI Anime Art Generator iOS App](https://apps.apple.com/app/apple-store/id6445922691?pt=94765902&ct=awesomenegertiveai&mt=8) - Create anime art in seconds using your iPhone.
+- [ArtSmart](https://artsmart.ai/) - AI image generator that produces realistic images based on text and image prompts, featuring outpainting, pose control, and personalized avatar generation capabilities.
+
+### Graphic design
+
+### Image libraries
+
+### Model libraries
+
+### Stable Diffusion resources
+
+## Video
+
+### Animation
+
+## Audio
+
+### Speech
+
+### Music
 
 ## Other
 
 - [Deploy Prompt](https://deployprompt.com/) - A tool for prompt engineering that allows you to create and share prompts.
 
+## Learning resources
+
+- [The AI-Powered Developer](https://www.manning.com/books/the-ai-powered-developer) - A book about techniques and best practices for getting the most out of AI-powered coding using tools like Copilot and ChatGPT.
+
 ## More lists
 
 - [Awesome Vector Search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers.
+- [Ai Finesse](https://www.aifinesse.com/) - Curated lists of AI applications and AI models with links and useful information.
+
+### Lists on ChatGPT
+
+## Autonomous agents
