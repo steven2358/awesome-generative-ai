@@ -97,6 +97,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Speech
 
 ### Music
+- [Boomy](https://boomy.com/) - Create original songs in seconds.
+- [Soundraw](https://soundraw.io/) - Create your beats with the power of AI.
 
 ## Other
 
