@@ -206,6 +206,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [RunDiffusion](https://rundiffusion.com/) - Cloud-based workspace for creating AI-generated art.
 - [Ideogram](https://ideogram.ai/) - A text-to-image platform to make creative expression more accessible.
 - [KREA](https://www.krea.ai/) - Generate high quality visuals with an AI that knows about your styles, concepts, or products.
+- [Nightcafe](https://creator.nightcafe.studio/) - NightCafe Creator is an AI Art Generator app with multiple methods of AI art generation.
 
 ### Graphic design
 
@@ -241,6 +242,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [D-ID](https://www.d-id.com/) - Create and interact with talking avatars at the touch of a button.
 - [Colossyan](https://www.colossyan.com/) - Learning & Development focused video creator. Use AI avatars to create educational videos in multiple languages.
 - [Fliki](https://fliki.ai/) - Create text to video and text to speech content with ai powered voices in minutes.
+- [Pictory](https://pictory.ai/) - Pictory's powerful AI enables you to create and edit professional quality videos using text.
 
 ### Animation
 
