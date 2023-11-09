@@ -104,6 +104,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ## Other
 
 - [Deploy Prompt](https://deployprompt.com/) - A tool for prompt engineering that allows you to create and share prompts.
+- [GenerativeAI4Finance](https://github.com/GenerativeAI4Finance) - Framework, foundational models, tools for use cases in finance.
 
 ## Learning resources
 
