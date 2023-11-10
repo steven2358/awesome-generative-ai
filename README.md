@@ -104,7 +104,6 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [editGPT](https://www.editgpt.app/) - Easily proofread, edit, and track changes to your content in chatGPT.
 - [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [Source code](https://github.com/mckaywrigley/chatbot-ui).
 - [Forefront](https://www.forefront.ai/) - A Better ChatGPT Experience.
-- [AI Character for GPT](https://chromewebstore.google.com/detail/daoeioifimkjegafelcaljboknjkkohh) - One click to curate AI chatbot, including ChatGPT, Google Bard to improve AI responses.
 
 ### Productivity
 
