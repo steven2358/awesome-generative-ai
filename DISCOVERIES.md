@@ -9,6 +9,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Recommended reading](#recommended-reading)
 - [Text](#text)
 - [Code](#code)
+- [Agents](#agents)
 - [Image](#image)
 - [Video](#video)
 - [Audio](#audio)
@@ -69,6 +70,10 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AiDA](https://www.bookmark.com/ai-website-builder) - Future proof your website with the power of AI. AiDA eliminates 90 percent of the pain points associated with web design.
 - [GitPoet](https://www.gitpoet.dev) - Generate accurate and meaningful commit messages based on your git diff.
 - [Safurai](https://www.safurai.com/) - Safurai is the AI Code Assistant that saves you time in changing, optimizing, and searching code.
+
+## Agents
+
+### Autonomous agents
 
 ## Image
 
