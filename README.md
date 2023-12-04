@@ -127,6 +127,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Explainpaper](https://www.explainpaper.com/) - A better way to read academic papers. Upload a paper, highlight confusing text, get an explanation.
 - [Galactica](https://galactica.org/) - A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more. [Model API](https://github.com/paperswithcode/galai).
 - [Consensus](https://consensus.app/search/) - Consensus is a search engine that uses AI to find answers in scientific research.
+- [Quizium](https://quizium.ai) - Automatic question generation and learning helper Chrome Extension app for YouTube video learners.
 
 ### Other text generators
 
