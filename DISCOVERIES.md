@@ -110,6 +110,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Deploy Prompt](https://deployprompt.com/) - A tool for prompt engineering that allows you to create and share prompts.
 - [GenerativeAI4Finance](https://github.com/GenerativeAI4Finance) - Framework, foundational models, tools for use cases in finance.
+- [Shotstack Workflows](https://shotstack.io/product/workflows/) - No-code, automation workflow tool for building Generative AI media applications.
 
 ## Learning resources
 
