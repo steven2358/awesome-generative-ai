@@ -112,6 +112,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Taskade](https://www.taskade.com/) - Outline tasks, notes, generated structured lists and mind maps with Taskade AI.
 - [Notion AI](https://www.notion.so/product/ai) - Write better, more efficient notes and docs.
 - [Nekton AI](https://nekton.ai) - Automate your workflows with AI. Describe your workflows step by step in plain language.
+- [Elephas](https://elephas.app/?ref=awesome-generative-ai) - Personal AI writing assistant for the Mac.
+- [Lemmy](https://lemmy.co/?ref=awesome-generative-ai) - Autonomous AI Assistant for Work.
 
 ### Meeting assistants
 
@@ -128,10 +130,17 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Galactica](https://galactica.org/) - A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more. [Model API](https://github.com/paperswithcode/galai).
 - [Consensus](https://consensus.app/search/) - Consensus is a search engine that uses AI to find answers in scientific research.
 
+### Customer Support
+
+- [SiteGPT](https://sitegpt.ai/?ref=awesome-generative-ai) - Make AI your expert customer support agent.
+- [GPTHelp.ai](https://gpthelp.ai/?ref=awesome-generative-ai) - ChatGPT for your website / AI customer support chatbot.
+
+
 ### Other text generators
 
 - [EmailTriager](https://www.emailtriager.com/) - Use AI to automatically draft email replies in the background.
 - [AI Poem Generator](https://www.aipoemgenerator.org) - AI Poem Generator writes a beautiful rhyming poem for you on any subject, given a text prompt.
+- [Never Jobless LinkedIn Message Generator](https://neverjobless.com/?ref=awesome-generative-ai) - Maximize Your Interview Chances with AI-Powered LinkedIn Messaging.
 
 ## Coding
 
@@ -215,6 +224,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Ideogram](https://ideogram.ai/) - A text-to-image platform to make creative expression more accessible.
 - [KREA](https://www.krea.ai/) - Generate high quality visuals with an AI that knows about your styles, concepts, or products.
 - [Nightcafe](https://creator.nightcafe.studio/) - NightCafe Creator is an AI Art Generator app with multiple methods of AI art generation.
+- [StockPhotoAI.net](https://www.stockphotoai.net/?ref=awesome-generative-ai) - Great stock photos, made for you.
 
 ### Graphic design
 
@@ -290,6 +300,9 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Scenario](https://www.scenario.com/) - AI-generated gaming assets.
 - [Teleprompter](https://github.com/danielgross/teleprompter) - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
 - [FinChat](https://finchat.io/) - Using AI, FinChat generates answers to questions about public companies and investors.
+- [Aispect](https://aispect.io/?ref=awesome-generative-ai) - New way to experience events.
+- [PressPulse AI](https://www.presspulse.ai/?ref=awesome-generative-ai) - Get personalized media coverage leads every morning.
+- [GummySearch](https://gummysearch.com/?ref=awesome-generative-ai) - AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product.
 
 ## Learning resources
 
