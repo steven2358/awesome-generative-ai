@@ -115,6 +115,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Nekton AI](https://nekton.ai) - Automate your workflows with AI. Describe your workflows step by step in plain language.
 - [Elephas](https://elephas.app/?ref=awesome-generative-ai) - Personal AI writing assistant for the Mac.
 - [Lemmy](https://lemmy.co/?ref=awesome-generative-ai) - Autonomous AI Assistant for Work.
+- [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator?ref=awesome-generative-ai) - Forget about frustrating formulas in Google Sheets.
 
 ### Meeting assistants
 
