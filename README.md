@@ -216,6 +216,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Ideogram](https://ideogram.ai/) - A text-to-image platform to make creative expression more accessible.
 - [KREA](https://www.krea.ai/) - Generate high quality visuals with an AI that knows about your styles, concepts, or products.
 - [Nightcafe](https://creator.nightcafe.studio/) - NightCafe Creator is an AI Art Generator app with multiple methods of AI art generation.
+- [GPTRouter](https://gpt-router.writesonic.com/) - GPTRouter is an open source LLM API Gateway that offers a universal API for 30+ LLMs, vision, and image models, with smart fallbacks based on uptime and latency, automatic retries, and streaming. Stay operational even when OpenAI is down.
 
 ### Graphic design
 
