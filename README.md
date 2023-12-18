@@ -305,6 +305,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Aispect](https://aispect.io/?ref=awesome-generative-ai) - New way to experience events.
 - [PressPulse AI](https://www.presspulse.ai/?ref=awesome-generative-ai) - Get personalized media coverage leads every morning.
 - [GummySearch](https://gummysearch.com/?ref=awesome-generative-ai) - AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product.
+- [Taplio](https://taplio.com/?ref=awesome-generative-ai) - The all-in-one, AI-powered LinkedIn tool.
+
 
 ## Learning resources
 
