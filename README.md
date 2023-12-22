@@ -270,6 +270,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [VALL-E X](https://vallex-demo.github.io/) - A cross-lingual neural codec language model for cross-lingual speech synthesis.
 - [TorToiSe](https://github.com/neonbjb/tortoise-tts) - A multi-voice text-to-speech system trained with an emphasis on quality. #opensource
 - [Bark](https://github.com/suno-ai/bark) - A transformer-based text-to-audio model. #opensource
+- [Coque](https://coqui.ai/) - Coqui is dedicated to open speech technology and to serving as the hub where speech researchers, developers, and practitioners congregate.
 
 ### Music
 
@@ -279,6 +280,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [AudioCraft](https://audiocraft.metademolab.com/) - A single-stop code base for generative audio needs, by Meta. Includes MusicGen for music and AudioGen for sounds. #opensource
 - [Stable Audio](https://stability.ai/stable-audio) - Stable Audio is Stability AI's first product for music and sound effect generation.
 - [AIVA](https://www.aiva.ai/) - AI-based music generation assistant. Choose from 250+ styles.
+- [Suno AI](https://www.suno.ai/) - Anyone can make great music. No instrument needed, just imagination. From your mind to music.
 
 ## Other
 
