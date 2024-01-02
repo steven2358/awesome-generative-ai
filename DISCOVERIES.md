@@ -9,6 +9,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Recommended reading](#recommended-reading)
 - [Text](#text)
 - [Code](#code)
+- [Agents](#agents)
 - [Image](#image)
 - [Video](#video)
 - [Audio](#audio)
@@ -31,6 +32,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [PageLines](https://www.pagelines.com) - AI Chat Agents to Enhance Websites 
 - [GPT for iPhone](https://apps.apple.com/app/apple-store/id1669558411?pt=94765902&ct=awesomegenerativeai&mt=8) - An AI-powered assistant that can write essays on your iPhone.
+- [Netwrck.com](https://netwrck.com/) - Netwrck.com lets you chat with AI and create AI Characters.
+- [Text-Generator.io](https://text-generator.io) - Multimodal AI APIs for text and audio creation from text/images/speech.
 
 ### Search engines
 
@@ -42,6 +45,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Yarnit](https://www.yarnit.app/) - Yarnit, a digital storytelling application that uses generative AI to storyboard, research and design your ideas.
 - [AI Story Generator](https://www.aistorygenerator.org) - Free AI-powered story generator that writes creative short stories for you on any topic.
+- [NeuronWriter](https://www.neuronwriter.com/) - AI writer and NLP content editor with SEO focus.
 
 ### ChatGPT extensions
 
@@ -67,6 +71,10 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [GitPoet](https://www.gitpoet.dev) - Generate accurate and meaningful commit messages based on your git diff.
 - [Safurai](https://www.safurai.com/) - Safurai is the AI Code Assistant that saves you time in changing, optimizing, and searching code.
 
+## Agents
+
+### Autonomous agents
+
 ## Image
 
 ### Models
@@ -75,6 +83,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [AI Art Generator iOS App](https://apps.apple.com/app/apple-store/id1644315225?pt=94765902&ct=awsomegenerativeai&mt=8) - Create art in seconds using your iPhone.
 - [AI Anime Art Generator iOS App](https://apps.apple.com/app/apple-store/id6445922691?pt=94765902&ct=awesomenegertiveai&mt=8) - Create anime art in seconds using your iPhone.
+- [ArtSmart](https://artsmart.ai/) - AI image generator that produces realistic images based on text and image prompts, featuring outpainting, pose control, and personalized avatar generation capabilities.
+- [joliGEN](https://github.com/jolibrain/joliGEN) - Generative AI Image Toolset with GANs and Diffusion for Real-World Applications.
 
 ### Graphic design
 
@@ -93,10 +103,13 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Speech
 
 ### Music
+- [Boomy](https://boomy.com/) - Create original songs in seconds.
+- [Soundraw](https://soundraw.io/) - Create your beats with the power of AI.
 
 ## Other
 
 - [Deploy Prompt](https://deployprompt.com/) - A tool for prompt engineering that allows you to create and share prompts.
+- [GenerativeAI4Finance](https://github.com/GenerativeAI4Finance) - Framework, foundational models, tools for use cases in finance.
 
 ## Learning resources
 
@@ -105,6 +118,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ## More lists
 
 - [Awesome Vector Search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers.
+- [Ai Finesse](https://www.aifinesse.com/) - Curated lists of AI applications and AI models with links and useful information.
 
 ### Lists on ChatGPT
 
