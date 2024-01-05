@@ -36,6 +36,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [ChatGPT](https://openai.com/blog/chatgpt/) - Announcement of ChatGPT, a conversational model trained to answer follow-up questions, admit mistakes, challenge incorrect premises, and reject inappropriate requests. OpenAI blog, November 30, 2022.
 - [Bing Search](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) - Microsoft announces a new version of its search engine Bing, powered by a next-generation OpenAI model. Microsoft blog, February 7, 2023.
 - [GPT-4](https://openai.com/research/gpt-4) - Announcement of GPT-4, a large multimodal model. OpenAI blog, March 14, 2023.
+- [PI.AI](https://pi.ai) - It is a personalized artificial intelligence platform available as a digital assistant, which offers answers and support to users. Pi's goal is to provide a fast, helpful, and friendly interaction experience to users around the world, supporting text to speech inside the platform.
 
 ## Text
 
