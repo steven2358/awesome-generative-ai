@@ -49,6 +49,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open source large language model. #opensource
 - [Claude 2](https://claude.ai/) - Talk to Claude, an AI assistant from Anthropic.
 - [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT.
+- [Mixtral 8x7B](https://mistral.ai/news/mixtral-of-experts/) - A high-quality sparse mixture of experts model with open weights.
 
 ### Chatbots
 
@@ -112,6 +113,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Taskade](https://www.taskade.com/) - Outline tasks, notes, generated structured lists and mind maps with Taskade AI.
 - [Notion AI](https://www.notion.so/product/ai) - Write better, more efficient notes and docs.
 - [Nekton AI](https://nekton.ai) - Automate your workflows with AI. Describe your workflows step by step in plain language.
+- [Rewind](https://www.rewind.ai/) - Rewind is a personalized AI powered by everything you've seen, said, or heard..
 
 ### Meeting assistants
 
@@ -251,6 +253,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Colossyan](https://www.colossyan.com/) - Learning & Development focused video creator. Use AI avatars to create educational videos in multiple languages.
 - [Fliki](https://fliki.ai/) - Create text to video and text to speech content with ai powered voices in minutes.
 - [Pictory](https://pictory.ai/) - Pictory's powerful AI enables you to create and edit professional quality videos using text.
+- [Pika](https://pika.art/) - An idea-to-video platform that brings your creativity to motion.
 - [invideo AI](https://invideo.io/) - Make videos easily by giving a prompt to Invideo AI. Ideal for content creators, YouTubers and marketers.
 
 ### Animation
@@ -268,6 +271,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [VALL-E X](https://vallex-demo.github.io/) - A cross-lingual neural codec language model for cross-lingual speech synthesis.
 - [TorToiSe](https://github.com/neonbjb/tortoise-tts) - A multi-voice text-to-speech system trained with an emphasis on quality. #opensource
 - [Bark](https://github.com/suno-ai/bark) - A transformer-based text-to-audio model. #opensource
+- [Coque](https://coqui.ai/) - Coqui is dedicated to open speech technology and to serving as the hub where speech researchers, developers, and practitioners congregate.
 
 ### Music
 
@@ -277,6 +281,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [AudioCraft](https://audiocraft.metademolab.com/) - A single-stop code base for generative audio needs, by Meta. Includes MusicGen for music and AudioGen for sounds. #opensource
 - [Stable Audio](https://stability.ai/stable-audio) - Stable Audio is Stability AI's first product for music and sound effect generation.
 - [AIVA](https://www.aiva.ai/) - AI-based music generation assistant. Choose from 250+ styles.
+- [Suno AI](https://www.suno.ai/) - Anyone can make great music. No instrument needed, just imagination. From your mind to music.
 
 ## Other
 
