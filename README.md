@@ -271,6 +271,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [TorToiSe](https://github.com/neonbjb/tortoise-tts) - A multi-voice text-to-speech system trained with an emphasis on quality. #opensource
 - [Bark](https://github.com/suno-ai/bark) - A transformer-based text-to-audio model. #opensource
 - [Coque](https://coqui.ai/) - Coqui is dedicated to open speech technology and to serving as the hub where speech researchers, developers, and practitioners congregate.
+- [CreateEasily](https://createeasily.com/) - Transcribe your audio into subtitles and text transcripts quickly with summarization - 100% Free
 
 ### Music
 
