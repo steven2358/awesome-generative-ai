@@ -52,6 +52,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Productivity
 
 - [Ready to Send](Ready to Send) - Auto-generated draft email replies for Gmail.
+- [Kadoa](https://kadoa.com) - Automate data extraction with AI, so you don't have to manually build scrapers, mappers, or classifiers.
 
 ### Meeting assistants
 
