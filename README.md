@@ -284,7 +284,6 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ## Other
 
-- [Morpher AI](https://morpher.com/ai) - Morpher AI is a comprehensive tool for market analysis and decision-making. As your personal investment analyst, Morpher AI delivers real-time insights and analysis for any market.
 - [Diagram](https://diagram.com/) - Magical new ways to design products.
 - [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
 - [This Image Does Not Exist](https://thisimagedoesnotexist.com/) - Test your ability to tell if an image is human or computer generated.
@@ -295,6 +294,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Scenario](https://www.scenario.com/) - AI-generated gaming assets.
 - [Teleprompter](https://github.com/danielgross/teleprompter) - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
 - [FinChat](https://finchat.io/) - Using AI, FinChat generates answers to questions about public companies and investors.
+- [Morpher AI](https://morpher.com/ai) - Morpher AI delivers real-time insights and analysis for any market.
 
 ## Learning resources
 
