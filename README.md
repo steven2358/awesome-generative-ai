@@ -185,6 +185,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 - [Poe](https://poe.com/) - Poe gives access to a variety of bots.
 - [GPT Builder](https://chat.openai.com/gpts/editor) - Assistant for creating GPT-based assistants.
+- [GPTStore](https://gptstore.ai/) - Find useful GPTs. Share your own GPTs.
 
 ## Image
 
@@ -220,6 +221,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Ideogram](https://ideogram.ai/) - A text-to-image platform to make creative expression more accessible.
 - [KREA](https://www.krea.ai/) - Generate high quality visuals with an AI that knows about your styles, concepts, or products.
 - [Nightcafe](https://creator.nightcafe.studio/) - NightCafe Creator is an AI Art Generator app with multiple methods of AI art generation.
+- [Leonardo AI](https://leonardo.ai/) - Create production-quality visual assets for your projects with unprecedented quality, speed, and style.
 
 ### Graphic design
 
@@ -257,8 +259,11 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Fliki](https://fliki.ai/) - Create text to video and text to speech content with ai powered voices in minutes.
 - [Pictory](https://pictory.ai/) - Pictory's powerful AI enables you to create and edit professional quality videos using text.
 - [Pika](https://pika.art/) - An idea-to-video platform that brings your creativity to motion.
+- [HeyGen](https://app.heygen.com/) - Turn scripts into talking videos with customizable AI avatars in minutes.
 
 ### Animation
+
+- [Wonder Dynamics](https://wonderdynamics.com/) -  Effortlessly animate, light, and compose CG characters into live scenes.
 
 ## Audio
 
