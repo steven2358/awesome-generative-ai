@@ -112,6 +112,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Deploy Prompt](https://deployprompt.com/) - A tool for prompt engineering that allows you to create and share prompts.
 - [GenerativeAI4Finance](https://github.com/GenerativeAI4Finance) - Framework, foundational models, tools for use cases in finance.
+- [SmoothRide](https://smoothri.de/) - AI tool for collaborative urban development, enhancing citizen input and municipal decision-making.
 
 ## Learning resources
 
