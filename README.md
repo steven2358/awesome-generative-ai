@@ -311,6 +311,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [ChatGPT prompt engineering for developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - A short course by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI).
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 - [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering) - Strategies and tactics for getting better results from large language models.
+- [Automate Everyday Tasks with ChatGPT Plus](https://www.manning.com/books/automate-everyday-tasks-with-chatgpt-plus) - A practical, hype-free guide to ChatGPT Plus edition, including its new features for data analysis, vision, and image generation.
 
 ## More lists
 
