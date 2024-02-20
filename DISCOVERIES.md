@@ -34,6 +34,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [GPT for iPhone](https://apps.apple.com/app/apple-store/id1669558411?pt=94765902&ct=awesomegenerativeai&mt=8) - An AI-powered assistant that can write essays on your iPhone.
 - [Netwrck.com](https://netwrck.com/) - Netwrck.com lets you chat with AI and create AI Characters.
 - [Text-Generator.io](https://text-generator.io) - Multimodal AI APIs for text and audio creation from text/images/speech.
+- [Yona.ai](https://yona.ai) - Converse with AI mirrors of yourself or loved ones for healing, nostalgia, and introspection.
 
 ### Search engines
 
@@ -52,6 +53,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Productivity
 
 - [Ready to Send](Ready to Send) - Auto-generated draft email replies for Gmail.
+- [Kadoa](https://kadoa.com) - Automate data extraction with AI, so you don't have to manually build scrapers, mappers, or classifiers.
 
 ### Meeting assistants
 
@@ -63,6 +65,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Makelog](https://makelog.com/gpt3) - Automatically generate changelog posts using GPT-3 and Jira, Linear, GitHub, Shortcut, and Asana issues, tasks, and pull requests.
 - [Wilco Sierra](https://trywilco.com/sierra) - A platform that generates engineering challenges for software engineers using AI.
+- [Vectara](https://vectara.com/) - A Generative AI product platform for developers. 
 
 ## Code
 
@@ -110,6 +113,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Deploy Prompt](https://deployprompt.com/) - A tool for prompt engineering that allows you to create and share prompts.
 - [GenerativeAI4Finance](https://github.com/GenerativeAI4Finance) - Framework, foundational models, tools for use cases in finance.
+- [SmoothRide](https://smoothri.de/) - AI tool for collaborative urban development, enhancing citizen input and municipal decision-making.
 
 ## Learning resources
 
