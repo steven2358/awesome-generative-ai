@@ -38,6 +38,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [GPT-4](https://openai.com/research/gpt-4) - Announcement of GPT-4, a large multimodal model. OpenAI blog, March 14, 2023.
 - [Sora](https://openai.com/research/video-generation-models-as-world-simulators) - Presentation of Sora, a large video generation model. OpenAI, February 15, 2024.
 
+
 ## Text
 
 ### Models
@@ -60,6 +61,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
 - [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation.
+- [PI.AI](https://pi.ai) - pi.ai is a personalized AI platform available as a digital assistant, offering answers and support to users. Pi's goal is to provide a fast, helpful, and friendly interaction experience including fast texto to speech inside the platform, Jun 2023
 
 ### Search engines
 
