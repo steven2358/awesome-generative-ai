@@ -55,7 +55,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 ### Chatbots
 
 - [ChatGPT](https://chat.openai.com/chat) - ChatGPT by OpenAI is a large language model that interacts in a conversational way.
-- [Bing Chat](https://www.bing.com/chat) - A conversational AI language model powered by Microsoft Bing.
+- [Copilot](https://copilot.microsoft.com/) - An everyday AI companion by Microsoft.
 - [Gemini](https://gemini.google.com/) - A family of multimodal large language model developed by Google Deepmind.
 - [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
