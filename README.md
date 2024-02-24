@@ -169,6 +169,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine tune LLM, CV and tabular models.
 - [Cursor](https://www.cursor.so/) - Cursor is the IDE of the future, built for pair-programming with Powerful AI.
 - [SymbolicAI](https://github.com/Xpitfire/symbolicai) - A neuro-symbolic framework for building applications with LLMs at the core.
+- [Ludwig](https://github.com/ludwig-ai/ludwig) - Ludwig is a low-code framework for building custom AI models like LLMs and other deep neural networks.
 
 ## Agents
 
