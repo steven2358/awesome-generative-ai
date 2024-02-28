@@ -48,6 +48,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AI Story Generator](https://www.aistorygenerator.org) - Free AI-powered story generator that writes creative short stories for you on any topic.
 - [NeuronWriter](https://www.neuronwriter.com/) - AI writer and NLP content editor with SEO focus.
 - [Regie.ai](https://regie.ai) - Automation of prospect research, message personalization, and email analysis.
+- [Athka.pro](https://athka.pro) - AI writer, YouTube Video Summarizer and RSS Content Generator.
 
 ### ChatGPT extensions
 
