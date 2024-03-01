@@ -234,8 +234,9 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 ### Image libraries
 
 - [Lexica](https://lexica.art/) - Stable Diffusion search engine.
-- [Libraire](https://libraire.ai/) - The largest library of AI-generated images.
 - [OpenArt](https://openart.ai/) - Search 10M+ of prompts, and generate AI art via Stable Diffusion, DALL·E 2.
+- [PromptHero](https://prompthero.com/) - Search prompts for models like Stable Diffusion, ChatGPT, Midjourney, etc.
+- [PromptBase](https://promptbase.com/) - Search prompts from top prompt engineers. Sell your own prompts.
 
 ### Model libraries
 
@@ -315,6 +316,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [ChatGPT prompt engineering for developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - A short course by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI).
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 - [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering) - Strategies and tactics for getting better results from large language models.
+- [PromptPerfect] - Tool for prompt engineering.
 
 ## More lists
 
