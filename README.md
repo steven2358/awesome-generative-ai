@@ -110,7 +110,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Forefront](https://www.forefront.ai/) - A Better ChatGPT Experience.
 
 ### Productivity
-
+- [Recall](https://www.getrecall.ai/) - Summarize Anything, Forget Nothing
 - [Mem](https://mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
 - [Taskade](https://www.taskade.com/) - Outline tasks, notes, generated structured lists and mind maps with Taskade AI.
 - [Notion AI](https://www.notion.so/product/ai) - Write better, more efficient notes and docs.
