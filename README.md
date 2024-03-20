@@ -15,6 +15,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Image](#image)
 - [Video](#video)
 - [Audio](#audio)
+- [Phone Call](#phone-call)
 - [Other](#other)
 - [Learning resources](#learning-resources)
 - [More lists](#more-lists)
@@ -296,6 +297,9 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Stable Audio](https://stability.ai/stable-audio) - Stable Audio is Stability AI's first product for music and sound effect generation.
 - [AIVA](https://www.aiva.ai/) - AI-based music generation assistant. Choose from 250+ styles.
 - [Suno AI](https://www.suno.ai/) - Anyone can make great music. No instrument needed, just imagination. From your mind to music.
+
+## Phone Call
+- [AICaller](https://aicaller.io/?ref=v) - AICaller is a simple-to-use automated bulk calling solution that uses the latest Generative AI technology to trigger phone calls for you and get things done. It can do things like lead qualification, data gathering over phone calls, and much more. It comes with a powerful API, low cost pricing and free trial.
 
 ## Other
 
