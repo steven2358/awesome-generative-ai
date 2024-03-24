@@ -109,6 +109,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [editGPT](https://www.editgpt.app/) - Easily proofread, edit, and track changes to your content in chatGPT.
 - [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [Source code](https://github.com/mckaywrigley/chatbot-ui).
 - [Forefront](https://www.forefront.ai/) - A Better ChatGPT Experience.
+- [AI Chat](https://chromewebstore.google.com/detail/ai-chat/edlcpchefdlohaedkcgffdakmflpfpnd) - Get direct answers on search via Retrieval-Augmented Generation (RAG), powered by ChatGPT.
 
 ### Productivity
 
