@@ -69,6 +69,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Metaphor](https://metaphor.systems/) - Language model powered search.
 - [Phind](https://phind.com/) - AI-based search engine.
 - [You.com](https://you.com/) - A search engine built on AI that provides users with a customized search experience while keeping their data 100% private.
+- [Kognitium](https://kognitium.com/) - an advanced AI that provides insightful information and ready-to-use code snippets for a wide range of topics to enrich your learning and exploration experience.
 
 ### Local search engines
 
