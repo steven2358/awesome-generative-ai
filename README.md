@@ -227,6 +227,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [KREA](https://www.krea.ai/) - Generate high quality visuals with an AI that knows about your styles, concepts, or products.
 - [Nightcafe](https://creator.nightcafe.studio/) - NightCafe Creator is an AI Art Generator app with multiple methods of AI art generation.
 - [Leonardo AI](https://leonardo.ai/) - Create production-quality visual assets for your projects with unprecedented quality, speed, and style.
+- [Suit me Up](https://suitmeup.pictures/) - Generate pictures of you wearing a suit with AI.
+- [AI Photo Forge](https://aiphotoforge.com/) - A Telegram bot to generate AI pictures of you.
 
 ### Graphic design
 
