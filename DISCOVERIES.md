@@ -44,6 +44,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Writing assistants
 
+- [DocGPT.AI]([https://www.neuronwriter.com/](https://docgpt.ai/gpt-for-sheets/) - GPT, Claude, Gemini, Mistral for Google Sheets - with SEO focus.
 - [Yarnit](https://www.yarnit.app/) - Yarnit, a digital storytelling application that uses generative AI to storyboard, research and design your ideas.
 - [AI Story Generator](https://www.aistorygenerator.org) - Free AI-powered story generator that writes creative short stories for you on any topic.
 - [NeuronWriter](https://www.neuronwriter.com/) - AI writer and NLP content editor with SEO focus.
