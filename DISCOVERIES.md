@@ -36,6 +36,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Text-Generator.io](https://text-generator.io) - Multimodal AI APIs for text and audio creation from text/images/speech.
 - [Yona.ai](https://yona.ai) - Converse with AI mirrors of yourself or loved ones for healing, nostalgia, and introspection.
 
+### Custom interfaces
+
 ### Search engines
 
 ### Local search engines
@@ -93,6 +95,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Picwish](https://picwish.com/) - Use PicWish AI photo editor to remove background, unblur image, and do more image editing.
 
 ### Graphic design
+
+- [Framer AI](https://www.framer.com/features/ai/) - Enhance your website using Framer's AI-powered tools.
 
 ### Image libraries
 
