@@ -138,6 +138,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Galactica](https://galactica.org/) - A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more. [Model API](https://github.com/paperswithcode/galai).
 - [Consensus](https://consensus.app/search/) - Consensus is a search engine that uses AI to find answers in scientific research.
 - [Synthical](https://synthical.com) - AI-powered collaborative research environment.
+- [scite](https://scite.ai/) - A platform for discovering and evaluating scientific articles.
 
 ### Other text generators
 
