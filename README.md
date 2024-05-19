@@ -165,6 +165,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [GPT-Code UI](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter.
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally.
+- [SQLAI.ai](https://www.sqlai.ai/) - Generate, fix, explain and optimize SQL, effortless get data insights and integrate your app with our RAG-powered AI generators.
 
 ### Developer tools
 
@@ -279,7 +280,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Animation
 
-- [Wonder Dynamics](https://wonderdynamics.com/) -  Effortlessly animate, light, and compose CG characters into live scenes.
+- [Wonder Dynamics](https://wonderdynamics.com/) - Effortlessly animate, light, and compose CG characters into live scenes.
 
 ## Audio
 
