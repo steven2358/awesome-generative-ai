@@ -178,6 +178,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Cursor](https://www.cursor.so/) - Cursor is the IDE of the future, built for pair-programming with Powerful AI.
 - [SymbolicAI](https://github.com/Xpitfire/symbolicai) - A neuro-symbolic framework for building applications with LLMs at the core.
 - [Ollama](https://github.com/ollama/ollama) - Get up and running with large language models locally.
+- [OpenLIT](https://github.com/openlit/openlit) - Open-source GenAI and LLM observability platform native to OpenTelemetry with traces and metrics.
 
 ## Agents
 
