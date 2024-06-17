@@ -275,6 +275,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Pictory](https://pictory.ai/) - Pictory's powerful AI enables you to create and edit professional quality videos using text.
 - [Pika](https://pika.art/) - An idea-to-video platform that brings your creativity to motion.
 - [HeyGen](https://app.heygen.com/) - Turn scripts into talking videos with customizable AI avatars in minutes.
+- [TopView](https://www.topview.ai/) - Turns your links or media assets into viral videos in one click, empowered by Youtube & Tiktok & Facebook ads library.
 - [Sora](https://openai.com/sora) - An AI model that can create realistic and imaginative scenes from text instructions.
 
 ### Animation
