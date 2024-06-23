@@ -277,6 +277,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Pika](https://pika.art/) - An idea-to-video platform that brings your creativity to motion.
 - [HeyGen](https://app.heygen.com/) - Turn scripts into talking videos with customizable AI avatars in minutes.
 - [Sora](https://openai.com/sora) - An AI model that can create realistic and imaginative scenes from text instructions.
+- [Luma Dearm Machine](https://lumalabs.ai/dream-machine) - An AI model that makes high quality, realistic videos fast from text and images.
 
 ### Animation
 
