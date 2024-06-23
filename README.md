@@ -178,6 +178,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Cursor](https://www.cursor.so/) - Cursor is the IDE of the future, built for pair-programming with Powerful AI.
 - [SymbolicAI](https://github.com/Xpitfire/symbolicai) - A neuro-symbolic framework for building applications with LLMs at the core.
 - [Ollama](https://github.com/ollama/ollama) - Get up and running with large language models locally.
+- [Vanna.ai](https://vanna.ai/) - An open-source Python RAG framework for SQL generation and related functionality.
 
 ## Agents
 
