@@ -148,7 +148,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 ## Coding
 
 ### Coding Assistants
-- [AmazonQ](https://aws.amazon.com/q/) - Amazon Q is a generative AI assistant for businesses that helps answer questions, write code, and automate tasks.
+
 - [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
 - [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - An AI system by OpenAI that translates natural language to code.
 - [Ghostwriter](https://blog.replit.com/ai) - An AI-powered pair programmer by replit.
@@ -165,6 +165,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [GPT-Code UI](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter.
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally.
+- [Amazon Q](https://aws.amazon.com/q/) - The AWS generative AI–powered assistant that helps answer questions, write code, and automate tasks.
 
 ### Developer tools
 
