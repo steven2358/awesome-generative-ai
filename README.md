@@ -62,6 +62,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
 - [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation.
 - [Pi](https://pi.ai) - A personalized AI platform available as a digital assistant.
+- [Employee X](https://employee-x.en.uptodown.com/windows/download) - Employee X is a free desktop software and WhatsApp Bot you can install on any Windows PCs and by simply scanning a QR you can start training your own: A.I. product salesman, A.I. customer attention specialist or A.I. appointment secretary.
 
 ### Custom interfaces
 
