@@ -97,6 +97,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Lavender](https://www.lavender.ai/) - Lavender email assistant helps you get more replies in less time.
 - [Lex](https://lex.page/) - A word processor with artificial intelligence baked in, so you can write faster.
 - [Jenni](https://jenni.ai/) - Jenni is the ultimate writing assistant that saves you hours of ideation and writing time.
+- [Samwell](https://samwell.ai/) - Samwell.ai is an academic essay generator that helps you write all types of academic essays with 100% accurate citations.
 - [LAIKA](https://www.writewithlaika.com/) - LAIKA trains an artificial intelligence on your own writing to create a personalised creative partner-in-crime.
 - [QuillBot](https://quillbot.com) - AI-powered paraphrasing tool.
 - [Postwise](https://postwise.ai/) - Write tweets, schedule posts and grow your following using AI.
@@ -283,7 +284,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Animation
 
-- [Wonder Dynamics](https://wonderdynamics.com/) -  Effortlessly animate, light, and compose CG characters into live scenes.
+- [Wonder Dynamics](https://wonderdynamics.com/) - Effortlessly animate, light, and compose CG characters into live scenes.
 
 ## Audio
 
