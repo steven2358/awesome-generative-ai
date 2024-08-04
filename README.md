@@ -76,6 +76,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Phind](https://phind.com/) - AI-based search engine.
 - [You.com](https://you.com/) - A search engine built on AI that provides users with a customized search experience while keeping their data 100% private.
 - [Komo](https://komo.ai/) - An AI-powered search engine.
+- [Nouswise](https://nouswise.com/) - The personalized search engine that provides trusted answers from your trusted sources.
 
 ### Local search engines
 
