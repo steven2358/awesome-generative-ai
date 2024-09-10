@@ -9,6 +9,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Recommended reading](#recommended-reading)
 - [Text](#text)
 - [Code](#code)
+- [Agents](#agents)
 - [Image](#image)
 - [Video](#video)
 - [Audio](#audio)
@@ -33,6 +34,9 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [GPT for iPhone](https://apps.apple.com/app/apple-store/id1669558411?pt=94765902&ct=awesomegenerativeai&mt=8) - An AI-powered assistant that can write essays on your iPhone.
 - [Netwrck.com](https://netwrck.com/) - Netwrck.com lets you chat with AI and create AI Characters.
 - [Text-Generator.io](https://text-generator.io) - Multimodal AI APIs for text and audio creation from text/images/speech.
+- [Yona.ai](https://yona.ai) - Converse with AI mirrors of yourself or loved ones for healing, nostalgia, and introspection.
+
+### Custom interfaces
 
 ### Search engines
 
@@ -45,12 +49,14 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Yarnit](https://www.yarnit.app/) - Yarnit, a digital storytelling application that uses generative AI to storyboard, research and design your ideas.
 - [AI Story Generator](https://www.aistorygenerator.org) - Free AI-powered story generator that writes creative short stories for you on any topic.
 - [NeuronWriter](https://www.neuronwriter.com/) - AI writer and NLP content editor with SEO focus.
+- [Regie.ai](https://regie.ai) - Automation of prospect research, message personalization, and email analysis.
 
 ### ChatGPT extensions
 
 ### Productivity
 
 - [Ready to Send](Ready to Send) - Auto-generated draft email replies for Gmail.
+- [Kadoa](https://kadoa.com) - Automate data extraction with AI, so you don't have to manually build scrapers, mappers, or classifiers.
 
 ### Meeting assistants
 
@@ -62,6 +68,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Makelog](https://makelog.com/gpt3) - Automatically generate changelog posts using GPT-3 and Jira, Linear, GitHub, Shortcut, and Asana issues, tasks, and pull requests.
 - [Wilco Sierra](https://trywilco.com/sierra) - A platform that generates engineering challenges for software engineers using AI.
+- [Vectara](https://vectara.com/) - A Generative AI product platform for developers. 
+- [Gdańsk AI](https://github.com/jmaczan/gdansk-ai) - Full stack AI voice chatbot (STT, LLM, TTS) with integrations to Auth0, OpenAI, Google Cloud and Stripe. #opensource
 
 ## Code
 
@@ -69,6 +77,12 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AiDA](https://www.bookmark.com/ai-website-builder) - Future proof your website with the power of AI. AiDA eliminates 90 percent of the pain points associated with web design.
 - [GitPoet](https://www.gitpoet.dev) - Generate accurate and meaningful commit messages based on your git diff.
 - [Safurai](https://www.safurai.com/) - Safurai is the AI Code Assistant that saves you time in changing, optimizing, and searching code.
+- [Framer AI](https://www.framer.com/ai) - Generate web sites using AI.
+- [AI Code Converter](https://aicodeconvert.com/) - AI Code Converter simplifies coding with AI by integrating AI Code Translator and AI Code Generator.
+
+## Agents
+
+### Autonomous agents
 
 ## Image
 
@@ -79,8 +93,13 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AI Art Generator iOS App](https://apps.apple.com/app/apple-store/id1644315225?pt=94765902&ct=awsomegenerativeai&mt=8) - Create art in seconds using your iPhone.
 - [AI Anime Art Generator iOS App](https://apps.apple.com/app/apple-store/id6445922691?pt=94765902&ct=awesomenegertiveai&mt=8) - Create anime art in seconds using your iPhone.
 - [ArtSmart](https://artsmart.ai/) - AI image generator that produces realistic images based on text and image prompts, featuring outpainting, pose control, and personalized avatar generation capabilities.
+- [joliGEN](https://github.com/jolibrain/joliGEN) - Generative AI Image Toolset with GANs and Diffusion for Real-World Applications.
+- [Picwish](https://picwish.com/) - Use PicWish AI photo editor to remove background, unblur image, and do more image editing.
+- [Human Generator](https://generated.photos/human-generator/) - Create hyperrealistic full-body photos of people in real time.
 
 ### Graphic design
+
+- [Framer AI](https://www.framer.com/features/ai/) - Enhance your website using Framer's AI-powered tools.
 
 ### Image libraries
 
@@ -97,10 +116,14 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Speech
 
 ### Music
+- [Boomy](https://boomy.com/) - Create original songs in seconds.
+- [Soundraw](https://soundraw.io/) - Create your beats with the power of AI.
 
 ## Other
 
 - [Deploy Prompt](https://deployprompt.com/) - A tool for prompt engineering that allows you to create and share prompts.
+- [GenerativeAI4Finance](https://github.com/GenerativeAI4Finance) - Framework, foundational models, tools for use cases in finance.
+- [SmoothRide](https://smoothri.de/) - AI tool for collaborative urban development, enhancing citizen input and municipal decision-making.
 
 ## Learning resources
 
