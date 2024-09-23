@@ -225,6 +225,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Helicone AI](https://helicone.ai/) - Open-source LLM observability platform for logging, monitoring, and debugging AI applications. [#opensource](https://github.com/Helicone/helicone)
 - [Wren AI](https://www.getwren.ai/oss) - An open-source text-to-SQL and generative BI agent with a semantic layer. [#opensource](https://github.com/Canner/WrenAI)
 - [Cleanlab](https://cleanlab.ai/tlm/) - An API for detecting and scoring hallucinations in LLM outputs.
+- [Opik](https://github.com/comet-ml/opik) - An open-source platform for tracing, evaluating, and monitoring LLM applications. [#opensource](https://github.com/comet-ml/opik)
 
 ### Playgrounds
 - [OpenAI Playground](https://platform.openai.com/playground) - Explore resources, tutorials, API docs, and dynamic examples.
