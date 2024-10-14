@@ -190,6 +190,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Text-to-speech
 
 - [Deepgram](https://deepgram.com/) - Real-time speech recognition and understanding with advanced AI.
+- [Kveeky](https://kveeky.com) - An AI text-to-speech tool for generating voiceovers with 100+ natural-sounding voices.
 
 ### Speech-to-text
 
