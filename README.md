@@ -101,6 +101,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [QuillBot](https://quillbot.com) - AI-powered paraphrasing tool.
 - [Postwise](https://postwise.ai/) - Write tweets, schedule posts and grow your following using AI.
 - [Copysmith](https://copysmith.ai/) - AI content creation solution for Enterprise & eCommerce.
+- [LogicBalls](https://logicballs.com/)	- An AI-powered writing tool to create any type of content and supercharge your productivity
 
 ### ChatGPT extensions
 
