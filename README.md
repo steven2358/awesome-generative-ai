@@ -166,6 +166,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [GPT-Code UI](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter.
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally.
+- [aider](https://aider.chat/) - Aider is AI pair programming in your terminal, supports all major model providers
 
 ### Developer tools
 
