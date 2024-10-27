@@ -106,6 +106,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Replit Agent](https://replit.com/products/agent) - AI coding agent that can build entire applications from prompts.
 - [Blackbox AI](https://www.blackbox.ai) - AI coding assistant that provides real-time code completion, documentation, debugging suggestions and integrations with a variety of developer tools.
 - [Fynix](https://www.fynix.ai/) - AI coding assistant with real-time code suggestions and agent-powered code reviews.
+- [Potpie](https://potpie.ai/) - AI agents for codebases, with pre-built agents for Q&A, testing, debugging, and system design. [#opensource](https://github.com/potpie-ai/potpie)
 
 ### Developer tools
 
