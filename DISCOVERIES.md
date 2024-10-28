@@ -89,6 +89,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Academia
 
+- [Perlego Research Assistant](https://www.perlego.com/research-assistant) - AI research assistant that answers queries by referencing academic books in the Perlego library.
+
 ### Leaderboards
 
 ### Other text generators
