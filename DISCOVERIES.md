@@ -36,6 +36,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Text-Generator.io](https://text-generator.io) - Multimodal AI APIs for text and audio creation from text/images/speech.
 - [Yona.ai](https://yona.ai) - Converse with AI mirrors of yourself or loved ones for healing, nostalgia, and introspection.
 
+### Custom interfaces
+
 ### Search engines
 
 ### Local search engines
@@ -68,6 +70,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Makelog](https://makelog.com/gpt3) - Automatically generate changelog posts using GPT-3 and Jira, Linear, GitHub, Shortcut, and Asana issues, tasks, and pull requests.
 - [Wilco Sierra](https://trywilco.com/sierra) - A platform that generates engineering challenges for software engineers using AI.
 - [Vectara](https://vectara.com/) - A Generative AI product platform for developers. 
+- [Gdańsk AI](https://github.com/jmaczan/gdansk-ai) - Full stack AI voice chatbot (STT, LLM, TTS) with integrations to Auth0, OpenAI, Google Cloud and Stripe. #opensource
 
 ## Code
 
@@ -76,6 +79,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [GitPoet](https://www.gitpoet.dev) - Generate accurate and meaningful commit messages based on your git diff.
 - [Safurai](https://www.safurai.com/) - Safurai is the AI Code Assistant that saves you time in changing, optimizing, and searching code.
 - [Framer AI](https://www.framer.com/ai) - Generate web sites using AI.
+- [AI Code Converter](https://aicodeconvert.com/) - AI Code Converter simplifies coding with AI by integrating AI Code Translator and AI Code Generator.
 
 ## Agents
 
@@ -92,8 +96,11 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [ArtSmart](https://artsmart.ai/) - AI image generator that produces realistic images based on text and image prompts, featuring outpainting, pose control, and personalized avatar generation capabilities.
 - [joliGEN](https://github.com/jolibrain/joliGEN) - Generative AI Image Toolset with GANs and Diffusion for Real-World Applications.
 - [Picwish](https://picwish.com/) - Use PicWish AI photo editor to remove background, unblur image, and do more image editing.
+- [Human Generator](https://generated.photos/human-generator/) - Create hyperrealistic full-body photos of people in real time.
 
 ### Graphic design
+
+- [Framer AI](https://www.framer.com/features/ai/) - Enhance your website using Framer's AI-powered tools.
 
 ### Image libraries
 
