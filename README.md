@@ -200,6 +200,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Custom assistants
 
+- [Twig](https://www.twig.so/) - Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7.
 - [Poe](https://poe.com/) - Poe gives access to a variety of bots.
 - [GPT Builder](https://chat.openai.com/gpts/editor) - Assistant for creating GPT-based assistants.
 - [GPTStore](https://gptstore.ai/) - Find useful GPTs. Share your own GPTs.
