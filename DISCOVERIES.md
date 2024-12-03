@@ -65,6 +65,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Yomu](https://www.yomu.ai) - AI writing assistant for students and academics.
 - [Samwell](https://samwell.ai/) - Samwell.ai is an academic essay generator that helps you write all types of academic essays with 100% accurate citations.
 - [LogicBalls](https://logicballs.com/) - An AI writing tool for generating blog posts, ads, emails, and social media content. Includes a prompt library.
+- [Publish7](https://publish7.com/) - Agentic platform for digital marketing.
 
 ### ChatGPT extensions
 
