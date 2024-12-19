@@ -130,6 +130,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Awesome CursorRules](https://github.com/PatrickJS/awesome-cursorrules) - A curated list of .cursorrules files for the Cursor AI code editor. #opensource
 - [Saplings](https://github.com/shobrook/saplings) - A library for building AI agents that use tree search algorithms to complete tasks. #opensource
 - [code-collator](https://github.com/tawandakembo/code-collator) - Compiles an entire codebase into a single markdown file for use as LLM context.
+- [Stacklok](https://stacklok.com/) - An open-source platform for securely deploying and managing MCP servers at scale. [#opensource](https://github.com/stacklok)
 
 ### Playgrounds
 
