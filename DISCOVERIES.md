@@ -110,6 +110,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Blackbox AI](https://www.blackbox.ai) - AI coding assistant that provides real-time code completion, documentation, debugging suggestions and integrations with a variety of developer tools.
 - [Fynix](https://www.fynix.ai/) - AI coding assistant with real-time code suggestions and agent-powered code reviews.
 - [Potpie](https://potpie.ai/) - AI agents for codebases, with pre-built agents for Q&A, testing, debugging, and system design. [#opensource](https://github.com/potpie-ai/potpie)
+- [Workshop](https://workshop.ai/) - A cloud and desktop AI platform for building websites, apps, dashboards, and internal tools from natural language.
 
 ### Developer tools
 
