@@ -66,6 +66,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Samwell](https://samwell.ai/) - Samwell.ai is an academic essay generator that helps you write all types of academic essays with 100% accurate citations.
 - [LogicBalls](https://logicballs.com/) - An AI writing tool for generating blog posts, ads, emails, and social media content. Includes a prompt library.
 - [Publish7](https://publish7.com/) - Agentic platform for digital marketing.
+- [WordLift Agent](https://wordlift.io/agent/) - AI agent for SEO tasks such as product descriptions, internal linking, and SERP analysis.
 
 ### ChatGPT extensions
 
