@@ -197,7 +197,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Devin](https://devin.ai/) - An autonomous AI software engineer by Cognition Labs.
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin) - An autonomous agent designed to navigate the complexities of software engineering. #opensource
 - [Davika](https://github.com/stitionai/devika) - An agentic AI software engineer. #opensource
-- [WordLift Agent](https://agent.wordlift.io/) - AI-powered SEO and content tool for e-commerce, automating product descriptions, authorship markup, and dynamic internal linking. Optimizes visibility with entity-driven insights, SERP analysis, and gap detection.
+- [WordLift Agent](https://agent.wordlift.io/) - AI-powered SEO and content agent for e-commerce, publishers and seo teams, automating product descriptions, authorship markup, and dynamic internal linking, ai overviews and more. Optimizes visibility with entity-driven insights, SERP analysis, and gap detection.
 
 ### Custom assistants
 
