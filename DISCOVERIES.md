@@ -128,6 +128,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ## Learning resources
 
 - [The AI-Powered Developer](https://www.manning.com/books/the-ai-powered-developer) - A book about techniques and best practices for getting the most out of AI-powered coding using tools like Copilot and ChatGPT.
+- [Scrimba JavaScript courses on AI](https://scrimba.com/allcourses?topic=ai) - An AI Engineer Path for JavaScript developers to get into building AI powered apps
 
 ## More lists
 
