@@ -63,7 +63,6 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
 - [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation.
 - [Pi](https://pi.ai) - A personalized AI platform available as a digital assistant.
-- [Broken Bear](https://brokenbear.com) - An AI Teddy Bear that you can vent to for free, online, and anonymously.
 
 ### Custom interfaces
 

@@ -37,6 +37,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Yona.ai](https://yona.ai) - Converse with AI mirrors of yourself or loved ones for healing, nostalgia, and introspection.
 - [AskVideo](https://www.askvideo.ai) - Chat with any Youtube Video.
 - [AskPPT](https://www.askppt.io/) - Chat with any Presentation.
+- [Broken Bear](https://brokenbear.com) - An AI Teddy Bear that you can vent to for free, online, and anonymously.
 
 ### Custom interfaces
 
