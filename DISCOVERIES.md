@@ -42,7 +42,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Local search engines
 
-- [Rewind](https://www.rewind.ai/) - Rewind captures everything you’ve seen on your Mac and iPhone and makes it searchable with AI.
+- [Rewind](https://www.rewind.ai/) - Rewind captures everything you've seen on your Mac and iPhone and makes it searchable with AI.
 
 ### Writing assistants
 
@@ -50,6 +50,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AI Story Generator](https://www.aistorygenerator.org) - Free AI-powered story generator that writes creative short stories for you on any topic.
 - [NeuronWriter](https://www.neuronwriter.com/) - AI writer and NLP content editor with SEO focus.
 - [Regie.ai](https://regie.ai) - Automation of prospect research, message personalization, and email analysis.
+- [Capitol AI](https://www.capitol.ai/) - A smart document creator with Capitol AI's fusion of smart research, data, and AI.
 
 ### ChatGPT extensions
 
