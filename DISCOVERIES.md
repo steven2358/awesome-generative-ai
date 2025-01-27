@@ -1,6 +1,6 @@
 # Generative AI Discoveries
 
-Welcome to the Discoveries list, a special showcase of up-and-coming Generative AI projects. This inclusive collection celebrates the diversity and creativity within the Generative AI community. If you're looking for the main list, you can find it [here](README.md).
+Welcome to the Discoveries list, a special showcase of up-and-coming Generative AI projects. This collection celebrates the diversity and creativity within the Generative AI community. If you're looking for the main list, you can find it [here](README.md).
 
 Before submitting your suggestions, please review the [Contribution Guidelines](CONTRIBUTING.md) to ensure your entries align with the criteria for the Discoveries List.
 
@@ -35,6 +35,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Netwrck.com](https://netwrck.com/) - Netwrck.com lets you chat with AI and create AI Characters.
 - [Text-Generator.io](https://text-generator.io) - Multimodal AI APIs for text and audio creation from text/images/speech.
 - [Yona.ai](https://yona.ai) - Converse with AI mirrors of yourself or loved ones for healing, nostalgia, and introspection.
+- [AskVideo](https://www.askvideo.ai) - Chat with any Youtube Video.
+- [AskPPT](https://www.askppt.io/) - Chat with any Presentation.
 
 ### Custom interfaces
 
@@ -56,8 +58,9 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Productivity
 
-- [Ready to Send](Ready to Send) - Auto-generated draft email replies for Gmail.
+- [Ready to Send](https://getreadytosend.com/) - Auto-generated draft email replies for Gmail.
 - [Kadoa](https://kadoa.com) - Automate data extraction with AI, so you don't have to manually build scrapers, mappers, or classifiers.
+- [MagicSlides.app](https://www.magicslides.app/) - Ideas to Professional Presentations in Seconds, with info from wikipedia, google with AI images.
 
 ### Meeting assistants
 

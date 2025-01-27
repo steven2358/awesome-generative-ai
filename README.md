@@ -63,8 +63,6 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
 - [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation.
 - [Pi](https://pi.ai) - A personalized AI platform available as a digital assistant.
-- [AskVideo](https://www.askvideo.ai) - Chat with any Youtube Video.
-- [AskPPT](https://www.askppt.io/) - Chat with any Presentation.
 
 ### Custom interfaces
 
@@ -143,7 +141,6 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Synthical](https://synthical.com) - AI-powered collaborative research environment.
 - [scite](https://scite.ai/) - A platform for discovering and evaluating scientific articles.
 - [SciSpace](https://typeset.io/) - An AI research assistant for understanding scientific literature.
-- [MagicSlides.app](https://www.magicslides.app/) - Ideas to Professional Presentations in Seconds, with info from wikipedia, google with AI images.
 
 ### Other text generators
 
