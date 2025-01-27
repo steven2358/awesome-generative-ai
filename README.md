@@ -140,6 +140,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Consensus](https://consensus.app/search/) - Consensus is a search engine that uses AI to find answers in scientific research.
 - [Synthical](https://synthical.com) - AI-powered collaborative research environment.
 - [scite](https://scite.ai/) - A platform for discovering and evaluating scientific articles.
+- [SciSpace](https://typeset.io/) - An AI research assistant for understanding scientific literature.
 
 ### Other text generators
 
