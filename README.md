@@ -63,6 +63,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
 - [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation.
 - [Pi](https://pi.ai) - A personalized AI platform available as a digital assistant.
+- [ChatbotsPlace](https://chatbotsplace.com) - Chat with many AI models such as ChatGPT, DeepSeek, Claude, Gemini, and Grok in one platform.
 
 ### Custom interfaces
 
