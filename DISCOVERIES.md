@@ -61,7 +61,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Ready to Send](https://getreadytosend.com/) - Auto-generated draft email replies for Gmail.
 - [Kadoa](https://kadoa.com) - Automate data extraction with AI, so you don't have to manually build scrapers, mappers, or classifiers.
-- [MagicSlides.app](https://www.magicslides.app/) - Ideas to Professional Presentations in Seconds, with info from wikipedia, google with AI images.
+- [MagicSlides.app](https://www.magicslides.app/) - Ideas to professional presentations in seconds, with info from Wikipedia, Google with AI images.
+- [MindMac](https://mindmac.app) - Feature-rich & privacy-first native ChatGPT app for macOS to use different chatbots all in one place.
 
 ### Meeting assistants
 
