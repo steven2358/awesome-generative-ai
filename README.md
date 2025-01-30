@@ -53,6 +53,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. #opensource
 - [Mixtral 8x7B](https://mistral.ai/news/mixtral-of-experts/) - A high-quality sparse mixture of experts model with open weights. #opensource
 - [Grok](https://grok.x.ai/) - An LLM by xAI with [open source](https://github.com/xai-org/grok-1) and open weights. #opensource
+- [Google AI Studio](https://aistudio.google.com/) - A web-based tool to prototype with Gemini and experimental models.
 
 ### Chatbots
 
