@@ -116,6 +116,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ## Video
 - [Twelve Labs](https://twelvelabs.io/) - Helping developers build programs that can see, listen, and understand the world through video understanding.
 
+### Avatars
+
 ### Animation
 
 ## Audio
