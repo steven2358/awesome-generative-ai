@@ -63,6 +63,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Kadoa](https://kadoa.com) - Automate data extraction with AI, so you don't have to manually build scrapers, mappers, or classifiers.
 - [MagicSlides.app](https://www.magicslides.app/) - Ideas to professional presentations in seconds, with info from Wikipedia, Google with AI images.
 - [MindMac](https://mindmac.app) - Feature-rich & privacy-first native ChatGPT app for macOS to use different chatbots all in one place.
+- [Agenda Hero](https://agendahero.com) - Generate beautiful, structured, shareable schedules with AI.
 
 ### Meeting assistants
 
