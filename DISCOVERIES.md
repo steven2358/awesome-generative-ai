@@ -76,6 +76,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Safurai](https://www.safurai.com/) - Safurai is the AI Code Assistant that saves you time in changing, optimizing, and searching code.
 - [AI Code Converter](https://aicodeconvert.com/) - AI Code Converter simplifies coding with AI by integrating AI Code Translator and AI Code Generator.
+- [Continue](https://www.continue.dev/) - Open-source AI code assistant. Connect any model and any context to create custom autocomplete and chat experiences inside the IDE. #opensource
 
 ### Developer tools
 
