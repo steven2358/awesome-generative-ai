@@ -35,6 +35,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Stable Diffusion Public Release](https://stability.ai/blog/stable-diffusion-public-release) - Announcement of the public release of Stable Diffusion, an AI-based image generation model trained on a broad internet scrape and licensed under a Creative ML OpenRAIL-M license. Stable Diffusion blog, 22 August, 2022.
 - [ChatGPT](https://openai.com/blog/chatgpt/) - Announcement of ChatGPT, a conversational model trained to answer follow-up questions, admit mistakes, challenge incorrect premises, and reject inappropriate requests. OpenAI blog, November 30, 2022.
 - [Bing Search](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) - Microsoft announces a new version of its search engine Bing, powered by a next-generation OpenAI model. Microsoft blog, February 7, 2023.
+- [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - Llama LLM, a foundational, 65-billion-parameter large language model by Meta. Meta, February 23rd, 2023. #opensource
 - [GPT-4](https://openai.com/research/gpt-4) - Announcement of GPT-4, a large multimodal model. OpenAI blog, March 14, 2023.
 - [DALL·E 3](https://openai.com/index/dall-e-3/) - Announcement of DALL·E 3 image generator. OpenAI blog, September 20, 2023.
 - [Sora](https://openai.com/research/video-generation-models-as-world-simulators) - Presentation of Sora, a large video generation model. OpenAI, February 15, 2024.
@@ -47,8 +48,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Gopher](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - Gopher by DeepMind is a 280 billion parameter language model.
 - [OPT](https://huggingface.co/facebook/opt-350m) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. [Announcement](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/). [OPT-175B text generation](https://opt.alpa.ai/) hosted by Alpa.
 - [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming languages. #opensource
-- [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - A foundational, 65-billion-parameter large language model by Meta. #opensource
-- [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open source large language model. #opensource
+- [Llama](https://www.llama.com/) - Meta's open source large language model. #opensource
 - [Claude](https://claude.ai/) - Talk to Claude, an AI assistant from Anthropic.
 - [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. #opensource
 - [Mixtral 8x7B](https://mistral.ai/news/mixtral-of-experts/) - A high-quality sparse mixture of experts model with open weights. #opensource
@@ -61,6 +61,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [ChatGPT](https://chatgpt.com/) - ChatGPT by OpenAI is a large language model that interacts in a conversational way.
 - [Copilot](https://copilot.microsoft.com/) - An everyday AI companion by Microsoft.
 - [Gemini](https://gemini.google.com/) - A family of multimodal large language model developed by Google Deepmind.
+- [Meta AI](https://www.meta.ai/) - Meta AI assistant to get things done, create AI-generated images, get answers. Built on Llama LLM.
 - [DeepSeek](https://www.deepseek.com/) - Cutting-edge LLMs for enterprise, consumer, and scientific applications. #opensource
 - [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
