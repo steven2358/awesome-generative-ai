@@ -57,7 +57,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Chatbots
 
-- [ChatGPT](https://chat.openai.com/chat) - ChatGPT by OpenAI is a large language model that interacts in a conversational way.
+- [ChatGPT](https://chatgpt.com/) - ChatGPT by OpenAI is a large language model that interacts in a conversational way.
 - [Copilot](https://copilot.microsoft.com/) - An everyday AI companion by Microsoft.
 - [Gemini](https://gemini.google.com/) - A family of multimodal large language model developed by Google Deepmind.
 - [DeepSeek](https://www.deepseek.com/) - Cutting-edge LLMs for enterprise, consumer, and scientific applications. #opensource
