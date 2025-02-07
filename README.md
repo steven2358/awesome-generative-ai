@@ -149,6 +149,10 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [scite](https://scite.ai/) - A platform for discovering and evaluating scientific articles.
 - [SciSpace](https://typeset.io/) - An AI research assistant for understanding scientific literature.
 
+### Leaderboards
+- [Chatbot Arena](https://lmarena.ai/) - An open platform for crowdsourced AI benchmarking, hosted by researchers at UC Berkeley SkyLab and LMArena.
+- [Artificial Analysis](https://artificialanalysis.ai/) - Artificial Analysis provides objective benchmarks & information to help choose AI models and hosting providers.
+
 ### Other text generators
 
 - [EmailTriager](https://www.emailtriager.com/) - Use AI to automatically draft email replies in the background.
@@ -191,6 +195,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Vanna.ai](https://vanna.ai/) - An open-source Python RAG framework for SQL generation and related functionality. [#opensource](https://github.com/vanna-ai/vanna)
 - [Portkey](https://portkey.ai/) - A full-stack LLMOps platform for LLM monitoring, caching, and management.
 - [agenta](https://github.com/agenta-ai/agenta) - An open-source end-to-end LLMOps platform for prompt engineering, evaluation, and deployment. #opensource
+- [Together AI](https://www.together.ai/) - Train, fine-tune-and run inference on AI models blazing fast, at low cost, and at production scale.
 
 ### Local LLM Deployment
 - [Ollama](https://github.com/ollama/ollama) - Get up and running with large language models locally.
