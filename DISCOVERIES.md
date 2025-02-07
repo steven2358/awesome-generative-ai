@@ -69,6 +69,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Academia
 
+### Leaderboards
+
 ### Other text generators
 
 ## Coding
