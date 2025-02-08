@@ -64,11 +64,9 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Meta AI](https://www.meta.ai/) - Meta AI assistant to get things done, create AI-generated images, get answers. Built on Llama LLM.
 - [DeepSeek](https://www.deepseek.com/) - Cutting-edge LLMs for enterprise, consumer, and scientific applications. #opensource
 - [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
-- [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
-- [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation.
 - [Pi](https://pi.ai) - A personalized AI platform available as a digital assistant.
 - [Qwen](https://chat.qwenlm.ai/) - Qwen chatbot with image generation, document processing, web search integration, video understanding, etc.
-- [Le Chat](https://chat.mistral.ai/)  - Chat with Mistral AI's cutting edge language models.
+- [Le Chat](https://chat.mistral.ai/)  - Chat with Mistral AI's cutting-edge language models.
 
 ### Custom interfaces
 
@@ -97,6 +95,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [HyperWrite](https://hyperwriteai.com/) - HyperWrite helps you write with confidence and get your work done faster from idea to final draft.
 - [Moonbeam](https://www.gomoonbeam.com/) - Better blogs in a fraction of the time.
 - [copy.ai](https://www.copy.ai/) - Write better marketing copy and content with AI.
+- [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation.
 - [Anyword](https://anyword.com/) - Anyword's AI writing assistant generates effective copy for anyone.
 - [Hypotenuse AI](https://www.hypotenuse.ai/) - Turn a few keywords into original, insightful articles, product descriptions and social media copy.
 - [Lavender](https://www.lavender.ai/) - Lavender email assistant helps you get more replies in less time.
@@ -123,6 +122,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Productivity
 
+- [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
 - [Mem](https://mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
 - [Taskade](https://www.taskade.com/) - Outline tasks, notes, generated structured lists and mind maps with Taskade AI.
 - [Notion AI](https://www.notion.so/product/ai) - Write better, more efficient notes and docs.
