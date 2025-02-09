@@ -133,6 +133,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Saplings](https://github.com/shobrook/saplings) - A library for building AI agents that use tree search algorithms to complete tasks. #opensource
 - [code-collator](https://github.com/tawandakembo/code-collator) - Compiles an entire codebase into a single markdown file for use as LLM context.
 - [Stacklok](https://stacklok.com/) - An open-source platform for securely deploying and managing MCP servers at scale. [#opensource](https://github.com/stacklok)
+- [Lunary](https://lunary.ai) - Open-source observability and prompt management platform for LLM apps and agents.
 
 ### Playgrounds
 
