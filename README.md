@@ -183,6 +183,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Developer tools
 
+- [Lunary](https://lunary.ai) - Lunary is an open-source observability and prompt platform for LLM chatbots and agents
 - [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
 - [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
