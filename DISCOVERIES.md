@@ -1,6 +1,6 @@
 # Generative AI Discoveries
 
-Welcome to the Discoveries list, a special showcase of up-and-coming Generative AI projects. This inclusive collection celebrates the diversity and creativity within the Generative AI community. If you're looking for the main list, you can find it [here](README.md).
+Welcome to the Discoveries list, a special showcase of up-and-coming Generative AI projects. This collection celebrates the diversity and creativity within the Generative AI community. If you're looking for the main list, you can find it [here](README.md).
 
 Before submitting your suggestions, please review the [Contribution Guidelines](CONTRIBUTING.md) to ensure your entries align with the criteria for the Discoveries List.
 
@@ -35,6 +35,9 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Netwrck.com](https://netwrck.com/) - Netwrck.com lets you chat with AI and create AI Characters.
 - [Text-Generator.io](https://text-generator.io) - Multimodal AI APIs for text and audio creation from text/images/speech.
 - [Yona.ai](https://yona.ai) - Converse with AI mirrors of yourself or loved ones for healing, nostalgia, and introspection.
+- [AskVideo](https://www.askvideo.ai) - Chat with any Youtube Video.
+- [AskPPT](https://www.askppt.io/) - Chat with any Presentation.
+- [Broken Bear](https://brokenbear.com) - An AI Teddy Bear that you can vent to for free, online, and anonymously.
 
 ### Custom interfaces
 
@@ -42,7 +45,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Local search engines
 
-- [Rewind](https://www.rewind.ai/) - Rewind captures everything you’ve seen on your Mac and iPhone and makes it searchable with AI.
+- [Rewind](https://www.rewind.ai/) - Rewind captures everything you've seen on your Mac and iPhone and makes it searchable with AI.
 
 ### Writing assistants
 
@@ -50,19 +53,32 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AI Story Generator](https://www.aistorygenerator.org) - Free AI-powered story generator that writes creative short stories for you on any topic.
 - [NeuronWriter](https://www.neuronwriter.com/) - AI writer and NLP content editor with SEO focus.
 - [Regie.ai](https://regie.ai) - Automation of prospect research, message personalization, and email analysis.
+- [Capitol AI](https://www.capitol.ai/) - A smart document creator with Capitol AI's fusion of smart research, data, and AI.
 
 ### ChatGPT extensions
 
 ### Productivity
 
-- [Ready to Send](Ready to Send) - Auto-generated draft email replies for Gmail.
+- [Ready to Send](https://getreadytosend.com/) - Auto-generated draft email replies for Gmail.
 - [Kadoa](https://kadoa.com) - Automate data extraction with AI, so you don't have to manually build scrapers, mappers, or classifiers.
+- [MagicSlides.app](https://www.magicslides.app/) - Ideas to professional presentations in seconds, with info from Wikipedia, Google with AI images.
+- [MindMac](https://mindmac.app) - Feature-rich & privacy-first native ChatGPT app for macOS to use different chatbots all in one place.
+- [Agenda Hero](https://agendahero.com) - Generate beautiful, structured, shareable schedules with AI.
 
 ### Meeting assistants
 
 ### Academia
 
+### Leaderboards
+
 ### Other text generators
+
+## Coding
+
+### Coding Assistants
+
+- [Safurai](https://www.safurai.com/) - Safurai is the AI Code Assistant that saves you time in changing, optimizing, and searching code.
+- [AI Code Converter](https://aicodeconvert.com/) - AI Code Converter simplifies coding with AI by integrating AI Code Translator and AI Code Generator.
 
 ### Developer tools
 
@@ -70,15 +86,12 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Wilco Sierra](https://trywilco.com/sierra) - A platform that generates engineering challenges for software engineers using AI.
 - [Vectara](https://vectara.com/) - A Generative AI product platform for developers. 
 - [Gdańsk AI](https://github.com/jmaczan/gdansk-ai) - Full stack AI voice chatbot (STT, LLM, TTS) with integrations to Auth0, OpenAI, Google Cloud and Stripe. #opensource
-
-## Code
-
 - [ZZZ Code AI](https://zzzcode.ai) - AI-powered free website to get any programming question answered or code generated.
 - [AiDA](https://www.bookmark.com/ai-website-builder) - Future proof your website with the power of AI. AiDA eliminates 90 percent of the pain points associated with web design.
 - [GitPoet](https://www.gitpoet.dev) - Generate accurate and meaningful commit messages based on your git diff.
-- [Safurai](https://www.safurai.com/) - Safurai is the AI Code Assistant that saves you time in changing, optimizing, and searching code.
 - [Framer AI](https://www.framer.com/ai) - Generate web sites using AI.
-- [AI Code Converter](https://aicodeconvert.com/) - AI Code Converter simplifies coding with AI by integrating AI Code Translator and AI Code Generator.
+
+### Local LLM Deployment
 
 ## Agents
 
@@ -108,6 +121,9 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Stable Diffusion resources
 
 ## Video
+- [Twelve Labs](https://twelvelabs.io/) - Helping developers build programs that can see, listen, and understand the world through video understanding.
+
+### Avatars
 
 ### Animation
 
@@ -128,6 +144,9 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ## Learning resources
 
 - [The AI-Powered Developer](https://www.manning.com/books/the-ai-powered-developer) - A book about techniques and best practices for getting the most out of AI-powered coding using tools like Copilot and ChatGPT.
+- [Scrimba JavaScript courses on AI](https://scrimba.com/allcourses?topic=ai) - An AI Engineer Path for JavaScript developers to get into building AI powered apps
+- [Learn AI-Assisted Python Programming](https://www.manning.com/books/learn-ai-assisted-python-programming) - A book by Leo Porter and Daniel Zingaro. Manning Publications, 2023.
+- [The Complete Obsolete Guide to Generative AI](https://www.manning.com/books/the-complete-obsolete-guide-to-generative-ai) - This book gives you the tools you need to work better, faster, and smarter with AI.  
 
 ## More lists
 
