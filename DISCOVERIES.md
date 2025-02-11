@@ -58,6 +58,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### ChatGPT extensions
 
+- [AI Character for GPT](https://chromewebstore.google.com/detail/ai-character-for-gpt/daoeioifimkjegafelcaljboknjkkohh) - Easily customize AI chatbots like ChatGPT and Google Gemini for better responses.
+
 ### Productivity
 
 - [Ready to Send](https://getreadytosend.com/) - Auto-generated draft email replies for Gmail.
