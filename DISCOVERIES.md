@@ -54,6 +54,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [NeuronWriter](https://www.neuronwriter.com/) - AI writer and NLP content editor with SEO focus.
 - [Regie.ai](https://regie.ai) - Automation of prospect research, message personalization, and email analysis.
 - [Capitol AI](https://www.capitol.ai/) - A smart document creator with Capitol AI's fusion of smart research, data, and AI.
+- [AI Humanize](https://aihumanize.io/) - Humanize AI transforms AI content into natural, human-like writing that bypasses all AI detection.
 
 ### ChatGPT extensions
 
@@ -90,6 +91,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AiDA](https://www.bookmark.com/ai-website-builder) - Future proof your website with the power of AI. AiDA eliminates 90 percent of the pain points associated with web design.
 - [GitPoet](https://www.gitpoet.dev) - Generate accurate and meaningful commit messages based on your git diff.
 - [Framer AI](https://www.framer.com/ai) - Generate web sites using AI.
+
+### Playgrounds
 
 ### Local LLM Deployment
 
@@ -140,6 +143,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Deploy Prompt](https://deployprompt.com/) - A tool for prompt engineering that allows you to create and share prompts.
 - [GenerativeAI4Finance](https://github.com/GenerativeAI4Finance) - Framework, foundational models, tools for use cases in finance.
 - [SmoothRide](https://smoothri.de/) - AI tool for collaborative urban development, enhancing citizen input and municipal decision-making.
+- [RIZZ AI](https://rizzai.ai/) - AI dating assistant for mastering Tinder with humor and psychology.
 
 ## Learning resources
 
