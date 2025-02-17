@@ -196,6 +196,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Portkey](https://portkey.ai/) - A full-stack LLMOps platform for LLM monitoring, caching, and management.
 - [agenta](https://github.com/agenta-ai/agenta) - An open-source end-to-end LLMOps platform for prompt engineering, evaluation, and deployment. #opensource
 - [Together AI](https://www.together.ai/) - Train, fine-tune-and run inference on AI models blazing fast, at low cost, and at production scale.
+- [MongoDB-RAG] - A Powerful NPM module that simplifies and enables developers to build / scaffold full-stack AI Applications with Vector Search at lightning speed.
 
 ### Playgrounds
 - [OpenAI Playground](https://platform.openai.com/playground) - Explore resources, tutorials, API docs, and dynamic examples.
