@@ -311,7 +311,6 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Luma Dream Machine](https://lumalabs.ai/dream-machine) - An AI model that makes high quality, realistic videos fast from text and images.
 - [Infinity AI](https://infinity.ai/) - Infinity is a video foundation model that allows you to craft your characters and then bring them to life.
 - [KLING AI](https://klingai.com/) - Tools for creating imaginative images and videos.
-- [invideo AI](https://invideo.io/) - Turn ideas into videos.
 
 ### Avatars
 
