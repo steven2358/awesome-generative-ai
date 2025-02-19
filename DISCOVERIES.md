@@ -139,6 +139,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Local LLM Deployment
 
+- [Minima](https://github.com/dmayboroda/minima) - On-premises RAG with configurable Docker containers. #opensource
+
 ## Agents
 
 ### Autonomous agents
