@@ -299,7 +299,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ## Video
 
-- [RunwayML](https://runwayml.com/) - Magical AI tools, realtime collaboration, precision editing, and more. Your next-generation content creation suite.
+- [Runway](https://runwayml.com/) - Magical AI tools, realtime collaboration, precision editing, and more. Your next-generation content creation suite.
 - [Synthesia](https://www.synthesia.io/) - Create videos from plain text in minutes.
 - [Rephrase AI](https://www.rephrase.ai/) - Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies.
 - [Hour One](https://hourone.ai/) - Turn text into video, featuring virtual presenters, automatically.
@@ -311,6 +311,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Luma Dream Machine](https://lumalabs.ai/dream-machine) - An AI model that makes high quality, realistic videos fast from text and images.
 - [Infinity AI](https://infinity.ai/) - Infinity is a video foundation model that allows you to craft your characters and then bring them to life.
 - [KLING AI](https://klingai.com/) - Tools for creating imaginative images and videos.
+- [Hailuo AI](https://hailuoai.video/) - AI-powered text-to-video generator.
 
 ### Avatars
 
