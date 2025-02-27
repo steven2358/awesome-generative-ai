@@ -59,6 +59,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### ChatGPT extensions
 
 - [AI Character for GPT](https://chromewebstore.google.com/detail/ai-character-for-gpt/daoeioifimkjegafelcaljboknjkkohh) - Easily customize AI chatbots like ChatGPT and Google Gemini for better responses.
+- [https://chromewebstore.google.com/detail/ai-summary-helper-openai/hldbejcjaedipeegjcinmhejdndchkmb](AI Summary Helper) - Get AI summaries of web content. Use Send To Kindle for reading on the go. [#opensource](https://github.com/philffm/ai-summary-helper)
 
 ### Productivity
 
@@ -161,5 +162,3 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Ai Finesse](https://www.aifinesse.com/) - Curated lists of AI applications and AI models with links and useful information.
 
 ### Lists on ChatGPT
-
-## Autonomous agents
