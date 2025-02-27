@@ -65,7 +65,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
 - [Pi](https://pi.ai) - A personalized AI platform available as a digital assistant.
 - [Qwen](https://chat.qwenlm.ai/) - Qwen chatbot with image generation, document processing, web search integration, video understanding, etc.
-- [Le Chat](https://chat.mistral.ai/)  - Chat with Mistral AI's cutting-edge language models.
+- [Le Chat](https://chat.mistral.ai/) - Chat with Mistral AI's cutting-edge language models.
 
 ### Custom interfaces
 
