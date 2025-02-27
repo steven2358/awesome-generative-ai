@@ -161,5 +161,6 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Awesome Vector Search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers.
 - [Ai Finesse](https://www.aifinesse.com/) - Curated lists of AI applications and AI models with links and useful information.
+- [Deliberative Prompting](https://github.com/logikon-ai/awesome-deliberative-prompting) - Papers & code about reliable reasoning and reason-responsive decision-making in LLMs.
 
 ### Lists on ChatGPT
