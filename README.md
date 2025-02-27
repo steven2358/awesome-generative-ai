@@ -327,7 +327,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Speech
 
-- [Eleven Labs](https://beta.elevenlabs.io/) - AI voice generator.
+- [Eleven Labs](https://elevenlabs.io/text-to-speech) - Text to Speech with high quality, human-like AI voice generator
 - [Resemble AI](https://www.resemble.ai/) - AI voice generator and voice cloning for text to speech.
 - [WellSaid](https://wellsaidlabs.com/) - Convert text to voice in real time.
 - [Play.ht](https://play.ht/) - AI Voice Generator. Generate realistic Text to Speech voice over online with AI. Convert text to audio.
@@ -346,6 +346,13 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [AIVA](https://www.aiva.ai/) - AI-based music generation assistant. Choose from 250+ styles.
 - [Suno AI](https://www.suno.ai/) - Anyone can make great music. No instrument needed, just imagination. From your mind to music.
 - [Udio](https://www.udio.com/) - Discover, create, and share music with the world.
+
+### Sound Effects
+
+- [OptimizerAI](https://optimizer.ai/) - AI Generated sounds for creators, game developers, artists, video makers.
+- [ElevenLabs](https://elevenlabs.io/sound-effects) - Generate any sound imaginable from a text prompt
+- [PopPop](https://poppop.ai/ai-sound-effect-generator) - Convert text to sound effect for free with instant AI sound effect generator
+- [LoudMe](https://loudme.ai/sound-effect-generator) - Generate Realistic And Dynamic Sound Effects With Text Prompts
 
 ## Other
 
