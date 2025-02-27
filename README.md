@@ -340,7 +340,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 ### Speech-to-text
 - [Whisper](https://openai.com/index/whisper/) - Robust speech recognition via large-scale weak supervision. [#opensource](https://github.com/openai/whisper)
 - [Wispr Flow](https://wisprflow.ai/) - Flow makes writing quick with seamless voice dictation for any application on your computer.
-- [Vibe Transcribe]() - all-in-one solution for effortless audio and video transcription. [#opensource](https://github.com/thewh1teagle/vibe)
+- [Vibe Transcribe](https://thewh1teagle.github.io/vibe/) - All-in-one solution for effortless audio and video transcription. [#opensource](https://github.com/thewh1teagle/vibe)
 - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++. #opensource
 
 
