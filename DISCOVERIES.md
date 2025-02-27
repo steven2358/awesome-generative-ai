@@ -136,7 +136,9 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ## Audio
 
-### Speech
+### Text-to-speech
+
+### Speech-to-text
 
 ### Music
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
