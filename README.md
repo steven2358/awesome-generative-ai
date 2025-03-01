@@ -271,6 +271,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Nightcafe](https://creator.nightcafe.studio/) - NightCafe Creator is an AI Art Generator app with multiple methods of AI art generation.
 - [Leonardo AI](https://leonardo.ai/) - Create production-quality visual assets for your projects with unprecedented quality, speed, and style.
 - [Recraft](https://www.recraft.ai/) - An AI tool that lets creators easily generate and iterate original images, vector art, illustrations, icons, and 3D graphics.
+- [Seede](https://seede.ai/) - Seede.ai is an AI-powered creation tool that makes poster accessible to all. No design skills needed, just describe and create.
 
 ### Graphic design
 
