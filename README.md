@@ -274,6 +274,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Graphic design
 
+- [PPT.AI](https://ppt.ai) - Create Stunning Presentations in Minutes – AI-Powered Design & Export
 - [Brandmark](https://brandmark.io/) - AI-based logo design tool.
 - [Gamma](https://gamma.app/) - Create beautiful presentations and webpages with none of the formatting and design work.
 - [Microsoft Designer](https://designer.microsoft.com/) - Stunning designs in a flash.
