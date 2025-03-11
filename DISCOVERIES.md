@@ -38,6 +38,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AskVideo](https://www.askvideo.ai) - Chat with any Youtube Video.
 - [AskPPT](https://www.askppt.io/) - Chat with any Presentation.
 - [Broken Bear](https://brokenbear.com) - An AI Teddy Bear that you can vent to for free, online, and anonymously.
+- [GPTHelp.ai](https://gpthelp.ai/) - AI customer support chatbot for your website.
 
 ### Custom interfaces
 
@@ -55,6 +56,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Regie.ai](https://regie.ai) - Automation of prospect research, message personalization, and email analysis.
 - [Capitol AI](https://www.capitol.ai/) - A smart document creator with Capitol AI's fusion of smart research, data, and AI.
 - [AI Humanize](https://aihumanize.io/) - Humanize AI transforms AI content into natural, human-like writing that bypasses all AI detection.
+- [Elephas](https://elephas.app/) - Personal AI writing assistant for the Mac.
+- [Taplio](https://taplio.com/) - All-in-one AI-powered LinkedIn tool.
 
 ### ChatGPT extensions
 
@@ -68,6 +71,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [MagicSlides.app](https://www.magicslides.app/) - Ideas to professional presentations in seconds, with info from Wikipedia, Google with AI images.
 - [MindMac](https://mindmac.app) - Feature-rich & privacy-first native ChatGPT app for macOS to use different chatbots all in one place.
 - [Agenda Hero](https://agendahero.com) - Generate beautiful, structured, shareable schedules with AI.
+- [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator) - AI formula generator for Google Sheets.
 
 ### Meeting assistants
 
@@ -76,6 +80,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Leaderboards
 
 ### Other text generators
+
+- [Never Jobless](https://neverjobless.com/) - Maximize your interview chances with AI-powered LinkedIn messaging.
 
 ## Coding
 
@@ -103,6 +109,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ## Agents
 
 ### Autonomous agents
+
+- [SiteGPT](https://sitegpt.ai/) - Make AI your expert customer support agent.
 
 ## Image
 
@@ -152,6 +160,9 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [SmoothRide](https://smoothri.de/) - AI tool for collaborative urban development, enhancing citizen input and municipal decision-making.
 - [RIZZ AI](https://rizzai.ai/) - AI dating assistant for mastering Tinder with humor and psychology.
 - [Shotstack Workflows](https://shotstack.io/product/workflows/) - No-code, automation workflow tool for building Generative AI media applications.
+- [Aispect](https://aispect.io/) - Turn live audio into stunning visuals.
+- [PressPulse AI](https://www.presspulse.ai/) - Get personalized media coverage leads every morning.
+- [GummySearch](https://gummysearch.com/) - AI-based customer research via Reddit.
 
 ## Learning resources
 
