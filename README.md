@@ -370,9 +370,6 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [FinChat](https://finchat.io/) - Using AI, FinChat generates answers to questions about public companies and investors.
 - [Morpher AI](https://morpher.com/ai) - Morpher AI delivers real-time insights and analysis for any market.
 - [Whimsical AI](https://whimsical.com/ai) - GPT-powered mind mapping, flowcharts, and visual tools for rapid idea development and process organization.
-- [Aispect](https://aispect.io/) - Turn live audio into stunning visuals.
-- [PressPulse AI](https://www.presspulse.ai/) - Get personalized media coverage leads every morning.
-- [GummySearch](https://gummysearch.com/) - AI-based customer research via Reddit.
 
 ## Learning resources
 
