@@ -104,6 +104,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [QuillBot](https://quillbot.com) - AI-powered paraphrasing tool.
 - [Postwise](https://postwise.ai/) - Write tweets, schedule posts and grow your following using AI.
 - [Copysmith](https://copysmith.ai/) - AI content creation solution for Enterprise & eCommerce.
+- [Elephas](https://elephas.app/) - Personal AI writing assistant for the Mac.
+- [Taplio](https://taplio.com/) - All-in-one AI-powered LinkedIn tool.
 
 ### ChatGPT extensions
 
@@ -128,6 +130,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Nekton AI](https://nekton.ai) - Automate your workflows with AI. Describe your workflows step by step in plain language.
 - [Rewind](https://www.rewind.ai/) - Rewind is a personalized AI powered by everything you've seen, said, or heard.
 - [NotebookLM](https://notebooklm.google/) - A research and note-taking online tool to interact with documents, powered by Google Gemini.
+- [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator) - AI formula generator for Google Sheets.
 
 ### Meeting assistants
 
@@ -153,10 +156,17 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Chatbot Arena](https://lmarena.ai/) - An open platform for crowdsourced AI benchmarking, hosted by researchers at UC Berkeley SkyLab and LMArena.
 - [Artificial Analysis](https://artificialanalysis.ai/) - Artificial Analysis provides objective benchmarks & information to help choose AI models and hosting providers.
 
+### Customer Support
+
+- [SiteGPT](https://sitegpt.ai/?ref=awesome-generative-ai) - Make AI your expert customer support agent.
+- [GPTHelp.ai](https://gpthelp.ai/?ref=awesome-generative-ai) - ChatGPT for your website / AI customer support chatbot.
+
+
 ### Other text generators
 
 - [EmailTriager](https://www.emailtriager.com/) - Use AI to automatically draft email replies in the background.
 - [AI Poem Generator](https://www.aipoemgenerator.org) - AI Poem Generator writes a beautiful rhyming poem for you on any subject, given a text prompt.
+- [Never Jobless LinkedIn Message Generator](https://neverjobless.com/?ref=awesome-generative-ai) - Maximize Your Interview Chances with AI-Powered LinkedIn Messaging.
 
 ## Coding
 
@@ -370,6 +380,9 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [FinChat](https://finchat.io/) - Using AI, FinChat generates answers to questions about public companies and investors.
 - [Morpher AI](https://morpher.com/ai) - Morpher AI delivers real-time insights and analysis for any market.
 - [Whimsical AI](https://whimsical.com/ai) - GPT-powered mind mapping, flowcharts, and visual tools for rapid idea development and process organization.
+- [Aispect](https://aispect.io/) - Turn live audio into stunning visuals.
+- [PressPulse AI](https://www.presspulse.ai/) - Get personalized media coverage leads every morning.
+- [GummySearch](https://gummysearch.com/) - AI-based customer research via Reddit.
 
 ## Learning resources
 
