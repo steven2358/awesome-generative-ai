@@ -58,6 +58,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AI Humanize](https://aihumanize.io/) - Humanize AI transforms AI content into natural, human-like writing that bypasses all AI detection.
 - [Elephas](https://elephas.app/) - Personal AI writing assistant for the Mac.
 - [Taplio](https://taplio.com/) - All-in-one AI-powered LinkedIn tool.
+- [Yomu](https://www.yomu.ai) - AI writing assistant for students and academics.
 
 ### ChatGPT extensions
 
