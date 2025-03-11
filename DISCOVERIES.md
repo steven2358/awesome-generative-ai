@@ -63,6 +63,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Makelog](https://makelog.com/gpt3) - Automatically generate changelog posts using GPT-3 and Jira, Linear, GitHub, Shortcut, and Asana issues, tasks, and pull requests.
 - [Wilco Sierra](https://trywilco.com/sierra) - A platform that generates engineering challenges for software engineers using AI.
+- [GPTRouter](https://gpt-router.writesonic.com/) - An open source LLM API Gateway that offers a universal API for 30+ LLMs, vision, and image models.
 
 ## Code
 
