@@ -101,6 +101,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [GitPoet](https://www.gitpoet.dev) - Generate accurate and meaningful commit messages based on your git diff.
 - [Framer AI](https://www.framer.com/ai) - Generate web sites using AI.
 - [Electron-BitNet](https://github.com/grctest/Electron-BitNet) - UI for running Microsoft's BitNet via Electron, React & Astro. #opensource
+- [GPTRouter](https://gpt-router.writesonic.com/) - An open source LLM API Gateway that offers a universal API for 30+ LLMs, vision, and image models.
 
 ### Playgrounds
 
