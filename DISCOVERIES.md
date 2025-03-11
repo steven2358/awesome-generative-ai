@@ -94,6 +94,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AiDA](https://www.bookmark.com/ai-website-builder) - Future proof your website with the power of AI. AiDA eliminates 90 percent of the pain points associated with web design.
 - [GitPoet](https://www.gitpoet.dev) - Generate accurate and meaningful commit messages based on your git diff.
 - [Framer AI](https://www.framer.com/ai) - Generate web sites using AI.
+- [Electron-BitNet](https://github.com/grctest/Electron-BitNet) - UI for running Microsoft's BitNet via Electron, React & Astro. #opensource
 
 ### Playgrounds
 
