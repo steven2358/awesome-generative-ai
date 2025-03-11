@@ -212,6 +212,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Jan](https://jan.ai/) - Run LLMs like Mistral or Llama2 locally and offline on your computer, or connect to remote AI APIs. [#opensource](https://github.com/janhq/jan)
 - [Msty](https://msty.app/) - A straightworward and powerful interface for local and online AI models.
 - [PyGPT](https://pygpt.net/) - Personal desktop AI assistant with chat, vision, agents, image generation, tools and commands, voice control and more. #opensource
+- [Minima](https://github.com/dmayboroda/minima) - Local customizable easy to deploy RAG Docker containers.
 
 ## Agents
 
