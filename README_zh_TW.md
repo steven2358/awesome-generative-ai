@@ -1,6 +1,6 @@
 # 精彩的生成式人工智慧 [![精彩](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-[English](https://github.com/steven2358/awesome-generative-ai/blob/main/README.md)/繁體中文/[Español](https://github.com/steven2358/awesome-generative-ai/blob/main/README_es.md)
+[English](README.md)/繁體中文/[Español](README_es.md)
 
 > 一份精選的現代生成式人工智慧（Generative AI）專案與服務清單。
 

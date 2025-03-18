@@ -1,6 +1,6 @@
 # Awesome Generative AI [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-[English](https://github.com/steven2358/awesome-generative-ai/blob/main/README.md)/[繁體中文](https://github.com/steven2358/awesome-generative-ai/blob/blob/main/README_zh_TW.md)
+[English](README.md)/[繁體中文](README_zh_TW.md)
 /Español
 
 > Una lista curada de los proyectos y servicios más innovadores de Inteligencia Artificial Generativa.
