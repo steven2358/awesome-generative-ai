@@ -1,6 +1,8 @@
 # Awesome Generative AI [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-English/[繁體中文](README_zh_TW.md)/[Español](README_es.md)
+[![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
+[![繁體中文](https://img.shields.io/badge/繁體中文-點選-orange)](README_zh_TW.md)
+[![Español](https://img.shields.io/badge/Español-Clic-green)](README_es.md)
 
 > A curated list of modern Generative Artificial Intelligence projects and services.
 
