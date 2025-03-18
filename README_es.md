@@ -116,6 +116,7 @@ de IA Generativa.
   científicas. #opensource
 - [GPTBots.ai](https://www.gptbots.ai/es_ES/) - GPTBots ayuda a las empresas a aprovechar la IA con agentes inteligentes para
   servicio al cliente, búsqueda empresarial y análisis de datos, haciendo que la IA trabaje para usted.
+- [DeepChat](https://github.com/ThinkInAIXYZ/deepchat/blob/main/README.md) - Un asistente de IA de escritorio gratuito que admite conversaciones múltiples, búsqueda web, cargas y bases de conocimiento.
 - [Character.AI](https://character.ai/) - Character.AI te permite crear personajes y chatear con ellos.
 - [Pi](https://pi.ai) - Una plataforma de IA personalizada disponible como asistente digital.
 - [Qwen](https://chat.qwenlm.ai/) - Chatbot Qwen con generación de imágenes, procesamiento de documentos, integración de

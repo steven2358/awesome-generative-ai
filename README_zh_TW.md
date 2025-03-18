@@ -89,6 +89,7 @@
 - [Meta AI](https://www.meta.ai/) - Meta AI 助手，幫助完成任務、創建 AI 生成的圖像、獲取答案。基於 Llama LLM 構建。
 - [DeepSeek](https://www.deepseek.com/) - 用於企業、消費者和科學應用的尖端 LLM。#opensource
 - [GPTBots.ai](https://www.gptbots.ai/zh_TW/) - GPTBots 幫助企業利用 AI 智慧體進行客戶服務、企業搜尋和數據洞察，使 AI 為您工作。
+- [DeepChat](https://github.com/ThinkInAIXYZ/deepchat/blob/main/README.md) - 一款免費的桌面 AI 助理，支援多輪對話、網路搜尋、上傳與知識庫。
 - [Character.AI](https://character.ai/) - Character.AI 讓您創建角色並與之聊天。
 - [Pi](https://pi.ai) - 一個可用作數字助手的個性化 AI 平台。
 - [Qwen](https://chat.qwenlm.ai/) - Qwen 聊天機器人，具有圖像生成、文檔處理、網頁搜尋集成、影片理解等功能。

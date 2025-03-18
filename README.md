@@ -65,6 +65,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Meta AI](https://www.meta.ai/) - Meta AI assistant to get things done, create AI-generated images, get answers. Built on Llama LLM.
 - [DeepSeek](https://www.deepseek.com/) - Cutting-edge LLMs for enterprise, consumer, and scientific applications. #opensource
 - [GPTBots.ai](https://www.gptbots.ai/) - GPTBots helps businesses harness AI with smart agents for customer service, enterprise search, and data insights—making AI work for you.
+- [DeepChat](https://github.com/ThinkInAIXYZ/deepchat/blob/main/README.md) - A free desktop AI assistant that supports multi-round chats, web search, uploads, and knowledge bases.
 - [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
 - [Pi](https://pi.ai) - A personalized AI platform available as a digital assistant.
 - [Qwen](https://chat.qwenlm.ai/) - Qwen chatbot with image generation, document processing, web search integration, video understanding, etc.
