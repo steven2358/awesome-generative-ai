@@ -1,5 +1,9 @@
 # Awesome Generative AI [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+[![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
+[![繁體中文](https://img.shields.io/badge/繁體中文-點選-orange)](README_zh_TW.md)
+[![Español](https://img.shields.io/badge/Español-Clic-green)](README_es.md)
+
 > A curated list of modern Generative Artificial Intelligence projects and services.
 
 Generative Artificial Intelligence is a technology that creates original content such as images, sounds, and texts by using machine learning algorithms that are trained on large amounts of data. Unlike other forms of AI, it is capable of creating unique and previously unseen outputs such as photorealistic images, digital art, music, and writing. These outputs often have their own unique style and can even be hard to distinguish from human-created works. Generative AI has a wide range of applications in fields such as of art, entertainment, marketing, academia, and computer science.
@@ -62,6 +66,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Gemini](https://gemini.google.com/) - A family of multimodal large language model developed by Google Deepmind.
 - [Meta AI](https://www.meta.ai/) - Meta AI assistant to get things done, create AI-generated images, get answers. Built on Llama LLM.
 - [DeepSeek](https://www.deepseek.com/) - Cutting-edge LLMs for enterprise, consumer, and scientific applications. #opensource
+- [GPTBots.ai](https://www.gptbots.ai/) - GPTBots helps businesses harness AI with smart agents for customer service, enterprise search, and data insights—making AI work for you.
+- [DeepChat](https://github.com/ThinkInAIXYZ/deepchat/blob/main/README.md) - A free desktop AI assistant that supports multi-round chats, web search, uploads, and knowledge bases.
 - [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
 - [Pi](https://pi.ai) - A personalized AI platform available as a digital assistant.
 - [Qwen](https://chat.qwenlm.ai/) - Qwen chatbot with image generation, document processing, web search integration, video understanding, etc.
