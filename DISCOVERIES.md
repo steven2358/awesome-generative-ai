@@ -73,6 +73,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [MindMac](https://mindmac.app) - Feature-rich & privacy-first native ChatGPT app for macOS to use different chatbots all in one place.
 - [Agenda Hero](https://agendahero.com) - Generate beautiful, structured, shareable schedules with AI.
 - [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator) - AI formula generator for Google Sheets.
+- [SageCollab](https://sagecollab.com/) - SageCollab brings team collaboration features to generative AI.
 
 ### Meeting assistants
 
