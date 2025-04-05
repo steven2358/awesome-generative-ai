@@ -135,6 +135,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Stacklok](https://stacklok.com/) - An open-source platform for securely deploying and managing MCP servers at scale. [#opensource](https://github.com/stacklok)
 - [Lunary](https://lunary.ai) - Open-source observability and prompt management platform for LLM apps and agents.
 - [Simplismart](https://www.simplismart.ai/) - Cloud-agnostic MLOps platform for deploying and scaling open-source and custom AI models.
+- [Fiddler.ai](https://www.fiddler.ai) - An AI observability and security platform for monitoring, evaluating, and governing LLM and GenAI applications.
 
 ### Playgrounds
 
