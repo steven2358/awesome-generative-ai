@@ -201,6 +201,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Repomix](https://repomix.com/) - Pack your codebase into AI-friendly formats. [#opensource](https://github.com/yamadashy/repomix)
 - [llama.cpp](https://github.com/ggml-org/llama.cpp) - Inference of Meta's LLaMA model (and others) in pure C/C++. #opensource
 - [bitnet.cpp](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs, by Microsoft. [#opensource](https://github.com/microsoft/BitNet)
+- [Fiddler.ai](https://www.fiddler.ai) - Fiddler is the all-in-one AI Observability and Security platform for responsible AI, providing monitoring, analytics, and centralized controls to operationalize ML, GenAI, and LLM applications with trust.
 
 ### Playgrounds
 - [OpenAI Playground](https://platform.openai.com/playground) - Explore resources, tutorials, API docs, and dynamic examples.
