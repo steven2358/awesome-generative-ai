@@ -238,6 +238,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Generative AI in Action](https://www.manning.com/books/generative-ai-in-action) - A book that shows how to add generative AI tools for text, images, and code, and more into your organization’s strategies and projects.
 - [Learn Generative AI with PyTorch](https://www.manning.com/books/learn-generative-ai-with-pytorch) - A book that teaches the underlying mechanics of generative AI by building working AI models from scratch.
 - [Udacity LLMOps Course](https://www.udacity.com/course/building-real-world-applications-with-large-language-models--cd13455) - Learn to build modern software with LLMs.
+- [Gemini by Example](https://geminibyexample.com) - A hands-on introduction to the Gemini API and SDK through annotated code examples. [#opensource](https://github.com/strickvl/geminibyexample)
 
 ## More lists
 
