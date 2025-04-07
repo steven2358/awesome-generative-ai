@@ -166,7 +166,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
 - [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - An AI system by OpenAI that translates natural language to code.
 - [Ghostwriter](https://blog.replit.com/ai) - An AI-powered pair programmer by replit.
-- [Amazon Q Developer]([https://aws.amazon.com/q/](https://aws.amazon.com/q/developer/build/?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el)) - AI coding assistant from AWS that provides both chat and agentic capabilities to answer questions, write code, and automate tasks.
+- [Amazon Q Developer]([https://aws.amazon.com/q/](https://aws.amazon.com/q/developer/build/?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) - AI coding assistant from AWS that provides both chat and agentic capabilities to answer questions, write code, and automate tasks.
 - [Amazon Q Developer CLI](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) - Open source CLI from AWS that provides command completion, command translation using generative AI to translate intent to commands, and a full agentic chat interface with context management that helps you write code
 - [tabnine](https://www.tabnine.com/) - Code faster with whole-line & full-function code completions.
 - [Stenography](https://stenography.dev/) - Automatic code documentation.
