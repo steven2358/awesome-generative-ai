@@ -230,6 +230,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Devin](https://devin.ai/) - An autonomous AI software engineer by Cognition Labs.
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin) - An autonomous agent designed to navigate the complexities of software engineering. #opensource
 - [Davika](https://github.com/stitionai/devika) - An agentic AI software engineer. #opensource
+- [MastraAI](https://github.com/mastra-ai/mastra) - Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly. It gives you the set of primitives you need: workflows, agents, RAG, integrations and evals. 
 
 ### Custom assistants
 
