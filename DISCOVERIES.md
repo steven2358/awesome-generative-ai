@@ -88,6 +88,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Meeting assistants
 - [Goelo](https://www.goelo.com/) - Goelo helps sales teams automatically fill their CRM by recording meetings to create summaries and generate a knowledge base.
+- [Equal Time](https://equaltime.io/) - An AI meeting assistant that transcribes calls, generates summaries, and tracks participation metrics for more inclusive meetings.
 
 ### Academia
 
