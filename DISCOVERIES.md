@@ -137,6 +137,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Lunary](https://lunary.ai) - Open-source observability and prompt management platform for LLM apps and agents.
 - [Simplismart](https://www.simplismart.ai/) - Cloud-agnostic MLOps platform for deploying and scaling open-source and custom AI models.
 - [Fiddler.ai](https://www.fiddler.ai) - An AI observability and security platform for monitoring, evaluating, and governing LLM and GenAI applications.
+- [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI for analyzing agentic workflows and surfacing security issues.
 
 ### Playgrounds
 
