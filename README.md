@@ -374,7 +374,6 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [FinChat](https://finchat.io/) - Using AI, FinChat generates answers to questions about public companies and investors.
 - [Morpher AI](https://morpher.com/ai) - Morpher AI delivers real-time insights and analysis for any market.
 - [Whimsical AI](https://whimsical.com/ai) - GPT-powered mind mapping, flowcharts, and visual tools for rapid idea development and process organization.
-- [PromptPal](https://promptpal.net) - Search for prompts and bots, then use them with your favourite AI. All in one place.
 
 ## Learning resources
 
