@@ -39,6 +39,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AskPPT](https://www.askppt.io/) - Chat with any Presentation.
 - [Broken Bear](https://brokenbear.com) - An AI Teddy Bear that you can vent to for free, online, and anonymously.
 - [GPTHelp.ai](https://gpthelp.ai/) - AI customer support chatbot for your website.
+- [Character Gateway](https://charactergateway.com/) - Create your own AI friends with 300+ models.
 
 ### Custom interfaces
 
