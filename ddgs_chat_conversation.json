@@ -1,0 +1,30 @@
+{
+  "vqd": "4-113847904561990923424187254567620474531",
+  "tokens": 1804,
+  "messages": [
+    {
+      "role": "user",
+      "content": "你好"
+    },
+    {
+      "role": "assistant",
+      "content": "你好！有什么我可以帮助你的吗？"
+    },
+    {
+      "role": "user",
+      "content": "幫我找一些github的開源項目，類似awesome deepseek integration"
+    },
+    {
+      "role": "assistant",
+      "content": "當然可以！以下是一些與深度學習和數據集成相關的 GitHub 開源項目，可能會對你有幫助：\n\n1. **Awesome Deep Learning** - 一個收集了各種深度學習資源的列表，包括框架、工具和數據集。\n   - GitHub: [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)\n\n2. **Deep Learning Frameworks** - 包含多種深度學習框架的比較和整合。\n   - GitHub: [Deep Learning Frameworks](https://github.com/aymericdamien/TensorFlow-Examples-2)\n\n3. **TensorFlow Datasets** - 一個用於構建和使用數據集的庫，與 TensorFlow 深度學習框架集成。\n   - GitHub: [TensorFlow Datasets](https://github.com/tensorflow/datasets)\n\n4. **Keras** - 一個高層次的神經網絡 API，支持多種後端，並且有許多集成的數據集和模型。\n   - GitHub: [Keras](https://github.com/keras-team/keras)\n\n5. **Pytorch Lightning** - 一個輕量級的 PyTorch 封裝，旨在簡化深度學習模型的訓練和測試過程。\n   - GitHub: [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning)\n\n6. **MLflow** - 一個開源平台，用於管理機器學習生命週期，包括實驗跟踪、模型管理和部署。\n   - GitHub: [MLflow](https://github.com/mlflow/mlflow)\n\n7. **DVC (Data Version Control)** - 一個開源工具，用於版本控制機器學習項目中的數據和模型。\n   - GitHub: [DVC](https://github.com/iterative/dvc)\n\n這些項目都可以幫助你在深度學習和數據集成方面進行探索和開發。如果你有特定的需求或想要更深入的項目，請告訴我！"
+    },
+    {
+      "role": "user",
+      "content": "最近一個月的有麼？"
+    },
+    {
+      "role": "assistant",
+      "content": "以下是最近一個月內在 GitHub 上發布的一些與深度學習和數據集成相關的開源項目（截至2023年10月）：\n\n1. **DeepSpeed** - 一個高效的深度學習訓練優化器，旨在加速大型模型的訓練。\n   - GitHub: [DeepSpeed](https://github.com/microsoft/DeepSpeed)\n\n2. **Hugging Face Transformers** - 提供了最新的自然語言處理模型和工具，最近有許多更新和新模型的集成。\n   - GitHub: [Transformers](https://github.com/huggingface/transformers)\n\n3. **PyTorch Geometric** - 用於圖神經網絡的擴展，最近有新的功能和改進。\n   - GitHub: [PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric)\n\n4. **OpenMMLab** - 一個開源的計算機視覺平台，最近有新的模型和工具的發布。\n   - GitHub: [OpenMMLab](https://github.com/open-mmlab)\n\n5. **Weights & Biases** - 一個機器學習實驗跟踪和管理平台，最近有新的功能和集成。\n   - GitHub: [Weights & Biases](https://github.com/wandb/wandb)\n\n你可以在 GitHub 上查看這些項目的最新動態和更新，了解它們的最新功能和改進。如果你需要更具體的項目或主題，請告訴我！"
+    }
+  ]
+}
