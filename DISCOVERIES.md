@@ -39,6 +39,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AskPPT](https://www.askppt.io/) - Chat with any Presentation.
 - [Broken Bear](https://brokenbear.com) - An AI Teddy Bear that you can vent to for free, online, and anonymously.
 - [GPTHelp.ai](https://gpthelp.ai/) - AI customer support chatbot for your website.
+- [Character Gateway](https://charactergateway.com/) - Create your own AI friends with 300+ models.
 
 ### Custom interfaces
 
@@ -166,6 +167,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Aispect](https://aispect.io/) - Turn live audio into stunning visuals.
 - [PressPulse AI](https://www.presspulse.ai/) - Get personalized media coverage leads every morning.
 - [GummySearch](https://gummysearch.com/) - AI-based customer research via Reddit.
+- [Promptimize](https://www.promptimizeai.com/) - A browser extension that gives anyone the powers of an expert prompt engineer.
 
 ## Learning resources
 
