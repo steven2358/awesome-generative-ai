@@ -238,6 +238,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Poe](https://poe.com/) - Poe gives access to a variety of bots.
 - [GPT Builder](https://chat.openai.com/gpts/editor) - Assistant for creating GPT-based assistants.
 - [GPTStore](https://gptstore.ai/) - Find useful GPTs. Share your own GPTs.
+- [FlavorGPT](https://flavorgpt.yesbhautikx.co.in/) - Get all LLM at one place being it GPT-4o, Gemini Pro, Claude 3 or LLaMa 3.
 
 ## Image
 
