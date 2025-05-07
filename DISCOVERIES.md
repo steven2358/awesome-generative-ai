@@ -114,6 +114,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Fynix](https://www.fynix.ai/) - AI coding assistant with real-time code suggestions and agent-powered code reviews.
 - [Potpie](https://potpie.ai/) - AI agents for codebases, with pre-built agents for Q&A, testing, debugging, and system design. [#opensource](https://github.com/potpie-ai/potpie)
 - [Workshop](https://workshop.ai/) - A cloud and desktop AI platform for building websites, apps, dashboards, and internal tools from natural language.
+- [Keploy](https://keploy.io) - Open-source AI testing agent for generating API, integration, and end-to-end tests. [#opensource](https://github.com/keploy/keploy)
 
 ### Developer tools
 
