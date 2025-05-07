@@ -115,6 +115,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Potpie](https://potpie.ai/) - AI agents for codebases, with pre-built agents for Q&A, testing, debugging, and system design. [#opensource](https://github.com/potpie-ai/potpie)
 - [Workshop](https://workshop.ai/) - A cloud and desktop AI platform for building websites, apps, dashboards, and internal tools from natural language.
 - [Keploy](https://keploy.io) - Open-source AI testing agent for generating API, integration, and end-to-end tests. [#opensource](https://github.com/keploy/keploy)
+- [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - CLI tool that translates natural-language prompts into shell commands and asks for confirmation before execution.
 
 ### Developer tools
 
