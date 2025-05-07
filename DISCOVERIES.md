@@ -93,6 +93,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Academia
 
 - [Perlego Research Assistant](https://www.perlego.com/research-assistant) - AI research assistant that answers queries by referencing academic books in the Perlego library.
+- [Qualitati](https://mimitalk.app/) - AI qualitative research software for AI-moderated interviews, thematic analysis, and conversational surveys.
 
 ### Leaderboards
 
