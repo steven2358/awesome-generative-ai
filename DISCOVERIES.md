@@ -132,6 +132,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Graphic design
 
 - [Framer AI](https://www.framer.com/features/ai/) - Enhance your website using Framer's AI-powered tools.
+- [PPT.AI](https://ppt.ai/) - Create professional presentations in minutes.
 
 ### Image libraries
 
