@@ -385,6 +385,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [PromptPerfect](https://promptperfect.jina.ai/) - Tool for prompt engineering.
 - [Anthropic courses](https://github.com/anthropics/courses) - Anthropic's educational courses.
 - [AI-Assisted Testing](https://www.manning.com/books/ai-assisted-testing) - A book about software testing with Large Language Model (LLM)-based AI.
+- [Automate Everyday Tasks with ChatGPT Plus](https://www.manning.com/books/automate-everyday-tasks-with-chatgpt-plus) - A practical, hype-free guide to ChatGPT Plus edition, including its new features for data analysis, vision, and image generation.
 
 ## More lists
 
