@@ -118,7 +118,6 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [ChatGPT for Jupyter](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - Add various helper functions in Jupyter Notebooks and Jupyter Lab, powered by ChatGPT.
 - [editGPT](https://www.editgpt.app/) - Easily proofread, edit, and track changes to your content in chatGPT.
 - [Forefront](https://www.forefront.ai/) - A Better ChatGPT Experience.
-- [YouTube Summary by TubeSum](https://tubesum.com/) — Summarize YouTube videos, extract key insights, share these summaries, and navigate to crucial sections using timestamps.
 
 ### Productivity
 
@@ -349,7 +348,6 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Wispr Flow](https://wisprflow.ai/) - Flow makes writing quick with seamless voice dictation for any application on your computer.
 - [Vibe Transcribe](https://thewh1teagle.github.io/vibe/) - All-in-one solution for effortless audio and video transcription. [#opensource](https://github.com/thewh1teagle/vibe)
 - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++. #opensource
-
 
 ### Music
 
