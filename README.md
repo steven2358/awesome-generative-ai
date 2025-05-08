@@ -384,6 +384,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering) - Strategies and tactics for getting better results from large language models.
 - [PromptPerfect](https://promptperfect.jina.ai/) - Tool for prompt engineering.
 - [Anthropic courses](https://github.com/anthropics/courses) - Anthropic's educational courses.
+- [AI-Assisted Testing](https://www.manning.com/books/ai-assisted-testing) - A book about software testing with Large Language Model (LLM)-based AI.
 
 ## More lists
 
