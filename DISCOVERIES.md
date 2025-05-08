@@ -178,6 +178,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Scrimba JavaScript courses on AI](https://scrimba.com/allcourses?topic=ai) - An AI Engineer Path for JavaScript developers to get into building AI powered apps
 - [Learn AI-Assisted Python Programming](https://www.manning.com/books/learn-ai-assisted-python-programming) - A book by Leo Porter and Daniel Zingaro. Manning Publications, 2023.
 - [The Complete Obsolete Guide to Generative AI](https://www.manning.com/books/the-complete-obsolete-guide-to-generative-ai) - This book gives you the tools you need to work better, faster, and smarter with AI.  
+- [AI-Assisted Testing](https://www.manning.com/books/software-testing-with-generative-ai) - A book about software testing with Large Language Model (LLM)-based AI.
 
 ## More lists
 
