@@ -203,6 +203,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [llama.cpp](https://github.com/ggml-org/llama.cpp) - Inference of Meta's LLaMA model (and others) in pure C/C++. #opensource
 - [bitnet.cpp](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs, by Microsoft. [#opensource](https://github.com/microsoft/BitNet)
 - [OpenRouter](https://openrouter.ai/) - A unified interface for LLMs. [#opensource](https://github.com/OpenRouterTeam)
+- [TensorZero](https://www.tensorzero.com/) - An open-source framework for building production-grade LLM applications that unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
 
 ### Playgrounds
 - [OpenAI Playground](https://platform.openai.com/playground) - Explore resources, tutorials, API docs, and dynamic examples.
