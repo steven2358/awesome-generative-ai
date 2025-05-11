@@ -181,6 +181,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally.
 - [Continue](https://www.continue.dev/) - Open-source AI code assistant. Connect any model and any context to create custom autocomplete and chat experiences inside the IDE. [#opensource](https://github.com/continuedev/continue)
+- [Keploy](https://keploy.io/) - AI powered Unit and API testing tool. Also provides an ai powered VS Code extension and a UTG PR agent that generates unit tests after each pull request.[#opensource](https://github.com/keploy/keploy)
 
 ### Developer tools
 
@@ -203,6 +204,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [llama.cpp](https://github.com/ggml-org/llama.cpp) - Inference of Meta's LLaMA model (and others) in pure C/C++. #opensource
 - [bitnet.cpp](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs, by Microsoft. [#opensource](https://github.com/microsoft/BitNet)
 - [OpenRouter](https://openrouter.ai/) - A unified interface for LLMs. [#opensource](https://github.com/OpenRouterTeam)
+- [Keploy](https://keploy.io/) - AI powered Unit and API testing tool. Also provides an ai powered VS Code extension and a UTG PR agent that generates unit tests after each pull request.[#opensource](https://github.com/keploy/keploy)
 
 ### Playgrounds
 - [OpenAI Playground](https://platform.openai.com/playground) - Explore resources, tutorials, API docs, and dynamic examples.
