@@ -71,6 +71,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 - [LibreChat](https://librechat.ai/) - LibreChat is a free and open-source chat interface for assistant AIs. [#opensource](https://github.com/danny-avila/LibreChat).
 - [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [#opensource](https://github.com/mckaywrigley/chatbot-ui).
+- [nGPT](https://github.com/nazdridoy/ngpt) - A command-line tool and interactive chatbot for working with various LLM providers (OpenAI, Ollama, Groq, Claude, Gemini). Features include code generation, git commit messages, text rewriting, and shell commands. [#opensource](https://github.com/nazdridoy/ngpt).
 
 ### Search engines
 
