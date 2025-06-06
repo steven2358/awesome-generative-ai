@@ -181,6 +181,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally.
 - [Continue](https://www.continue.dev/) - Open-source AI code assistant. Connect any model and any context to create custom autocomplete and chat experiences inside the IDE. [#opensource](https://github.com/continuedev/continue)
+- [GitHub Chat](https://githubchat.ai/) - Chat with any GitHub repository, file or wiki.
 
 ### Developer tools
 
@@ -203,6 +204,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [llama.cpp](https://github.com/ggml-org/llama.cpp) - Inference of Meta's LLaMA model (and others) in pure C/C++. #opensource
 - [bitnet.cpp](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs, by Microsoft. [#opensource](https://github.com/microsoft/BitNet)
 - [OpenRouter](https://openrouter.ai/) - A unified interface for LLMs. [#opensource](https://github.com/OpenRouterTeam)
+- [Universal Intelligence](https://github.com/blueraai/universal-intelligence): UIN aims to make AI development accessible to everyone through simple protocols and components. [#opensource](https://github.com/blueraai/universal-intelligence)
 
 ### Playgrounds
 - [OpenAI Playground](https://platform.openai.com/playground) - Explore resources, tutorials, API docs, and dynamic examples.
@@ -293,6 +295,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Model libraries
 
+- [Universal Intelligence](https://github.com/blueraai/universal-intelligence): UIN aims to make AI development accessible to everyone through simple protocols and components. [#opensource](https://github.com/blueraai/universal-intelligence)
 - [Civitai](https://civitai.com/) - Community driven AI model sharing tool.
 - [Stable Diffusion Models](https://rentry.org/sdmodels) - A comprehensive list of Stable Diffusion checkpoints on rentry.org.
 
@@ -374,6 +377,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [FinChat](https://finchat.io/) - Using AI, FinChat generates answers to questions about public companies and investors.
 - [Morpher AI](https://morpher.com/ai) - Morpher AI delivers real-time insights and analysis for any market.
 - [Whimsical AI](https://whimsical.com/ai) - GPT-powered mind mapping, flowcharts, and visual tools for rapid idea development and process organization.
+- [Agentic Web Protocol](https://github.com/blueraai/agentic-web-protocol) - AWP allows AI agents to reliably understand and interact with the web.
 
 ## Learning resources
 
@@ -385,6 +389,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [PromptPerfect](https://promptperfect.jina.ai/) - Tool for prompt engineering.
 - [Anthropic courses](https://github.com/anthropics/courses) - Anthropic's educational courses.
 - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) - A guide to building your own working LLM, by Sebastian Raschka.
+- [How to make a simple AI application](https://medium.com/@victor_bluera/how-to-make-a-simple-ai-application-faec90499359) - Interactive guide to building AI applications, by [Bluera](https://bluera.ai)
 
 ## More lists
 
