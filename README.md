@@ -407,3 +407,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [FlowGPT](https://flowgpt.com/) - Amplify your workflow with the best prompts.
 - [ChatGPT Prompts for Data Science](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) - A repository of useful data science prompts for ChatGPT.
 - [Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt) - Another awesome list for ChatGPT.
+
+
+- [QuickInput.AI](https://quickinput.ai/) - An AI writing assistant that seamlessly integrates into any application on your computer.
+
