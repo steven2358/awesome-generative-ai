@@ -188,7 +188,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
 - [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
-- [AI/ML API](https://aimlapi.com/app/?utm_source=awesome-generative-ai&utm_medium=github&utm_campaign=integration) - An AI/ML API provides 300+AI models, including Deepseek, Gemini and ChatGPT. These models operate with enterprise-class rate limiting and uptime.
+- [AI/ML API](https://aimlapi.com/app/?utm_source=awesome-generative-ai&utm_medium=github&utm_campaign=integration) - AI/ML API provides 300+ AI models including Deepseek, Gemini, ChatGPT. The models run at enterprise-grade rate limits and uptimes
 - [gpt4all](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.
 - [LLM App](https://github.com/pathwaycom/llm-app) - Open-source Python library to build real-time LLM-enabled data pipeline.
 - [LMQL](https://lmql.ai/) - LMQL is a query language for large language models.
