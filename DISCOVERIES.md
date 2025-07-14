@@ -131,6 +131,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [joliGEN](https://github.com/jolibrain/joliGEN) - Generative AI Image Toolset with GANs and Diffusion for Real-World Applications.
 - [Picwish](https://picwish.com/) - Use PicWish AI photo editor to remove background, unblur image, and do more image editing.
 - [Human Generator](https://generated.photos/human-generator/) - Create hyperrealistic full-body photos of people in real time.
+- [LogoGPT](https://chatgpt.com/g/g-z61XG6t54-logogpt) - Designs personalized logos from sketches.
 
 ### Graphic design
 
@@ -187,5 +188,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Awesome Vector Search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers.
 - [Ai Finesse](https://www.aifinesse.com/) - Curated lists of AI applications and AI models with links and useful information.
 - [Deliberative Prompting](https://github.com/logikon-ai/awesome-deliberative-prompting) - Papers & code about reliable reasoning and reason-responsive decision-making in LLMs.
+- [The Rundown AI List](https://www.rundown.ai/tools) - AI tools organized and categorized.
+- [GPT Tracker](https://gptstracker.com/) - Discover 1000+ GPTs & AI Tools.
 
 ### Lists on ChatGPT
