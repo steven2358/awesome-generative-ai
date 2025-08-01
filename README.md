@@ -182,6 +182,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally.
 - [Continue](https://www.continue.dev/) - Open-source AI code assistant. Connect any model and any context to create custom autocomplete and chat experiences inside the IDE. [#opensource](https://github.com/continuedev/continue)
+- [KeployAI](https://keploy.io) - Create precise tests right in your IDE—stay confident, ship faster.
+- [Keploy-PRAgent](https://github.com/apps/keploy) - Vertical AI, built just for testing.
 
 ### Developer tools
 
