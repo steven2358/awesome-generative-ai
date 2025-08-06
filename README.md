@@ -219,6 +219,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Msty](https://msty.app/) - A straightworward and powerful interface for local and online AI models.
 - [PyGPT](https://pygpt.net/) - Personal desktop AI assistant with chat, vision, agents, image generation, tools and commands, voice control and more. #opensource
 - [LLM](https://llm.datasette.io/) - A CLI utility and Python library for interacting with Large Language Models, remote and local. [#opensource](https://github.com/simonw/llm)
+- [LM Studio](https://lmstudio.ai) - Download and run local LLMs on your computer.
 
 ## Agents
 
