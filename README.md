@@ -155,6 +155,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Chatbot Arena](https://lmarena.ai/) - An open platform for crowdsourced AI benchmarking, hosted by researchers at UC Berkeley SkyLab and LMArena.
 - [Artificial Analysis](https://artificialanalysis.ai/) - Artificial Analysis provides objective benchmarks & information to help choose AI models and hosting providers.
 - [imgsys](https://imgsys.org/rankings) - A generative image model arena by fal.ai.
+- [OpenRouter LLM Rankings][https://openrouter.ai/rankings] - Language models ranked and analyzed by usage across apps.
 
 ### Other text generators
 
