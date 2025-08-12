@@ -128,6 +128,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Nekton AI](https://nekton.ai) - Automate your workflows with AI. Describe your workflows step by step in plain language.
 - [Rewind](https://www.rewind.ai/) - Rewind is a personalized AI powered by everything you've seen, said, or heard.
 - [NotebookLM](https://notebooklm.google/) - A research and note-taking online tool to interact with documents, powered by Google Gemini.
+- [MeetGeek.ai](https://meetgeek.ai) - Meeting productivity platform helping teams share meetings automatically, search, chat and stay aligned while having fewer calls.
 
 ### Meeting assistants
 
@@ -138,6 +139,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Fireflies.ai](https://fireflies.ai/) - Fireflies.ai helps your team transcribe, summarize, search, and analyze voice conversations.
 - [Read AI](https://www.read.ai/) - An AI copilot for wherever you work, making your meetings, emails, and messages more productive with summaries, content discovery, and recommendations.
 - [Fireflies.ai](https://fireflies.ai) - Transcribe, summarize, search, and analyze all your team conversations.
+- [MeetGeek.ai](https://meetgeek.ai) - AI meeting companion that auto records, summarizes, triggers personalized AI workflows and delivers shareable insights.
 
 ### Academia
 
