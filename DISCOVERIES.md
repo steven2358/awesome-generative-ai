@@ -216,6 +216,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Speech-to-text
 
+- [Typist](https://iamtypist.dev) - Fast audio transcription service powered by Whisper models hosted on Groq.
+
 ### Music
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
 - [Soundraw](https://soundraw.io/) - Create your beats with the power of AI.
