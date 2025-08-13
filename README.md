@@ -192,6 +192,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
 - [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
 - [gpt4all](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.
+- [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [LLM App](https://github.com/pathwaycom/llm-app) - Open-source Python library to build real-time LLM-enabled data pipeline.
 - [LMQL](https://lmql.ai/) - LMQL is a query language for large language models.
 - [LlamaIndex](https://www.llamaindex.ai/) - A data framework for building LLM applications over external data.
