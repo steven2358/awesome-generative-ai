@@ -143,6 +143,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Fiddler.ai](https://www.fiddler.ai) - An AI observability and security platform for monitoring, evaluating, and governing LLM and GenAI applications.
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI for analyzing agentic workflows and surfacing security issues.
 - [AI/ML API](https://aimlapi.com/) - Unified API for accessing multiple AI models across text, image, audio, and video.
+- [Codeflash](https://www.codeflash.ai/) - An AI tool that automatically finds optimized versions of Python code through benchmarking.
 
 ### Playgrounds
 
