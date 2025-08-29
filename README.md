@@ -353,6 +353,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Wispr Flow](https://wisprflow.ai/) - Flow makes writing quick with seamless voice dictation for any application on your computer.
 - [Vibe Transcribe](https://thewh1teagle.github.io/vibe/) - All-in-one solution for effortless audio and video transcription. [#opensource](https://github.com/thewh1teagle/vibe)
 - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++. #opensource
+- [Voice Clone](https://voice-clone.org/) - AI voice cloning tool that generates realistic speech from text. 
 
 ### Music
 
