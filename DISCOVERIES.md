@@ -203,6 +203,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Viggle AI](https://viggle.ai/) - AI-powered video generation with character animation and motion control.
 - [TopView](https://www.topview.ai/) - Turn your links or media assets into viral videos in one click.
 - [OpenCreator](https://opencreator.ai) - An all-in-one AI workspace for creating product visuals (images and videos) with workflow automation and batch generation.
+- [Viral Clips](https://viralclips.video/) - AI tool for creating short clips from conversational videos and podcasts.
 
 ### Avatars
 
