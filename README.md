@@ -128,6 +128,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Nekton AI](https://nekton.ai) - Automate your workflows with AI. Describe your workflows step by step in plain language.
 - [Rewind](https://www.rewind.ai/) - Rewind is a personalized AI powered by everything you've seen, said, or heard.
 - [NotebookLM](https://notebooklm.google/) - A research and note-taking online tool to interact with documents, powered by Google Gemini.
+- [FlatGem](https://github.com/FlatPotato/FlatGem) - A 100% free, open-source desktop GUI to bulk-process unlimited local files using Google's free Gemini API.
 
 ### Meeting assistants
 
