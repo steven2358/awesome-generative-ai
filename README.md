@@ -57,7 +57,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Mistral](https://mistral.ai/en/models) - Cutting-edge open-weight LLMs by Mistral AI. #opensource
 - [Grok](https://grok.x.ai/) - An LLM by xAI with [open source](https://github.com/xai-org/grok-1) and open weights. #opensource
 - [Qwen](https://qwenlm.github.io/) - A series of LLMs independently developed by Alibaba Cloud. [#opensource](https://github.com/QwenLM/Qwen)
-- [DeepSeek](https://www.deepseek.com/) - DeepSeek V3 and R1 series of LLMs by DeepSeek AI, known for strong reasoning capabilities. #opensource
+- [DeepSeek](https://huggingface.co/deepseek-ai) - DeepSeek V3 and R1 series of LLMs by DeepSeek AI, known for strong reasoning capabilities. [#opensource](https://github.com/deepseek-ai)
 
 ### Chatbots
 
@@ -189,7 +189,6 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally.
 - [Continue](https://www.continue.dev/) - Open-source AI code assistant. Connect any model and any context to create custom autocomplete and chat experiences inside the IDE. [#opensource](https://github.com/continuedev/continue)
 - [RooCode](https://github.com/RooCodeInc/Roo-Code) - An AI-powered autonomous coding agent integrated directly into VS Code. [#opensource](https://github.com/RooCodeInc/Roo-Code)
-- [Windsurf](https://windsurf.com/) - The world's first AI-native IDE that keeps developers in the flow while providing AI assistance.
 
 ### Developer tools
 
@@ -289,7 +288,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Leonardo AI](https://leonardo.ai/) - Create production-quality visual assets for your projects with unprecedented quality, speed, and style.
 - [Recraft](https://www.recraft.ai/) - An AI tool that lets creators easily generate and iterate original images, vector art, illustrations, icons, and 3D graphics.
 - [Reve Image](https://reve.art/) - A model trained from the ground up to excel at prompt adherence, aesthetics, and typography.
-- [Flux](https://blackforestlabs.ai/) - Next-generation text-to-image models by Black Forest Labs with high-quality photorealistic output.
+- [Flux](https://github.com/black-forest-labs/flux) - Next-generation text-to-image models by Black Forest Labs with high-quality photorealistic output. #opensource
 
 ### Graphic design
 

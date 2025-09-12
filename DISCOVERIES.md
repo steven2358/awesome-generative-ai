@@ -99,7 +99,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Safurai](https://www.safurai.com/) - Safurai is the AI Code Assistant that saves you time in changing, optimizing, and searching code.
 - [AI Code Converter](https://aicodeconvert.com/) - AI Code Converter simplifies coding with AI by integrating AI Code Translator and AI Code Generator.
-- [Bolt.new](https://bolt.new/) - Full-stack web development in the browser, powered by AI. [#opensource](https://github.com/StackBlitz/bolt.new)
+- [Bolt.new](https://bolt.new/) - Full-stack web development in the browser, powered by AI. Create apps and websites by chatting with AI. [#opensource](https://github.com/stackblitz-labs/bolt.diy)
 - [Replit Agent](https://replit.com/agent) - AI coding agent that can build entire applications from prompts.
 
 ### Developer tools
@@ -138,7 +138,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Picwish](https://picwish.com/) - Use PicWish AI photo editor to remove background, unblur image, and do more image editing.
 - [Human Generator](https://generated.photos/human-generator/) - Create hyperrealistic full-body photos of people in real time.
 - [LogoGPT](https://chatgpt.com/g/g-z61XG6t54-logogpt) - Designs personalized logos from sketches.
-- [Flux.1](https://blackforestlabs.ai/) - High-quality text-to-image generation by Black Forest Labs with exceptional prompt adherence.
+- [Flux.1](https://github.com/black-forest-labs/flux) - High-quality text-to-image generation by Black Forest Labs with exceptional prompt adherence. #opensource
 - [Krea AI](https://www.krea.ai/) - Real-time AI image generation and creative tools for artists and designers.
 - [Freepik AI](https://www.freepik.com/ai) - AI-powered design tools including image generation, background removal, and creative templates.
 
