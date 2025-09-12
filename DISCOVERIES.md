@@ -40,6 +40,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Broken Bear](https://brokenbear.com) - An AI Teddy Bear that you can vent to for free, online, and anonymously.
 - [GPTHelp.ai](https://gpthelp.ai/) - AI customer support chatbot for your website.
 - [Character Gateway](https://charactergateway.com/) - Create your own AI friends with 300+ models.
+- [AnythingLLM](https://anythingllm.com/) - Turn any document, resource, or piece of content into context that any LLM can use. [#opensource](https://github.com/Mintplex-Labs/anything-llm)
 
 ### Custom interfaces
 
@@ -76,6 +77,9 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Agenda Hero](https://agendahero.com) - Generate beautiful, structured, shareable schedules with AI.
 - [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator) - AI formula generator for Google Sheets.
 - [SageCollab](https://sagecollab.com/) - SageCollab brings team collaboration features to generative AI.
+- [Gamma](https://gamma.app/) - Create beautiful presentations and webpages with AI, no design skills needed.
+- [Tome](https://tome.app/) - AI-powered storytelling and presentation platform.
+- [Worksheets.ai](https://worksheets.ai/) - Generate educational worksheets and lesson plans with AI.
 
 ### Meeting assistants
 - [Goelo](https://www.goelo.com/) - Goelo helps sales teams automatically fill their CRM by recording meetings to create summaries and generate a knowledge base.
@@ -95,6 +99,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Safurai](https://www.safurai.com/) - Safurai is the AI Code Assistant that saves you time in changing, optimizing, and searching code.
 - [AI Code Converter](https://aicodeconvert.com/) - AI Code Converter simplifies coding with AI by integrating AI Code Translator and AI Code Generator.
+- [Bolt.new](https://bolt.new/) - Full-stack web development in the browser, powered by AI. [#opensource](https://github.com/StackBlitz/bolt.new)
+- [Replit Agent](https://replit.com/agent) - AI coding agent that can build entire applications from prompts.
 
 ### Developer tools
 
@@ -132,6 +138,9 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Picwish](https://picwish.com/) - Use PicWish AI photo editor to remove background, unblur image, and do more image editing.
 - [Human Generator](https://generated.photos/human-generator/) - Create hyperrealistic full-body photos of people in real time.
 - [LogoGPT](https://chatgpt.com/g/g-z61XG6t54-logogpt) - Designs personalized logos from sketches.
+- [Flux.1](https://blackforestlabs.ai/) - High-quality text-to-image generation by Black Forest Labs with exceptional prompt adherence.
+- [Krea AI](https://www.krea.ai/) - Real-time AI image generation and creative tools for artists and designers.
+- [Freepik AI](https://www.freepik.com/ai) - AI-powered design tools including image generation, background removal, and creative templates.
 
 ### Graphic design
 
@@ -147,6 +156,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ## Video
 - [Twelve Labs](https://twelvelabs.io/) - Helping developers build programs that can see, listen, and understand the world through video understanding.
 - [invideo AI](https://invideo.io/) - Turn ideas into videos.
+- [Haiper](https://www.haiper.ai/) - Create stunning videos with AI-powered tools for content creators.
+- [Viggle AI](https://viggle.ai/) - AI-powered video generation with character animation and motion control.
 
 ### Avatars
 
@@ -161,6 +172,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Music
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
 - [Soundraw](https://soundraw.io/) - Create your beats with the power of AI.
+- [Stable Audio](https://stability.ai/stable-audio) - Generate music and sound effects with Stability AI's audio model.
+- [Jammable](https://www.jammable.com/) - AI voice covers and music creation platform.
 
 ## Other
 

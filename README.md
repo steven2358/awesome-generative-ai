@@ -15,6 +15,9 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Image](#image)
 - [Video](#video)
 - [Audio](#audio)
+  - [Text-to-speech](#text-to-speech)
+  - [Speech-to-text](#speech-to-text)
+  - [Music](#music)
 - [Other](#other)
 - [Learning resources](#learning-resources)
 - [More lists](#more-lists)
@@ -54,6 +57,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Mistral](https://mistral.ai/en/models) - Cutting-edge open-weight LLMs by Mistral AI. #opensource
 - [Grok](https://grok.x.ai/) - An LLM by xAI with [open source](https://github.com/xai-org/grok-1) and open weights. #opensource
 - [Qwen](https://qwenlm.github.io/) - A series of LLMs independently developed by Alibaba Cloud. [#opensource](https://github.com/QwenLM/Qwen)
+- [DeepSeek](https://www.deepseek.com/) - DeepSeek V3 and R1 series of LLMs by DeepSeek AI, known for strong reasoning capabilities. #opensource
 
 ### Chatbots
 
@@ -66,6 +70,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Pi](https://pi.ai) - A personalized AI platform available as a digital assistant.
 - [Qwen](https://chat.qwenlm.ai/) - Qwen chatbot with image generation, document processing, web search integration, video understanding, etc.
 - [Le Chat](https://chat.mistral.ai/) - Chat with Mistral AI's cutting-edge language models.
+- [Windsurf](https://windsurf.com/) - An AI-native IDE that combines code editing with advanced AI assistance throughout the development process.
 
 ### Custom interfaces
 
@@ -155,7 +160,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Chatbot Arena](https://lmarena.ai/) - An open platform for crowdsourced AI benchmarking, hosted by researchers at UC Berkeley SkyLab and LMArena.
 - [Artificial Analysis](https://artificialanalysis.ai/) - Artificial Analysis provides objective benchmarks & information to help choose AI models and hosting providers.
 - [imgsys](https://imgsys.org/rankings) - A generative image model arena by fal.ai.
-- [OpenRouter LLM Rankings][https://openrouter.ai/rankings] - Language models ranked and analyzed by usage across apps.
+- [OpenRouter LLM Rankings](https://openrouter.ai/rankings) - Language models ranked and analyzed by usage across apps.
 
 ### Other text generators
 
@@ -183,7 +188,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally.
 - [Continue](https://www.continue.dev/) - Open-source AI code assistant. Connect any model and any context to create custom autocomplete and chat experiences inside the IDE. [#opensource](https://github.com/continuedev/continue)
-- [RooCode][https://github.com/RooCodeInc/Roo-Code] - An AI-powered autonomous coding agent integrated directly into VS Code. [#opensource](https://github.com/RooCodeInc/Roo-Code)
+- [RooCode](https://github.com/RooCodeInc/Roo-Code) - An AI-powered autonomous coding agent integrated directly into VS Code. [#opensource](https://github.com/RooCodeInc/Roo-Code)
+- [Windsurf](https://windsurf.com/) - The world's first AI-native IDE that keeps developers in the flow while providing AI assistance.
 
 ### Developer tools
 
@@ -212,6 +218,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [OpenAI Playground](https://platform.openai.com/playground) - Explore resources, tutorials, API docs, and dynamic examples.
 - [Google AI Studio](https://aistudio.google.com/) - A web-based tool to prototype with Gemini and experimental models.
 - [GitHub Models](https://github.com/marketplace/models) - Find and experiment with AI models to develop a generative AI application.
+- [Poe](https://poe.com/) - Access multiple AI models including Claude, GPT-4, Gemini and custom bots in one platform.
 
 ### Local LLM Deployment
 - [Ollama](https://github.com/ollama/ollama) - Get up and running with large language models locally.
@@ -282,6 +289,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Leonardo AI](https://leonardo.ai/) - Create production-quality visual assets for your projects with unprecedented quality, speed, and style.
 - [Recraft](https://www.recraft.ai/) - An AI tool that lets creators easily generate and iterate original images, vector art, illustrations, icons, and 3D graphics.
 - [Reve Image](https://reve.art/) - A model trained from the ground up to excel at prompt adherence, aesthetics, and typography.
+- [Flux](https://blackforestlabs.ai/) - Next-generation text-to-image models by Black Forest Labs with high-quality photorealistic output.
 
 ### Graphic design
 
@@ -324,6 +332,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Infinity AI](https://infinity.ai/) - Infinity is a video foundation model that allows you to craft your characters and then bring them to life.
 - [KLING AI](https://klingai.com/) - Tools for creating imaginative images and videos.
 - [Hailuo AI](https://hailuoai.video/) - AI-powered text-to-video generator.
+- [Haiper AI](https://www.haiper.ai/) - Video generation platform with focus on creative storytelling and visual effects.
+- [Dream Machine by Luma](https://lumalabs.ai/dream-machine) - High-quality, realistic video generation from text and images.
 
 ### Avatars
 
@@ -347,6 +357,13 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [VALL-E X](https://vallex-demo.github.io/) - A cross-lingual neural codec language model for cross-lingual speech synthesis.
 - [TorToiSe](https://github.com/neonbjb/tortoise-tts) - A multi-voice text-to-speech system trained with an emphasis on quality. #opensource
 - [Bark](https://github.com/suno-ai/bark) - A transformer-based text-to-audio model. #opensource
+- [OpenAI Whisper](https://openai.com/index/whisper/) - Robust speech recognition via large-scale weak supervision. [#opensource](https://github.com/openai/whisper)
+
+### Speech-to-text
+
+- [Whisper](https://openai.com/index/whisper/) - Robust speech recognition via large-scale weak supervision. [#opensource](https://github.com/openai/whisper)
+- [whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++. #opensource
+- [Deepgram](https://deepgram.com/) - Real-time speech recognition and understanding with advanced AI.
 
 ### Speech-to-text
 - [Whisper](https://openai.com/index/whisper/) - Robust speech recognition via large-scale weak supervision. [#opensource](https://github.com/openai/whisper)
