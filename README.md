@@ -157,6 +157,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [imgsys](https://imgsys.org/rankings) - A generative image model arena by fal.ai.
 - [OpenRouter LLM Rankings](https://openrouter.ai/rankings) - Language models ranked and analyzed by usage across apps.
 - [SEAL LLM Leaderboard](https://scale.com/leaderboard) - Expert-driven LLM benchmarks and updated AI model leaderboards.
+- [LLM Stats](https://llm-stats.com/) - Analyze and compare API models across benchmarks, pricing, and capabilities. Built on community data.
 
 ### Other text generators
 
