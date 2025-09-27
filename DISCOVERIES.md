@@ -183,6 +183,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [The Complete Obsolete Guide to Generative AI](https://www.manning.com/books/the-complete-obsolete-guide-to-generative-ai) - This book gives you the tools you need to work better, faster, and smarter with AI.  
 - [AI-Assisted Testing](https://www.manning.com/books/software-testing-with-generative-ai) - A book about software testing with Large Language Model (LLM)-based AI.
 - [Build a Website with ChatGPT](https://www.manning.com/books/build-a-website-with-chatgpt) - A web development beginner's guide to zero-coding web development using generative AI.
+- [Introduction to Generative AI](https://www.manning.com/books/introduction-to-generative-ai) - A book that guides you through benefits, risks, and limitations of Generative AI technology.
 
 ## More lists
 
