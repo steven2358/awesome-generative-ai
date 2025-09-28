@@ -117,6 +117,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ## Learning resources
 
 - [The AI-Powered Developer](https://www.manning.com/books/the-ai-powered-developer) - A book about techniques and best practices for getting the most out of AI-powered coding using tools like Copilot and ChatGPT.
+- [Learn Generative AI with PyTorch](https://www.manning.com/books/learn-generative-ai-with-pytorch) - A book that teaches the underlying mechanics of generative AI by building working AI models from scratch.
 
 ## More lists
 
