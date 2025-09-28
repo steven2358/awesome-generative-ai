@@ -110,6 +110,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Electron-BitNet](https://github.com/grctest/Electron-BitNet) - UI for running Microsoft's BitNet via Electron, React & Astro. #opensource
 - [GPTRouter](https://gpt-router.writesonic.com/) - An open source LLM API Gateway that offers a universal API for 30+ LLMs, vision, and image models.
 - [Ragie](https://www.ragie.ai/) - A fully managed RAG-as-a-Service platform for developers.
+- [Pixee](https://pixee.ai) - Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
 
 ### Playgrounds
 
