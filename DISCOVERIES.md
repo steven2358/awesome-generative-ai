@@ -76,6 +76,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Agenda Hero](https://agendahero.com) - Generate beautiful, structured, shareable schedules with AI.
 - [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator) - AI formula generator for Google Sheets.
 - [SageCollab](https://sagecollab.com/) - SageCollab brings team collaboration features to generative AI.
+- [Recall](https://www.getrecall.ai/) - A self-organizing knowledge base, where you can summarize and chat with any online content.
 
 ### Meeting assistants
 - [Goelo](https://www.goelo.com/) - Goelo helps sales teams automatically fill their CRM by recording meetings to create summaries and generate a knowledge base.
