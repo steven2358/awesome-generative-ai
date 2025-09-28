@@ -91,6 +91,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [ArtSmart](https://artsmart.ai/) - AI image generator that produces realistic images based on text and image prompts, featuring outpainting, pose control, and personalized avatar generation capabilities.
 - [joliGEN](https://github.com/jolibrain/joliGEN) - Generative AI Image Toolset with GANs and Diffusion for Real-World Applications.
 - [Picwish](https://picwish.com/) - Use PicWish AI photo editor to remove background, unblur image, and do more image editing.
+- [PlantPhotoAI](https://www.plantphotoai.com/) - Free AI-generated plant photos with botanical accuracy.
 
 ### Graphic design
 
