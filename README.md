@@ -311,7 +311,6 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [ChatGPT prompt engineering for developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - A short course by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI).
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 - [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering) - Strategies and tactics for getting better results from large language models.
-- [Generative AI in Action](https://www.manning.com/books/generative-ai-in-action) - A book that shows how to add generative AI tools for text, images, and code, and more into your organization’s strategies and projects.
 
 ## More lists
 
