@@ -136,6 +136,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Picwish](https://picwish.com/) - Use PicWish AI photo editor to remove background, unblur image, and do more image editing.
 - [Human Generator](https://generated.photos/human-generator/) - Create hyperrealistic full-body photos of people in real time.
 - [LogoGPT](https://chatgpt.com/g/g-z61XG6t54-logogpt) - Designs personalized logos from sketches.
+- [NanoImg](https://nanoimg.app) - Revolutionary AI image editor that transforms photos with simple text commands. Experience one-shot perfect edits with 3-second processing and studio-quality results. Features virtual try-on, background replacement, and text removal.
 
 ### Graphic design
 
