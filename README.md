@@ -155,7 +155,6 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [GPT-Code UI](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter.
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally.
-- [Blackbox AI](https://www.blackbox.ai) - AI coding assistant that provides real-time code completion, documentation, debugging suggestions and integrations with a variety of developer tools.
 
 ### Developer tools
 
