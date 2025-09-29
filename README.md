@@ -185,7 +185,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally.
 - [Continue](https://www.continue.dev/) - Open-source AI code assistant. Connect any model and any context to create custom autocomplete and chat experiences inside the IDE. [#opensource](https://github.com/continuedev/continue)
-- [RooCode][https://github.com/RooCodeInc/Roo-Code] - An AI-powered autonomous coding agent integrated directly into VS Code. [#opensource](https://github.com/RooCodeInc/Roo-Code)
+- [RooCode](https://github.com/RooCodeInc/Roo-Code) - An AI-powered autonomous coding agent integrated directly into VS Code. [#opensource](https://github.com/RooCodeInc/Roo-Code)
+- [Plandex](https://github.com/plandex-ai/plandex) - Open source, terminal-based AI programming engine for complex tasks. [#opensource](https://github.com/plandex-ai/plandex)
 
 ### Developer tools
 
