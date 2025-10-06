@@ -311,6 +311,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [PublicPrompts](https://publicprompts.art/) - A collection of free prompts for Stable Diffusion.
 - [Stableboost](https://stableboost.ai/) - Stableboost is a Stable Diffusion WebUI that lets you quickly generate a lot of images so you can find the perfect ones.
 - [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) - Python materials for the online course on diffusion models by [@huggingface](https://github.com/huggingface).
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) – Node-based, modular workflow UI for Stable Diffusion that enables flexible image and video generation pipelines.
 
 ## Video
 
@@ -337,6 +338,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 ### Animation
 
 - [Wonder Dynamics](https://wonderdynamics.com/) -  Effortlessly animate, light, and compose CG characters into live scenes.
+- [Wunjo](https://github.com/yourusername/Wunjo) – Open-source multimodal tool for generating and processing multimedia content using Generative AI (Face Swap, Lip Sync, Object/Text Removal, Voice Cloning, Audio Separation, and Video Generation).
+
 
 ## Audio
 
