@@ -239,6 +239,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Promptimize](https://www.promptimizeai.com/) - A browser extension that gives anyone the powers of an expert prompt engineer.
 - [Huntr](https://huntr.co/product/ai-resume-builder) - AI powered resume builder.
 - [Docket AI](https://docketai.com) - AI sales agent for reliably answering complex product questions.
+- [Chinese-Elite](https://github.com/anonym-g/Chinese-Elite) - An experimental project that uses LLMs to build a knowledge graph of Chinese political and business elites from public data. [#opensource](https://github.com/anonym-g/Chinese-Elite)
 
 ## Learning resources
 
