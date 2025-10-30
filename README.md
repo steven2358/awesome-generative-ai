@@ -394,6 +394,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [PromptPerfect](https://promptperfect.jina.ai/) - Tool for prompt engineering.
 - [Anthropic courses](https://github.com/anthropics/courses) - Anthropic's educational courses.
 - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) - A guide to building your own working LLM, by Sebastian Raschka.
+- [Build an AI Agent (From Scratch)](https://www.manning.com/books/build-an-ai-agent-from-scratch) - A step-by-step guide to creating a working AI agent.
 
 ## More lists
 
