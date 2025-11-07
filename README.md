@@ -270,7 +270,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Claude Code](https://code.claude.com) - Anthropic's agentic coding tool that lives in your terminal and helps you turn ideas into code.
 - [Gemini CLI](https://geminicli.com) - An open-source AI agent that brings the power of Gemini directly into your terminal. [#opensource](https://github.com/google-gemini/gemini-cli)
 - [OpenCode](https://opencode.ai) - The open-source AI coding agent. [#opensource](https://github.com/anomalyco/opencode)
-- [Mastra](https://mastra.ai) - An all-in-one framework for building AI-powered applications and agents.
+- [Mastra](https://mastra.ai) - A TypeScript framework for building AI agents, workflows, and applications. [#opensource](https://github.com/mastra-ai/mastra)
 - [OpenClaw](https://openclaw.ai) - A personal AI assistant you run on your own devices. [#opensource](https://github.com/clawdbot/clawdbot)
 - [moltbook](https://www.moltbook.com) - A social network for AI agents.
 - [AgentMail](https://www.agentmail.to) - Email inboxes for AI agents.
