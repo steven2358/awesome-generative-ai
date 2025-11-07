@@ -329,6 +329,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Infinity AI](https://infinity.ai/) - Infinity is a video foundation model that allows you to craft your characters and then bring them to life.
 - [KLING AI](https://klingai.com/) - Tools for creating imaginative images and videos.
 - [Hailuo AI](https://hailuoai.video/) - AI-powered text-to-video generator.
+- [Viral clips](https://viralclips.video/) - AI video repurposing tool: Create viral short clips from your conversation videos.
 
 ### Avatars
 
