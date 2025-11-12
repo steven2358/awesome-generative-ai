@@ -288,6 +288,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Leonardo AI](https://leonardo.ai/) - Create production-quality visual assets for your projects with unprecedented quality, speed, and style.
 - [Recraft](https://www.recraft.ai/) - An AI tool that lets creators easily generate and iterate original images, vector art, illustrations, icons, and 3D graphics.
 - [Reve Image](https://reve.art/) - A model trained from the ground up to excel at prompt adherence, aesthetics, and typography.
+- [Gempix2 (Nano Banana 2)](https://gempix2.site) - Free AI image generation platform with text-to-image, AI editing, and video generation support using second-generation Nano Banana model. No registration required.
 
 ### Graphic design
 
