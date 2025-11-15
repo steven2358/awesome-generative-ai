@@ -287,6 +287,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Leonardo AI](https://leonardo.ai/) - Create production-quality visual assets for your projects with unprecedented quality, speed, and style.
 - [Recraft](https://www.recraft.ai/) - An AI tool that lets creators easily generate and iterate original images, vector art, illustrations, icons, and 3D graphics.
 - [Reve Image](https://reve.art/) - A model trained from the ground up to excel at prompt adherence, aesthetics, and typography.
+- [Fast Image AI](https://fastimage.ai/) - A browser-based AI tool that transforms photos into artistic styles like Ghibli or Sketch with fast generation and customizable prompts.
+
 
 ### Graphic design
 
