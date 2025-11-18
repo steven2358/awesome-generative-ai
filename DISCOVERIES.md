@@ -125,6 +125,10 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Autonomous agents
 
+- [BrainSoup](https://www.nurgo-software.com/products/brainsoup) Versatile multi-LLM & multi-agent client with RAG, multi-modality, automation, code interpreter, sandboxed file system and more.
+
+### Custom assistants
+
 - [SiteGPT](https://sitegpt.ai/) - Make AI your expert customer support agent.
 
 ## Image
