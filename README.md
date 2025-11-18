@@ -44,7 +44,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Models
 
-- [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT-3 and GPT-4 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code.
+- [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT-4 and GPT-5 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code.
 - [Gopher](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - Gopher by DeepMind is a 280 billion parameter language model.
 - [OPT](https://huggingface.co/facebook/opt-350m) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. [Announcement](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/). [OPT-175B text generation](https://opt.alpa.ai/) hosted by Alpa.
 - [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming languages. #opensource
@@ -54,6 +54,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Mistral](https://mistral.ai/en/models) - Cutting-edge open-weight LLMs by Mistral AI. #opensource
 - [Grok](https://grok.x.ai/) - An LLM by xAI with [open source](https://github.com/xai-org/grok-1) and open weights. #opensource
 - [Qwen](https://qwenlm.github.io/) - A series of LLMs independently developed by Alibaba Cloud. [#opensource](https://github.com/QwenLM/Qwen)
+- [DeepSeek](https://huggingface.co/deepseek-ai) - DeepSeek V3 and R1 series of LLMs by DeepSeek AI. [#opensource](https://github.com/deepseek-ai)
 
 ### Chatbots
 
@@ -186,6 +187,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally.
 - [Continue](https://www.continue.dev/) - Open-source AI code assistant. Connect any model and any context to create custom autocomplete and chat experiences inside the IDE. [#opensource](https://github.com/continuedev/continue)
 - [RooCode](https://github.com/RooCodeInc/Roo-Code) - An AI-powered autonomous coding agent integrated directly into VS Code. [#opensource](https://github.com/RooCodeInc/Roo-Code)
+- [Windsurf](https://windsurf.com/) - An AI-native IDE that combines code editing with advanced AI assistance throughout the development process.
 - [Plandex](https://github.com/plandex-ai/plandex) - Open source, terminal-based AI programming engine for complex tasks. [#opensource](https://github.com/plandex-ai/plandex)
 
 ### Developer tools
@@ -259,6 +261,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Imagen](https://imagen.research.google/) - Imagen by Google is a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding.
 - [Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/) - Make-A-Scene by Meta is a multimodal generative AI method puts creative control in the hands of people who use it by allowing them to describe and illustrate their vision through both text descriptions and freeform sketches.
 - [DragGAN](https://github.com/XingangPan/DragGAN) - Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.
+- [Flux](https://github.com/black-forest-labs/flux) - Text-to-image models by Black Forest Labs with high-quality photorealistic output. #opensource
 
 ### Services
 
