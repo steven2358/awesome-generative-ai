@@ -151,12 +151,14 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [scite](https://scite.ai/) - A platform for discovering and evaluating scientific articles.
 - [SciSpace](https://typeset.io/) - An AI research assistant for understanding scientific literature.
 - [STORM](https://storm.genie.stanford.edu/) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. [#opensource](https://github.com/stanford-oval/storm/)
+- [alphaXiv](https://www.alphaxiv.org) - Discuss, discover, and read arXiv papers.
 
 ### Leaderboards
 - [Chatbot Arena](https://lmarena.ai/) - An open platform for crowdsourced AI benchmarking, hosted by researchers at UC Berkeley SkyLab and LMArena.
 - [Artificial Analysis](https://artificialanalysis.ai/) - Artificial Analysis provides objective benchmarks & information to help choose AI models and hosting providers.
 - [imgsys](https://imgsys.org/rankings) - A generative image model arena by fal.ai.
 - [OpenRouter LLM Rankings](https://openrouter.ai/rankings) - Language models ranked and analyzed by usage across apps.
+- [SEAL LLM Leaderboard](https://scale.com/leaderboard) - Expert-driven LLM benchmarks and updated AI model leaderboards.
 
 ### Other text generators
 
@@ -186,6 +188,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Continue](https://www.continue.dev/) - Open-source AI code assistant. Connect any model and any context to create custom autocomplete and chat experiences inside the IDE. [#opensource](https://github.com/continuedev/continue)
 - [RooCode](https://github.com/RooCodeInc/Roo-Code) - An AI-powered autonomous coding agent integrated directly into VS Code. [#opensource](https://github.com/RooCodeInc/Roo-Code)
 - [Windsurf](https://windsurf.com/) - An AI-native IDE that combines code editing with advanced AI assistance throughout the development process.
+- [Plandex](https://github.com/plandex-ai/plandex) - Open source, terminal-based AI programming engine for complex tasks. [#opensource](https://github.com/plandex-ai/plandex)
 
 ### Developer tools
 
@@ -209,6 +212,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [bitnet.cpp](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs, by Microsoft. [#opensource](https://github.com/microsoft/BitNet)
 - [OpenRouter](https://openrouter.ai/) - A unified interface for LLMs. [#opensource](https://github.com/OpenRouterTeam)
 - [Ludwig](https://github.com/ludwig-ai/ludwig) - A low-code framework for building custom AI models like LLMs and other deep neural networks. [#opensource](https://github.com/ludwig-ai/ludwig)
+- [Unsloth](https://unsloth.ai) - A Python library for fine-tuning LLMs [#opensource](https://github.com/unslothai/unsloth).
 
 ### Playgrounds
 - [OpenAI Playground](https://platform.openai.com/playground) - Explore resources, tutorials, API docs, and dynamic examples.
@@ -239,6 +243,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Devin](https://devin.ai/) - An autonomous AI software engineer by Cognition Labs.
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin) - An autonomous agent designed to navigate the complexities of software engineering. #opensource
 - [Davika](https://github.com/stitionai/devika) - An agentic AI software engineer. #opensource
+- [n8n](https://n8n.io/) - A workflow automation platform that combines AI capabilities with business process automation.
 
 ### Custom assistants
 

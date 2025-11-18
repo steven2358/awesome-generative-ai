@@ -8,7 +8,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Recommended reading](#recommended-reading)
 - [Text](#text)
-- [Code](#code)
+- [Coding](#coding)
 - [Agents](#agents)
 - [Image](#image)
 - [Video](#video)
@@ -78,6 +78,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator) - AI formula generator for Google Sheets.
 - [SageCollab](https://sagecollab.com/) - SageCollab brings team collaboration features to generative AI.
 - [Worksheets.ai](https://worksheets.ai/) - Generate educational worksheets and lesson plans with AI.
+- [Recall](https://www.getrecall.ai/) - A self-organizing knowledge base, where you can summarize and chat with any online content.
 
 ### Meeting assistants
 - [Goelo](https://www.goelo.com/) - Goelo helps sales teams automatically fill their CRM by recording meetings to create summaries and generate a knowledge base.
@@ -99,12 +100,13 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AI Code Converter](https://aicodeconvert.com/) - AI Code Converter simplifies coding with AI by integrating AI Code Translator and AI Code Generator.
 - [Bolt.new](https://bolt.new/) - Full-stack web development in the browser, powered by AI. Create apps and websites by chatting with AI. [#opensource](https://github.com/stackblitz-labs/bolt.diy)
 - [Replit Agent](https://replit.com/products/agent) - AI coding agent that can build entire applications from prompts.
+- [Blackbox AI](https://www.blackbox.ai) - AI coding assistant that provides real-time code completion, documentation, debugging suggestions and integrations with a variety of developer tools.
 
 ### Developer tools
 
 - [Makelog](https://makelog.com/gpt3) - Automatically generate changelog posts using GPT-3 and Jira, Linear, GitHub, Shortcut, and Asana issues, tasks, and pull requests.
 - [Wilco Sierra](https://trywilco.com/sierra) - A platform that generates engineering challenges for software engineers using AI.
-- [Vectara](https://vectara.com/) - A Generative AI product platform for developers. 
+- [Vectara](https://vectara.com/) - A Generative AI product platform for developers.
 - [Gdańsk AI](https://github.com/jmaczan/gdansk-ai) - Full stack AI voice chatbot (STT, LLM, TTS) with integrations to Auth0, OpenAI, Google Cloud and Stripe. #opensource
 - [ZZZ Code AI](https://zzzcode.ai) - AI-powered free website to get any programming question answered or code generated.
 - [AiDA](https://www.bookmark.com/ai-website-builder) - Future proof your website with the power of AI. AiDA eliminates 90 percent of the pain points associated with web design.
@@ -112,6 +114,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Framer AI](https://www.framer.com/ai) - Generate web sites using AI.
 - [Electron-BitNet](https://github.com/grctest/Electron-BitNet) - UI for running Microsoft's BitNet via Electron, React & Astro. #opensource
 - [GPTRouter](https://gpt-router.writesonic.com/) - An open source LLM API Gateway that offers a universal API for 30+ LLMs, vision, and image models.
+- [Ragie](https://www.ragie.ai/) - A fully managed RAG-as-a-Service platform for developers.
+- [Pixee](https://pixee.ai) - Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
 
 ### Playgrounds
 
@@ -137,6 +141,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Human Generator](https://generated.photos/human-generator/) - Create hyperrealistic full-body photos of people in real time.
 - [LogoGPT](https://chatgpt.com/g/g-z61XG6t54-logogpt) - Designs personalized logos from sketches.
 - [Freepik AI](https://www.freepik.com/ai) - AI-powered design tools including image generation, background removal, and creative templates.
+- [PlantPhotoAI](https://www.plantphotoai.com/) - Free AI-generated plant photos with botanical accuracy.
 
 ### Graphic design
 
@@ -183,6 +188,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [PressPulse AI](https://www.presspulse.ai/) - Get personalized media coverage leads every morning.
 - [GummySearch](https://gummysearch.com/) - AI-based customer research via Reddit.
 - [Promptimize](https://www.promptimizeai.com/) - A browser extension that gives anyone the powers of an expert prompt engineer.
+- [Huntr](https://huntr.co/product/ai-resume-builder) - AI powered resume builder.
 
 ## Learning resources
 
@@ -192,6 +198,9 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [The Complete Obsolete Guide to Generative AI](https://www.manning.com/books/the-complete-obsolete-guide-to-generative-ai) - This book gives you the tools you need to work better, faster, and smarter with AI.  
 - [AI-Assisted Testing](https://www.manning.com/books/software-testing-with-generative-ai) - A book about software testing with Large Language Model (LLM)-based AI.
 - [Build a Website with ChatGPT](https://www.manning.com/books/build-a-website-with-chatgpt) - A web development beginner's guide to zero-coding web development using generative AI.
+- [Introduction to Generative AI](https://www.manning.com/books/introduction-to-generative-ai) - A book that guides you through benefits, risks, and limitations of Generative AI technology.
+- [Generative AI in Action](https://www.manning.com/books/generative-ai-in-action) - A book that shows how to add generative AI tools for text, images, and code, and more into your organization’s strategies and projects.
+- [Learn Generative AI with PyTorch](https://www.manning.com/books/learn-generative-ai-with-pytorch) - A book that teaches the underlying mechanics of generative AI by building working AI models from scratch.
 
 ## More lists
 
