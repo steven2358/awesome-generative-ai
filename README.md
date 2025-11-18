@@ -189,6 +189,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [RooCode](https://github.com/RooCodeInc/Roo-Code) - An AI-powered autonomous coding agent integrated directly into VS Code. [#opensource](https://github.com/RooCodeInc/Roo-Code)
 - [Windsurf](https://windsurf.com/) - An AI-native IDE that combines code editing with advanced AI assistance throughout the development process.
 - [Plandex](https://github.com/plandex-ai/plandex) - Open source, terminal-based AI programming engine for complex tasks. [#opensource](https://github.com/plandex-ai/plandex)
+- [v0](https://v0.dev) - Prompt-driven UI generation for React and Next.js, creating production-ready components.
+- [Lovable](https://lovable.dev) - Conversational full-stack app generation, turning ideas into deployable code.
 
 ### Developer tools
 
