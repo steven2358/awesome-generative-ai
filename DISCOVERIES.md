@@ -125,6 +125,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ## Learning resources
 
 - [The AI-Powered Developer](https://www.manning.com/books/the-ai-powered-developer) - A book about techniques and best practices for getting the most out of AI-powered coding using tools like Copilot and ChatGPT.
+- [Udacity LLMOps Course](https://www.udacity.com/course/building-real-world-applications-with-large-language-models--cd13455) - Learn to build modern software with LLMs.
 
 ## More lists
 

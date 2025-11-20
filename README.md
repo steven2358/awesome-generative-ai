@@ -328,7 +328,6 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 - [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering) - Strategies and tactics for getting better results from large language models.
 - [PromptPerfect] - Tool for prompt engineering.
-- [Udacity LLMOps Course](https://www.udacity.com/course/building-real-world-applications-with-large-language-models--cd13455) - Learn to build modern software with LLMs using the newest tools and techniques in the field.
 
 ## More lists
 
