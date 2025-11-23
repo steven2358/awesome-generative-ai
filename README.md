@@ -267,6 +267,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Services
 
+- [AI.lookingfor.click](https://AI.lookingfor.click/) - 100% free AI image generator, editor, upscaler and background remover that does not require any credits, subscriptions or logins
 - [Craiyon](https://www.craiyon.com/) - Craiyon, formerly DALL-E mini, is an AI model that can draw images from any text prompt.
 - [DreamStudio](https://beta.dreamstudio.ai/) - DreamStudio is an easy-to-use interface for creating images using the Stable Diffusion image generation model.
 - [Artbreeder](https://www.artbreeder.com/) - Artbreeder is new type of creative tool that empowers users creativity by making it easier to collaborate and explore.
