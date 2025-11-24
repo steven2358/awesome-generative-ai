@@ -96,6 +96,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [joliGEN](https://github.com/jolibrain/joliGEN) - Generative AI Image Toolset with GANs and Diffusion for Real-World Applications.
 - [Picwish](https://picwish.com/) - Use PicWish AI photo editor to remove background, unblur image, and do more image editing.
 - [Human Generator](https://generated.photos/human-generator/) - Create hyperrealistic full-body photos of people in real time.
+- [VectorArt.ai](https://vectorart.ai/) - Create vector images with AI.
 
 ### Graphic design
 
