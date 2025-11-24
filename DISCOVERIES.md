@@ -147,6 +147,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [PlantPhotoAI](https://www.plantphotoai.com/) - Free AI-generated plant photos with botanical accuracy.
 - [Suit me Up](https://suitmeup.pictures/) - Generate pictures of you wearing a suit with AI.
 - [AI Photo Forge](https://aiphotoforge.com/) - A Telegram bot to generate AI pictures of you.
+- [VectorArt.ai](https://vectorart.ai/) - Create vector images with AI.
 
 ### Graphic design
 
