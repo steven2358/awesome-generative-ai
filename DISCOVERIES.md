@@ -40,6 +40,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Broken Bear](https://brokenbear.com) - An AI Teddy Bear that you can vent to for free, online, and anonymously.
 - [GPTHelp.ai](https://gpthelp.ai/) - AI customer support chatbot for your website.
 - [Character Gateway](https://charactergateway.com/) - Create your own AI friends with 300+ models.
+- [AnythingLLM](https://anythingllm.com/) - Turn any document, resource, or piece of content into context that any LLM can use. [#opensource](https://github.com/Mintplex-Labs/anything-llm)
 
 ### Custom interfaces
 
@@ -64,7 +65,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### ChatGPT extensions
 
 - [AI Character for GPT](https://chromewebstore.google.com/detail/ai-character-for-gpt/daoeioifimkjegafelcaljboknjkkohh) - Easily customize AI chatbots like ChatGPT and Google Gemini for better responses.
-- [https://chromewebstore.google.com/detail/ai-summary-helper-openai/hldbejcjaedipeegjcinmhejdndchkmb](AI Summary Helper) - Get AI summaries of web content. Use Send To Kindle for reading on the go. [#opensource](https://github.com/philffm/ai-summary-helper)
+- [AI Summary Helper](https://chromewebstore.google.com/detail/ai-summary-helper-openai/hldbejcjaedipeegjcinmhejdndchkmb) - Get AI summaries of web content. Use Send To Kindle for reading on the go. [#opensource](https://github.com/philffm/ai-summary-helper)
 - [YouTube Summary by TubeSum](https://tubesum.com/) — Summarize YouTube videos, extract key insights, share these summaries, and navigate to crucial sections using timestamps.
 
 ### Productivity
@@ -76,6 +77,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Agenda Hero](https://agendahero.com) - Generate beautiful, structured, shareable schedules with AI.
 - [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator) - AI formula generator for Google Sheets.
 - [SageCollab](https://sagecollab.com/) - SageCollab brings team collaboration features to generative AI.
+- [Worksheets.ai](https://worksheets.ai/) - Generate educational worksheets and lesson plans with AI.
 - [Recall](https://www.getrecall.ai/) - A self-organizing knowledge base, where you can summarize and chat with any online content.
 
 ### Meeting assistants
@@ -96,6 +98,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Safurai](https://www.safurai.com/) - Safurai is the AI Code Assistant that saves you time in changing, optimizing, and searching code.
 - [AI Code Converter](https://aicodeconvert.com/) - AI Code Converter simplifies coding with AI by integrating AI Code Translator and AI Code Generator.
+- [Bolt.new](https://bolt.new/) - Full-stack web development in the browser, powered by AI. Create apps and websites by chatting with AI. [#opensource](https://github.com/stackblitz-labs/bolt.diy)
+- [Replit Agent](https://replit.com/products/agent) - AI coding agent that can build entire applications from prompts.
 - [Blackbox AI](https://www.blackbox.ai) - AI coding assistant that provides real-time code completion, documentation, debugging suggestions and integrations with a variety of developer tools.
 
 ### Developer tools
@@ -121,6 +125,10 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Autonomous agents
 
+- [BrainSoup](https://www.nurgo-software.com/products/brainsoup) Versatile multi-LLM & multi-agent client with RAG, multi-modality, automation, code interpreter, sandboxed file system and more.
+
+### Custom assistants
+
 - [SiteGPT](https://sitegpt.ai/) - Make AI your expert customer support agent.
 
 ## Image
@@ -137,6 +145,9 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Human Generator](https://generated.photos/human-generator/) - Create hyperrealistic full-body photos of people in real time.
 - [LogoGPT](https://chatgpt.com/g/g-z61XG6t54-logogpt) - Designs personalized logos from sketches.
 - [PlantPhotoAI](https://www.plantphotoai.com/) - Free AI-generated plant photos with botanical accuracy.
+- [Suit me Up](https://suitmeup.pictures/) - Generate pictures of you wearing a suit with AI.
+- [AI Photo Forge](https://aiphotoforge.com/) - A Telegram bot to generate AI pictures of you.
+- [VectorArt.ai](https://vectorart.ai/) - Create vector images with AI.
 
 ### Graphic design
 
@@ -152,6 +163,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ## Video
 - [Twelve Labs](https://twelvelabs.io/) - Helping developers build programs that can see, listen, and understand the world through video understanding.
 - [invideo AI](https://invideo.io/) - Turn ideas into videos.
+- [Haiper](https://www.haiper.ai/) - Create stunning videos with AI-powered tools for content creators.
+- [Viggle AI](https://viggle.ai/) - AI-powered video generation with character animation and motion control.
 
 ### Avatars
 
@@ -161,11 +174,14 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Text-to-speech
 
+- [Deepgram](https://deepgram.com/) - Real-time speech recognition and understanding with advanced AI.
+
 ### Speech-to-text
 
 ### Music
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
 - [Soundraw](https://soundraw.io/) - Create your beats with the power of AI.
+- [Jammable](https://www.jammable.com/) - AI voice covers and music creation platform.
 
 ## Other
 
@@ -179,6 +195,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [GummySearch](https://gummysearch.com/) - AI-based customer research via Reddit.
 - [Promptimize](https://www.promptimizeai.com/) - A browser extension that gives anyone the powers of an expert prompt engineer.
 - [Huntr](https://huntr.co/product/ai-resume-builder) - AI powered resume builder.
+- [Docket AI](https://docketai.com) - AI sales agent for reliably answering complex product questions.
 
 ## Learning resources
 
@@ -191,6 +208,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Introduction to Generative AI](https://www.manning.com/books/introduction-to-generative-ai) - A book that guides you through benefits, risks, and limitations of Generative AI technology.
 - [Generative AI in Action](https://www.manning.com/books/generative-ai-in-action) - A book that shows how to add generative AI tools for text, images, and code, and more into your organization’s strategies and projects.
 - [Learn Generative AI with PyTorch](https://www.manning.com/books/learn-generative-ai-with-pytorch) - A book that teaches the underlying mechanics of generative AI by building working AI models from scratch.
+- [Udacity LLMOps Course](https://www.udacity.com/course/building-real-world-applications-with-large-language-models--cd13455) - Learn to build modern software with LLMs.
 
 ## More lists
 
