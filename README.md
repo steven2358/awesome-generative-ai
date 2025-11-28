@@ -337,7 +337,6 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [KLING AI](https://klingai.com/) - Tools for creating imaginative images and videos.
 - [Hailuo AI](https://hailuoai.video/) - AI-powered text-to-video generator.
 - [Google Flow](https://flow.google) - An AI filmmaking tool from Google, powered by Veo.
-- [TopView](https://www.topview.ai/) - Turns your links or media assets into viral videos in one click, empowered by Youtube & Tiktok & Facebook ads library.
 
 ### Avatars
 

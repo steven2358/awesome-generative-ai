@@ -165,6 +165,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [invideo AI](https://invideo.io/) - Turn ideas into videos.
 - [Haiper](https://www.haiper.ai/) - Create stunning videos with AI-powered tools for content creators.
 - [Viggle AI](https://viggle.ai/) - AI-powered video generation with character animation and motion control.
+- [TopView](https://www.topview.ai/) - Turn your links or media assets into viral videos in one click.
 
 ### Avatars
 
