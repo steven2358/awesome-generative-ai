@@ -249,6 +249,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [LLM](https://llm.datasette.io/) - A CLI utility and Python library for interacting with Large Language Models, remote and local. [#opensource](https://github.com/simonw/llm)
 - [LM Studio](https://lmstudio.ai) - Download and run local LLMs on your computer.
 - [RunThisLLM](https://runthisllm.com) - See which LLMs you can run on your hardware.
+- [Harbor](https://github.com/av/harbor) - A containerized toolkit for running local LLM backends, UIs, and supporting services with one command. #opensource
 
 ## Agents
 
