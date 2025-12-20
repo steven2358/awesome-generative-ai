@@ -116,7 +116,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [GPTRouter](https://gpt-router.writesonic.com/) - An open source LLM API Gateway that offers a universal API for 30+ LLMs, vision, and image models.
 - [Ragie](https://www.ragie.ai/) - A fully managed RAG-as-a-Service platform for developers.
 - [Pixee](https://pixee.ai) - Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
-- [Maestro](https://github.com/pedramamini/Maestro) - Run AI coding agents autonomously for days with a cross-platform desktop app for orchestrating AI agents.
+- [Maestro](https://github.com/pedramamini/Maestro) - Run multiple AI coding agents in parallel with a spec-driven workflow.
 
 ### Playgrounds
 
