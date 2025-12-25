@@ -73,6 +73,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AI Character for GPT](https://chromewebstore.google.com/detail/ai-character-for-gpt/daoeioifimkjegafelcaljboknjkkohh) - Easily customize AI chatbots like ChatGPT and Google Gemini for better responses.
 - [AI Summary Helper](https://chromewebstore.google.com/detail/ai-summary-helper-openai/hldbejcjaedipeegjcinmhejdndchkmb) - Get AI summaries of web content. Use Send To Kindle for reading on the go. [#opensource](https://github.com/philffm/ai-summary-helper)
 - [YouTube Summary by TubeSum](https://tubesum.com/) — Summarize YouTube videos, extract key insights, share these summaries, and navigate to crucial sections using timestamps.
+- [Chatgpt Light Session](https://chromewebstore.google.com/detail/fmomjhjnmgpknbabfpojgifokaibeoje) - A browser extension for trimming long ChatGPT conversations in the UI.
 
 ### Productivity
 
