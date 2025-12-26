@@ -153,6 +153,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [scite](https://scite.ai/) - A platform for discovering and evaluating scientific articles.
 - [SciSpace](https://typeset.io/) - An AI research assistant for understanding scientific literature.
 - [STORM](https://storm.genie.stanford.edu/) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. [#opensource](https://github.com/stanford-oval/storm/)
+- [Local Deep Research](https://github.com/LearningCircuit/local-deep-research) - AI-powered deep research tool achieving ~95% on SimpleQA. Searches arXiv, PubMed, web, and private documents with local/cloud LLMs. [#opensource](https://github.com/LearningCircuit/local-deep-research)
 - [alphaXiv](https://www.alphaxiv.org) - Discuss, discover, and read arXiv papers.
 
 ### Leaderboards
