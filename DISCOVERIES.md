@@ -105,6 +105,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Never Jobless](https://neverjobless.com/) - Maximize your interview chances with AI-powered LinkedIn messaging.
 - [AI Poem Generator](https://aipoemgenerator.cc/) - Create stunning poems with the help of artificial intelligence, tailored to your themes and ideas.
+- [Vedika API](https://vedika.io/) - An astrology API with chat-based queries and horoscope endpoints.
 
 ## Coding
 
