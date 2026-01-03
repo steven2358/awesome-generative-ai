@@ -166,6 +166,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 - [EmailTriager](https://www.emailtriager.com/) - Use AI to automatically draft email replies in the background.
 - [AI Poem Generator](https://www.aipoemgenerator.org) - AI Poem Generator writes a beautiful rhyming poem for you on any subject, given a text prompt.
+- [Vedika API](https://vedika.io) - AI-powered Vedic astrology API with multi-agent swarm intelligence.
 
 ## Coding
 
