@@ -99,6 +99,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Leaderboards
 
+- [Price Per Token](https://pricepertoken.com/) - A tool for comparing LLM API pricing, token usage, and model benchmarks.
+
 ### Other text generators
 
 - [Never Jobless](https://neverjobless.com/) - Maximize your interview chances with AI-powered LinkedIn messaging.
