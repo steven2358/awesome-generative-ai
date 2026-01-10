@@ -343,6 +343,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [KLING AI](https://klingai.com/) - Tools for creating imaginative images and videos.
 - [Hailuo AI](https://hailuoai.video/) - AI-powered text-to-video generator.
 - [Google Flow](https://flow.google) - An AI filmmaking tool from Google, powered by Veo.
+- [Viidx AI](https://viidx.com) - Viidx is an AI video generation platform that brings multiple state-of-the-art models into one unified interface.  
 
 ### Avatars
 
