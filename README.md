@@ -232,6 +232,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [PyGPT](https://pygpt.net/) - Personal desktop AI assistant with chat, vision, agents, image generation, tools and commands, voice control and more. #opensource
 - [LLM](https://llm.datasette.io/) - A CLI utility and Python library for interacting with Large Language Models, remote and local. [#opensource](https://github.com/simonw/llm)
 - [LM Studio](https://lmstudio.ai) - Download and run local LLMs on your computer.
+- [V6rge](https://github.com/Dedsec-b/v6rge-releases-) - Portable all-in-one local AI studio (LLM, Flux, Chatterbox TTS, MusicGen) with zero setup.
 
 ## Agents
 
