@@ -252,6 +252,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Sauna](https://www.sauna.ai) - An AI assistant built for compounding context. It learns your taste, detects hidden patterns, augments your brain context and works proactively.
 - [Claude Code](https://code.claude.com) - Anthropic's agentic coding tool that lives in your terminal and helps you turn ideas into code.
 - [Gemini CLI](https://geminicli.com) - An open-source AI agent that brings the power of Gemini directly into your terminal. [#opensource](https://github.com/google-gemini/gemini-cli)
+- [Mastra](https://mastra.ai) - An all-in-one framework for building AI-powered applications and agents.
 
 ### Custom assistants
 
