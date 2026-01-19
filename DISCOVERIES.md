@@ -189,6 +189,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AI Photo Forge](https://aiphotoforge.com/) - A Telegram bot to generate AI pictures of you.
 - [VectorArt.ai](https://vectorart.ai/) - Create vector images with AI.
 - [deAPI.ai](https://deapi.ai/) - A unified inference API to open-source AI models for text-to-image, text-to-speech, transcription, video generation, and more, using a decentralized GPU cloud.
+- [MyPicNow](https://www.mypicnow.com) - An AI headshot generator for creating professional profile photos from uploaded selfies.
 
 ### Graphic design
 
