@@ -114,6 +114,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Nekton AI](https://nekton.ai) - Automate your workflows with AI. Describe your workflows step by step in plain language.
 - [Rewind](https://www.rewind.ai/) - Rewind is a personalized AI powered by everything you've seen, said, or heard.
 - [NotebookLM](https://notebooklm.google/) - A research and note-taking online tool to interact with documents, powered by Google Gemini.
+- [Media Workbench](https://mediaworkbench.ai) - A platform for generating high-quality content, images, code, and chat using cutting-edge AI tools—perfect for creators, developers, and marketers..
 
 ### Meeting assistants
 
