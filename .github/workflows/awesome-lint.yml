@@ -1,0 +1,20 @@
+name: Awesome lint
+
+on:
+  pull_request:
+    paths:
+      - "README.md"
+  push:
+    branches: [main]
+    paths:
+      - "README.md"
+  workflow_dispatch:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: max/awesome-lint@v2
+        with:
+          filename: README.md
