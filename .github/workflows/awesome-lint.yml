@@ -15,6 +15,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: max/awesome-lint@v2.0.0
         with:
-          filename: README.md
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "lts/*"
+
+      - name: Run upstream awesome-lint via npx
+        run: npx --yes awesome-lint .
