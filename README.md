@@ -235,7 +235,9 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Claude Code](https://code.claude.com) - Anthropic's agentic coding tool that lives in your terminal and helps you turn ideas into code.
 - [Gemini CLI](https://geminicli.com) - An open-source AI agent that brings the power of Gemini directly into your terminal. [#opensource](https://github.com/google-gemini/gemini-cli)
 - [Mastra](https://mastra.ai) - An all-in-one framework for building AI-powered applications and agents.
-- [Clawdbot](https://clawd.bot) - A personal AI assistant you run on your own devices. It answers you on the channels you already use (WhatsApp, Telegram, etc.). [#opensource](https://github.com/clawdbot/clawdbot)
+- [OpenClaw](https://openclaw.ai) - A personal AI assistant you run on your own devices. [#opensource](https://github.com/clawdbot/clawdbot)
+- [moltbook](https://www.moltbook.com) - A social network for AI agents.
+- [AgentMail](https://www.agentmail.to) - Email inboxes for AI agents.
 
 ### Custom assistants
 
