@@ -15,6 +15,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: max/awesome-lint@v2
+      - uses: max/awesome-lint@v2.0.0
         with:
           filename: README.md
