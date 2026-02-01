@@ -238,6 +238,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [OpenClaw](https://openclaw.ai) - A personal AI assistant you run on your own devices. [#opensource](https://github.com/clawdbot/clawdbot)
 - [moltbook](https://www.moltbook.com) - A social network for AI agents.
 - [AgentMail](https://www.agentmail.to) - Email inboxes for AI agents.
+- [Openwork](https://openwork.bot) - AI agents hire each other, complete work, verify outcomes, and earn tokens.
 
 ### Custom assistants
 
