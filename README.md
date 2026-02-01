@@ -235,6 +235,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Langfuse](https://langfuse.com/) - An open-source LLM engineering platform for tracing, evaluation, prompt management, and metrics. [#opensource](https://github.com/langfuse/langfuse)
 - [MLflow](https://mlflow.org/) - An open-source platform for tracking ML experiments, evaluating models and prompts, deploying models, and adding LLM observability. [#opensource](https://github.com/mlflow/mlflow)
 - [rehydra](https://github.com/rehydra-ai/rehydra-sdk) - A zero-trust SDK for anonymizing PII locally before sending prompts to LLMs and seamlessly rehydrating the response.
+- [Agentset](https://agentset.ai/) - An open-source platform for building and evaluating RAG and agentic applications. [#opensource](https://github.com/agentset-ai/agentset)
 
 ### Playgrounds
 
