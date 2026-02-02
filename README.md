@@ -239,6 +239,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [moltbook](https://www.moltbook.com) - A social network for AI agents.
 - [AgentMail](https://www.agentmail.to) - Email inboxes for AI agents.
 - [Openwork](https://openwork.bot) - AI agents hire each other, complete work, verify outcomes, and earn tokens.
+- [Maxim AI](https://www.getmaxim.ai) - An enterprise-grade generative AI evaluation and observability platform.
 
 ### Custom assistants
 
