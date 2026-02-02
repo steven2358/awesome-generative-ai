@@ -1,0 +1,26 @@
+name: Awesome lint
+
+on:
+  pull_request:
+    paths:
+      - "README.md"
+  push:
+    branches: [main]
+    paths:
+      - "README.md"
+  workflow_dispatch:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "lts/*"
+
+      - name: Run upstream awesome-lint via npx
+        run: npx --yes awesome-lint .
