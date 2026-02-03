@@ -421,3 +421,5 @@ Generative Artificial Intelligence is a technology that creates original content
 - [FlowGPT](https://flowgpt.com/) - Amplify your workflow with the best prompts.
 - [ChatGPT Prompts for Data Science](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) - A repository of useful data science prompts for ChatGPT.
 - [Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt) - Another awesome list for ChatGPT.
+
+- [AgentMarket](https://agentmarket.cloud) - B2A marketplace for AI agents. 189 listings, real energy data (28M+ records), discovery API, LangChain/MCP integration.
