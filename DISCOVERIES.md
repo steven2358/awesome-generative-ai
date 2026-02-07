@@ -41,6 +41,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [GPTHelp.ai](https://gpthelp.ai/) - AI customer support chatbot for your website.
 - [Character Gateway](https://charactergateway.com/) - Create your own AI friends with 300+ models.
 - [AnythingLLM](https://anythingllm.com/) - Turn any document, resource, or piece of content into context that any LLM can use. [#opensource](https://github.com/Mintplex-Labs/anything-llm)
+- [Character AI Bots](https://characteraibots.com) - A directory of free AI roleplay characters available on Character.AI, JanitorAI, and SpicyChat.
 
 ### Custom interfaces
 
