@@ -73,6 +73,7 @@ Generative Artificial Intelligence is a technology that creates original content
 
 - [Jasper](https://www.jasper.ai/) - Create content faster with artificial intelligence.
 - [Compose AI](https://www.compose.ai/) - Compose AI is a free Chrome extension that cuts your writing time by 40% with AI-powered autocompletion.
+- [Cobalt Studio Prompt Generator](https://techchenko.github.io/cobaltstudio-products/tools/prompt-generator/) - Free, no-signup ChatGPT prompt generator for business and marketing workflows.
 - [Rytr](https://rytr.me/) - Rytr is an AI writing assistant that helps you create high-quality content.
 - [wordtune](https://www.wordtune.com/) - Personal writing assistant.
 - [HyperWrite](https://hyperwriteai.com/) - HyperWrite helps you write with confidence and get your work done faster from idea to final draft.
