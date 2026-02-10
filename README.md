@@ -18,6 +18,8 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Learning resources](#learning-resources)
 - [More lists](#more-lists)
 
+- [HeyVid AI](https://heyvid.ai) - Free AI video and image generator with text-to-video and image-to-video capabilities.
+
 ## Recommended reading
 
 - [How Large Language Models Will Transform Science, Society, and AI](https://hai.stanford.edu/news/how-large-language-models-will-transform-science-society-and-ai) - Article summarizing the capabilities and limitations of the GPT-3 model, and its potential impact on society. By Alex Tamkin and Deep Ganguli, February 5, 2021.
