@@ -39,6 +39,8 @@ Generative Artificial Intelligence is a technology that creates original content
 - [DALL·E 3](https://openai.com/index/dall-e-3/) - Announcement of DALL·E 3 image generator. OpenAI blog, September 20, 2023.
 - [Sora](https://openai.com/research/video-generation-models-as-world-simulators) - Presentation of Sora, a large video generation model. OpenAI, February 15, 2024.
 
+- [HeyVid AI](https://heyvid.ai) - Free AI video and image generator with text-to-video and image-to-video.
+
 ## Text
 
 ### Models
