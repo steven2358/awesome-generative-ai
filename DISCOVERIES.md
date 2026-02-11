@@ -212,6 +212,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [OpenCreator](https://opencreator.ai) - An all-in-one AI workspace for creating product visuals (images and videos) with workflow automation and batch generation.
 - [Viral Clips](https://viralclips.video/) - AI tool for creating short clips from conversational videos and podcasts.
 - [Viidx AI](https://viidx.com/) - A video generation tool for creating videos from text, images, and reference inputs using multiple AI models.
+- [VideoGen](https://videogen.io/) - A video creation and editing platform with AI b-roll matching, narration, and captions.
 
 ### Avatars
 
