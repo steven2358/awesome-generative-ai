@@ -114,7 +114,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Nekton AI](https://nekton.ai) - Automate your workflows with AI. Describe your workflows step by step in plain language.
 - [Rewind](https://www.rewind.ai/) - Rewind is a personalized AI powered by everything you've seen, said, or heard.
 - [NotebookLM](https://notebooklm.google/) - A research and note-taking online tool to interact with documents, powered by Google Gemini.
-- [Open Notebook](https://www.open-notebook.ai) - An open source implementation of Notebook LM with more flexibility and features. [#opensource](https://github.com/lfnovo/open-notebook)
+- [Open Notebook](https://www.open-notebook.ai) - An open source implementation of NotebookLM with more flexibility and features. [#opensource](https://github.com/lfnovo/open-notebook)
 
 ### Meeting assistants
 
