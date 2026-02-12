@@ -225,5 +225,6 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [The Rundown AI List](https://www.rundown.ai/tools) - AI tools organized and categorized.
 - [GPT Tracker](https://gptstracker.com/) - Discover 1000+ GPTs & AI Tools.
 - [31 Best AI Coding Tools](https://www.scaler.com/blog/coding-ai-tools/) - A list of AI coding tools.
+- [Awesome Code Docs](https://github.com/johnxie/awesome-code-docs) - Curated deep-dive tutorials for popular open-source AI and software projects.
 
 ### Lists on ChatGPT
