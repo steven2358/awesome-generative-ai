@@ -137,6 +137,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [SciSpace](https://typeset.io/) - An AI research assistant for understanding scientific literature.
 - [STORM](https://storm.genie.stanford.edu/) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. [#opensource](https://github.com/stanford-oval/storm/)
 - [alphaXiv](https://www.alphaxiv.org) - Discuss, discover, and read arXiv papers.
+- [ASReview](https://asreview.nl/) - Open-source AI-powered tool for systematic reviews, helping researchers screen large volumes of academic literature efficiently. [#opensource](https://github.com/asreview/asreview)
 
 ### Leaderboards
 - [Chatbot Arena](https://lmarena.ai/) - An open platform for crowdsourced AI benchmarking, hosted by researchers at UC Berkeley SkyLab and LMArena.
