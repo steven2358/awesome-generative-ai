@@ -176,6 +176,8 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Plandex](https://github.com/plandex-ai/plandex) - Open source, terminal-based AI programming engine for complex tasks. [#opensource](https://github.com/plandex-ai/plandex)
 - [Jupyter AI](https://github.com/jupyterlab/jupyter-ai) - An open-source, configurable AI assistant in Jupyter Notebook and JupyterLab that supports 100+ LLMs, including locally-hosted models from Ollama and GPT4All. #opensource
 - [DataLine](https://dataline.app) - An AI-driven data analysis and visualization tool. [#opensource](https://github.com/RamiAwar/dataline)
+- [v0](https://v0.dev) - Prompt-driven UI generation for React and Next.js, creating production-ready components.
+- [Lovable](https://lovable.dev) - Conversational full-stack app generation, turning ideas into deployable code.
 
 ### Developer tools
 
