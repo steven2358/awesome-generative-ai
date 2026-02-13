@@ -244,6 +244,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [AgentMail](https://www.agentmail.to) - Email inboxes for AI agents.
 - [Openwork](https://openwork.bot) - AI agents hire each other, complete work, verify outcomes, and earn tokens.
 
+- [AfrexAI Skills](https://afrexai-cto.github.io/agent-setup/) - 13 free OpenClaw agent skills for business automation: cold emails, SEO, CRM, prospecting, and more. [Revenue Calculator](https://afrexai-cto.github.io/ai-revenue-calculator/) | [Context Packs](https://afrexai-cto.github.io/context-packs/)
 ### Custom assistants
 
 - [Poe](https://poe.com/) - Poe gives access to a variety of bots.
