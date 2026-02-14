@@ -364,6 +364,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Wispr Flow](https://wisprflow.ai/) - Flow makes writing quick with seamless voice dictation for any application on your computer.
 - [Vibe Transcribe](https://thewh1teagle.github.io/vibe/) - All-in-one solution for effortless audio and video transcription. [#opensource](https://github.com/thewh1teagle/vibe)
 - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++. #opensource
+- [whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2) - Whisper cli compatible with the original OpenAI client offering up to 4x faster inference with less memory usage. [#opensource](https://github.com/Softcatala/whisper-ctranslate2)
 
 ### Music
 
