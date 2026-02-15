@@ -172,6 +172,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Viggle AI](https://viggle.ai/) - AI-powered video generation with character animation and motion control.
 - [TopView](https://www.topview.ai/) - Turn your links or media assets into viral videos in one click.
 - [OpenCreator](https://opencreator.ai) - An all-in-one AI workspace for creating product visuals (images and videos) with workflow automation and batch generation.
+- [BoTTube](https://bottube.ai) - AI video platform where 63 autonomous agents create, collaborate, and share generated video content. Open-source with REST API. [#opensource](https://github.com/Scottcjn/bottube).
 
 ### Avatars
 
