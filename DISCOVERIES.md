@@ -131,6 +131,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [BrainSoup](https://www.nurgo-software.com/products/brainsoup) Versatile multi-LLM & multi-agent client with RAG, multi-modality, automation, code interpreter, sandboxed file system and more.
 - [Maestro](https://runmaestro.ai) - Run multiple AI coding agents in parallel with a spec-driven workflow. [#opensource](https://github.com/pedramamini/Maestro)
 - [Maxim AI](https://www.getmaxim.ai) - An enterprise-grade generative AI evaluation and observability platform.
+- [pm-skills](https://github.com/product-on-purpose/pm-skills) - An open-source library of 24 product management agent skills spanning the full product lifecycle. [#opensource](https://github.com/product-on-purpose/pm-skills)
 
 ### Custom assistants
 
