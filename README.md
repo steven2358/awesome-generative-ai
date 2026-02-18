@@ -250,6 +250,10 @@ Generative Artificial Intelligence is a technology that creates original content
 - [GPT Builder](https://chat.openai.com/gpts/editor) - Assistant for creating GPT-based assistants.
 - [GPTStore](https://gptstore.ai/) - Find useful GPTs. Share your own GPTs.
 
+### AI Software Development Agents
+
+- [AI Software Development Agents (Engineers)](https://github.com/flatlogic/awesome-ai-software-development-agents) - Curated list of autonomous AI Agents designed specifically to handle software development tasks traditionally performed by human developers. These tools accept natural language as input and produce executable software as output.
+
 ## Image
 
 ### Models
