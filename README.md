@@ -179,6 +179,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [DataLine](https://dataline.app) - An AI-driven data analysis and visualization tool. [#opensource](https://github.com/RamiAwar/dataline)
 - [v0](https://v0.dev) - Prompt-driven UI generation for React and Next.js, creating production-ready components.
 - [Lovable](https://lovable.dev) - Conversational full-stack app generation, turning ideas into deployable code.
+- [Yume](https://github.com/aofp/yume) - Desktop GUI for Claude Code with multi-tab sessions, background agents, context compaction, and plugin system.
 
 ### Developer tools
 
