@@ -186,6 +186,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Speech-to-text
 
+- [Typist](https://iamtypist.dev) - AI transcription service processing audio at ~200x realtime speed using Groq API with 99.9% accuracy.
+
 ### Music
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
 - [Soundraw](https://soundraw.io/) - Create your beats with the power of AI.
