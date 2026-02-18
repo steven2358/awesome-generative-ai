@@ -113,6 +113,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Notion AI](https://www.notion.so/product/ai) - Write better, more efficient notes and docs.
 - [Nekton AI](https://nekton.ai) - Automate your workflows with AI. Describe your workflows step by step in plain language.
 - [Rewind](https://www.rewind.ai/) - Rewind is a personalized AI powered by everything you've seen, said, or heard.
+- [Screenpipe](https://github.com/mediar-ai/screenpipe) - Open source, 100% local alternative to Rewind. 24/7 screen & mic recording with AI-powered search. Works with Ollama and local LLMs. [#opensource](https://github.com/mediar-ai/screenpipe)
 - [NotebookLM](https://notebooklm.google/) - A research and note-taking online tool to interact with documents, powered by Google Gemini.
 - [Open Notebook](https://www.open-notebook.ai) - An open source implementation of NotebookLM with more flexibility and features. [#opensource](https://github.com/lfnovo/open-notebook)
 
