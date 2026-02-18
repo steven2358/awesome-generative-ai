@@ -263,7 +263,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Flux](https://github.com/black-forest-labs/flux) - Text-to-image models by Black Forest Labs with high-quality photorealistic output. #opensource
 
 ### Services
-
+- [AI Detect Lab](https://www.aidetectlab.com/) - Professional AI image detector for Midjourney v7 and Flux.
 - [Craiyon](https://www.craiyon.com/) - Craiyon, formerly DALL-E mini, is an AI model that can draw images from any text prompt.
 - [DreamStudio](https://beta.dreamstudio.ai/) - DreamStudio is an easy-to-use interface for creating images using the Stable Diffusion image generation model.
 - [Artbreeder](https://www.artbreeder.com/) - Artbreeder is new type of creative tool that empowers users creativity by making it easier to collaborate and explore.
