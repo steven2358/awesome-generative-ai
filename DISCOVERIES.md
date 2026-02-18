@@ -104,6 +104,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Bolt.new](https://bolt.new/) - Full-stack web development in the browser, powered by AI. Create apps and websites by chatting with AI. [#opensource](https://github.com/stackblitz-labs/bolt.diy)
 - [Replit Agent](https://replit.com/products/agent) - AI coding agent that can build entire applications from prompts.
 - [Blackbox AI](https://www.blackbox.ai) - AI coding assistant that provides real-time code completion, documentation, debugging suggestions and integrations with a variety of developer tools.
+- [Frontman](https://frontman.sh/) - An open-source AI coding agent that lives in your browser — click any element, describe changes in plain English, and get real code edits with hot reload. [#opensource](https://github.com/frontman-ai/frontman)
 
 ### Developer tools
 
