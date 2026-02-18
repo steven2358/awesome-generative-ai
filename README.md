@@ -294,6 +294,7 @@ Generative Artificial Intelligence is a technology that creates original content
 ### Graphic design
 
 - [Brandmark](https://brandmark.io/) - AI-based logo design tool.
+- [PPT.AI](https://ppt.ai/) - PPT AI: The World's Best AI PPT Maker.Transform your ideas into professional presentations in minutes, saving 95% of creation time.
 - [Gamma](https://gamma.app/) - Create beautiful presentations and webpages with none of the formatting and design work.
 - [Microsoft Designer](https://designer.microsoft.com/) - Stunning designs in a flash.
 
