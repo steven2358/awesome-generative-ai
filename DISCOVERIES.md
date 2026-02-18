@@ -63,6 +63,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Elephas](https://elephas.app/) - Personal AI writing assistant for the Mac.
 - [Taplio](https://taplio.com/) - All-in-one AI-powered LinkedIn tool.
 - [Yomu](https://www.yomu.ai) - AI writing assistant for students and academics.
+- [Samwell](https://samwell.ai/) - Samwell.ai is an academic essay generator that helps you write all types of academic essays with 100% accurate citations.
 
 ### ChatGPT extensions
 
