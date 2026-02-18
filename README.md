@@ -218,6 +218,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [PyGPT](https://pygpt.net/) - Personal desktop AI assistant with chat, vision, agents, image generation, tools and commands, voice control and more. #opensource
 - [LLM](https://llm.datasette.io/) - A CLI utility and Python library for interacting with Large Language Models, remote and local. [#opensource](https://github.com/simonw/llm)
 - [LM Studio](https://lmstudio.ai) - Download and run local LLMs on your computer.
+- [Harbor](https://github.com/av/harbor) - Containerized LLM toolkit to run backends, APIs, frontends, and services with one command. #opensource
 
 ## Agents
 
