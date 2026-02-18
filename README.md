@@ -341,6 +341,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [D-ID](https://www.d-id.com/) - Create and interact with talking avatars at the touch of a button.
 - [HeyGen](https://app.heygen.com/) - Turn scripts into talking videos with customizable AI avatars in minutes.
 - [RenderNet](https://rendernet.ai/) - RenderNet AI is a tool for generating images and videos, providing control over character design, composition, and style.
+- [PixelPanda](https://pixelpanda.ai) - Create avatars based on your reference images or design from scratch, dress them, have them hold items, and bring them to life in short clips such as UGCs.
 
 ### Animation
 
