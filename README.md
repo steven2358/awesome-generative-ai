@@ -290,6 +290,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Recraft](https://www.recraft.ai/) - An AI tool that lets creators easily generate and iterate original images, vector art, illustrations, icons, and 3D graphics.
 - [Reve Image](https://reve.art/) - A model trained from the ground up to excel at prompt adherence, aesthetics, and typography.
 - [Freepik AI](https://www.freepik.com/ai) - AI-powered design tools including image generation, background removal, and creative templates.
+- [Reverse Image Location (Geo Solver)](https://reverseimagelocation.com) - Next-gen AI reverse image search tool capable of precise geolocation reasoning without metadata.
 
 ### Graphic design
 
