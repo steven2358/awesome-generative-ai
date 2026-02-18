@@ -249,6 +249,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Poe](https://poe.com/) - Poe gives access to a variety of bots.
 - [GPT Builder](https://chat.openai.com/gpts/editor) - Assistant for creating GPT-based assistants.
 - [GPTStore](https://gptstore.ai/) - Find useful GPTs. Share your own GPTs.
+- [Potpie](https://potpie.ai) - Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents.
 
 ## Image
 
