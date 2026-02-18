@@ -407,7 +407,7 @@ Generative Artificial Intelligence is a technology that creates original content
 ## More lists
 
 - [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html) - A large list of Google Colab notebooks for generative AI, by [@pharmapsychotic](https://twitter.com/pharmapsychotic).
-- [The Generative AI Application Landscape](https://twitter.com/sonyatweetybird/status/1584580362339962880) - An infographic that maps the generative AI ecosystem, by [Sonya Huang](https://twitter.com/sonyatweetybird) of Sequioa Capital.
+- [The Generative AI Application Landscape](https://twitter.com/sonyatweetybird/status/1584580362339962880) - An infographic that maps the generative AI ecosystem, by [Sonya Huang](https://twitter.com/sonyatweetybird) of Sequoia Capital.
 - [Startups - @builtwithgenai](https://airtable.com/shr6nfE9FOHp17IjG/tblL3ekHZfkm3p6YT) - An Airtable list by [@builtwithgenai](https://twitter.com/builtwithgenai).
 - [The Generative AI Index](https://airtable.com/shrH4REIgddv8SzUo/tbl5dsXdD1P859QLO) - An Airtable list by [Scale Venture Partners](https://www.scalevp.com/generative-ai).
 - [Generative AI for Games](https://twitter.com/gwertz/status/1593268767269670912) - A market map of companies working on Generative AI for games, by [a16z](https://a16z.com/).
@@ -417,6 +417,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [The Generative AI Landscape](https://github.com/ai-collection/ai-collection) - A Collection of Awesome Generative AI Applications.
 - [Molecular design](https://github.com/AspirinCode/papers-for-molecular-design-using-DL) - List of molecular design using Generative AI and Deep Learning.
 - [Open LLMs](https://github.com/eugeneyan/open-llms) - A list of open LLMs available for commercial use.
+- [Awesome AI Market Maps](https://github.com/joylarkin/Awesome-AI-Market-Maps) - An Awesome List of 185+ Updated AI Market Maps from 2025 and 2024, by [Joy Larkin](https://twitter.com/joy).  
 
 ### Lists on ChatGPT
 
