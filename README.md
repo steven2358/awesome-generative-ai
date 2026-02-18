@@ -402,7 +402,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [PromptPerfect](https://promptperfect.jina.ai/) - Tool for prompt engineering.
 - [Anthropic courses](https://github.com/anthropics/courses) - Anthropic's educational courses.
 - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) - A guide to building your own working LLM, by Sebastian Raschka.
-- [Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/) - A free DeepLearning.AI short course on how to prompt computer vision models with natural language, bounding boxes, segmentation masks, coordinate points, and other images.
+- [AI Governance](https://www.manning.com/books/ai-governance) - A structured playbook for safely harnessing the potential of Generative AI, including security and privacy, bias, ethics, cost management, and regulation..
 
 ## More lists
 
