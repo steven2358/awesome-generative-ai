@@ -303,6 +303,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [OpenArt](https://openart.ai/) - Search 10M+ of prompts, and generate AI art via Stable Diffusion, DALL·E 2.
 - [PromptHero](https://prompthero.com/) - Search prompts for models like Stable Diffusion, ChatGPT, Midjourney, etc.
 - [PromptBase](https://promptbase.com/) - Search prompts from top prompt engineers. Sell your own prompts.
+- [P20V](https://p20v.com) - Autoregressive image generation with public library, prompt marketplace and competitions.
 
 ### Model libraries
 
