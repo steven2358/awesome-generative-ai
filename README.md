@@ -330,6 +330,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [HeyGen](https://app.heygen.com/) - Turn scripts into talking videos with customizable AI avatars in minutes.
 - [Sora](https://openai.com/sora) - An AI model that can create realistic and imaginative scenes from text instructions.
 - [Luma Dream Machine](https://lumalabs.ai/dream-machine) - An AI model that makes high quality, realistic videos fast from text and images.
+- [MaxVideoAI](https://maxvideoai.com/examples) - Generate and compare videos across multiple AI video models from one interface.
 - [Infinity AI](https://infinity.ai/) - Infinity is a video foundation model that allows you to craft your characters and then bring them to life.
 - [KLING AI](https://klingai.com/) - Tools for creating imaginative images and videos.
 - [Hailuo AI](https://hailuoai.video/) - AI-powered text-to-video generator.
