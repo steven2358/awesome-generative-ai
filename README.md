@@ -223,6 +223,7 @@ Generative Artificial Intelligence is a technology that creates original content
 
 ### Autonomous agents
 
+- [alive](https://github.com/TheAuroraAI/alive) - Single-file Python framework for running autonomous AI agents with persistent memory, adaptive wake cycles, and zero required dependencies.
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [babyagi](https://github.com/yoheinakajima/babyagi) - An AI-powered task management system.
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - Assemble, configure, and deploy autonomous AI Agents in your browser.
