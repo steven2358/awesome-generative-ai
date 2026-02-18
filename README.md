@@ -204,6 +204,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Ludwig](https://github.com/ludwig-ai/ludwig) - A low-code framework for building custom AI models like LLMs and other deep neural networks. [#opensource](https://github.com/ludwig-ai/ludwig)
 - [Unsloth](https://unsloth.ai) - A Python library for fine-tuning LLMs [#opensource](https://github.com/unslothai/unsloth).
 - [OpenLIT](https://github.com/openlit/openlit) - Open-source GenAI and LLM observability platform native to OpenTelemetry with traces and metrics. #opensource
+- [Agentset](https://agentset.ai) - An open-source RAG platform with built-in citations, deep research, 22+ file formats, partitions, and MCP server. [#opensource](https://github.com/agentset-ai/agentset)
 
 ### Playgrounds
 - [OpenAI Playground](https://platform.openai.com/playground) - Explore resources, tutorials, API docs, and dynamic examples.
