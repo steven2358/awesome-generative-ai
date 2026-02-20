@@ -30,13 +30,13 @@ Generative Artificial Intelligence is a technology that creates original content
 
 - [OpenAI API](https://openai.com/blog/openai-api/) - Announcement of the OpenAI API for text-to-text general-purpose AI models based on GPT-3. OpenAI blog, June 11, 2020.
 - [GitHub Copilot](https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/) - Announcement of Copilot, a new AI pair programmer that helps you write better code. GitHub blog, June 29, 2021.
-- [DALLÂ·E 2](https://openai.com/blog/dall-e-2/) - Announcement of the release of DALLÂ·E 2, an advanced image generation system with improved resolution, expanded image creation capabilities, and various safety mitigations. OpenAI blog, April 6, 2022.
+- [DALL·E 2](https://openai.com/blog/dall-e-2/) - Announcement of the release of DALL·E 2, an advanced image generation system with improved resolution, expanded image creation capabilities, and various safety mitigations. OpenAI blog, April 6, 2022.
 - [Stable Diffusion Public Release](https://stability.ai/blog/stable-diffusion-public-release) - Announcement of the public release of Stable Diffusion, an AI-based image generation model trained on a broad internet scrape and licensed under a Creative ML OpenRAIL-M license. Stable Diffusion blog, 22 August, 2022.
 - [ChatGPT](https://openai.com/blog/chatgpt/) - Announcement of ChatGPT, a conversational model trained to answer follow-up questions, admit mistakes, challenge incorrect premises, and reject inappropriate requests. OpenAI blog, November 30, 2022.
 - [Bing Search](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) - Microsoft announces a new version of its search engine Bing, powered by a next-generation OpenAI model. Microsoft blog, February 7, 2023.
 - [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - Llama LLM, a foundational, 65-billion-parameter large language model by Meta. Meta, February 23rd, 2023. #opensource
 - [GPT-4](https://openai.com/research/gpt-4) - Announcement of GPT-4, a large multimodal model. OpenAI blog, March 14, 2023.
-- [DALLÂ·E 3](https://openai.com/index/dall-e-3/) - Announcement of DALLÂ·E 3 image generator. OpenAI blog, September 20, 2023.
+- [DALL·E 3](https://openai.com/index/dall-e-3/) - Announcement of DALL·E 3 image generator. OpenAI blog, September 20, 2023.
 - [Sora](https://openai.com/research/video-generation-models-as-world-simulators) - Presentation of Sora, a large video generation model. OpenAI, February 15, 2024.
 
 ## Text
@@ -158,7 +158,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
 - [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - An AI system by OpenAI that translates natural language to code.
 - [Ghostwriter](https://blog.replit.com/ai) - An AI-powered pair programmer by replit.
-- [Amazon Q](https://aws.amazon.com/q/) - The AWS generative AIâ€“powered assistant that helps answer questions, write code, and automate tasks.
+- [Amazon Q](https://aws.amazon.com/q/) - The AWS generative AI–powered assistant that helps answer questions, write code, and automate tasks.
 - [tabnine](https://www.tabnine.com/) - Code faster with whole-line & full-function code completions.
 - [Stenography](https://stenography.dev/) - Automatic code documentation.
 - [Mintlify](https://mintlify.com/) - AI powered documentation writer.
@@ -237,6 +237,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [n8n](https://n8n.io/) - A workflow automation platform that combines AI capabilities with business process automation.
 - [Sauna](https://www.sauna.ai) - An AI assistant built for compounding context. It learns your taste, detects hidden patterns, augments your brain context and works proactively.
 - [Claude Code](https://code.claude.com) - Anthropic's agentic coding tool that lives in your terminal and helps you turn ideas into code.
+- [Cordum](https://github.com/cordum-io/cordum) - A safety-first agent orchestration platform with policy evaluation, workflow DAGs, and a real-time dashboard. [#opensource](https://github.com/cordum-io/cordum)
 - [Gemini CLI](https://geminicli.com) - An open-source AI agent that brings the power of Gemini directly into your terminal. [#opensource](https://github.com/google-gemini/gemini-cli)
 - [Mastra](https://mastra.ai) - An all-in-one framework for building AI-powered applications and agents.
 - [OpenClaw](https://openclaw.ai) - A personal AI assistant you run on your own devices. [#opensource](https://github.com/clawdbot/clawdbot)
@@ -254,7 +255,7 @@ Generative Artificial Intelligence is a technology that creates original content
 
 ### Models
 
-- [DALLÂ·E 2](https://openai.com/dall-e-2/) - DALLÂ·E 2 by OpenAI is a new AI system that can create realistic images and art from a description in natural language.
+- [DALL·E 2](https://openai.com/dall-e-2/) - DALL·E 2 by OpenAI is a new AI system that can create realistic images and art from a description in natural language.
 - [Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4) - Stable Diffusion by Stability AI is a state of the art text-to-image model that generates images from text. #opensource
 - [Midjourney](https://www.midjourney.com/) - Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 - [Imagen](https://imagen.research.google/) - Imagen by Google is a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding.
@@ -274,7 +275,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Patience.ai](https://www.patience.ai/) - Patience.ai is an app for creating images with Stable Diffusion, a cutting edge AI developed by Stability.AI.
 - [GenShare](https://www.genshare.io/) - Generate art in seconds for free. Own and share what you create. A multimedia generative studio, democratizing design and creativity.
 - [Playground](https://playground.com/) - Playground is a free-to-use online AI image creator. Use it to create art, social media posts, presentations, posters, videos, logos and more.
-- [Pixelz AI Art Generator](https://pixelz.ai/) - Pixelz AI Art Generator enables you to create incredible art from text. Stable Diffusion, CLIP Guided Diffusion & PXLÂ·E realistic algorithms available.
+- [Pixelz AI Art Generator](https://pixelz.ai/) - Pixelz AI Art Generator enables you to create incredible art from text. Stable Diffusion, CLIP Guided Diffusion & PXL·E realistic algorithms available.
 - [modyfi](https://www.modyfi.io/) - The image editor you've always wanted. AI-powered creative tools in your browser. Real-time collaboration.
 - [Ponzu](https://www.ponzu.ai/) - Ponzu is your free AI logo generator. Build your brand with creatively designed logos in seconds, using only your imagination.
 - [PhotoRoom](https://www.photoroom.com/) - Create product and portrait pictures using only your phone. Remove background, change background and showcase products.
@@ -283,7 +284,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Lensa](https://prisma-ai.com/lensa) - An all-in-one image editing app that includes the generation of personalized avatars using Stable Diffusion.
 - [RunDiffusion](https://rundiffusion.com/) - Cloud-based workspace for creating AI-generated art.
 - [Ideogram](https://ideogram.ai/) - A text-to-image platform to make creative expression more accessible.
-- [Bing Image Creator](https://www.bing.com/images/create) - DALLEÂ·3 based text-to-image generator with safety features.
+- [Bing Image Creator](https://www.bing.com/images/create) - DALLE·3 based text-to-image generator with safety features.
 - [KREA](https://www.krea.ai/) - Generate high quality visuals with an AI that knows about your styles, concepts, or products.
 - [Nightcafe](https://creator.nightcafe.studio/) - NightCafe Creator is an AI Art Generator app with multiple methods of AI art generation.
 - [Leonardo AI](https://leonardo.ai/) - Create production-quality visual assets for your projects with unprecedented quality, speed, and style.
@@ -300,7 +301,7 @@ Generative Artificial Intelligence is a technology that creates original content
 ### Image libraries
 
 - [Lexica](https://lexica.art/) - Stable Diffusion search engine.
-- [OpenArt](https://openart.ai/) - Search 10M+ of prompts, and generate AI art via Stable Diffusion, DALLÂ·E 2.
+- [OpenArt](https://openart.ai/) - Search 10M+ of prompts, and generate AI art via Stable Diffusion, DALL·E 2.
 - [PromptHero](https://prompthero.com/) - Search prompts for models like Stable Diffusion, ChatGPT, Midjourney, etc.
 - [PromptBase](https://promptbase.com/) - Search prompts from top prompt engineers. Sell your own prompts.
 
@@ -379,7 +380,7 @@ Generative Artificial Intelligence is a technology that creates original content
 ## Other
 
 - [Diagram](https://diagram.com/) - Magical new ways to design products.
-- [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALLÂ·E, GPT-3, Midjourney, Stable Diffusion.
+- [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
 - [This Image Does Not Exist](https://thisimagedoesnotexist.com/) - Test your ability to tell if an image is human or computer generated.
 - [Have I Been Trained?](https://haveibeentrained.com/) - Check if your image has been used to train popular AI art models.
 - [AI Dungeon](https://aidungeon.io/) - A text-based adventure-story game you direct (and star in) while the AI brings it to life.
@@ -425,3 +426,4 @@ Generative Artificial Intelligence is a technology that creates original content
 - [FlowGPT](https://flowgpt.com/) - Amplify your workflow with the best prompts.
 - [ChatGPT Prompts for Data Science](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) - A repository of useful data science prompts for ChatGPT.
 - [Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt) - Another awesome list for ChatGPT.
+
