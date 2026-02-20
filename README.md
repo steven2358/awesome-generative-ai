@@ -335,6 +335,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Hailuo AI](https://hailuoai.video/) - AI-powered text-to-video generator.
 - [Google Flow](https://flow.google) - An AI filmmaking tool from Google, powered by Veo.
 - [OpenCreator](https://opencreator.io) - All-in-one AI workspace for video creation with text-to-video, image-to-video conversion, multi-language support, collaborative editing, and direct publishing to major platforms.
+- [agent-media](https://agent-media.ai/) - CLI tool for AI video and image generation with unified access to 7 models (Kling 3.0 Pro, Veo 3.1, Sora 2 Pro, Seedance 1.0 Pro, Flux 2 Pro, Flux 2 Flex, Grok Imagine). Also works as an MCP server for Claude Code. [#opensource](https://github.com/yuvalsuede/agent-media)
 
 ### Avatars
 
