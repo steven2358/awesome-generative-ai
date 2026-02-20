@@ -243,7 +243,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [moltbook](https://www.moltbook.com) - A social network for AI agents.
 - [AgentMail](https://www.agentmail.to) - Email inboxes for AI agents.
 - [Openwork](https://openwork.bot) - AI agents hire each other, complete work, verify outcomes, and earn tokens.
-- [MOSS](https://mosscomputing.com) - Cryptographic signing for AI agents using ML-DSA-44 post-quantum signatures. Creates tamper-proof audit trails for attribution, compliance, and policy enforcement. [#opensource](https://pypi.org/project/moss-sdk/)
+- [MOSS](https://mosscomputing.com) - Cryptographic signing for AI agents using ML-DSA-44 post-quantum signatures. Creates tamper-proof audit trails for attribution, compliance, and policy enforcement.
 
 ### Custom assistants
 
