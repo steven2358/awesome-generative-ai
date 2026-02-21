@@ -335,6 +335,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Hailuo AI](https://hailuoai.video/) - AI-powered text-to-video generator.
 - [Google Flow](https://flow.google) - An AI filmmaking tool from Google, powered by Veo.
 - [OpenCreator](https://opencreator.io) - All-in-one AI workspace for video creation with text-to-video, image-to-video conversion, multi-language support, collaborative editing, and direct publishing to major platforms.
+- [Seedance 2.0](https://seed.bytedance.com/en/seedance2_0) - An image-to-video and text-to-video model developed by Niobotics ByteDance.
 
 ### Avatars
 
