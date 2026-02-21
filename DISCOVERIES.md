@@ -120,6 +120,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Ragie](https://www.ragie.ai/) - A fully managed RAG-as-a-Service platform for developers.
 - [Pixee](https://pixee.ai) - Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
 - [SQLAI.ai](https://www.sqlai.ai/) - Generate, fix, explain and optimize SQL. Get data insights and integrate your app with RAG-powered AI generators.
+- [NeuroLink](https://github.com/juspay/neurolink) - TypeScript-first AI SDK with multi-provider support, MCP integration, and multi-agent orchestration. #opensource
 
 ### Playgrounds
 
