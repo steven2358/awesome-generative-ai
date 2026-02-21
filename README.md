@@ -145,6 +145,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [imgsys](https://imgsys.org/rankings) - A generative image model arena by fal.ai.
 - [OpenRouter LLM Rankings](https://openrouter.ai/rankings) - Language models ranked and analyzed by usage across apps.
 - [SEAL LLM Leaderboard](https://scale.com/leaderboard) - Expert-driven LLM benchmarks and updated AI model leaderboards.
+- [Rival](https://rival.tips) - AI model comparison platform with blind preference voting across 200+ models, community-driven rankings, and open preference datasets.
 
 ### Other text generators
 
