@@ -116,6 +116,8 @@ Generative Artificial Intelligence is a technology that creates original content
 - [NotebookLM](https://notebooklm.google/) - A research and note-taking online tool to interact with documents, powered by Google Gemini.
 - [Open Notebook](https://www.open-notebook.ai) - An open source implementation of NotebookLM with more flexibility and features. [#opensource](https://github.com/lfnovo/open-notebook)
 
+- [Signal AI Digest](https://humanintel.github.io/signal-digest-landing/) - AI-curated daily news digest via Telegram. Set your topics (AI, tech, crypto, investing, world news), receive 5-10 curated articles with source citations every morning.
+
 ### Meeting assistants
 
 - [Otter.ai](https://otter.ai/) - A meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries.
