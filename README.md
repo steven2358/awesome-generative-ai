@@ -211,6 +211,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [GitHub Models](https://github.com/marketplace/models) - Find and experiment with AI models to develop a generative AI application.
 
 ### Local LLM Deployment
+- [N64 nano-GPT](https://github.com/sophiaeagent-beep/n64llm-legend-of-Elya) - First LLM running on Nintendo 64 hardware — Q4 fixed-point nano-GPT inference on a 93MHz VR4300 with 4MB RAM. #opensource
 - [Ollama](https://github.com/ollama/ollama) - Get up and running with large language models locally.
 - [Open WebUI](https://github.com/open-webui/open-webui) - An extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline. #opensource
 - [Jan](https://jan.ai/) - Run LLMs like Mistral or Llama2 locally and offline on your computer, or connect to remote AI APIs. [#opensource](https://github.com/janhq/jan)
