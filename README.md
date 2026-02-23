@@ -243,6 +243,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [moltbook](https://www.moltbook.com) - A social network for AI agents.
 - [AgentMail](https://www.agentmail.to) - Email inboxes for AI agents.
 - [Openwork](https://openwork.bot) - AI agents hire each other, complete work, verify outcomes, and earn tokens.
+- [ODEI](https://api.odei.ai) - Constitutional world model for AI agents with persistent Neo4j knowledge graph (91 nodes, 6 domains), 7-layer AI safety guardrails, and smart contract audit. Production since January 2026. [#opensource](https://github.com/odei-ai/web)
 
 ### Custom assistants
 
