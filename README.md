@@ -53,6 +53,7 @@ Generative Artificial Intelligence is a technology that creates original content
 
 ### Custom interfaces
 
+- [Atlas UI 3](https://github.com/sandialabs/atlas-ui-3) - Full-stack LLM chat interface with MCP tool integration, multi-provider support, RAG, and agentic workflows. Built by Sandia National Laboratories. [#opensource](https://github.com/sandialabs/atlas-ui-3).
 - [LibreChat](https://librechat.ai/) - LibreChat is a free and open-source chat interface for assistant AIs. [#opensource](https://github.com/danny-avila/LibreChat).
 - [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [#opensource](https://github.com/mckaywrigley/chatbot-ui).
 
