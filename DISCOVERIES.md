@@ -154,6 +154,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Suit me Up](https://suitmeup.pictures/) - Generate pictures of you wearing a suit with AI.
 - [AI Photo Forge](https://aiphotoforge.com/) - A Telegram bot to generate AI pictures of you.
 - [VectorArt.ai](https://vectorart.ai/) - Create vector images with AI.
+- [deAPI.ai](https://deapi.ai/) - Unified AI inference API for image generation (Flux), text-to-speech, transcription (Whisper), video generation, OCR, upscaling, and background removal on decentralized GPU cloud. $5 free credit, no credit card or subscription required.
 
 ### Graphic design
 
