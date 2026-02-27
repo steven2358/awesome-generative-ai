@@ -131,6 +131,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Autonomous agents
 
 - [BrainSoup](https://www.nurgo-software.com/products/brainsoup) Versatile multi-LLM & multi-agent client with RAG, multi-modality, automation, code interpreter, sandboxed file system and more.
+- [KarnEvil9](https://github.com/oldeucryptoboi/KarnEvil9) - Deterministic agent runtime with explicit plans, typed tools, permissions, and replay. Implements Google DeepMind's Intelligent AI Delegation framework with nine safety mechanisms for multi-agent delegation. [#opensource](https://github.com/oldeucryptoboi/KarnEvil9)
 - [Maestro](https://runmaestro.ai) - Run multiple AI coding agents in parallel with a spec-driven workflow. [#opensource](https://github.com/pedramamini/Maestro)
 - [Maxim AI](https://www.getmaxim.ai) - An enterprise-grade generative AI evaluation and observability platform.
 
