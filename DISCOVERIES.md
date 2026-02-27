@@ -167,6 +167,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) - A Python toolkit for agent governance, safety checks, and cognitive architecture modules.
 - [MOSS](https://iampass.com/) - AI governance infrastructure for cryptographic proof of agent actions and policy enforcement before execution.
 - [TutuoAI](https://www.tutuoai.com/) - Marketplace for AI agent skills, tools, and configurations.
+- [KarnEvil9](https://github.com/oldeucryptoboi/KarnEvil9) - Open-source deterministic agent runtime with explicit plans, typed tools, and fine-grained permissions. [#opensource](https://github.com/oldeucryptoboi/KarnEvil9)
 
 ### Custom assistants
 
