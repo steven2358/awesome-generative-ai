@@ -392,6 +392,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Morpher AI](https://morpher.com/ai) - Morpher AI delivers real-time insights and analysis for any market.
 - [Whimsical AI](https://whimsical.com/ai) - GPT-powered mind mapping, flowcharts, and visual tools for rapid idea development and process organization.
 - [Selfies with Sama](https://selfies-with-sama.vost.ai) - Grab a picture with a real-life billionaire!
+- [DNA Claude Analysis](https://github.com/shmlkv/dna-claude-analysis) - A personal genome analysis toolkit powered by Claude Code that analyzes raw DNA data across 17 categories and generates terminal-style visualizations. [#opensource](https://github.com/shmlkv/dna-claude-analysis)
 
 ## Learning resources
 
