@@ -393,6 +393,8 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Whimsical AI](https://whimsical.com/ai) - GPT-powered mind mapping, flowcharts, and visual tools for rapid idea development and process organization.
 - [Selfies with Sama](https://selfies-with-sama.vost.ai) - Grab a picture with a real-life billionaire!
 
+- [AI Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker) - Structured dataset tracking 94 generative AI-attributed workforce displacement events affecting 453K+ workers across 12 countries. CSV/JSON format with source-linked attribution.
+
 ## Learning resources
 
 - [Learn Prompting](https://learnprompting.org/) - A free, open source course on communicating with artificial intelligence.
