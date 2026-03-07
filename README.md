@@ -240,6 +240,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Gemini CLI](https://geminicli.com) - An open-source AI agent that brings the power of Gemini directly into your terminal. [#opensource](https://github.com/google-gemini/gemini-cli)
 - [Mastra](https://mastra.ai) - An all-in-one framework for building AI-powered applications and agents.
 - [OpenClaw](https://openclaw.ai) - A personal AI assistant you run on your own devices. [#opensource](https://github.com/clawdbot/clawdbot)
+- [GhostClaw](https://ghostclaw.io) - An AI agent that lives on your computer and works for you. Message it on Telegram like a co-worker. [#opensource](https://github.com/b1rdmania/ghostclaw)
 - [moltbook](https://www.moltbook.com) - A social network for AI agents.
 - [AgentMail](https://www.agentmail.to) - Email inboxes for AI agents.
 - [Openwork](https://openwork.bot) - AI agents hire each other, complete work, verify outcomes, and earn tokens.
