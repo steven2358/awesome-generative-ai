@@ -55,6 +55,7 @@ Generative Artificial Intelligence is a technology that creates original content
 
 - [LibreChat](https://librechat.ai/) - LibreChat is a free and open-source chat interface for assistant AIs. [#opensource](https://github.com/danny-avila/LibreChat).
 - [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [#opensource](https://github.com/mckaywrigley/chatbot-ui).
+- [OpenClaw Easy](https://openclaw-easy.com/) - A free desktop app that connects AI models (ChatGPT, Claude, Ollama) to WhatsApp, Telegram, Slack, and Discord.
 
 ### Search engines
 
