@@ -11,6 +11,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Text](#text)
 - [Coding](#coding)
 - [Agents](#agents)
+- [agent101](https://agent101.ventify.ai) - Open directory of 500+ tools and APIs for AI agents, organized by task. Structured metadata, MCP server, no auth required.
 - [Image](#image)
 - [Video](#video)
 - [Audio](#audio)
