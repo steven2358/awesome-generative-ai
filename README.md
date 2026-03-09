@@ -63,6 +63,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Phind](https://phind.com/) - AI-based search engine.
 - [You.com](https://you.com/) - A search engine built on AI that provides users with a customized search experience while keeping their data 100% private.
 - [Komo](https://komo.ai/) - An AI-powered search engine.
+- [GEOScore](https://geoscoreai.com/) - AI search visibility scanner that checks how your website performs in ChatGPT, Perplexity, and Gemini with 11 technical checks.
 
 ### Local search engines
 
