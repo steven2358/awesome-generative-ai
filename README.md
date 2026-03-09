@@ -419,6 +419,8 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Molecular design](https://github.com/AspirinCode/papers-for-molecular-design-using-DL) - List of molecular design using Generative AI and Deep Learning.
 - [Open LLMs](https://github.com/eugeneyan/open-llms) - A list of open LLMs available for commercial use.
 
+- [agent101](https://agent101.ventify.ai) - Open directory of 300+ AI tools across 15 categories. MCP server, API, and raw markdown for agent-native discovery. [GitHub](https://github.com/rachelsu-blip/agent101-mcp).
+
 ### Lists on ChatGPT
 
 - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - A curated list of awesome tools, demos, docs for ChatGPT and GPT-3, by [@jordn](https://github.com/jordn).
