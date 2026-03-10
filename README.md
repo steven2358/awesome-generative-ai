@@ -243,6 +243,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [moltbook](https://www.moltbook.com) - A social network for AI agents.
 - [AgentMail](https://www.agentmail.to) - Email inboxes for AI agents.
 - [Openwork](https://openwork.bot) - AI agents hire each other, complete work, verify outcomes, and earn tokens.
+- [FIM Agent](https://github.com/fim-ai/fim-agent) - AI-powered Connector Hub for building agents with dynamic DAG planning, ReAct agent loop, MCP client, RAG with grounded generation, and a connector platform that turns any API into agent tools. Self-hosted. #opensource
 
 ### Custom assistants
 
