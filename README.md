@@ -88,6 +88,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [QuillBot](https://quillbot.com) - AI-powered paraphrasing tool.
 - [Postwise](https://postwise.ai/) - Write tweets, schedule posts and grow your following using AI.
 - [Copysmith](https://copysmith.ai/) - AI content creation solution for Enterprise & eCommerce.
+- [AI Writing Compare](https://aiwritingcompare.com) - Compare 40+ AI writing tools side by side with features, pricing, and use-case recommendations.
 
 ### ChatGPT extensions
 
@@ -145,6 +146,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [imgsys](https://imgsys.org/rankings) - A generative image model arena by fal.ai.
 - [OpenRouter LLM Rankings](https://openrouter.ai/rankings) - Language models ranked and analyzed by usage across apps.
 - [SEAL LLM Leaderboard](https://scale.com/leaderboard) - Expert-driven LLM benchmarks and updated AI model leaderboards.
+- [AI Chatbot Compare](https://aichatbotcompare.com) - Compare leading AI chatbots across capabilities, pricing, and performance benchmarks.
 
 ### Other text generators
 
@@ -179,6 +181,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [DataLine](https://dataline.app) - An AI-driven data analysis and visualization tool. [#opensource](https://github.com/RamiAwar/dataline)
 - [v0](https://v0.dev) - Prompt-driven UI generation for React and Next.js, creating production-ready components.
 - [Lovable](https://lovable.dev) - Conversational full-stack app generation, turning ideas into deployable code.
+- [AI Coding Compare](https://aicodingcompare.com) - Compare 50+ AI coding assistants side by side with features, pricing, and benchmarks.
 
 ### Developer tools
 
@@ -290,6 +293,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Recraft](https://www.recraft.ai/) - An AI tool that lets creators easily generate and iterate original images, vector art, illustrations, icons, and 3D graphics.
 - [Reve Image](https://reve.art/) - A model trained from the ground up to excel at prompt adherence, aesthetics, and typography.
 - [Freepik AI](https://www.freepik.com/ai) - AI-powered design tools including image generation, background removal, and creative templates.
+- [AI Image Compare](https://aiimagecompare.com) - Compare 30+ AI image generators side by side with quality samples, pricing, and feature breakdowns.
 
 ### Graphic design
 
@@ -336,6 +340,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Google Flow](https://flow.google) - An AI filmmaking tool from Google, powered by Veo.
 - [OpenCreator](https://opencreator.io) - All-in-one AI workspace for video creation with text-to-video, image-to-video conversion, multi-language support, collaborative editing, and direct publishing to major platforms.
 - [Seedance 2.0](https://seed.bytedance.com/en/seedance2_0) - An image-to-video and text-to-video model developed by Niobotics ByteDance.
+- [AI Video Compare](https://aivideocompare.com) - Compare 20+ AI video generators side by side with output samples, pricing, and feature comparisons.
 
 ### Avatars
 
