@@ -145,6 +145,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [imgsys](https://imgsys.org/rankings) - A generative image model arena by fal.ai.
 - [OpenRouter LLM Rankings](https://openrouter.ai/rankings) - Language models ranked and analyzed by usage across apps.
 - [SEAL LLM Leaderboard](https://scale.com/leaderboard) - Expert-driven LLM benchmarks and updated AI model leaderboards.
+- [LLM Benchmark Costco](https://github.com/joe1chief/llm-benchmark-costco) - A searchable database of 378+ LLM evaluation benchmarks across 12 capability dimensions, with inline PDF reading, Mermaid build flowcharts, bilingual UI, and automated CI/CD. [Live Demo](https://joe1chief.github.io/llm-benchmark-costco/)
 
 ### Other text generators
 
