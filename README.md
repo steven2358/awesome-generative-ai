@@ -222,6 +222,7 @@ Generative Artificial Intelligence is a technology that creates original content
 ## Agents
 
 ### Autonomous agents
+- [ODEI](https://api.odei.ai) - Constitutional world model for AI agents. Persistent Neo4j knowledge graph (91 nodes, 6 semantic domains), 7-layer AI safety guardrails, smart contract audit. [GitHub](https://github.com/odei-ai/web)
 
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [babyagi](https://github.com/yoheinakajima/babyagi) - An AI-powered task management system.
