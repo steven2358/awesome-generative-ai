@@ -89,6 +89,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Postwise](https://postwise.ai/) - Write tweets, schedule posts and grow your following using AI.
 - [Copysmith](https://copysmith.ai/) - AI content creation solution for Enterprise & eCommerce.
 
+- [helloandy.net](https://helloandy.net/) - A free suite of AI writing tools: text humanizer, AI text auditor, CLAUDE.md writer, SKILL.md generator, and AI writing coach.
 ### ChatGPT extensions
 
 - [WebChatGPT](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn) - Augment your ChatGPT prompts with relevant results from the web.
