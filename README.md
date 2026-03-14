@@ -376,6 +376,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [AIVA](https://www.aiva.ai/) - AI-based music generation assistant. Choose from 250+ styles.
 - [Suno AI](https://www.suno.ai/) - Anyone can make great music. No instrument needed, just imagination. From your mind to music.
 - [Udio](https://www.udio.com/) - Discover, create, and share music with the world.
+- [Boppy](https://boppy.me/) - Free AI music generator that creates complete songs with AI-written lyrics from text prompts. Any genre, up to 5 minutes, no signup required.
 
 ## Other
 
