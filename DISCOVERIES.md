@@ -206,6 +206,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Promptimize](https://www.promptimizeai.com/) - A browser extension that gives anyone the powers of an expert prompt engineer.
 - [Huntr](https://huntr.co/product/ai-resume-builder) - AI powered resume builder.
 - [Docket AI](https://docketai.com) - AI sales agent for reliably answering complex product questions.
+- [KeepRule](https://keeprule.com) - AI-powered investment discipline tracking with principles from 26 legendary investors, scenario analysis, and psychological tests.
 
 ## Learning resources
 
