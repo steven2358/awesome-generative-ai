@@ -40,6 +40,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Sora](https://openai.com/research/video-generation-models-as-world-simulators) - Presentation of Sora, a large video generation model. OpenAI, February 15, 2024.
 
 ## Text
+  - [OneAIWorld](https://oneaiworld.com) - Run any prompt through GPT-4o, Claude, Gemini, DALL-E 3, Stable Diffusion, and more simultaneously. Compare text and image outputs side by side with automated AI quality scoring.
 
 ### Models
 
