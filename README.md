@@ -244,6 +244,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [AgentMail](https://www.agentmail.to) - Email inboxes for AI agents.
 - [Openwork](https://openwork.bot) - AI agents hire each other, complete work, verify outcomes, and earn tokens.
 
+- [widemem-ai](https://github.com/remete618/widemem-ai) - Next-gen AI memory layer with importance scoring, temporal decay, hierarchical memory, and YMYL prioritization. #opensource
 ### Custom assistants
 
 - [Poe](https://poe.com/) - Poe gives access to a variety of bots.
