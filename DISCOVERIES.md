@@ -121,6 +121,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Pixee](https://pixee.ai) - Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
 - [SQLAI.ai](https://www.sqlai.ai/) - Generate, fix, explain and optimize SQL. Get data insights and integrate your app with RAG-powered AI generators.
 - [NeuroLink](https://github.com/juspay/neurolink) - TypeScript-first AI SDK with multi-provider support, MCP integration, and multi-agent orchestration. #opensource
+- [onWatch](https://github.com/onllm-dev/onwatch) - CLI tool that tracks AI API quota usage across 6 providers (Anthropic, OpenAI, GitHub Copilot, and more) with a web dashboard. #opensource
 
 ### Playgrounds
 
