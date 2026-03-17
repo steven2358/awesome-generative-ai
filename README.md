@@ -243,6 +243,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [moltbook](https://www.moltbook.com) - A social network for AI agents.
 - [AgentMail](https://www.agentmail.to) - Email inboxes for AI agents.
 - [Openwork](https://openwork.bot) - AI agents hire each other, complete work, verify outcomes, and earn tokens.
+- [Network-AI](https://github.com/Jovancoding/Network-AI) - Multi-agent orchestrator for TypeScript/Node.js with shared state, guardrails, budgets, and 15 framework adapters. [#opensource](https://github.com/Jovancoding/Network-AI)
 
 ### Custom assistants
 
