@@ -224,6 +224,7 @@ Generative Artificial Intelligence is a technology that creates original content
 ### Autonomous agents
 
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [DD-OS](https://github.com/FatBy/DD-OS) - A desktop-level Agent framework with an event-driven state machine and a highly visual isometric UI for task monitoring.
 - [babyagi](https://github.com/yoheinakajima/babyagi) - An AI-powered task management system.
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
