@@ -254,6 +254,7 @@ Generative Artificial Intelligence is a technology that creates original content
 
 ### Models
 
+- [NanoBanana2](https://nanobanana2.com) - Free AI image generator with trend-aware templates and multiple models (Gemini, DALL-E, Stable Diffusion). Supports text-to-image, editing, upscaling.
 - [DALL·E 2](https://openai.com/dall-e-2/) - DALL·E 2 by OpenAI is a new AI system that can create realistic images and art from a description in natural language.
 - [Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4) - Stable Diffusion by Stability AI is a state of the art text-to-image model that generates images from text. #opensource
 - [Midjourney](https://www.midjourney.com/) - Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
