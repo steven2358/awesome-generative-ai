@@ -206,6 +206,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Promptimize](https://www.promptimizeai.com/) - A browser extension that gives anyone the powers of an expert prompt engineer.
 - [Huntr](https://huntr.co/product/ai-resume-builder) - AI powered resume builder.
 - [Docket AI](https://docketai.com) - AI sales agent for reliably answering complex product questions.
+- [DeepDNA](https://deepdna.ai) - AI-powered DNA analysis platform for personalized health, nutrition, and pharmacogenomic insights from consumer genetic data.
 
 ## Learning resources
 
