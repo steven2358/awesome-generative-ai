@@ -115,6 +115,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Rewind](https://www.rewind.ai/) - Rewind is a personalized AI powered by everything you've seen, said, or heard.
 - [NotebookLM](https://notebooklm.google/) - A research and note-taking online tool to interact with documents, powered by Google Gemini.
 - [Open Notebook](https://www.open-notebook.ai) - An open source implementation of NotebookLM with more flexibility and features. [#opensource](https://github.com/lfnovo/open-notebook)
+- [Suriya](https://suriya.ai) - AI-powered app builder for Thai SMEs. Describe your business app in Thai or English — loyalty program, booking system, or CRM — and get a working web app in 5 minutes, no code required.
 
 ### Meeting assistants
 
