@@ -179,6 +179,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [DataLine](https://dataline.app) - An AI-driven data analysis and visualization tool. [#opensource](https://github.com/RamiAwar/dataline)
 - [v0](https://v0.dev) - Prompt-driven UI generation for React and Next.js, creating production-ready components.
 - [Lovable](https://lovable.dev) - Conversational full-stack app generation, turning ideas into deployable code.
+- [Shep](https://github.com/shep-ai/cli) - Multi-session SDLC control center that orchestrates AI coding agents for autonomous feature development. [#opensource](https://github.com/shep-ai/cli)
 
 ### Developer tools
 
