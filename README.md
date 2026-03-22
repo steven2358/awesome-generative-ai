@@ -405,6 +405,10 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) - A guide to building your own working LLM, by Sebastian Raschka.
 - [Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/) - A free DeepLearning.AI short course on how to prompt computer vision models with natural language, bounding boxes, segmentation masks, coordinate points, and other images.
 
+### Podcasts
+
+- [Chain of Thought](https://chainofthought.show/) - A weekly podcast featuring conversations with AI leaders, engineers, and founders exploring generative AI development, inference infrastructure, and developer tools. Hosted by Conor Bronsdon.
+
 ## More lists
 
 - [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html) - A large list of Google Colab notebooks for generative AI, by [@pharmapsychotic](https://twitter.com/pharmapsychotic).
