@@ -124,6 +124,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Loopin AI](https://www.loopinhq.com/) - Loopin is a collaborative meeting workspace that not only enables you to record, transcribe & summaries meetings using AI, but also enables you to auto-organise meeting notes on top of your calendar.
 - [Read AI](https://www.read.ai/) - An AI copilot for wherever you work, making your meetings, emails, and messages more productive with summaries, content discovery, and recommendations.
 - [Fireflies.ai](https://fireflies.ai) - Transcribe, summarize, search, and analyze all your team conversations.
+- [MianLing AI](https://mianlingai.com) - AI-powered real-time interview assistant that captures interviewer questions via system audio and generates professional answers in milliseconds.
 
 ### Academia
 
