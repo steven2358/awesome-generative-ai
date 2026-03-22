@@ -407,7 +407,11 @@ Generative Artificial Intelligence is a technology that creates original content
 
 ### Podcasts
 
-- [Chain of Thought](https://chainofthought.show/) - A weekly podcast featuring conversations with AI leaders, engineers, and founders exploring generative AI development, inference infrastructure, and developer tools. Hosted by Conor Bronsdon.
+- [Chain of Thought](https://chainofthought.show/) - A weekly podcast with AI leaders covering inference infrastructure, developer tools, and AI strategy.
+- [How I AI](https://www.youtube.com/@howiaipodcast) - Claire Vo interviews builders about how they use AI in practice.
+- [Latent Space](https://www.latent.space/podcast) - Technical deep dives into AI engineering, LLMs, and the developer tooling stack.
+- [Practical AI](https://practicalai.fm/) - AI made practical and accessible, from the Changelog network.
+- [TWIML AI](https://twimlai.com/) - Interviews with researchers and practitioners across the ML field.
 
 ## More lists
 
