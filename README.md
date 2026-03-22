@@ -212,6 +212,7 @@ Generative Artificial Intelligence is a technology that creates original content
 
 ### Local LLM Deployment
 - [Ollama](https://github.com/ollama/ollama) - Get up and running with large language models locally.
+- [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - OpenAI-compatible local LLM inference server optimized for Apple Silicon, 2-4x faster than Ollama. Supports tool calling, reasoning, vision, and structured output. #opensource
 - [Open WebUI](https://github.com/open-webui/open-webui) - An extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline. #opensource
 - [Jan](https://jan.ai/) - Run LLMs like Mistral or Llama2 locally and offline on your computer, or connect to remote AI APIs. [#opensource](https://github.com/janhq/jan)
 - [Msty](https://msty.app/) - A straightforward and powerful interface for local and online AI models.
