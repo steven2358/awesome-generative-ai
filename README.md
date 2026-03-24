@@ -241,6 +241,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Mastra](https://mastra.ai) - An all-in-one framework for building AI-powered applications and agents.
 - [OpenClaw](https://openclaw.ai) - A personal AI assistant you run on your own devices. [#opensource](https://github.com/clawdbot/clawdbot)
 - [moltbook](https://www.moltbook.com) - A social network for AI agents.
+- [Agency Orchestrator](https://github.com/jnMetaCode/agency-orchestrator) - YAML-first multi-agent workflow orchestrator with 186 built-in AI roles, auto DAG parallelism, conditions/loops/resume. Works with DeepSeek, Claude, OpenAI, Ollama. #opensource
 - [AgentMail](https://www.agentmail.to) - Email inboxes for AI agents.
 - [Openwork](https://openwork.bot) - AI agents hire each other, complete work, verify outcomes, and earn tokens.
 
