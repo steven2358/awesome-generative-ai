@@ -148,6 +148,7 @@ Generative Artificial Intelligence is a technology that creates original content
 
 ### Other text generators
 
+- [SkillFlow](https://skillflow.builders) - Curated marketplace for AI agent skills with trust scores, reviews, and one-click deployment.
 - [EmailTriager](https://www.emailtriager.com/) - Use AI to automatically draft email replies in the background.
 - [AI Poem Generator](https://www.aipoemgenerator.org) - AI Poem Generator writes a beautiful rhyming poem for you on any subject, given a text prompt.
 
