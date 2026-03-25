@@ -182,6 +182,10 @@ Generative Artificial Intelligence is a technology that creates original content
 
 ### Developer tools
 
+### AI Security Testing
+
+- [Tessera](https://github.com/tessera-ops/tessera) - Open-source OWASP AI security testing framework. 42 automated tests for GPT-4o, Gemini, Llama, and any AI model or agent. First framework with complete OWASP Agentic AI Top 10 coverage. EU AI Act compliance reports. #opensource
+
 - [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
 - [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
