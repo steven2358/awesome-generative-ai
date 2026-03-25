@@ -407,6 +407,7 @@ Generative Artificial Intelligence is a technology that creates original content
 
 ## More lists
 
+- [Cited By AI® CPS® Framework](https://github.com/citedbyai/cps-framework) - Open framework for AI citation optimisation. Block-level scoring system predicting citation probability across ChatGPT, Perplexity, Gemini, and Google AI Overviews.
 - [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html) - A large list of Google Colab notebooks for generative AI, by [@pharmapsychotic](https://twitter.com/pharmapsychotic).
 - [The Generative AI Application Landscape](https://twitter.com/sonyatweetybird/status/1584580362339962880) - An infographic that maps the generative AI ecosystem, by [Sonya Huang](https://twitter.com/sonyatweetybird) of Sequioa Capital.
 - [Startups - @builtwithgenai](https://airtable.com/shr6nfE9FOHp17IjG/tblL3ekHZfkm3p6YT) - An Airtable list by [@builtwithgenai](https://twitter.com/builtwithgenai).
