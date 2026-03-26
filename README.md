@@ -392,6 +392,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Morpher AI](https://morpher.com/ai) - Morpher AI delivers real-time insights and analysis for any market.
 - [Whimsical AI](https://whimsical.com/ai) - GPT-powered mind mapping, flowcharts, and visual tools for rapid idea development and process organization.
 - [Selfies with Sama](https://selfies-with-sama.vost.ai) - Grab a picture with a real-life billionaire!
+- [TECS-L](https://github.com/need-singularity/TECS-L) - Mathematical framework for energy-efficient AI architectures. Derives three techniques from number theory: Phi6Simple activation (71% fewer FLOPs), HCN dimensions (10-20% param savings), phi-bottleneck FFN (67% compression). Combined 40-50% energy savings. #opensource
 
 ## Learning resources
 
