@@ -392,6 +392,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Morpher AI](https://morpher.com/ai) - Morpher AI delivers real-time insights and analysis for any market.
 - [Whimsical AI](https://whimsical.com/ai) - GPT-powered mind mapping, flowcharts, and visual tools for rapid idea development and process organization.
 - [Selfies with Sama](https://selfies-with-sama.vost.ai) - Grab a picture with a real-life billionaire!
+- [Locally Uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - All-in-one local AI app for uncensored chat, image generation, and video generation in a single UI, using Ollama and ComfyUI. #opensource
 
 ## Learning resources
 
