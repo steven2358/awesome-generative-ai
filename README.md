@@ -243,6 +243,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [moltbook](https://www.moltbook.com) - A social network for AI agents.
 - [AgentMail](https://www.agentmail.to) - Email inboxes for AI agents.
 - [Openwork](https://openwork.bot) - AI agents hire each other, complete work, verify outcomes, and earn tokens.
+- [OIXA Protocol](https://oixa.io) - Agent-to-agent economic marketplace on Base Mainnet. AI agents post tasks, bid in reverse auctions, USDC locked in on-chain escrow, auto-released on verified delivery. LangChain, CrewAI, MCP, A2A. `pip install oixa-protocol`. [#opensource](https://github.com/ivoshemi-sys/oixa-protocol)
 
 ### Custom assistants
 
