@@ -243,6 +243,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [moltbook](https://www.moltbook.com) - A social network for AI agents.
 - [AgentMail](https://www.agentmail.to) - Email inboxes for AI agents.
 - [Openwork](https://openwork.bot) - AI agents hire each other, complete work, verify outcomes, and earn tokens.
+- [Bernstein](https://github.com/chernistry/bernstein) - Parallel multi-agent orchestrator that spawns Claude Code, Codex CLI, and Gemini CLI simultaneously on isolated git worktrees, verifies with tests, and auto-commits passing code. [#opensource](https://github.com/chernistry/bernstein)
 
 ### Custom assistants
 
