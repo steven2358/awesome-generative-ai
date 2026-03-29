@@ -156,7 +156,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AI Photo Forge](https://aiphotoforge.com/) - A Telegram bot to generate AI pictures of you.
 - [VectorArt.ai](https://vectorart.ai/) - Create vector images with AI.
 - [deAPI.ai](https://deapi.ai/) - A unified inference API to open-source AI models for text-to-image, text-to-speech, transcription, video generation, and more, using a decentralized GPU cloud.
-- [Oniichan](https://oniichan.ai) - AI manga generator and OC maker that creates illustrated manga pages from text prompts with consistent characters using a custom finetuned model and panel-level editing.
+- [Oniichan](https://oniichan.app) - AI manga generator and OC maker that creates illustrated manga pages from text prompts with consistent characters using a custom finetuned model and panel-level editing.
 
 ### Graphic design
 
