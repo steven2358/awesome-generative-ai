@@ -115,6 +115,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Rewind](https://www.rewind.ai/) - Rewind is a personalized AI powered by everything you've seen, said, or heard.
 - [NotebookLM](https://notebooklm.google/) - A research and note-taking online tool to interact with documents, powered by Google Gemini.
 - [Open Notebook](https://www.open-notebook.ai) - An open source implementation of NotebookLM with more flexibility and features. [#opensource](https://github.com/lfnovo/open-notebook)
+- [Kitmul](https://kitmul.com) - 100+ free AI-powered browser tools for everyday tasks — PDF, image, video, text, and developer utilities. All processing runs locally in the browser with a built-in AI chat assistant.
 
 ### Meeting assistants
 
