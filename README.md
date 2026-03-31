@@ -51,6 +51,8 @@ Generative Artificial Intelligence is a technology that creates original content
 
 ### Video Generation
 
+- [varg](https://varg.ai) - Open-source TypeScript SDK for AI video generation. JSX for videos — compose with Kling, Flux, ElevenLabs, Sora through one API. Built on Vercel AI SDK. [#opensource](https://github.com/vargHQ/sdk)
+
 ### Custom interfaces
 
 - [LibreChat](https://librechat.ai/) - LibreChat is a free and open-source chat interface for assistant AIs. [#opensource](https://github.com/danny-avila/LibreChat).
