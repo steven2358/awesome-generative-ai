@@ -218,6 +218,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [PyGPT](https://pygpt.net/) - Personal desktop AI assistant with chat, vision, agents, image generation, tools and commands, voice control and more. #opensource
 - [LLM](https://llm.datasette.io/) - A CLI utility and Python library for interacting with Large Language Models, remote and local. [#opensource](https://github.com/simonw/llm)
 - [LM Studio](https://lmstudio.ai) - Download and run local LLMs on your computer.
+- [RunThisLLM](https://runthisllm.com) - See which LLMs you can run on your hardware.
 
 ## Agents
 
@@ -426,3 +427,8 @@ Generative Artificial Intelligence is a technology that creates original content
 - [FlowGPT](https://flowgpt.com/) - Amplify your workflow with the best prompts.
 - [ChatGPT Prompts for Data Science](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) - A repository of useful data science prompts for ChatGPT.
 - [Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt) - Another awesome list for ChatGPT.
+
+
+## Education
+
+- [ScholarNet AI](https://scholar.0xpi.com) - AI-powered study platform with quiz generation, flashcards, and an AI study coach.
