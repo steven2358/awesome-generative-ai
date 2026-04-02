@@ -214,6 +214,7 @@ Generative Artificial Intelligence is a technology that creates original content
 ### Local LLM Deployment
 - [Ollama](https://github.com/ollama/ollama) - Get up and running with large language models locally.
 - [Open WebUI](https://github.com/open-webui/open-webui) - An extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline. #opensource
+- [Open WebUI Ultimate Stack](https://github.com/BitWise-0x/open-webui-ultimate-stack) - Production-ready Docker stack for Open WebUI with 35+ pre-built tools, RAG (pgvector), private search (SearXNG), OCR, TTS, and ComfyUI workflows. #opensource
 - [Jan](https://jan.ai/) - Run LLMs like Mistral or Llama2 locally and offline on your computer, or connect to remote AI APIs. [#opensource](https://github.com/janhq/jan)
 - [Msty](https://msty.app/) - A straightforward and powerful interface for local and online AI models.
 - [PyGPT](https://pygpt.net/) - Personal desktop AI assistant with chat, vision, agents, image generation, tools and commands, voice control and more. #opensource
