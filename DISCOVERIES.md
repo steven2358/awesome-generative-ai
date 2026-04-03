@@ -175,6 +175,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Viggle AI](https://viggle.ai/) - AI-powered video generation with character animation and motion control.
 - [TopView](https://www.topview.ai/) - Turn your links or media assets into viral videos in one click.
 - [OpenCreator](https://opencreator.ai) - An all-in-one AI workspace for creating product visuals (images and videos) with workflow automation and batch generation.
+- [Framecraft](https://github.com/vaddisrinivas/framecraft) - Open-source LLM plugin that generates polished 1920x1080 demo videos with voiceover and transitions from a single prompt. #opensource
 
 ### Avatars
 
