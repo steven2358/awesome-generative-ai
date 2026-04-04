@@ -180,6 +180,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [DataLine](https://dataline.app) - An AI-driven data analysis and visualization tool. [#opensource](https://github.com/RamiAwar/dataline)
 - [v0](https://v0.dev) - Prompt-driven UI generation for React and Next.js, creating production-ready components.
 - [Lovable](https://lovable.dev) - Conversational full-stack app generation, turning ideas into deployable code.
+- [CodeCosts](https://codecosts.pages.dev) - Compare pricing and features across AI coding tools including Copilot, Cursor, Claude Code, and Windsurf. Free API available.
 
 ### Developer tools
 
