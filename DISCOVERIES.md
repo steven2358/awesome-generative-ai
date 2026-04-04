@@ -121,6 +121,10 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Pixee](https://pixee.ai) - Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
 - [SQLAI.ai](https://www.sqlai.ai/) - Generate, fix, explain and optimize SQL. Get data insights and integrate your app with RAG-powered AI generators.
 - [NeuroLink](https://github.com/juspay/neurolink) - TypeScript-first AI SDK with multi-provider support, MCP integration, and multi-agent orchestration. #opensource
+- [Domain Finder](https://github.com/iscale-llc/domain-finder-claude-code) - Domain brainstorming powered by Claude Code with Namecheap API availability checking. #opensource
+- [Everflow Offer Sync](https://github.com/iscale-llc/claude-code-everflow-sync) - Affiliate offer sync via Claude Code with AI-driven field mapping. #opensource
+- [Facebook Ad Builder](https://github.com/iscale-llc/iscale-facebook-ad-builder) - AI-powered Facebook ad automation that scrapes competitors, generates creative with Claude, and pushes to Facebook Ads API. #opensource
+- [Agentic React Template](https://github.com/iscale-llc/agentic-react-nextjs-shadcn) - Agent-testable SaaS starter with Next.js 16, shadcn/ui, and Tailwind CSS. #opensource
 
 ### Playgrounds
 
