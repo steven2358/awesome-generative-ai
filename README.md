@@ -245,6 +245,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [moltbook](https://www.moltbook.com) - A social network for AI agents.
 - [AgentMail](https://www.agentmail.to) - Email inboxes for AI agents.
 - [Openwork](https://openwork.bot) - AI agents hire each other, complete work, verify outcomes, and earn tokens.
+- [Frostbyte](https://frostbyte-api.vercel.app) - MCP server giving AI agents real-time tools: crypto prices, IP geolocation, DNS lookups, screenshots, and code execution.
 
 ### Custom assistants
 
