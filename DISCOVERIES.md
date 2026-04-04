@@ -161,6 +161,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Framer AI](https://www.framer.com/features/ai/) - Enhance your website using Framer's AI-powered tools.
 - [PPT.AI](https://ppt.ai/) - Create professional presentations in minutes.
+- [PolyGlyph](https://polyglyph.io/) - AI-powered SVG generation and editing tool that turns text prompts into editable vector graphics.
 
 ### Image libraries
 
