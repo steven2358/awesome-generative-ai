@@ -188,6 +188,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Speech-to-text
 
+- [Azex Speech](https://github.com/azex-ai/speech) - Mac native voice input tool with local AI speech recognition (FireRedASR). 1800+ domain terms for Crypto & AI professionals. Open source.
+
 ### Music
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
 - [Soundraw](https://soundraw.io/) - Create your beats with the power of AI.
