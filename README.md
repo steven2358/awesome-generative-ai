@@ -51,6 +51,7 @@ Generative Artificial Intelligence is a technology that creates original content
 # Video
 
 ### Video Generation
+ - [Genve.ai](https://genve.ai) - AI Video Translator: Professional Dubbing & Lip-Sync.
 
 ### Custom interfaces
 
