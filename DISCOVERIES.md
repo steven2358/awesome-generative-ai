@@ -30,7 +30,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Chatbots
 
-- [PageLines](https://www.pagelines.com) - AI Chat Agents to Enhance Websites 
+- [PageLines](https://www.pagelines.com) - AI Chat Agents to Enhance Websites
 - [GPT for iPhone](https://apps.apple.com/app/apple-store/id1669558411?pt=94765902&ct=awesomegenerativeai&mt=8) - An AI-powered assistant that can write essays on your iPhone.
 - [Netwrck.com](https://netwrck.com/) - Netwrck.com lets you chat with AI and create AI Characters.
 - [Text-Generator.io](https://text-generator.io) - Multimodal AI APIs for text and audio creation from text/images/speech.
@@ -84,6 +84,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Recall](https://www.getrecall.ai/) - A self-organizing knowledge base, where you can summarize and chat with any online content.
 
 ### Meeting assistants
+
 - [Goelo](https://www.goelo.com/) - Goelo helps sales teams automatically fill their CRM by recording meetings to create summaries and generate a knowledge base.
 
 ### Academia
@@ -121,6 +122,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Pixee](https://pixee.ai) - Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
 - [SQLAI.ai](https://www.sqlai.ai/) - Generate, fix, explain and optimize SQL. Get data insights and integrate your app with RAG-powered AI generators.
 - [NeuroLink](https://github.com/juspay/neurolink) - TypeScript-first AI SDK with multi-provider support, MCP integration, and multi-agent orchestration. #opensource
+- [Domscribe](https://github.com/patchorbit/domscribe) - Pixel-to-code development tool that captures runtime UI context from running web apps and hands it off to AI coding agents via MCP. [#opensource](https://github.com/patchorbit/domscribe)
 
 ### Playgrounds
 
@@ -169,6 +171,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Stable Diffusion resources
 
 ## Video
+
 - [Twelve Labs](https://twelvelabs.io/) - Helping developers build programs that can see, listen, and understand the world through video understanding.
 - [invideo AI](https://invideo.io/) - Turn ideas into videos.
 - [Haiper](https://www.haiper.ai/) - Create stunning videos with AI-powered tools for content creators.
@@ -189,6 +192,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Speech-to-text
 
 ### Music
+
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
 - [Soundraw](https://soundraw.io/) - Create your beats with the power of AI.
 - [Jammable](https://www.jammable.com/) - AI voice covers and music creation platform.
@@ -212,7 +216,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [The AI-Powered Developer](https://www.manning.com/books/the-ai-powered-developer) - A book about techniques and best practices for getting the most out of AI-powered coding using tools like Copilot and ChatGPT.
 - [Scrimba JavaScript courses on AI](https://scrimba.com/allcourses?topic=ai) - An AI Engineer Path for JavaScript developers to get into building AI powered apps
 - [Learn AI-Assisted Python Programming](https://www.manning.com/books/learn-ai-assisted-python-programming) - A book by Leo Porter and Daniel Zingaro. Manning Publications, 2023.
-- [The Complete Obsolete Guide to Generative AI](https://www.manning.com/books/the-complete-obsolete-guide-to-generative-ai) - This book gives you the tools you need to work better, faster, and smarter with AI.  
+- [The Complete Obsolete Guide to Generative AI](https://www.manning.com/books/the-complete-obsolete-guide-to-generative-ai) - This book gives you the tools you need to work better, faster, and smarter with AI.
 - [AI-Assisted Testing](https://www.manning.com/books/software-testing-with-generative-ai) - A book about software testing with Large Language Model (LLM)-based AI.
 - [Build a Website with ChatGPT](https://www.manning.com/books/build-a-website-with-chatgpt) - A web development beginner's guide to zero-coding web development using generative AI.
 - [Introduction to Generative AI](https://www.manning.com/books/introduction-to-generative-ai) - A book that guides you through benefits, risks, and limitations of Generative AI technology.
