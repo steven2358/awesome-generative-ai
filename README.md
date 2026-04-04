@@ -220,6 +220,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [LLM](https://llm.datasette.io/) - A CLI utility and Python library for interacting with Large Language Models, remote and local. [#opensource](https://github.com/simonw/llm)
 - [LM Studio](https://lmstudio.ai) - Download and run local LLMs on your computer.
 - [RunThisLLM](https://runthisllm.com) - See which LLMs you can run on your hardware.
+- [Typer](https://typer.space) - Free local AI chat for macOS. Runs entirely on-device — no account, no cloud, no ads. Works offline. Apple Silicon required.
 
 ## Agents
 
