@@ -245,6 +245,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [moltbook](https://www.moltbook.com) - A social network for AI agents.
 - [AgentMail](https://www.agentmail.to) - Email inboxes for AI agents.
 - [Openwork](https://openwork.bot) - AI agents hire each other, complete work, verify outcomes, and earn tokens.
+- [OpenPaw](https://github.com/daxaur/openpaw) - A CLI tool that turns Claude Code into a personal assistant with 38 skills including email, calendar, Spotify, smart home, and Slack. [#opensource](https://github.com/daxaur/openpaw)
 
 ### Custom assistants
 
