@@ -192,6 +192,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
 - [Soundraw](https://soundraw.io/) - Create your beats with the power of AI.
 - [Jammable](https://www.jammable.com/) - AI voice covers and music creation platform.
+- [LatentScore](https://latentscore.com) - Simple text to ambient music in Python without GPU. [#opensource](https://github.com/prabal-rje/latentscore)
 
 ## Other
 
