@@ -4,7 +4,6 @@
 
 Generative Artificial Intelligence is a technology that creates original content such as images, sounds, and texts by using machine learning algorithms that are trained on large amounts of data. Unlike other forms of AI, it is capable of creating unique and previously unseen outputs such as photorealistic images, digital art, music, and writing. These outputs often have their own unique style and can even be hard to distinguish from human-created works. Generative AI has a wide range of applications in fields such as of art, entertainment, marketing, academia, and computer science.
 
-Contributions to this list are welcome. Before submitting your suggestions, please review the [Contribution Guidelines](CONTRIBUTING.md) to ensure your entries meet the criteria. Add links through [pull requests](https://github.com/steven2358/awesome-generative-ai/pulls) or create an [issue](https://github.com/steven2358/awesome-generative-ai/issues) to start a discussion. More projects can be found in the [Discoveries List](DISCOVERIES.md), where we showcase a wide range of up-and-coming Generative AI projects.
 
 ## Contents
 
@@ -47,27 +46,10 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT-4 and GPT-5 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code.
 - [Gopher](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - Gopher by DeepMind is a 280 billion parameter language model.
 - [OPT](https://huggingface.co/facebook/opt-350m) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. [Announcement](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/). [OPT-175B text generation](https://opt.alpa.ai/) hosted by Alpa.
-- [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming languages. #opensource
-- [Llama](https://www.llama.com/) - Meta's open source large language model. #opensource
-- [Claude](https://claude.ai/) - Talk to Claude, an AI assistant from Anthropic.
-- [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. #opensource
-- [Mistral](https://mistral.ai/en/models) - Cutting-edge open-weight LLMs by Mistral AI. #opensource
-- [Grok](https://grok.x.ai/) - An LLM by xAI with [open source](https://github.com/xai-org/grok-1) and open weights. #opensource
-- [Qwen](https://qwenlm.github.io/) - A series of LLMs independently developed by Alibaba Cloud. [#opensource](https://github.com/QwenLM/Qwen)
-- [DeepSeek](https://huggingface.co/deepseek-ai) - DeepSeek V3 and R1 series of LLMs by DeepSeek AI. [#opensource](https://github.com/deepseek-ai)
-- [MiniMax](https://www.minimax.io/) - Multimodal foundation models for text, speech, video, and music generation
 
-### Chatbots
+# Video
 
-- [ChatGPT](https://chatgpt.com/) - ChatGPT by OpenAI is a large language model that interacts in a conversational way.
-- [Copilot](https://copilot.microsoft.com/) - An everyday AI companion by Microsoft.
-- [Gemini](https://gemini.google.com/) - A family of multimodal large language model developed by Google Deepmind.
-- [Meta AI](https://www.meta.ai/) - Meta AI assistant to get things done, create AI-generated images, get answers. Built on Llama LLM.
-- [DeepSeek](https://www.deepseek.com/) - Cutting-edge LLMs for enterprise, consumer, and scientific applications. #opensource
-- [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
-- [Pi](https://pi.ai) - A personalized AI platform available as a digital assistant.
-- [Qwen](https://chat.qwenlm.ai/) - Qwen chatbot with image generation, document processing, web search integration, video understanding, etc.
-- [Le Chat](https://chat.mistral.ai/) - Chat with Mistral AI's cutting-edge language models.
+### Video Generation
 
 ### Custom interfaces
 
@@ -222,8 +204,6 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Ludwig](https://github.com/ludwig-ai/ludwig) - A low-code framework for building custom AI models like LLMs and other deep neural networks. [#opensource](https://github.com/ludwig-ai/ludwig)
 - [Unsloth](https://unsloth.ai) - A Python library for fine-tuning LLMs [#opensource](https://github.com/unslothai/unsloth).
 - [OpenLIT](https://github.com/openlit/openlit) - Open-source GenAI and LLM observability platform native to OpenTelemetry with traces and metrics. #opensource
-- [Helicone AI](https://helicone.ai/) - Open-source LLM observability platform for logging, monitoring, and debugging AI applications. [#opensource](https://github.com/Helicone/helicone)
-- [Wren AI](https://www.getwren.ai/oss) - An open-source text-to-SQL and generative BI agent with a semantic layer. [#opensource](https://github.com/Canner/WrenAI)
 
 ### Playgrounds
 - [OpenAI Playground](https://platform.openai.com/playground) - Explore resources, tutorials, API docs, and dynamic examples.
@@ -264,6 +244,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [moltbook](https://www.moltbook.com) - A social network for AI agents.
 - [AgentMail](https://www.agentmail.to) - Email inboxes for AI agents.
 - [Openwork](https://openwork.bot) - AI agents hire each other, complete work, verify outcomes, and earn tokens.
+- [Hashgraph Online](https://hol.org) - Trust engine for the agentic internet. Provides verifiable agent identity (Universal Agent IDs), trustless P2P communication (HCS-10), and a registry of 187K+ verified AI agents. Built on Hedera.
 
 ### Custom assistants
 
@@ -355,6 +336,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [KLING AI](https://klingai.com/) - Tools for creating imaginative images and videos.
 - [Hailuo AI](https://hailuoai.video/) - AI-powered text-to-video generator.
 - [Google Flow](https://flow.google) - An AI filmmaking tool from Google, powered by Veo.
+- [OpenCreator](https://opencreator.io) - All-in-one AI workspace for video creation with text-to-video, image-to-video conversion, multi-language support, collaborative editing, and direct publishing to major platforms.
 - [Seedance 2.0](https://seed.bytedance.com/en/seedance2_0) - An image-to-video and text-to-video model developed by Niobotics ByteDance.
 
 ### Avatars
