@@ -104,7 +104,6 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Bolt.new](https://bolt.new/) - Full-stack web development in the browser, powered by AI. Create apps and websites by chatting with AI. [#opensource](https://github.com/stackblitz-labs/bolt.diy)
 - [Replit Agent](https://replit.com/products/agent) - AI coding agent that can build entire applications from prompts.
 - [Blackbox AI](https://www.blackbox.ai) - AI coding assistant that provides real-time code completion, documentation, debugging suggestions and integrations with a variety of developer tools.
-- [Fynix](https://www.fynix.ai/) - AI coding assistant with real-time code suggestions and agent-powered code reviews.
 
 ### Developer tools
 
@@ -122,8 +121,6 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Pixee](https://pixee.ai) - Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
 - [SQLAI.ai](https://www.sqlai.ai/) - Generate, fix, explain and optimize SQL. Get data insights and integrate your app with RAG-powered AI generators.
 - [NeuroLink](https://github.com/juspay/neurolink) - TypeScript-first AI SDK with multi-provider support, MCP integration, and multi-agent orchestration. #opensource
-- [Awesome CursorRules](https://github.com/PatrickJS/awesome-cursorrules) - A curated list of .cursorrules files for the Cursor AI code editor. #opensource
-- [Saplings](https://github.com/shobrook/saplings) - A library for building AI agents that use tree search algorithms to complete tasks. #opensource
 
 ### Playgrounds
 
