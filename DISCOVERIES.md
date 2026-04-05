@@ -121,6 +121,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Pixee](https://pixee.ai) - Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
 - [SQLAI.ai](https://www.sqlai.ai/) - Generate, fix, explain and optimize SQL. Get data insights and integrate your app with RAG-powered AI generators.
 - [NeuroLink](https://github.com/juspay/neurolink) - TypeScript-first AI SDK with multi-provider support, MCP integration, and multi-agent orchestration. #opensource
+- [Semantic Cache Router](https://github.com/redjackfred/distributed-semantic-cache-and-stateful-routing-system) - Distributed semantic cache and stateful routing system that cuts LLM API costs by returning cached responses for semantically similar queries. Uses ANN vector search and consistent hashing to pin requests to the same worker, achieving ~7× latency reduction on cache hits. [#opensource](https://github.com/redjackfred/distributed-semantic-cache-and-stateful-routing-system)
 
 ### Playgrounds
 
