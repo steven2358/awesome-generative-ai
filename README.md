@@ -197,6 +197,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [DataLine](https://dataline.app) - An AI-driven data analysis and visualization tool. [#opensource](https://github.com/RamiAwar/dataline)
 - [v0](https://v0.dev) - Prompt-driven UI generation for React and Next.js, creating production-ready components.
 - [Lovable](https://lovable.dev) - Conversational full-stack app generation, turning ideas into deployable code.
+- [local-cli-agent](https://github.com/suebi76/local-cli-agent) - Terminal coding agent with master orchestrator, 15 specialist profiles, undo system and watch mode. Runs on Ollama or LM Studio. No API key required.
 
 ### Developer tools
 
