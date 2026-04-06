@@ -443,6 +443,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [The Generative AI Landscape](https://github.com/ai-collection/ai-collection) - A Collection of Awesome Generative AI Applications.
 - [Molecular design](https://github.com/AspirinCode/papers-for-molecular-design-using-DL) - List of molecular design using Generative AI and Deep Learning.
 - [Open LLMs](https://github.com/eugeneyan/open-llms) - A list of open LLMs available for commercial use.
+- [Awesome Music AI](https://github.com/steven2358/awesome-music-ai) - A curated list of AI tools for music composition, generation, and analysis.
 
 ### Lists on ChatGPT
 
