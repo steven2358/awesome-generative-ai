@@ -444,6 +444,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Molecular design](https://github.com/AspirinCode/papers-for-molecular-design-using-DL) - List of molecular design using Generative AI and Deep Learning.
 - [Open LLMs](https://github.com/eugeneyan/open-llms) - A list of open LLMs available for commercial use.
 
+- [Guardian Agent Prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested system prompts for building multi-agent AI systems with Claude Code. Free orchestrator sample included.
+
 ### Lists on ChatGPT
 
 - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - A curated list of awesome tools, demos, docs for ChatGPT and GPT-3, by [@jordn](https://github.com/jordn).
