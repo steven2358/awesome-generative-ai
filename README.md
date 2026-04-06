@@ -158,6 +158,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [ASReview](https://asreview.nl/) - Open-source AI-powered tool for systematic reviews, helping researchers screen large volumes of academic literature efficiently. [#opensource](https://github.com/asreview/asreview)
 
 ### Leaderboards
+
 - [Chatbot Arena](https://lmarena.ai/) - An open platform for crowdsourced AI benchmarking, hosted by researchers at UC Berkeley SkyLab and LMArena.
 - [Artificial Analysis](https://artificialanalysis.ai/) - Artificial Analysis provides objective benchmarks & information to help choose AI models and hosting providers.
 - [imgsys](https://imgsys.org/rankings) - A generative image model arena by fal.ai.
@@ -232,11 +233,13 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [MLflow](https://mlflow.org/) - An open-source platform for tracking ML experiments, evaluating models and prompts, deploying models, and adding LLM observability. [#opensource](https://github.com/mlflow/mlflow)
 
 ### Playgrounds
+
 - [OpenAI Playground](https://platform.openai.com/playground) - Explore resources, tutorials, API docs, and dynamic examples.
 - [Google AI Studio](https://aistudio.google.com/) - A web-based tool to prototype with Gemini and experimental models.
 - [GitHub Models](https://github.com/marketplace/models) - Find and experiment with AI models to develop a generative AI application.
 
 ### Local LLM Deployment
+
 - [Ollama](https://github.com/ollama/ollama) - Get up and running with large language models locally.
 - [Open WebUI](https://github.com/open-webui/open-webui) - An extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline. #opensource
 - [Jan](https://jan.ai/) - Run LLMs like Mistral or Llama2 locally and offline on your computer, or connect to remote AI APIs. [#opensource](https://github.com/janhq/jan)
@@ -390,6 +393,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [TTS WebUI](https://github.com/rsxdalv/TTS-WebUI) - Web UI for running multiple text-to-speech, music generation, and audio tools. #opensource
 
 ### Speech-to-text
+
 - [Whisper](https://openai.com/index/whisper/) - Robust speech recognition via large-scale weak supervision. [#opensource](https://github.com/openai/whisper)
 - [Wispr Flow](https://wisprflow.ai/) - Flow makes writing quick with seamless voice dictation for any application on your computer.
 - [Vibe Transcribe](https://thewh1teagle.github.io/vibe/) - All-in-one solution for effortless audio and video transcription. [#opensource](https://github.com/thewh1teagle/vibe)
