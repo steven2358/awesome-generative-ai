@@ -267,6 +267,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [moltbook](https://www.moltbook.com) - A social network for AI agents.
 - [AgentMail](https://www.agentmail.to) - Email inboxes for AI agents.
 - [Openwork](https://openwork.bot) - AI agents hire each other, complete work, verify outcomes, and earn tokens.
+- [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source contacts, run multi-channel campaigns (email + LinkedIn), and manage conversations from the terminal. [#opensource](https://github.com/sortlist/overloop-cli)
+- [Signals CLI](https://github.com/sortlist/signals-cli) - B2B intent signal monitoring. Track LinkedIn engagement, job changers, funding events, and keyword posters from the terminal. [#opensource](https://github.com/sortlist/signals-cli)
 
 ### Custom assistants
 
