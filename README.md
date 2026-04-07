@@ -107,6 +107,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Postwise](https://postwise.ai/) - Write tweets, schedule posts and grow your following using AI.
 - [Copysmith](https://copysmith.ai/) - AI content creation solution for Enterprise & eCommerce.
 
+- [Personaplex](https://personaplex.aifly.club/) - Multi-persona AI voice group chat. Invite 2-3 AI characters with distinct voices into the same room — they hear each other and hold real-time group conversations. Use cases: language learning, roleplay, interview prep.
 ### ChatGPT extensions
 
 - [WebChatGPT](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn) - Augment your ChatGPT prompts with relevant results from the web.
