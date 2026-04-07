@@ -141,6 +141,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Simplismart](https://www.simplismart.ai/) - Cloud-agnostic MLOps platform for deploying and scaling open-source and custom AI models.
 - [Fiddler.ai](https://www.fiddler.ai) - An AI observability and security platform for monitoring, evaluating, and governing LLM and GenAI applications.
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI for analyzing agentic workflows and surfacing security issues.
+- [AI/ML API](https://aimlapi.com/) - Unified API for accessing multiple AI models across text, image, audio, and video.
 
 ### Playgrounds
 
