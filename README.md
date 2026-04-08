@@ -172,6 +172,11 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [EmailTriager](https://www.emailtriager.com/) - Use AI to automatically draft email replies in the background.
 - [AI Poem Generator](https://www.aipoemgenerator.org) - AI Poem Generator writes a beautiful rhyming poem for you on any subject, given a text prompt.
 
+
+### Synthetic Data
+
+- [TabGAN](https://github.com/Diyago/Tabular-data-generation) - Synthetic tabular data generation using GANs (CTGAN), Diffusion Models, and LLMs with adversarial filtering, privacy metrics, and sklearn integration. [TabGAN on PyPI](https://pypi.org/project/tabgan/)
+
 ## Coding
 
 ### Coding Assistants
