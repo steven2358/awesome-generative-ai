@@ -373,6 +373,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Hailuo AI](https://hailuoai.video/) - AI-powered text-to-video generator.
 - [Google Flow](https://flow.google) - An AI filmmaking tool from Google, powered by Veo.
 - [Seedance 2.0](https://seed.bytedance.com/en/seedance2_0) - An image-to-video and text-to-video model developed by Niobotics ByteDance.
+- [Lingti Studio](https://github.com/ruilisi/LingtiStudio) - Gen multi-minutes video from one prompt: script -> review -> keyframes -> voiceover -> clips -> assembly -> final video
 
 ### Avatars
 
