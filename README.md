@@ -270,6 +270,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Davika](https://github.com/stitionai/devika) - An agentic AI software engineer. #opensource
 - [n8n](https://n8n.io/) - A workflow automation platform that combines AI capabilities with business process automation.
 - [Sauna](https://www.sauna.ai) - An AI assistant built for compounding context. It learns your taste, detects hidden patterns, augments your brain context and works proactively.
+- [VikaasLoop](https://github.com/LucidAkshay/vikaasloop) - An autonomous 5-agent swarm that automates the entire LLM fine-tuning lifecycle, from synthetic data generation to QLoRA training and evaluation. #opensource
 - [Claude Code](https://code.claude.com) - Anthropic's agentic coding tool that lives in your terminal and helps you turn ideas into code.
 - [Gemini CLI](https://geminicli.com) - An open-source AI agent that brings the power of Gemini directly into your terminal. [#opensource](https://github.com/google-gemini/gemini-cli)
 - [OpenCode](https://opencode.ai) - The open-source AI coding agent. [#opensource](https://github.com/anomalyco/opencode)
