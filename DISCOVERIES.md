@@ -50,8 +50,6 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Local search engines
 
-- [Rewind](https://www.rewind.ai/) - Rewind captures everything you've seen on your Mac and iPhone and makes it searchable with AI.
-
 ### Writing assistants
 
 - [Yarnit](https://www.yarnit.app/) - Yarnit, a digital storytelling application that uses generative AI to storyboard, research and design your ideas.
