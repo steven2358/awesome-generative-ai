@@ -431,6 +431,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Morpher AI](https://morpher.com/ai) - Morpher AI delivers real-time insights and analysis for any market.
 - [Whimsical AI](https://whimsical.com/ai) - GPT-powered mind mapping, flowcharts, and visual tools for rapid idea development and process organization.
 - [Selfies with Sama](https://selfies-with-sama.vost.ai) - Grab a picture with a real-life billionaire!
+- [Paula](https://trypaula.com/) - Free AI mental health companion using CBT and DBT techniques. Features voice sessions, mood tracking, journaling, and 24/7 availability.
 
 ## Learning resources
 
