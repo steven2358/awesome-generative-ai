@@ -218,6 +218,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Vanna.ai](https://vanna.ai/) - An open-source Python RAG framework for SQL generation and related functionality. [#opensource](https://github.com/vanna-ai/vanna)
 - [Portkey](https://portkey.ai/) - A full-stack LLMOps platform for LLM monitoring, caching, and management.
 - [agenta](https://github.com/agenta-ai/agenta) - An open-source end-to-end LLMOps platform for prompt engineering, evaluation, and deployment. #opensource
+- [Azex](https://azex.ai) - Crypto-native LLM API gateway. 349 models, 55 providers, pay with USDC/USDT. OpenAI-compatible.
 - [Together AI](https://www.together.ai/) - Train, fine-tune-and run inference on AI models blazing fast, at low cost, and at production scale.
 - [Gitingest](https://gitingest.com/) - Turn any Git repository into a simple text digest of its codebase so it can be fed into any LLM. [#opensource](https://github.com/cyclotruc/gitingest)
 - [Repomix](https://repomix.com/) - Pack your codebase into AI-friendly formats. [#opensource](https://github.com/yamadashy/repomix)
