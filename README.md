@@ -132,6 +132,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Nekton AI](https://nekton.ai) - Automate your workflows with AI. Describe your workflows step by step in plain language.
 - [Limitless](https://www.limitless.ai/) - An AI memory assistant for recording conversations and meetings, generating summaries, and searching past interactions across apps and an optional wearable.
 - [NotebookLM](https://notebooklm.google/) - A research and note-taking online tool to interact with documents, powered by Google Gemini.
+- [MealThinker](https://mealthinker.com) - AI meal planner powered by Google Gemini that remembers your preferences, dietary needs, and kitchen inventory to suggest personalized meals.
 - [Open Notebook](https://www.open-notebook.ai) - An open source implementation of NotebookLM with more flexibility and features. [#opensource](https://github.com/lfnovo/open-notebook)
 - [Screenpipe](https://github.com/screenpipe/screenpipe) - An open-source tool for recording screen and audio activity with AI-powered search, automations, and support for local LLMs. #opensource
 
