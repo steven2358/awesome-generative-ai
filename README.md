@@ -232,6 +232,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Opik](https://github.com/comet-ml/opik) - An open-source platform for tracing, evaluating, and monitoring LLM applications. [#opensource](https://github.com/comet-ml/opik)
 - [Langfuse](https://langfuse.com/) - An open-source LLM engineering platform for tracing, evaluation, prompt management, and metrics. [#opensource](https://github.com/langfuse/langfuse)
 - [MLflow](https://mlflow.org/) - An open-source platform for tracking ML experiments, evaluating models and prompts, deploying models, and adding LLM observability. [#opensource](https://github.com/mlflow/mlflow)
+- [OMEGA](https://github.com/omega-memory/omega-memory) - Persistent memory for AI coding agents with semantic search, auto-capture, and cross-session learning via MCP. [#opensource](https://github.com/omega-memory/omega-memory)
 
 ### Playgrounds
 
