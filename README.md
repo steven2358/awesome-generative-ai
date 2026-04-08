@@ -69,6 +69,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Qwen](https://chat.qwenlm.ai/) - Qwen chatbot with image generation, document processing, web search integration, video understanding, etc.
 - [Le Chat](https://chat.mistral.ai/) - Chat with Mistral AI's cutting-edge language models.
 
+- [varg](https://varg.ai) - Open-source TypeScript SDK for AI video generation. JSX for videos — compose with Kling, Flux, ElevenLabs, Sora through one API. Built on Vercel AI SDK. [#opensource](https://github.com/vargHQ/sdk)
+
 ### Custom interfaces
 
 - [LibreChat](https://librechat.ai/) - LibreChat is a free and open-source chat interface for assistant AIs. [#opensource](https://github.com/danny-avila/LibreChat).
