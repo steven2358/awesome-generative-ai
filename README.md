@@ -340,6 +340,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [OpenArt](https://openart.ai/) - Search 10M+ of prompts, and generate AI art via Stable Diffusion, DALL·E 2.
 - [PromptHero](https://prompthero.com/) - Search prompts for models like Stable Diffusion, ChatGPT, Midjourney, etc.
 - [PromptBase](https://promptbase.com/) - Search prompts from top prompt engineers. Sell your own prompts.
+- [AI Image Lab](https://aiimagelab.art/) - Free AI image generator with a curated prompt library. Create stunning AI art in 4K quality using top models like Nano Banana.
 
 ### Model libraries
 
