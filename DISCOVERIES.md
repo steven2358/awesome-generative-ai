@@ -211,6 +211,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [OpenCreator](https://opencreator.ai) - An all-in-one AI workspace for creating product visuals (images and videos) with workflow automation and batch generation.
 - [Viral Clips](https://viralclips.video/) - AI tool for creating short clips from conversational videos and podcasts.
 - [Viidx AI](https://viidx.com/) - A video generation tool for creating videos from text, images, and reference inputs using multiple AI models.
+- [Musiv](https://musiv.ai/) - AI music video generator that analyzes uploaded audio for rhythm and mood, generates storyboards, and produces synchronized video segments for musicians and creators.
 
 ### Avatars
 
