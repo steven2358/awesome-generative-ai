@@ -147,6 +147,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AI/ML API](https://aimlapi.com/) - Unified API for accessing multiple AI models across text, image, audio, and video.
 - [Codeflash](https://www.codeflash.ai/) - An AI tool that automatically finds optimized versions of Python code through benchmarking.
 - [AgentAudit](https://github.com/jakops88-hub/AgentAudit-AI-Grounding-Reliability-Check) - A tool for verifying grounding and detecting unsupported claims in RAG pipeline outputs. #opensource
+- [Google Drive – Memyard](https://github.com/zagmoai/public-google-drive) - Agent skill for creating and editing Google Docs and Sheets without sign-in. Documents hosted on Memyard with shareable links. No API keys or OAuth required. [#opensource](https://github.com/zagmoai/public-google-drive)
 
 ### Playgrounds
 
