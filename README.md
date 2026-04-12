@@ -215,6 +215,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [LlamaIndex](https://www.llamaindex.ai/) - A data framework for building LLM applications over external data.
 - [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine tune LLM, CV and tabular models.
 - [Cursor](https://www.cursor.so/) - Cursor is the IDE of the future, built for pair-programming with Powerful AI.
+- [Toprank](https://github.com/nowork-studio/toprank) - Open-source MIT Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and the Google Ads API to ship fixes such as meta tag rewrites, JSON-LD schema generation, keyword bid adjustments, and CMS content pushes.
 - [SymbolicAI](https://github.com/Xpitfire/symbolicai) - A neuro-symbolic framework for building applications with LLMs at the core.
 - [Vanna.ai](https://vanna.ai/) - An open-source Python RAG framework for SQL generation and related functionality. [#opensource](https://github.com/vanna-ai/vanna)
 - [Portkey](https://portkey.ai/) - A full-stack LLMOps platform for LLM monitoring, caching, and management.
