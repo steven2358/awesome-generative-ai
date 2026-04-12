@@ -376,6 +376,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Google Flow](https://flow.google) - An AI filmmaking tool from Google, powered by Veo.
 - [Seedance 2.0](https://seed.bytedance.com/en/seedance2_0) - An image-to-video and text-to-video model developed by Niobotics ByteDance.
 - [MaxVideoAI](https://maxvideoai.com/examples) - A workspace for generating and comparing videos across multiple AI video models.
+- [StoryIntoVideo](https://storyintovideo.com) - An AI-powered platform that transforms narrative scripts into complete videos with characters, voiceover, and subtitles.
 
 ### Avatars
 
