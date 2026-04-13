@@ -153,6 +153,9 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Local LLM Deployment
 
 - [Minima](https://github.com/dmayboroda/minima) - On-premises RAG with configurable Docker containers. #opensource
+- [OpenLLaMA](https://github.com/openlm-research/open_llama) – Contributed to improving model usability and local deployment workflows. #opensource #contribution
+- [LLaMA 3](https://github.com/meta-llama/llama3) – State-of-the-art open-weight LLM by Meta for high-performance local inference. #opensource 
+- [Mistral](https://github.com/mistralai/mistral-src) – Efficient open-source LLMs optimized for performance and speed. #opensource #ai
 
 ## Agents
 
