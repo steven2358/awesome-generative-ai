@@ -443,6 +443,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 - [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering) - Strategies and tactics for getting better results from large language models.
 - [PromptPerfect](https://promptperfect.jina.ai/) - Tool for prompt engineering.
+- [AI Prompt Architect](https://aipromptarchitect.co.uk) - Structured prompt engineering with the STCO framework. Supports multi-model output (GPT, Claude, Gemini). Free tier.
 - [Anthropic courses](https://github.com/anthropics/courses) - Anthropic's educational courses.
 - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) - A guide to building your own working LLM, by Sebastian Raschka.
 - [Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/) - A free DeepLearning.AI short course on how to prompt computer vision models with natural language, bounding boxes, segmentation masks, coordinate points, and other images.
