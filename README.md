@@ -435,6 +435,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Whimsical AI](https://whimsical.com/ai) - GPT-powered mind mapping, flowcharts, and visual tools for rapid idea development and process organization.
 - [Selfies with Sama](https://selfies-with-sama.vost.ai) - Grab a picture with a real-life billionaire!
 
+- [StoryRoute](https://storyroute.netlify.app/) - AI-powered GPS audio tour guide that generates personalized, location-based stories and narrations as you explore cities and landmarks.
+
 ## Learning resources
 
 - [Learn Prompting](https://learnprompting.org/) - A free, open source course on communicating with artificial intelligence.
