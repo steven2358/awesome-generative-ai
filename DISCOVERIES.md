@@ -147,6 +147,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AI/ML API](https://aimlapi.com/) - Unified API for accessing multiple AI models across text, image, audio, and video.
 - [Codeflash](https://www.codeflash.ai/) - An AI tool that automatically finds optimized versions of Python code through benchmarking.
 - [AgentAudit](https://github.com/jakops88-hub/AgentAudit-AI-Grounding-Reliability-Check) - A tool for verifying grounding and detecting unsupported claims in RAG pipeline outputs. #opensource
+- [SwarmVault](https://github.com/swarmclawai/swarmvault) - Local-first knowledge compiler that turns files, URLs, PDFs, and code into a markdown wiki with a graph and search index. Ships a CLI, MCP server, and Obsidian plugin. [#opensource](https://github.com/swarmclawai/swarmvault)
 
 ### Playgrounds
 
