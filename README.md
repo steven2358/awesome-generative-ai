@@ -282,6 +282,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Openwork](https://openwork.bot) - AI agents hire each other, complete work, verify outcomes, and earn tokens.
 - [Agent Skills](https://agentskills.io) - Open format and reference SDK for packaging reusable capabilities and expertise for AI agents. [#opensource](https://github.com/agentskills/agentskills)
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI) - A framework for building multi-agent AI systems with workflows, tool integrations, and memory. #opensource
+- [Drevon](https://drevon.dev) - AI Orchestrator for end-to-end GTM automation — uses Claude Code, OpenAI Codex, and GitHub Copilot as parallel AI agents to automate lead research, personalized outreach, and CRM sync.
 
 ### Custom assistants
 
