@@ -203,6 +203,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Lovable](https://lovable.dev) - Conversational full-stack app generation, turning ideas into deployable code.
 - [aider](https://aider.chat/) - AI pair programming in your terminal, supporting multiple LLM providers. [#opensource](https://github.com/paul-gauthier/aider)
 - [Kilo Code](https://kilocode.ai) - Open-source AI coding assistant for VS Code, JetBrains, and the CLI. [#opensource](https://github.com/Kilo-Org/kilocode)
+- [Forge](https://forge-web.rebaselabs.online) - AI-powered full-stack app creator with BYOK (Bring Your Own Key), generating Next.js apps from text prompts. [#opensource](https://github.com/sudo-rebase/forge)
 
 ### Developer tools
 
