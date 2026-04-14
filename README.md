@@ -434,6 +434,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Morpher AI](https://morpher.com/ai) - Morpher AI delivers real-time insights and analysis for any market.
 - [Whimsical AI](https://whimsical.com/ai) - GPT-powered mind mapping, flowcharts, and visual tools for rapid idea development and process organization.
 - [Selfies with Sama](https://selfies-with-sama.vost.ai) - Grab a picture with a real-life billionaire!
+- [Formatho Tools](https://formatho.com/Tools) - 100+ privacy-first developer utilities. All processing client-side, no signup required. Also maintains [awesome-ai-tools](https://github.com/formatho/awesome-ai-tools).
 
 ## Learning resources
 
