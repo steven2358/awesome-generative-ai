@@ -388,6 +388,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Scenario](https://www.scenario.com/) - AI-generated gaming assets.
 - [Teleprompter](https://github.com/danielgross/teleprompter) - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
 - [FinChat](https://finchat.io/) - Using AI, FinChat generates answers to questions about public companies and investors.
+- [Helium](https://heliumtrades.com/mcp-page/) - Real-time news intelligence with bias scoring across 15+ dimensions (3.2M+ articles, 5,000+ sources), live stock/ETF/crypto data with AI bull/bear cases, ML options pricing and strategy ranking, and balanced multi-perspective synthesis; available as an MCP server or REST API. [#opensource](https://github.com/connerlambden/helium-mcp)
 - [Morpher AI](https://morpher.com/ai) - Morpher AI delivers real-time insights and analysis for any market.
 - [Whimsical AI](https://whimsical.com/ai) - GPT-powered mind mapping, flowcharts, and visual tools for rapid idea development and process organization.
 - [Selfies with Sama](https://selfies-with-sama.vost.ai) - Grab a picture with a real-life billionaire!
