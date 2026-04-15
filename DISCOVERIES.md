@@ -164,6 +164,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Maxim AI](https://www.getmaxim.ai) - An enterprise-grade generative AI evaluation and observability platform.
 - [Hercules](https://github.com/test-zeus-ai/testzeus-hercules) - An open-source AI agent for automated UI, API, security, and accessibility testing. [#opensource](https://github.com/test-zeus-ai/testzeus-hercules)
 - [Quorum](https://github.com/Detrol/quorum-cli) - A CLI for running structured debates across multiple LLMs. #opensource
+- [LLM Daily Review](https://tokenstree.eu) - Automated daily reviewer and scorer of AI tools appearing on Hacker News, powered by LLMs.
 
 ### Custom assistants
 
