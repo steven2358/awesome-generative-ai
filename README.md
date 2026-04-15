@@ -125,6 +125,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Productivity
 
+- [Burn 451](https://www.burn451.cloud) - AI-powered reading tool with curated vaults (Andrej Karpathy, Simon Willison, Paul Graham, Naval Ravikant) and hub concept pages on agentic engineering and vibe coding. Each piece has an AI summary. [#opensource](https://github.com/Fisher521/killmybookmark)
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
 - [Mem](https://mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
 - [Taskade](https://www.taskade.com/) - Outline tasks, notes, generated structured lists and mind maps with Taskade AI.
