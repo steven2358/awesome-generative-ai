@@ -164,6 +164,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Maxim AI](https://www.getmaxim.ai) - An enterprise-grade generative AI evaluation and observability platform.
 - [Hercules](https://github.com/test-zeus-ai/testzeus-hercules) - An open-source AI agent for automated UI, API, security, and accessibility testing. [#opensource](https://github.com/test-zeus-ai/testzeus-hercules)
 - [Quorum](https://github.com/Detrol/quorum-cli) - A CLI for running structured debates across multiple LLMs. #opensource
+- [MemClaw](https://memclaw.me) - Persistent project memory for AI coding agents with isolated workspaces per project and a web dashboard for managing agent memory. [#opensource](https://github.com/Felo-Inc/memclaw)
 
 ### Custom assistants
 
