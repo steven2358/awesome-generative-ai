@@ -81,6 +81,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Phind](https://phind.com/) - AI-based search engine.
 - [You.com](https://you.com/) - A search engine built on AI that provides users with a customized search experience while keeping their data 100% private.
 - [Komo](https://komo.ai/) - An AI-powered search engine.
+- [Not Human Search](https://nothumansearch.ai/) - AI tool discovery engine with agentic scoring. Search 8,600+ AI tools and MCP servers via REST API and MCP server.
 
 ### Local search engines
 
@@ -236,6 +237,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [MLflow](https://mlflow.org/) - An open-source platform for tracking ML experiments, evaluating models and prompts, deploying models, and adding LLM observability. [#opensource](https://github.com/mlflow/mlflow)
 - [rehydra](https://github.com/rehydra-ai/rehydra-sdk) - A zero-trust SDK for anonymizing PII locally before sending prompts to LLMs and seamlessly rehydrating the response.
 - [Agentset](https://agentset.ai/) - An open-source platform for building and evaluating RAG and agentic applications. [#opensource](https://github.com/agentset-ai/agentset)
+- [AI Dev Jobs](https://aidevboard.com/) - AI/ML-focused job board with REST API and MCP server for searching 5,600+ AI/ML jobs programmatically.
 
 ### Playgrounds
 
