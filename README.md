@@ -435,10 +435,11 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Morpher AI](https://morpher.com/ai) - Morpher AI delivers real-time insights and analysis for any market.
 - [Whimsical AI](https://whimsical.com/ai) - GPT-powered mind mapping, flowcharts, and visual tools for rapid idea development and process organization.
 - [Selfies with Sama](https://selfies-with-sama.vost.ai) - Grab a picture with a real-life billionaire!
+- - [DishRoll](https://dishroll.netlify.app/) - AI-powered weekly meal planner that generates personalized 7-day menus and smart shopping lists using Claude. #opensource
 
 ## Learning resources
 
-- [Learn Prompting](https://learnprompting.org/) - A free, open source course on communicating with artificial intelligence.
+- [Learn Prompting](https://learnprompting.org/) - A free, open source course on communicating with artificial intelligence
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guide and resources for prompt engineering.
 - [ChatGPT prompt engineering for developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - A short course by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI).
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
