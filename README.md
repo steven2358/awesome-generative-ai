@@ -203,6 +203,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Lovable](https://lovable.dev) - Conversational full-stack app generation, turning ideas into deployable code.
 - [aider](https://aider.chat/) - AI pair programming in your terminal, supporting multiple LLM providers. [#opensource](https://github.com/paul-gauthier/aider)
 - [Kilo Code](https://kilocode.ai) - Open-source AI coding assistant for VS Code, JetBrains, and the CLI. [#opensource](https://github.com/Kilo-Org/kilocode)
+- [AI Dev Tools Directory](https://aidevtools-3qf.pages.dev) - Comprehensive pricing comparison directory and benchmark suite for 61 AI coding models from 10 providers with SWE-bench scores
 
 ### Developer tools
 
