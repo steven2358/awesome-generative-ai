@@ -452,6 +452,14 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Build a DeepSeek Model (From Scratch)](https://www.manning.com/books/build-a-deepseek-model-from-scratch) - A book about implementing DeepSeek-style LLM architecture, training, and distillation methods.
 - [AI Governance](https://www.manning.com/books/ai-governance) - A book about governance, risk, compliance, security, privacy, and oversight for generative AI systems.
 
+### Podcasts
+
+- [Chain of Thought](https://chainofthought.show/) - A weekly podcast with AI leaders covering inference infrastructure, developer tools, and AI strategy.
+- [How I AI](https://www.youtube.com/@howiaipodcast) - Claire Vo interviews builders about how they use AI in practice.
+- [Latent Space](https://www.latent.space/podcast) - Technical deep dives into AI engineering, LLMs, and the developer tooling stack.
+- [Practical AI](https://practicalai.fm/) - AI made practical and accessible, from the Changelog network.
+- [TWIML AI](https://twimlai.com/) - Interviews with researchers and practitioners across the ML field.
+
 ## More lists
 
 - [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html) - A large list of Google Colab notebooks for generative AI, by [@pharmapsychotic](https://twitter.com/pharmapsychotic).
