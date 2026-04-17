@@ -250,6 +250,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Docket AI](https://docketai.com) - AI sales agent for reliably answering complex product questions.
 - [Chinese-Elite](https://github.com/anonym-g/Chinese-Elite) - An experimental project that uses LLMs to build a knowledge graph of Chinese political and business elites from public data. [#opensource](https://github.com/anonym-g/Chinese-Elite)
 - [GPU Per Hour](https://gpuperhour.com) - Real-time GPU cloud price comparison across multiple providers.
+- [StoryRoute](https://storyroute.netlify.app) - An AI-powered GPS audio tour guide that generates real-time location-aware narratives as you explore cities.
 
 ## Learning resources
 
