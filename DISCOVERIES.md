@@ -99,6 +99,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Leaderboards
 
 - [Price Per Token](https://pricepertoken.com/) - A tool for comparing LLM API pricing, token usage, and model benchmarks.
+- [VoxArena](https://voxarena.ai/) - Multi-LLM debate arena where Claude, GPT-4, Gemini, Grok, Mistral, and others argue opposing positions on any topic in real time, with structured verdicts, audience voting, and 7-language audio.
 
 ### Other text generators
 
