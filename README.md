@@ -435,6 +435,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Morpher AI](https://morpher.com/ai) - Morpher AI delivers real-time insights and analysis for any market.
 - [Whimsical AI](https://whimsical.com/ai) - GPT-powered mind mapping, flowcharts, and visual tools for rapid idea development and process organization.
 - [Selfies with Sama](https://selfies-with-sama.vost.ai) - Grab a picture with a real-life billionaire!
+- [VibeX](https://vibexforge.com) - AI-native launch platform with a 16-bit RPG UI where every project evolves Seed → Active → Growing → Breakout → Legend → Myth based on real traction, and Claude reviews originality, craft, market fit, and growth.
 
 ## Learning resources
 
