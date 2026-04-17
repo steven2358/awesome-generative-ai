@@ -10,7 +10,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Text](#text)
 - [Coding](#coding)
 - [Agents](#agents)
-- [Image](#image)h
+- [Image](#image)
 - [Video](#video)
 - [Audio](#audio)
 - [Other](#other)
