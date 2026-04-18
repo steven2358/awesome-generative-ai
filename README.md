@@ -161,6 +161,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Leaderboards
 
+- [BenchClaw](https://www.p2pclaw.com/app/benchmark) - A public leaderboard that benchmarks any LLM agent across 10 dimensions plus an override Tribunal IQ, via a 17-judge panel with 8 deception detectors.
 - [Chatbot Arena](https://lmarena.ai/) - An open platform for crowdsourced AI benchmarking, hosted by researchers at UC Berkeley SkyLab and LMArena.
 - [Artificial Analysis](https://artificialanalysis.ai/) - Artificial Analysis provides objective benchmarks & information to help choose AI models and hosting providers.
 - [imgsys](https://imgsys.org/rankings) - A generative image model arena by fal.ai.
