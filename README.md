@@ -237,6 +237,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [rehydra](https://github.com/rehydra-ai/rehydra-sdk) - A zero-trust SDK for anonymizing PII locally before sending prompts to LLMs and seamlessly rehydrating the response.
 - [Agentset](https://agentset.ai/) - An open-source platform for building and evaluating RAG and agentic applications. [#opensource](https://github.com/agentset-ai/agentset)
 
+- [ShipPage](https://shippage.ai) - Zero-config HTML publishing service for AI agents. One HTTP POST turns any HTML or Markdown into a public URL. Auto-registers on first call — no account, no API keys to configure. Install as OpenClaw skill or MCP server. [#opensource](https://github.com/jieshu666/ShipPage-Skill)
 ### Playgrounds
 
 - [OpenAI Playground](https://platform.openai.com/playground) - Explore resources, tutorials, API docs, and dynamic examples.
