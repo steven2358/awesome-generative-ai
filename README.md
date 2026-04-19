@@ -54,6 +54,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
 - [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation.
+- [Netwrck](https://netwrck.com) - AI character chat platform with voice, multimodal creation, art generation, and API.
 
 ### Search engines
 
@@ -130,6 +131,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
 - [gpt4all](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.
 - [LMQL](https://lmql.ai/) - LMQL is a query language for large language models.
+- [Text-Generator.io](https://text-generator.io) - Privacy-first unified text, vision, and speech API with prompt optimizer and AI text editor.
 
 ## Code
 
@@ -179,6 +181,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [Lensa](https://prisma-ai.com/lensa) - An all-in-one image editing app that includes the generation of personalized avatars using Stable Diffusion.
 - [RunDiffusion](https://rundiffusion.com/) - Cloud-based workspace for creating AI-generated art.
 - [ClipDrop](https://clipdrop.co/) - Create professional visuals without a photo studio, powered by
+- [AI Art Generator](https://ebank.nz) - AI art generator with resolution presets, style transfer, upscaling, video creation, and built-in editor.
 
 ### Image libraries
 
