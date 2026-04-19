@@ -419,6 +419,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [AIVA](https://www.aiva.ai/) - AI-based music generation assistant. Choose from 250+ styles.
 - [Suno AI](https://www.suno.ai/) - Anyone can make great music. No instrument needed, just imagination. From your mind to music.
 - [Udio](https://www.udio.com/) - Discover, create, and share music with the world.
+- [AceTagGen](https://acetaggen.com/) - Free structured prompt builder for Suno AI — 3,000+ tested tags, 12-step questionnaire, built-in quality score, respects Suno's 200-character Style limit. Also offers a free [public scoring API](https://acetaggen.com/api/suno-score).
 
 ## Other
 
