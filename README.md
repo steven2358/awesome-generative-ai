@@ -167,6 +167,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [OpenRouter LLM Rankings](https://openrouter.ai/rankings) - Language models ranked and analyzed by usage across apps.
 - [SEAL LLM Leaderboard](https://scale.com/leaderboard) - Expert-driven LLM benchmarks and updated AI model leaderboards.
 - [LLM Stats](https://llm-stats.com/) - Compare AI models across benchmarks, pricing, speed, and context window.
+- [Claude API Pricing Calculator](https://claudeapipricing.com/) - Interactive calculator for estimating Claude API costs across Opus, Sonnet, and Haiku, including prompt caching and Batch API savings.
 
 ### Other text generators
 
