@@ -203,6 +203,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Lovable](https://lovable.dev) - Conversational full-stack app generation, turning ideas into deployable code.
 - [aider](https://aider.chat/) - AI pair programming in your terminal, supporting multiple LLM providers. [#opensource](https://github.com/paul-gauthier/aider)
 - [Kilo Code](https://kilocode.ai) - Open-source AI coding assistant for VS Code, JetBrains, and the CLI. [#opensource](https://github.com/Kilo-Org/kilocode)
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - AI background code analysis agent that watches your codebase and provides real-time insights and automated reviews. [#opensource](https://github.com/theihtisham/agent-shadow-brain)
 
 ### Developer tools
 
@@ -236,6 +237,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [MLflow](https://mlflow.org/) - An open-source platform for tracking ML experiments, evaluating models and prompts, deploying models, and adding LLM observability. [#opensource](https://github.com/mlflow/mlflow)
 - [rehydra](https://github.com/rehydra-ai/rehydra-sdk) - A zero-trust SDK for anonymizing PII locally before sending prompts to LLMs and seamlessly rehydrating the response.
 - [Agentset](https://agentset.ai/) - An open-source platform for building and evaluating RAG and agentic applications. [#opensource](https://github.com/agentset-ai/agentset)
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - Skill and command manager for AI assistants with dynamic loading and execution. [#opensource](https://github.com/theihtisham/omni-skills-forge)
 
 ### Playgrounds
 
@@ -283,6 +285,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Agent Skills](https://agentskills.io) - Open format and reference SDK for packaging reusable capabilities and expertise for AI agents. [#opensource](https://github.com/agentskills/agentskills)
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI) - A framework for building multi-agent AI systems with workflows, tool integrations, and memory. #opensource
 - [Hermes Agent](https://hermes-agent.nousresearch.com) - A self-improving personal agent with memory, messaging integrations, and sandboxed tool execution. [#opensource](https://github.com/NousResearch/hermes-agent)
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - AI background code analysis agent that watches your codebase and provides real-time insights and automated reviews. [#opensource](https://github.com/theihtisham/agent-shadow-brain)
 
 ### Custom assistants
 
