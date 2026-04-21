@@ -465,6 +465,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [The Generative AI Landscape](https://github.com/ai-collection/ai-collection) - A Collection of Awesome Generative AI Applications.
 - [Molecular design](https://github.com/AspirinCode/papers-for-molecular-design-using-DL) - List of molecular design using Generative AI and Deep Learning.
 - [Open LLMs](https://github.com/eugeneyan/open-llms) - A list of open LLMs available for commercial use.
+- [Free AI Bible](https://github.com/abbosaliboev/free-ai-bible) - The ultimate directory of 700+ free AI APIs, LLM APIs, image generation tools, and hosting platforms for developers. No credit card required.
 - [Awesome Music AI](https://github.com/steven2358/awesome-music-ai) - A curated list of AI tools for music composition, generation, and analysis.
 - [Awesome AI Market Maps](https://github.com/joylarkin/Awesome-AI-Market-Maps) - A curated list of AI market maps from 2026, 2025, and 2024, by [Joy Larkin](https://twitter.com/joy).
 - [Awesome RAG Production](https://github.com/Yigtwxx/Awesome-RAG-Production) - A curated list of tools and resources for building production RAG systems.
