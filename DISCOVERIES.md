@@ -148,6 +148,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AI/ML API](https://aimlapi.com/) - Unified API for accessing multiple AI models across text, image, audio, and video.
 - [Codeflash](https://www.codeflash.ai/) - An AI tool that automatically finds optimized versions of Python code through benchmarking.
 - [AgentAudit](https://github.com/jakops88-hub/AgentAudit-AI-Grounding-Reliability-Check) - A tool for verifying grounding and detecting unsupported claims in RAG pipeline outputs. #opensource
+- [tteg](https://tteg.kushalsm.com) - Stock photos for AI coding agents — real Unsplash images via CLI, HTTP API, or MCP, no API key required. Drop-in replacement for placeholder image URLs in AI-generated landing pages. [#opensource](https://github.com/kiluazen/tteg)
 
 ### Playgrounds
 
