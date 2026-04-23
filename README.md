@@ -236,6 +236,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [MLflow](https://mlflow.org/) - An open-source platform for tracking ML experiments, evaluating models and prompts, deploying models, and adding LLM observability. [#opensource](https://github.com/mlflow/mlflow)
 - [rehydra](https://github.com/rehydra-ai/rehydra-sdk) - A zero-trust SDK for anonymizing PII locally before sending prompts to LLMs and seamlessly rehydrating the response.
 - [Agentset](https://agentset.ai/) - An open-source platform for building and evaluating RAG and agentic applications. [#opensource](https://github.com/agentset-ai/agentset)
+- [PQS (Prompt Quality Score)](https://pqs.onchainintel.net/) - Pre-inference prompt scoring on 8 quality dimensions. GitHub Action, Python SDK (LangChain / CrewAI / AutoGen integrations), MCP server, REST API. [#opensource](https://github.com/OnChainAIIntel)
 
 ### Playgrounds
 
