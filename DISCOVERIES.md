@@ -273,6 +273,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Deliberative Prompting](https://github.com/logikon-ai/awesome-deliberative-prompting) - Papers & code about reliable reasoning and reason-responsive decision-making in LLMs.
 - [The Rundown AI List](https://www.rundown.ai/tools) - AI tools organized and categorized.
 - [GPT Tracker](https://gptstracker.com/) - Discover 1000+ GPTs & AI Tools.
+- [AISTackPicks](https://aistackpicks.com/) - Verified AI tool reviews, pricing comparisons, alternatives, and buyer guides.
 - [31 Best AI Coding Tools](https://www.scaler.com/blog/coding-ai-tools/) - A list of AI coding tools.
 - [Awesome AI Software Development Agents](https://github.com/flatlogic/awesome-ai-software-development-agents) - Curated list of AI agents designed for software development tasks.
 - [MODELDROP](https://modeldrop.fyi/) - A community tracker for new generative media AI model releases.
