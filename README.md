@@ -77,6 +77,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 ### Search engines
 
 - [Perplexity AI](https://www.perplexity.ai/) - AI powered search tools.
+- [SEO for AI](https://getseoforai.com/) - Free AI-visibility checker. Shows whether ChatGPT, Gemini, Perplexity, and Google AI Overviews recommend your small business, or which competitor is cited instead.
 - [Metaphor](https://metaphor.systems/) - Language model powered search.
 - [Phind](https://phind.com/) - AI-based search engine.
 - [You.com](https://you.com/) - A search engine built on AI that provides users with a customized search experience while keeping their data 100% private.
