@@ -260,6 +260,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 ### Autonomous agents
 
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Autohand Code CLI](https://github.com/autohandai/code-cli) - A self-evolving autonomous coding agent for the terminal with 40+ tools, multi-LLM support, and a modular skills system. [#opensource](https://github.com/autohandai/code-cli)
 - [babyagi](https://github.com/yoheinakajima/babyagi) - An AI-powered task management system.
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
