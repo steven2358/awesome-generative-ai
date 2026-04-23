@@ -148,6 +148,9 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AI/ML API](https://aimlapi.com/) - Unified API for accessing multiple AI models across text, image, audio, and video.
 - [Codeflash](https://www.codeflash.ai/) - An AI tool that automatically finds optimized versions of Python code through benchmarking.
 - [AgentAudit](https://github.com/jakops88-hub/AgentAudit-AI-Grounding-Reliability-Check) - A tool for verifying grounding and detecting unsupported claims in RAG pipeline outputs. #opensource
+- [AI Workflow Benchmark](https://github.com/xmpuspus/ai-workflow-benchmark) - Benchmark harness measuring AI coding tool and workflow performance on 100 real engineering tasks across 8 categories, with 12 capability dimensions and vanilla-vs-custom workflow comparison. #opensource
+- [CloudWright](https://github.com/xmpuspus/cloudwright) - AI-powered cloud architecture that turns natural-language descriptions into Terraform, cost estimates, and multi-framework compliance reports (HIPAA, PCI-DSS, SOC 2, FedRAMP, GDPR). #opensource
+- [kb-arena](https://github.com/xmpuspus/kb-arena) - RAG evaluation arena that benchmarks 7 retrieval strategies (naive vector, contextual, QnA pairs, knowledge graph, RAPTOR, PageIndex, hybrid) on your own docs with ELO-based blind A/B ranking and RAGAS metrics. #opensource
 
 ### Playgrounds
 
