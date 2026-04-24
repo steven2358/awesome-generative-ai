@@ -123,6 +123,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Developer tools
 
+- **[RAG Chunking Planner](https://uatgpt.com/tools/rag-chunking-planner/)** - "Client-side RAG index sizer that estimates chunk counts, indexing and query costs, vector storage, and recommends an ANN algorithm based on corpus scale."
 - [Makelog](https://makelog.com/gpt3) - Automatically generate changelog posts using GPT-3 and Jira, Linear, GitHub, Shortcut, and Asana issues, tasks, and pull requests.
 - [Wilco Sierra](https://trywilco.com/sierra) - A platform that generates engineering challenges for software engineers using AI.
 - [Vectara](https://vectara.com/) - A Generative AI product platform for developers.
