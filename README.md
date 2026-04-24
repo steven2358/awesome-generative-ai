@@ -167,6 +167,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [OpenRouter LLM Rankings](https://openrouter.ai/rankings) - Language models ranked and analyzed by usage across apps.
 - [SEAL LLM Leaderboard](https://scale.com/leaderboard) - Expert-driven LLM benchmarks and updated AI model leaderboards.
 - [LLM Stats](https://llm-stats.com/) - Compare AI models across benchmarks, pricing, speed, and context window.
+- [AIToolTier](https://aitooltier.com/leaderboard) - Tier-list rankings (S-F) for 128+ AI tools across 23 categories, with per-benchmark leaderboards and editorial reviews.
 
 ### Other text generators
 
