@@ -197,7 +197,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Framer AI](https://www.framer.com/features/ai/) - Enhance your website using Framer's AI-powered tools.
 - [PPT.AI](https://ppt.ai/) - Create professional presentations in minutes.
 - [Seede](https://seede.ai/) - An AI tool for generating posters and marketing visuals from text descriptions.
-
+- [FontVibe](https://fontvibe.ai) - AI text effect generator with 100+ styles including neon, glitch, 3D, Viking, and more. Generates high-resolution PNG with optional transparent background. Free to start, commercial use included.
 ### Image libraries
 
 ### Model libraries
