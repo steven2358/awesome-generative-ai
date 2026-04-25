@@ -301,6 +301,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/) - Make-A-Scene by Meta is a multimodal generative AI method puts creative control in the hands of people who use it by allowing them to describe and illustrate their vision through both text descriptions and freeform sketches.
 - [DragGAN](https://github.com/XingangPan/DragGAN) - Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.
 - [Flux](https://github.com/black-forest-labs/flux) - Text-to-image models by Black Forest Labs with high-quality photorealistic output. #opensource
+- [GPT Imager](https://gptimager.com) - AI image generation and editing platform powered by GPT Image 2, featuring accurate text rendering, image-to-image, and watermark-free commercial outputs.
 
 ### Services
 
