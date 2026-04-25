@@ -59,6 +59,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Regie.ai](https://regie.ai) - Automation of prospect research, message personalization, and email analysis.
 - [Capitol AI](https://www.capitol.ai/) - A smart document creator with Capitol AI's fusion of smart research, data, and AI.
 - [AI Humanize](https://aihumanize.io/) - Humanize AI transforms AI content into natural, human-like writing that bypasses all AI detection.
+- [unslop](https://github.com/MohamedAbdallah-14/unslop) - A Claude Code plugin that removes AI writing patterns (tricolons, em-dash pileups, hedging stacks, sycophancy openers, stock vocabulary). Five intensity levels. Detection and rewriting are split so you can use it as a lint pass on your own writing. MIT licensed. #opensource
 - [Elephas](https://elephas.app/) - Personal AI writing assistant for the Mac.
 - [Taplio](https://taplio.com/) - All-in-one AI-powered LinkedIn tool.
 - [Yomu](https://www.yomu.ai) - AI writing assistant for students and academics.
@@ -191,6 +192,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [deAPI.ai](https://deapi.ai/) - A unified inference API to open-source AI models for text-to-image, text-to-speech, transcription, video generation, and more, using a decentralized GPU cloud.
 - [MyPicNow](https://www.mypicnow.com) - An AI headshot generator for creating professional profile photos from uploaded selfies.
 - [PhotoMentor](https://photomentor.pro) - An AI tool for analyzing photos and providing composition and lighting feedback.
+- [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - An MCP server + CLI that generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing each request across 30+ image models. Zero API key required for first run. MIT licensed. #opensource
 
 ### Graphic design
 
