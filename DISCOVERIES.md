@@ -252,6 +252,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Docket AI](https://docketai.com) - AI sales agent for reliably answering complex product questions.
 - [Chinese-Elite](https://github.com/anonym-g/Chinese-Elite) - An experimental project that uses LLMs to build a knowledge graph of Chinese political and business elites from public data. [#opensource](https://github.com/anonym-g/Chinese-Elite)
 - [GPU Per Hour](https://gpuperhour.com) - Real-time GPU cloud price comparison across multiple providers.
+- [VibeXForge](https://www.vibexforge.com) - AI launch platform that scores submitted projects with Claude across 5 dimensions and evolves them through 6 RPG stages on real engagement metrics. [#opensource](https://github.com/alex-jb/vibex)
 
 ## Learning resources
 
