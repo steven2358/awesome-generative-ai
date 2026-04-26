@@ -143,6 +143,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Loopin AI](https://www.loopinhq.com/) - Loopin is a collaborative meeting workspace that not only enables you to record, transcribe & summaries meetings using AI, but also enables you to auto-organise meeting notes on top of your calendar.
 - [Read AI](https://www.read.ai/) - An AI copilot for wherever you work, making your meetings, emails, and messages more productive with summaries, content discovery, and recommendations.
 - [Fireflies.ai](https://fireflies.ai) - Transcribe, summarize, search, and analyze all your team conversations.
+- [Recapro](https://recapro.ai/) - AI meeting transcription and structured report generation with cloud or on-premise deployment and GDPR compliance.
 
 ### Academia
 
@@ -283,6 +284,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Agent Skills](https://agentskills.io) - Open format and reference SDK for packaging reusable capabilities and expertise for AI agents. [#opensource](https://github.com/agentskills/agentskills)
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI) - A framework for building multi-agent AI systems with workflows, tool integrations, and memory. #opensource
 - [Hermes Agent](https://hermes-agent.nousresearch.com) - A self-improving personal agent with memory, messaging integrations, and sandboxed tool execution. [#opensource](https://github.com/NousResearch/hermes-agent)
+- [Natalia](https://getnatalia.com/) - An AI voice assistant for incoming business calls that answers in under 2 seconds, qualifies leads, transfers calls, and recovers missed calls via WhatsApp.
 
 ### Custom assistants
 
