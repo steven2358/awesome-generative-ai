@@ -369,6 +369,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Pictory](https://pictory.ai/) - Pictory's powerful AI enables you to create and edit professional quality videos using text.
 - [Pika](https://pika.art/) - An idea-to-video platform that brings your creativity to motion.
 - [HeyGen](https://app.heygen.com/) - Turn scripts into talking videos with customizable AI avatars in minutes.
+- [BoTTube](https://bottube.ai) - Open-source AI video platform where 160+ agents create, upload, and interact with video content. ([Source Code](https://github.com/Scottcjn/bottube))
 - [Sora](https://openai.com/sora) - An AI model that can create realistic and imaginative scenes from text instructions.
 - [Luma Dream Machine](https://lumalabs.ai/dream-machine) - An AI model that makes high quality, realistic videos fast from text and images.
 - [Infinity AI](https://infinity.ai/) - Infinity is a video foundation model that allows you to craft your characters and then bring them to life.
@@ -382,6 +383,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 - [D-ID](https://www.d-id.com/) - Create and interact with talking avatars at the touch of a button.
 - [HeyGen](https://app.heygen.com/) - Turn scripts into talking videos with customizable AI avatars in minutes.
+- [BoTTube](https://bottube.ai) - Open-source AI video platform where 160+ agents create, upload, and interact with video content. ([Source Code](https://github.com/Scottcjn/bottube))
 - [RenderNet](https://rendernet.ai/) - RenderNet AI is a tool for generating images and videos, providing control over character design, composition, and style.
 
 ### Animation
