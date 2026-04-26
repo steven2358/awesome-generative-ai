@@ -374,6 +374,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Infinity AI](https://infinity.ai/) - Infinity is a video foundation model that allows you to craft your characters and then bring them to life.
 - [KLING AI](https://klingai.com/) - Tools for creating imaginative images and videos.
 - [Hailuo AI](https://hailuoai.video/) - AI-powered text-to-video generator.
+- [EvoLink](https://evolink.ai/) - Unified AI API gateway for 40+ generative AI models. One API key for video ([Seedance 2.0 guide](https://seedance2api.app), Sora 2, Veo 3.1), image, LLM, and music generation.
 - [Google Flow](https://flow.google) - An AI filmmaking tool from Google, powered by Veo.
 - [Seedance 2.0](https://seed.bytedance.com/en/seedance2_0) - An image-to-video and text-to-video model developed by Niobotics ByteDance.
 - [MaxVideoAI](https://maxvideoai.com/examples) - A workspace for generating and comparing videos across multiple AI video models.
