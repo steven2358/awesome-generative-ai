@@ -318,6 +318,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [modyfi](https://www.modyfi.io/) - The image editor you've always wanted. AI-powered creative tools in your browser. Real-time collaboration.
 - [Ponzu](https://www.ponzu.ai/) - Ponzu is your free AI logo generator. Build your brand with creatively designed logos in seconds, using only your imagination.
 - [PhotoRoom](https://www.photoroom.com/) - Create product and portrait pictures using only your phone. Remove background, change background and showcase products.
+- [igly.ai](https://igly.ai/) - Free AI image editor with 12+ tools for e-commerce sellers. Features background removal, object inpaint, image upscale, virtual try-on, and more.
 - [Avatar AI](https://avatarai.me/) - Create your own AI-generated avatars.
 - [ClipDrop](https://clipdrop.co/) - Create professional visuals without a photo studio, powered by [stability.ai](https://stability.ai/).
 - [Lensa](https://prisma-ai.com/lensa) - An all-in-one image editing app that includes the generation of personalized avatars using Stable Diffusion.
@@ -330,6 +331,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Recraft](https://www.recraft.ai/) - An AI tool that lets creators easily generate and iterate original images, vector art, illustrations, icons, and 3D graphics.
 - [Reve Image](https://reve.art/) - A model trained from the ground up to excel at prompt adherence, aesthetics, and typography.
 - [Freepik AI](https://www.freepik.com/ai) - AI-powered design tools including image generation, background removal, and creative templates.
+- [igly.ai](https://igly.ai) - Free AI image editor with 12+ tools for e-commerce sellers, including background removal, object inpainting, image upscale, virtual try-on, and more. Browser-based, no signup required for basic tools.
 
 ### Graphic design
 
