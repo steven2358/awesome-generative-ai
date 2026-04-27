@@ -150,6 +150,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AI/ML API](https://aimlapi.com/) - Unified API for accessing multiple AI models across text, image, audio, and video.
 - [Codeflash](https://www.codeflash.ai/) - An AI tool that automatically finds optimized versions of Python code through benchmarking.
 - [AgentAudit](https://github.com/jakops88-hub/AgentAudit-AI-Grounding-Reliability-Check) - A tool for verifying grounding and detecting unsupported claims in RAG pipeline outputs. #opensource
+- [Vekil](https://github.com/sozercan/vekil) - Go reverse proxy exposing Anthropic, Gemini, and OpenAI-compatible APIs behind one local endpoint, with multi-provider routing across GitHub Copilot, Azure OpenAI, and OpenAI Codex. #opensource
 
 ### Playgrounds
 
