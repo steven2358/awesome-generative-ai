@@ -167,6 +167,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Hercules](https://github.com/test-zeus-ai/testzeus-hercules) - An open-source AI agent for automated UI, API, security, and accessibility testing. [#opensource](https://github.com/test-zeus-ai/testzeus-hercules)
 - [Quorum](https://github.com/Detrol/quorum-cli) - A CLI for running structured debates across multiple LLMs. #opensource
 - [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) - A Python toolkit for agent governance, safety checks, and cognitive architecture modules.
+- [MOSS](https://mosscomputing.com) - A tool for signing and verifying AI agent outputs with cryptographic provenance records.
 
 ### Custom assistants
 
