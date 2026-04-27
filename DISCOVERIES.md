@@ -197,6 +197,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Framer AI](https://www.framer.com/features/ai/) - Enhance your website using Framer's AI-powered tools.
 - [PPT.AI](https://ppt.ai/) - Create professional presentations in minutes.
 - [Seede](https://seede.ai/) - An AI tool for generating posters and marketing visuals from text descriptions.
+- [AdDogs](https://www.addogs.ai) - AI ad creative generator that clones winning ad designs, swaps in your product photo and brand identity, and exports professional ads in seconds for Instagram, TikTok, Facebook, and Google.
 
 ### Image libraries
 
