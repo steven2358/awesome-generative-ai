@@ -102,21 +102,19 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Lavender](https://www.lavender.ai/) - Lavender email assistant helps you get more replies in less time.
 - [Lex](https://lex.page/) - A word processor with artificial intelligence baked in, so you can write faster.
 - [Jenni](https://jenni.ai/) - Jenni is the ultimate writing assistant that saves you hours of ideation and writing time.
-- [LAIKA](https://www.writewithlaika.com/) - LAIKA trains an artificial intelligence on your own writing to create a personalised creative partner-in-crime.
 - [QuillBot](https://quillbot.com) - AI-powered paraphrasing tool.
 - [Postwise](https://postwise.ai/) - Write tweets, schedule posts and grow your following using AI.
 - [Copysmith](https://copysmith.ai/) - AI content creation solution for Enterprise & eCommerce.
 
 ### ChatGPT extensions
 
-- [WebChatGPT](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn) - Augment your ChatGPT prompts with relevant results from the web.
+- [WebChatGPT](https://chromewebstore.google.com/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn) - Augment your ChatGPT prompts with relevant results from the web.
 - [GPT for Sheets and Docs](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654) - ChatGPT extension for Google Sheets and Google Docs.
-- [YouTube Summary with ChatGPT](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) - Use ChatGPT to summarize YouTube videos.
-- [ChatGPT Prompt Genius](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo) - Discover, share, import, and use the best prompts for ChatGPT & save your chat history locally.
-- [ChatGPT for Search Engines](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban) - Display ChatGPT response alongside Google, Bing, and DuckDuckGo search results.
+- [YouTube Summary with ChatGPT](https://chromewebstore.google.com/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) - Use ChatGPT to summarize YouTube videos.
+- [AI Prompt Genius](https://chromewebstore.google.com/detail/ai-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo) - Discover, share, import, and use the best prompts for ChatGPT & save your chat history locally.
 - [ShareGPT](https://sharegpt.com/) - Share your ChatGPT conversations and explore conversations shared by others.
-- [Merlin](https://merlin.foyer.work/) - ChatGPT Plus extension on all websites.
-- [ChatGPT Writer](https://chatgptwriter.ai/) - Generate entire emails and messages using ChatGPT AI.
+- [Merlin](https://www.getmerlin.in/) - ChatGPT Plus extension on all websites.
+- [Jetwriter](https://jetwriter.ai/) - AI writing assistant for Chrome, desktop, and mobile.
 - [ChatGPT for Jupyter](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - Add various helper functions in Jupyter Notebooks and Jupyter Lab, powered by ChatGPT.
 - [editGPT](https://www.editgpt.app/) - Easily proofread, edit, and track changes to your content in chatGPT.
 - [Forefront](https://www.forefront.ai/) - A Better ChatGPT Experience.
@@ -149,11 +147,9 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Elicit](https://elicit.org/) - Elicit uses language models to help you automate research workflows, like parts of literature review.
 - [genei](https://www.genei.io/) - Summarise academic articles in seconds and save 80% on your research times.
 - [Explainpaper](https://www.explainpaper.com/) - A better way to read academic papers. Upload a paper, highlight confusing text, get an explanation.
-- [Galactica](https://galactica.org/) - A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more. [Model API](https://github.com/paperswithcode/galai).
 - [Consensus](https://consensus.app/search/) - Consensus is a search engine that uses AI to find answers in scientific research.
-- [Synthical](https://synthical.com) - AI-powered collaborative research environment.
 - [scite](https://scite.ai/) - A platform for discovering and evaluating scientific articles.
-- [SciSpace](https://typeset.io/) - An AI research assistant for understanding scientific literature.
+- [SciSpace](https://scispace.com/) - An AI research assistant for understanding scientific literature.
 - [STORM](https://storm.genie.stanford.edu/) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. [#opensource](https://github.com/stanford-oval/storm/)
 - [alphaXiv](https://www.alphaxiv.org) - Discuss, discover, and read arXiv papers.
 - [ASReview](https://asreview.nl/) - Open-source AI-powered tool for systematic reviews, helping researchers screen large volumes of academic literature efficiently. [#opensource](https://github.com/asreview/asreview)
