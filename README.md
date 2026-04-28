@@ -337,6 +337,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Google Flow](https://flow.google) - An AI filmmaking tool from Google, powered by Veo.
 - [OpenCreator](https://opencreator.io) - All-in-one AI workspace for video creation with text-to-video, image-to-video conversion, multi-language support, collaborative editing, and direct publishing to major platforms.
 - [Seedance 2.0](https://seed.bytedance.com/en/seedance2_0) - An image-to-video and text-to-video model developed by Niobotics ByteDance.
+- [varg](https://github.com/vargHQ/sdk) - Open-source TypeScript SDK for AI video generation. JSX components, 40+ models behind one API key (Kling, Sora, Flux, ElevenLabs).
 
 ### Avatars
 
