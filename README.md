@@ -409,6 +409,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Vibe Transcribe](https://thewh1teagle.github.io/vibe/) - All-in-one solution for effortless audio and video transcription. [#opensource](https://github.com/thewh1teagle/vibe)
 - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++. #opensource
 - [whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2) - A Whisper CLI client compatible with the original OpenAI client, using CTranslate2 for faster inference. [#opensource](https://github.com/Softcatala/whisper-ctranslate2)
+- [TranscribeText](https://transcribetext.com) - AI-powered transcription supporting 41+ languages with speaker diarization, subtitle translation, and direct YouTube URL input. Processes a 2-hour audio file in under 2 minutes. Strong on under-served languages like Chinese, Tamil, Vietnamese, Japanese, and Korean.
 
 ### Music
 
