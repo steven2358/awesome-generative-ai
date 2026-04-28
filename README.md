@@ -77,15 +77,15 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 ### Search engines
 
 - [Perplexity AI](https://www.perplexity.ai/) - AI powered search tools.
-- [Metaphor](https://metaphor.systems/) - Language model powered search.
+- [Exa](https://exa.ai/) - Language model powered search.
 - [Phind](https://phind.com/) - AI-based search engine.
 - [You.com](https://you.com/) - A search engine built on AI that provides users with a customized search experience while keeping their data 100% private.
 - [Komo](https://komo.ai/) - An AI-powered search engine.
 
 ### Local search engines
 
-- [privateGPT](https://github.com/imartinez/privateGPT) - Ask questions to your documents without an internet connection, using the power of LLMs.
-- [quivr](https://github.com/StanGirard/quivr) - Dump all your files and chat with it using your generative AI second brain using LLMs & embeddings.
+- [privateGPT](https://github.com/zylon-ai/private-gpt) - Ask questions to your documents without an internet connection, using the power of LLMs.
+- [quivr](https://github.com/QuivrHQ/quivr) - Dump all your files and chat with it using your generative AI second brain using LLMs & embeddings.
 
 ### Writing assistants
 
