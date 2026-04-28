@@ -89,6 +89,10 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Writing assistants
 
+- [FutureAGI traceAI](https://github.com/future-agi/traceAI)
+- [FutureAGI ai-evaluation](https://github.com/future-agi/ai-evaluation)
+- [FutureAGI agent-opt](https://github.com/future-agi/agent-opt)
+
 - [Jasper](https://www.jasper.ai/) - Create content faster with artificial intelligence.
 - [Compose AI](https://www.compose.ai/) - Compose AI is a free Chrome extension that cuts your writing time by 40% with AI-powered autocompletion.
 - [Rytr](https://rytr.me/) - Rytr is an AI writing assistant that helps you create high-quality content.
