@@ -134,6 +134,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [NotebookLM](https://notebooklm.google/) - A research and note-taking online tool to interact with documents, powered by Google Gemini.
 - [Open Notebook](https://www.open-notebook.ai) - An open source implementation of NotebookLM with more flexibility and features. [#opensource](https://github.com/lfnovo/open-notebook)
 - [Screenpipe](https://github.com/screenpipe/screenpipe) - An open-source tool for recording screen and audio activity with AI-powered search, automations, and support for local LLMs. #opensource
+- [Projelli](https://projelli.com) - Local-first desktop AI workspace where every chat with Claude, GPT, or Gemini becomes a real Markdown file on your hard drive. BYOK, source visible on GitHub, one-time pricing. 15 founder workflow templates baked in.
 
 ### Meeting assistants
 
