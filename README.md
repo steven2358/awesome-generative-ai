@@ -203,6 +203,9 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Lovable](https://lovable.dev) - Conversational full-stack app generation, turning ideas into deployable code.
 - [aider](https://aider.chat/) - AI pair programming in your terminal, supporting multiple LLM providers. [#opensource](https://github.com/paul-gauthier/aider)
 - [Kilo Code](https://kilocode.ai) - Open-source AI coding assistant for VS Code, JetBrains, and the CLI. [#opensource](https://github.com/Kilo-Org/kilocode)
+- [Code2PR](https://marketplace.visualstudio.com/items?itemName=krextensions.code2pr) - VS Code extension that generates PR descriptions from local Git changes using LLMs. [#opensource](https://github.com/karthyick/Code2PR)
+- [Code2Summarize](https://marketplace.visualstudio.com/items?itemName=krextensions.code2summarize) - VS Code extension for AI-powered code file summarization with advanced glob pattern support. [#opensource](https://github.com/karthyick/Code2Summarize)
+- [Code to Flowchart](https://marketplace.visualstudio.com/items?itemName=krextensions.code-to-flowchart) - VS Code extension that generates Mermaid flowcharts from your code for documentation and code review.
 
 ### Developer tools
 
