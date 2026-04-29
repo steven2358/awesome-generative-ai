@@ -285,6 +285,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Poe](https://poe.com/) - Poe gives access to a variety of bots.
 - [GPT Builder](https://chat.openai.com/gpts/editor) - Assistant for creating GPT-based assistants.
 - [GPTStore](https://gptstore.ai/) - Find useful GPTs. Share your own GPTs.
+- [Dograh](https://github.com/dograh-hq/dograh) - Open-source platform for building and deploying voice AI agents with telephony, outbound campaigns, and real-time STT/LLM/TTS orchestration. #opensource
 
 ## Image
 
