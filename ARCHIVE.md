@@ -12,3 +12,5 @@ These projects are not active anymore in generative AI.
 - Synthical - AI-powered collaborative research environment.
 - Debuild - AI-powered low-code tool for web apps.
 - MutableAI - AI Accelerated Software Development.
+- GPTStore - Find useful GPTs. Share your own GPTs.
+- GauGAN2 - GauGAN2 is a robust tool for creating photorealistic art using a combination of words and drawings since it integrates segmentation mapping, inpainting, and text-to-image production in a single model.
