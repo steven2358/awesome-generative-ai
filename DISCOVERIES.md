@@ -239,8 +239,9 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Music
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
-- [Soundraw](https://soundraw.io/) - Create your beats with the power of AI.
+- [HookGenius](https://hookgenius.app/) - AI lyrics and style prompt generator for Suno; copy-paste-ready hooks, structures, and genre-tuned style tags.
 - [Jammable](https://www.jammable.com/) - AI voice covers and music creation platform.
+- [Soundraw](https://soundraw.io/) - Create your beats with the power of AI.
 
 ## Other
 
