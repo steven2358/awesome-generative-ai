@@ -157,6 +157,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Local LLM Deployment
 
 - [Minima](https://github.com/dmayboroda/minima) - On-premises RAG with configurable Docker containers. #opensource
+- [Airgap](https://github.com/xmpuspus/airgap) - React Native framework for shipping on-device, offline-first customer support chatbots. Runs Gemma 4 E2B locally via llama.rn. Seven industry templates (telco, retail, healthcare, banking, education, insurance, airlines) ship in the repo. #opensource
 
 ## Agents
 
