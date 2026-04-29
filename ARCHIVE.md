@@ -10,3 +10,5 @@ These projects are not active anymore in generative AI.
 - ChatGPT for Search Engines - Display ChatGPT response alongside Google, Bing, and DuckDuckGo search results.
 - Galactica - A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more. [Code](https://github.com/paperswithcode/galai).
 - Synthical - AI-powered collaborative research environment.
+- Debuild - AI-powered low-code tool for web apps.
+- MutableAI - AI Accelerated Software Development.
