@@ -26,3 +26,14 @@ These projects are not active anymore in generative AI.
 - Diagram - Magical new ways to design products.
 - Character Gateway - Create your own AI friends with 300+ models.
 - YouTube Summary by TubeSum - Summarize YouTube videos, extract key insights, share these summaries, and navigate to crucial sections using timestamps.
+- AI Poem Generator - Create stunning poems with the help of artificial intelligence, tailored to your themes and ideas.
+- Safurai - Safurai is the AI Code Assistant that saves you time in changing, optimizing, and searching code.
+- Makelog - Automatically generate changelog posts using GPT-3 and Jira, Linear, GitHub, Shortcut, and Asana issues, tasks, and pull requests.
+- Wilco Sierra - A platform that generates engineering challenges for software engineers using AI.
+- AiDA - Future proof your website with the power of AI. AiDA eliminates 90 percent of the pain points associated with web design.
+- AI Anime Art Generator iOS App - Create anime art in seconds using your iPhone.
+- OpenCreator - An all-in-one AI workspace for creating product visuals (images and videos) with workflow automation and batch generation.
+- Deploy Prompt - A tool for prompt engineering that allows you to create and share prompts.
+- Promptimize - A browser extension that gives anyone the powers of an expert prompt engineer.
+- Ai Finesse - Curated lists of AI applications and AI models with links and useful information.
+- GummySearch - AI-based customer research via Reddit.
