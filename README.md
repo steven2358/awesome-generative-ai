@@ -30,12 +30,12 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 ### Milestones
 
 - [OpenAI API](https://openai.com/blog/openai-api/) - Announcement of the OpenAI API for text-to-text general-purpose AI models based on GPT-3. OpenAI blog, June 11, 2020.
-- [GitHub Copilot](https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/) - Announcement of Copilot, a new AI pair programmer that helps you write better code. GitHub blog, June 29, 2021.
+- [GitHub Copilot](https://github.blog/news-insights/product-news/introducing-github-copilot-ai-pair-programmer/) - Announcement of Copilot, a new AI pair programmer that helps you write better code. GitHub blog, June 29, 2021.
 - [DALL·E 2](https://openai.com/blog/dall-e-2/) - Announcement of the release of DALL·E 2, an advanced image generation system with improved resolution, expanded image creation capabilities, and various safety mitigations. OpenAI blog, April 6, 2022.
-- [Stable Diffusion Public Release](https://stability.ai/blog/stable-diffusion-public-release) - Announcement of the public release of Stable Diffusion, an AI-based image generation model trained on a broad internet scrape and licensed under a Creative ML OpenRAIL-M license. Stable Diffusion blog, 22 August, 2022.
+- [Stable Diffusion Public Release](https://stability.ai/news-updates/stable-diffusion-public-release) - Announcement of the public release of Stable Diffusion, an AI-based image generation model trained on a broad internet scrape and licensed under a Creative ML OpenRAIL-M license. Stable Diffusion blog, 22 August, 2022.
 - [ChatGPT](https://openai.com/blog/chatgpt/) - Announcement of ChatGPT, a conversational model trained to answer follow-up questions, admit mistakes, challenge incorrect premises, and reject inappropriate requests. OpenAI blog, November 30, 2022.
 - [Bing Search](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) - Microsoft announces a new version of its search engine Bing, powered by a next-generation OpenAI model. Microsoft blog, February 7, 2023.
-- [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - Llama LLM, a foundational, 65-billion-parameter large language model by Meta. Meta, February 23rd, 2023. #opensource
+- [LLaMA](https://ai.meta.com/blog/large-language-model-llama-meta-ai/) - Llama LLM, a foundational, 65-billion-parameter large language model by Meta. Meta, February 23rd, 2023. #opensource
 - [GPT-4](https://openai.com/research/gpt-4) - Announcement of GPT-4, a large multimodal model. OpenAI blog, March 14, 2023.
 - [DALL·E 3](https://openai.com/index/dall-e-3/) - Announcement of DALL·E 3 image generator. OpenAI blog, September 20, 2023.
 - [Sora](https://openai.com/research/video-generation-models-as-world-simulators) - Presentation of Sora, a large video generation model. OpenAI, February 15, 2024.
@@ -45,8 +45,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 ### Models
 
 - [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT-4 and GPT-5 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code.
-- [Gopher](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - Gopher by DeepMind is a 280 billion parameter language model.
-- [OPT](https://huggingface.co/facebook/opt-350m) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. [Announcement](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/).
+- [Gopher](https://deepmind.google/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval/) - Gopher by DeepMind is a 280 billion parameter language model.
+- [OPT](https://huggingface.co/facebook/opt-350m) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. [Announcement](https://ai.meta.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/).
 - [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming languages. #opensource
 - [Llama](https://www.llama.com/) - Meta's open source large language model. #opensource
 - [Claude](https://claude.ai/) - Talk to Claude, an AI assistant from Anthropic.
