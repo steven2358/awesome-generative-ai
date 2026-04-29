@@ -31,7 +31,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Chatbots
 
 - [PageLines](https://www.pagelines.com) - AI Chat Agents to Enhance Websites 
-- [GPT for iPhone](https://apps.apple.com/app/apple-store/id1669558411?pt=94765902&ct=awesomegenerativeai&mt=8) - An AI-powered assistant that can write essays on your iPhone.
+- [Llama AI: Essay Writer-Typer](https://apps.apple.com/us/app/llama-ai-essay-writer-typer/id1669558411?ct=awesomegenerativeai&pt=94765902) - An AI-powered assistant app for writing essays on iPhone.
 - [Netwrck.com](https://netwrck.com/) - Netwrck.com lets you chat with AI and create AI Characters.
 - [Text-Generator.io](https://text-generator.io) - Multimodal AI APIs for text and audio creation from text/images/speech.
 - [Yona.ai](https://yona.ai) - Converse with AI mirrors of yourself or loved ones for healing, nostalgia, and introspection.
@@ -39,9 +39,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AskPPT](https://www.askppt.io/) - Chat with any Presentation.
 - [Broken Bear](https://brokenbear.com) - An AI Teddy Bear that you can vent to for free, online, and anonymously.
 - [GPTHelp.ai](https://gpthelp.ai/) - AI customer support chatbot for your website.
-- [Character Gateway](https://charactergateway.com/) - Create your own AI friends with 300+ models.
 - [AnythingLLM](https://anythingllm.com/) - Turn any document, resource, or piece of content into context that any LLM can use. [#opensource](https://github.com/Mintplex-Labs/anything-llm)
-- [Character AI Bots](https://characteraibots.com) - A directory of free AI roleplay characters available on Character.AI, JanitorAI, and SpicyChat.
+- [Character AI Bots](https://www.characteraibots.com/) - A directory of free AI roleplay characters available on Character.AI, JanitorAI, and SpicyChat.
 
 ### Custom interfaces
 
@@ -55,14 +54,14 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Yarnit](https://www.yarnit.app/) - Yarnit, a digital storytelling application that uses generative AI to storyboard, research and design your ideas.
 - [AI Story Generator](https://www.aistorygenerator.org) - Free AI-powered story generator that writes creative short stories for you on any topic.
-- [NeuronWriter](https://www.neuronwriter.com/) - AI writer and NLP content editor with SEO focus.
-- [Regie.ai](https://regie.ai) - Automation of prospect research, message personalization, and email analysis.
+- [NeuronWriter](https://neuronwriter.com/) - AI writer and NLP content editor with SEO focus.
+- [Regie.ai](https://www.regie.ai/) - Automation of prospect research, message personalization, and email analysis.
 - [Capitol AI](https://www.capitol.ai/) - A smart document creator with Capitol AI's fusion of smart research, data, and AI.
 - [AI Humanize](https://aihumanize.io/) - Humanize AI transforms AI content into natural, human-like writing that bypasses all AI detection.
 - [Elephas](https://elephas.app/) - Personal AI writing assistant for the Mac.
 - [Taplio](https://taplio.com/) - All-in-one AI-powered LinkedIn tool.
 - [Yomu](https://www.yomu.ai) - AI writing assistant for students and academics.
-- [Samwell](https://samwell.ai/) - Samwell.ai is an academic essay generator that helps you write all types of academic essays with 100% accurate citations.
+- [Samwell](https://www.samwell.ai/) - Samwell.ai is an academic essay generator that helps you write all types of academic essays with 100% accurate citations.
 - [LogicBalls](https://logicballs.com/) - An AI writing tool for generating blog posts, ads, emails, and social media content. Includes a prompt library.
 - [Publish7](https://publish7.com/) - Agentic platform for digital marketing.
 - [WordLift Agent](https://wordlift.io/agent/) - AI agent for SEO tasks such as product descriptions, internal linking, and SERP analysis.
@@ -71,20 +70,19 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [AI Character for GPT](https://chromewebstore.google.com/detail/ai-character-for-gpt/daoeioifimkjegafelcaljboknjkkohh) - Easily customize AI chatbots like ChatGPT and Google Gemini for better responses.
 - [AI Summary Helper](https://chromewebstore.google.com/detail/ai-summary-helper-openai/hldbejcjaedipeegjcinmhejdndchkmb) - Get AI summaries of web content. Use Send To Kindle for reading on the go. [#opensource](https://github.com/philffm/ai-summary-helper)
-- [YouTube Summary by TubeSum](https://tubesum.com/) — Summarize YouTube videos, extract key insights, share these summaries, and navigate to crucial sections using timestamps.
 - [Chatgpt Light Session](https://chromewebstore.google.com/detail/fmomjhjnmgpknbabfpojgifokaibeoje) - A browser extension for trimming long ChatGPT conversations in the UI.
 
 ### Productivity
 
 - [Ready to Send](https://getreadytosend.com/) - Auto-generated draft email replies for Gmail.
-- [Kadoa](https://kadoa.com) - Automate data extraction with AI, so you don't have to manually build scrapers, mappers, or classifiers.
+- [Kadoa](https://www.kadoa.com/) - Automate data extraction with AI, so you don't have to manually build scrapers, mappers, or classifiers.
 - [MagicSlides.app](https://www.magicslides.app/) - Ideas to professional presentations in seconds, with info from Wikipedia, Google with AI images.
 - [MindMac](https://mindmac.app) - Feature-rich & privacy-first native ChatGPT app for macOS to use different chatbots all in one place.
 - [Agenda Hero](https://agendahero.com) - Generate beautiful, structured, shareable schedules with AI.
 - [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator) - AI formula generator for Google Sheets.
 - [SageCollab](https://sagecollab.com/) - SageCollab brings team collaboration features to generative AI.
-- [Worksheets.ai](https://worksheets.ai/) - Generate educational worksheets and lesson plans with AI.
-- [Recall](https://www.getrecall.ai/) - A self-organizing knowledge base, where you can summarize and chat with any online content.
+- [Worksheets.ai](https://www.worksheets.ai/) - Generate educational worksheets and lesson plans with AI.
+- [Recall](https://www.recall.it/) - A self-organizing knowledge base, where you can summarize and chat with any online content.
 
 ### Meeting assistants
 - [Goelo](https://www.goelo.com/) - Goelo helps sales teams automatically fill their CRM by recording meetings to create summaries and generate a knowledge base.
@@ -95,7 +93,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Perlego Research Assistant](https://www.perlego.com/research-assistant) - AI research assistant that answers queries by referencing academic books in the Perlego library.
 - [Qualitati](https://mimitalk.app/) - AI qualitative research software for AI-moderated interviews, thematic analysis, and conversational surveys.
-- [BGPT](https://bgpt.pro/mcp) - A scientific paper search tool with structured experimental data from full-text studies. [#opensource](https://github.com/connerlambden/bgpt-mcp)
+- [BGPT](https://bgpt.pro/mcp/) - A scientific paper search tool with structured experimental data from full-text studies. [#opensource](https://github.com/connerlambden/bgpt-mcp)
 
 ### Leaderboards
 
