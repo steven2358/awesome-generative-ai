@@ -230,6 +230,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [rehydra](https://github.com/rehydra-ai/rehydra-sdk) - A zero-trust SDK for anonymizing PII locally before sending prompts to LLMs and seamlessly rehydrating the response.
 - [Agentset](https://agentset.ai/) - An open-source platform for building and evaluating RAG and agentic applications. [#opensource](https://github.com/agentset-ai/agentset)
 
+- [grugbot420](https://github.com/grug-group420/grugbot420) - A neuromorphic cognitive engine in Julia for multi-model AI orchestration through architectural configuration. [#opensource](https://github.com/grug-group420/grugbot420)
 ### Playgrounds
 
 - [OpenAI Playground](https://platform.openai.com/playground) - Explore resources, tutorials, API docs, and dynamic examples.
