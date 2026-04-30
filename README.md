@@ -216,6 +216,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Gitingest](https://gitingest.com/) - Turn any Git repository into a simple text digest of its codebase so it can be fed into any LLM. [#opensource](https://github.com/cyclotruc/gitingest)
 - [Repomix](https://repomix.com/) - Pack your codebase into AI-friendly formats. [#opensource](https://github.com/yamadashy/repomix)
 - [llama.cpp](https://github.com/ggml-org/llama.cpp) - Inference of Meta's LLaMA model (and others) in pure C/C++. #opensource
+- [Bifrost](https://www.getmaxim.ai/bifrost) - Open-source LLM & MCP Gateway with 20+ providers, guardrails and adaptive routing.
 - [bitnet.cpp](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs, by Microsoft. [#opensource](https://github.com/microsoft/BitNet)
 - [OpenRouter](https://openrouter.ai/) - A unified interface for LLMs. [#opensource](https://github.com/OpenRouterTeam)
 - [Ludwig](https://github.com/ludwig-ai/ludwig) - A low-code framework for building custom AI models like LLMs and other deep neural networks. [#opensource](https://github.com/ludwig-ai/ludwig)
