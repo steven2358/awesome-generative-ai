@@ -76,6 +76,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Search engines
 
+- [Kazimir.ai](https://kazimir.ai) - A search engine designed to search AI-generated images and videos⭐
 - [Perplexity AI](https://www.perplexity.ai/) - AI powered search tools.
 - [Exa](https://exa.ai/) - Language model powered search.
 - [Phind](https://phind.com/) - AI-based search engine.
@@ -132,6 +133,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [NotebookLM](https://notebooklm.google/) - A research and note-taking online tool to interact with documents, powered by Google Gemini.
 - [Open Notebook](https://www.open-notebook.ai) - An open source implementation of NotebookLM with more flexibility and features. [#opensource](https://github.com/lfnovo/open-notebook)
 - [Screenpipe](https://github.com/screenpipe/screenpipe) - An open-source tool for recording screen and audio activity with AI-powered search, automations, and support for local LLMs. #opensource
+- [Instafill.ai](https://instafill.ai) - AI assistant that auto-fills PDF forms from saved profiles, uploaded files, or supplied data; available as a web app and MCP server.
 
 ### Meeting assistants
 
