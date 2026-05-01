@@ -247,6 +247,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [LM Studio](https://lmstudio.ai) - Download and run local LLMs on your computer.
 - [RunThisLLM](https://runthisllm.com) - See which LLMs you can run on your hardware.
 - [Harbor](https://github.com/av/harbor) - A containerized toolkit for running local LLM backends, UIs, and supporting services with one command. #opensource
+- [Off Grid](https://github.com/alichherawalla/off-grid-mobile-ai) - Open-source iOS/Android app that runs LLMs entirely on-device via llama.cpp. Voice (Whisper), vision, image gen, tool calling — all offline, MIT-licensed. [#opensource](https://github.com/alichherawalla/off-grid-mobile-ai)
 
 ## Agents
 
