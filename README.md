@@ -238,6 +238,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Local LLM Deployment
 
+- [ByteCalculators AI Infrastructure Suite](https://bytecalculators.com/ai-infrastructure) - Tools to calculate local VRAM requirements for LLMs, RAG Vector DB scaling costs, and prompt caching ROI.
 - [Ollama](https://github.com/ollama/ollama) - Get up and running with large language models locally.
 - [Open WebUI](https://github.com/open-webui/open-webui) - An extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline. #opensource
 - [Jan](https://jan.ai/) - Run LLMs like Mistral or Llama2 locally and offline on your computer, or connect to remote AI APIs. [#opensource](https://github.com/janhq/jan)
