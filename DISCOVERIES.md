@@ -162,6 +162,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Quorum](https://github.com/Detrol/quorum-cli) - A CLI for running structured debates across multiple LLMs. #opensource
 - [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) - A Python toolkit for agent governance, safety checks, and cognitive architecture modules.
 - [MOSS](https://iampass.com/) - AI governance infrastructure for cryptographic proof of agent actions and policy enforcement before execution.
+- [AgentGate](https://agentgate.sh) - Open-source platform to deploy AI agents in one command and monetize them via Stripe. Implements MCP, A2A, and UCP. Self-hostable (AGPL). [#opensource](https://github.com/agentgatesh/agentgate)
 
 ### Custom assistants
 
