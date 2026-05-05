@@ -251,6 +251,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 ## Agents
 
 ### Autonomous agents
+- [Lexicon](https://dbssearch.today): Comparison intelligence engine for autonomous agents. Retrieves live evidence from 20 independent sources, applies PESTLE Triangulation, Head-to-Head VS, and Deep Research frameworks. MCP server + open marketplace with free test endpoint.
 
 - [Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [babyagi](https://github.com/yoheinakajima/babyagi) - An AI-powered task management system.
