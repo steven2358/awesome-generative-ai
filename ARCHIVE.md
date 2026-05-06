@@ -37,3 +37,4 @@ These projects are not active anymore in generative AI.
 - Promptimize - A browser extension that gives anyone the powers of an expert prompt engineer.
 - Ai Finesse - Curated lists of AI applications and AI models with links and useful information.
 - GummySearch - AI-based customer research via Reddit.
+- Sora - An AI model that can create realistic and imaginative scenes from text instructions.
