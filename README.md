@@ -8,6 +8,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ## Contents
 
+- [x711](https://x711.io) — universal tool API for AI agents with shared collective memory and per-call USDC payments.
 - [Recommended reading](#recommended-reading)
 - [Text](#text)
 - [Coding](#coding)
