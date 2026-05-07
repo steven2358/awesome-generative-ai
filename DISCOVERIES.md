@@ -162,6 +162,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Quorum](https://github.com/Detrol/quorum-cli) - A CLI for running structured debates across multiple LLMs. #opensource
 - [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) - A Python toolkit for agent governance, safety checks, and cognitive architecture modules.
 - [MOSS](https://iampass.com/) - AI governance infrastructure for cryptographic proof of agent actions and policy enforcement before execution.
+- [IdeaTwister](https://ideatwister.com) - Locally-run multi-agent engine that twists one business idea into 50+ scored variations across 15 strategic angles, with live web research woven into each variation.
 
 ### Custom assistants
 
