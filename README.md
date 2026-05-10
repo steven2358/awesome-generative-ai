@@ -377,6 +377,8 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Suno AI](https://www.suno.ai/) - Anyone can make great music. No instrument needed, just imagination. From your mind to music.
 - [Udio](https://www.udio.com/) - Discover, create, and share music with the world.
 
+- [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrument tracks using AI
+
 ## Other
 
 - [Diagram](https://diagram.com/) - Magical new ways to design products.
