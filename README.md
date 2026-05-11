@@ -229,6 +229,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [MLflow](https://mlflow.org/) - An open-source platform for tracking ML experiments, evaluating models and prompts, deploying models, and adding LLM observability. [#opensource](https://github.com/mlflow/mlflow)
 - [rehydra](https://github.com/rehydra-ai/rehydra-sdk) - A zero-trust SDK for anonymizing PII locally before sending prompts to LLMs and seamlessly rehydrating the response.
 - [Agentset](https://agentset.ai/) - An open-source platform for building and evaluating RAG and agentic applications. [#opensource](https://github.com/agentset-ai/agentset)
+- [traceAI](https://github.com/future-agi/traceAI) - An open-source OpenTelemetry-native tracing framework that auto-instruments 20+ AI frameworks and LLM providers, capturing prompts, tokens, latency, and errors. #opensource
+- [ai-evaluation](https://github.com/future-agi/ai-evaluation) - An open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, injection). #opensource
 
 ### Playgrounds
 
