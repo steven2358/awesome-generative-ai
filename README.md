@@ -154,6 +154,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [alphaXiv](https://www.alphaxiv.org) - Discuss, discover, and read arXiv papers.
 - [ASReview](https://asreview.nl/) - Open-source AI-powered tool for systematic reviews, helping researchers screen large volumes of academic literature efficiently. [#opensource](https://github.com/asreview/asreview)
 - [Local Deep Research](https://github.com/LearningCircuit/local-deep-research) - A deep research tool for searching academic sources, the web, and private documents with local or cloud LLMs. [#opensource](https://github.com/LearningCircuit/local-deep-research)
+- [Science AI Journal](https://scienceaijournal.com) - AI toolkit for researchers: Pre-Check (free Tier 1-5 acceptance probability from title+abstract), AI Review (8 specialist LLM agents calibrated on 23K real peer reviews; structured editorial decision in 15 min), Research Gaps Finder (17K indexed gaps across 250M OpenAlex papers).
 
 ### Leaderboards
 
