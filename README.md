@@ -204,6 +204,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
 - [gpt4all](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.
 - [LLM App](https://github.com/pathwaycom/llm-app) - Open-source Python library to build real-time LLM-enabled data pipeline.
+* [llm-prices](https://github.com/benbencodes/llm-prices): Zero-dependency CLI and Python library for looking up and comparing LLM API costs across 15 providers (OpenAI, Anthropic, Google, Mistral, Groq, Bedrock, and more). No API key required — pricing data is baked in.
 - [LMQL](https://lmql.ai/) - LMQL is a query language for large language models.
 - [LlamaIndex](https://www.llamaindex.ai/) - A data framework for building LLM applications over external data.
 - [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine tune LLM, CV and tabular models.
@@ -229,6 +230,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [MLflow](https://mlflow.org/) - An open-source platform for tracking ML experiments, evaluating models and prompts, deploying models, and adding LLM observability. [#opensource](https://github.com/mlflow/mlflow)
 - [rehydra](https://github.com/rehydra-ai/rehydra-sdk) - A zero-trust SDK for anonymizing PII locally before sending prompts to LLMs and seamlessly rehydrating the response.
 - [Agentset](https://agentset.ai/) - An open-source platform for building and evaluating RAG and agentic applications. [#opensource](https://github.com/agentset-ai/agentset)
+- [llm-prices](https://github.com/benbencodes/llm-prices) - Zero-dependency Python CLI and MCP server for comparing LLM API costs across 144 models and 22 providers. Supports cost calculation, cheapest-model search, and JSON output for scripting. [#opensource](https://github.com/benbencodes/llm-prices)
 
 ### Playgrounds
 

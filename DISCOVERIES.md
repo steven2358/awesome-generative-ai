@@ -98,6 +98,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Leaderboards
 
 - [Price Per Token](https://pricepertoken.com/) - A tool for comparing LLM API pricing, token usage, and model benchmarks.
+- [llm-prices](https://github.com/benbencodes/llm-prices) - Zero-dependency CLI and Python library for comparing LLM API pricing across 43 models and 8 providers.
 
 ### Other text generators
 
