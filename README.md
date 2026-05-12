@@ -230,6 +230,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [MLflow](https://mlflow.org/) - An open-source platform for tracking ML experiments, evaluating models and prompts, deploying models, and adding LLM observability. [#opensource](https://github.com/mlflow/mlflow)
 - [rehydra](https://github.com/rehydra-ai/rehydra-sdk) - A zero-trust SDK for anonymizing PII locally before sending prompts to LLMs and seamlessly rehydrating the response.
 - [Agentset](https://agentset.ai/) - An open-source platform for building and evaluating RAG and agentic applications. [#opensource](https://github.com/agentset-ai/agentset)
+- [llm-prices](https://github.com/benbencodes/llm-prices) - Zero-dependency Python CLI and MCP server for comparing LLM API costs across 144 models and 22 providers. Supports cost calculation, cheapest-model search, and JSON output for scripting. [#opensource](https://github.com/benbencodes/llm-prices)
 
 ### Playgrounds
 
