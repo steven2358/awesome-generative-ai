@@ -229,6 +229,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [MLflow](https://mlflow.org/) - An open-source platform for tracking ML experiments, evaluating models and prompts, deploying models, and adding LLM observability. [#opensource](https://github.com/mlflow/mlflow)
 - [rehydra](https://github.com/rehydra-ai/rehydra-sdk) - A zero-trust SDK for anonymizing PII locally before sending prompts to LLMs and seamlessly rehydrating the response.
 - [Agentset](https://agentset.ai/) - An open-source platform for building and evaluating RAG and agentic applications. [#opensource](https://github.com/agentset-ai/agentset)
+- [Dakera](https://github.com/dakera-ai/dakera-mcp) - Self-hosted MCP-native agent memory server giving AI agents persistent, decay-weighted episodic memory via 83 MCP tools. RocksDB + HNSW, 87.8% LoCoMo benchmark, zero cloud dependency. [#opensource](https://github.com/dakera-ai/dakera-mcp)
 
 ### Playgrounds
 
