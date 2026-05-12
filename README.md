@@ -229,6 +229,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [MLflow](https://mlflow.org/) - An open-source platform for tracking ML experiments, evaluating models and prompts, deploying models, and adding LLM observability. [#opensource](https://github.com/mlflow/mlflow)
 - [rehydra](https://github.com/rehydra-ai/rehydra-sdk) - A zero-trust SDK for anonymizing PII locally before sending prompts to LLMs and seamlessly rehydrating the response.
 - [Agentset](https://agentset.ai/) - An open-source platform for building and evaluating RAG and agentic applications. [#opensource](https://github.com/agentset-ai/agentset)
+- [Dualmark](https://dualmark.dev/) - Open-source AEO (Answer Engine Optimization) infrastructure. Publishes a markdown twin of every web page (e.g. `/pricing` + `/pricing.md`) and serves it to AI crawlers (GPTBot, ClaudeBot, PerplexityBot, +16 more) via HTTP content negotiation, so your site shows up cleanly in AI search instead of HTML-scraped fragments. Adapters for Astro, Next.js, Cloudflare Workers. [#opensource](https://github.com/dodopayments/dualmark)
 
 ### Playgrounds
 
