@@ -229,6 +229,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [MLflow](https://mlflow.org/) - An open-source platform for tracking ML experiments, evaluating models and prompts, deploying models, and adding LLM observability. [#opensource](https://github.com/mlflow/mlflow)
 - [rehydra](https://github.com/rehydra-ai/rehydra-sdk) - A zero-trust SDK for anonymizing PII locally before sending prompts to LLMs and seamlessly rehydrating the response.
 - [Agentset](https://agentset.ai/) - An open-source platform for building and evaluating RAG and agentic applications. [#opensource](https://github.com/agentset-ai/agentset)
+- [AgentLens](https://github.com/Soufianeazz/agentlens) - Self-hosted LLM observability with built-in air-gap mode. Quality scoring, agent waterfalls, prompt debugger, GDPR-native compliance. [#opensource](https://github.com/Soufianeazz/agentlens)
 
 ### Playgrounds
 
