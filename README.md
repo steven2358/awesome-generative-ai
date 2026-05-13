@@ -320,7 +320,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Reve Image](https://reve.com/) - A model trained from the ground up to excel at prompt adherence, aesthetics, and typography.
 - [Magnific](https://www.magnific.com/) - AI-powered design tools including image generation, background removal, and creative templates.
 - [FigureLabs](https://www.figurelabs.ai/) - An AI tool for generating publication-ready scientific figures in vector format from text descriptions or sketches.
-
+- [RoomFlip](https://roomflip.pro) - AI virtual staging and room redesign from a single photo, preserves real walls/windows/doors while restyling furniture in 12+ design directions. Includes a Listing Kit that auto-generates MLS / Zillow / Instagram listing copy with Fair Housing compliance check.
+- 
 ### Graphic design
 
 - [Brandmark](https://brandmark.io/) - AI-based logo design tool.
