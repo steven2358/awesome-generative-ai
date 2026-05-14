@@ -154,6 +154,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [alphaXiv](https://www.alphaxiv.org) - Discuss, discover, and read arXiv papers.
 - [ASReview](https://asreview.nl/) - Open-source AI-powered tool for systematic reviews, helping researchers screen large volumes of academic literature efficiently. [#opensource](https://github.com/asreview/asreview)
 - [Local Deep Research](https://github.com/LearningCircuit/local-deep-research) - A deep research tool for searching academic sources, the web, and private documents with local or cloud LLMs. [#opensource](https://github.com/LearningCircuit/local-deep-research)
+- [Rayyan](https://www.rayyan.ai/) - An AI-powered platform for managing systematic literature reviews with collaborative screening and data management tools.
 
 ### Leaderboards
 
