@@ -159,6 +159,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Maestro](https://runmaestro.ai) - Run multiple AI coding agents in parallel with a spec-driven workflow. [#opensource](https://github.com/pedramamini/Maestro)
 - [Maxim AI](https://www.getmaxim.ai) - An enterprise-grade generative AI evaluation and observability platform.
 - [Hercules](https://github.com/test-zeus-ai/testzeus-hercules) - An open-source AI agent for automated UI, API, security, and accessibility testing. [#opensource](https://github.com/test-zeus-ai/testzeus-hercules)
+- [embercore](https://github.com/embercore-labs/embercore) - Open-source, plan-first AI marketing planner with named agents, MCP support, bring-your-own-key usage, and human checkpoints before execution. [#opensource](https://github.com/embercore-labs/embercore)
 - [Quorum](https://github.com/Detrol/quorum-cli) - A CLI for running structured debates across multiple LLMs. #opensource
 - [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) - A Python toolkit for agent governance, safety checks, and cognitive architecture modules.
 - [MOSS](https://iampass.com/) - AI governance infrastructure for cryptographic proof of agent actions and policy enforcement before execution.
