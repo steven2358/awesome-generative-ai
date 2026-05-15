@@ -162,6 +162,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Quorum](https://github.com/Detrol/quorum-cli) - A CLI for running structured debates across multiple LLMs. #opensource
 - [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) - A Python toolkit for agent governance, safety checks, and cognitive architecture modules.
 - [MOSS](https://iampass.com/) - AI governance infrastructure for cryptographic proof of agent actions and policy enforcement before execution.
+- [minimal-agent-harness](https://github.com/yo666666yo/minimal-agent-harness) - A ~450-line Python educational implementation of an LLM agent harness with streaming tool execution and context summarization. [#opensource](https://github.com/yo666666yo/minimal-agent-harness)
 
 ### Custom assistants
 
