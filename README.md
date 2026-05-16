@@ -212,6 +212,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [SymbolicAI](https://github.com/ExtensityAI/symbolicai) - A neuro-symbolic framework for building applications with LLMs at the core.
 - [Vanna.ai](https://vanna.ai/) - An open-source Python RAG framework for SQL generation and related functionality. [#opensource](https://github.com/vanna-ai/vanna)
 - [Portkey](https://portkey.ai/) - A full-stack LLMOps platform for LLM monitoring, caching, and management.
+- [AI Cost Calculator](https://model-calculator.com/) — Compare pricing across 200+ LLM API models from OpenAI, Anthropic, Google, DeepSeek, and more. Free, no signup.
 - [agenta](https://github.com/agenta-ai/agenta) - An open-source end-to-end LLMOps platform for prompt engineering, evaluation, and deployment. #opensource
 - [Together AI](https://www.together.ai/) - Train, fine-tune-and run inference on AI models blazing fast, at low cost, and at production scale.
 - [Gitingest](https://gitingest.com/) - Turn any Git repository into a simple text digest of its codebase so it can be fed into any LLM. [#opensource](https://github.com/cyclotruc/gitingest)
