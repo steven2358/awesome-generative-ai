@@ -81,6 +81,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Phind](https://phind.com/) - AI-based search engine.
 - [You.com](https://you.com/) - A search engine built on AI that provides users with a customized search experience while keeping their data 100% private.
 - [Komo](https://komo.ai/) - An AI-powered search engine.
+- [AEO Scanner](https://aeo.codecity.com.tw/) - Free website AI-friendliness scoring tool that analyzes 9 AEO metrics and generates fix code for JSON-LD, FAQ Schema, and llms.txt.
 
 ### Local search engines
 
