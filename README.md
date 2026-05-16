@@ -355,6 +355,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Runway](https://runwayml.com/) - Magical AI tools, realtime collaboration, precision editing, and more. Your next-generation content creation suite.
 - [Synthesia](https://www.synthesia.io/) - Create videos from plain text in minutes.
 - [Colossyan](https://www.colossyan.com/) - Learning & Development focused video creator. Use AI avatars to create educational videos in multiple languages.
+- [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
 - [Fliki](https://fliki.ai/) - Create text to video and text to speech content with ai powered voices in minutes.
 - [Pictory](https://pictory.ai/) - Pictory's powerful AI enables you to create and edit professional quality videos using text.
 - [Pika](https://pika.art/) - An idea-to-video platform that brings your creativity to motion.
