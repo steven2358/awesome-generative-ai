@@ -66,6 +66,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [DeepSeek](https://www.deepseek.com/) - Cutting-edge LLMs for enterprise, consumer, and scientific applications. #opensource
 - [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
 - [Pi](https://pi.ai) - A personalized AI platform available as a digital assistant.
+- [Kissable](https://kissable.app) - AI companion with persistent memory, together photos, video generation, community scenario catalog, emotional voice, and unlimited messages.
 - [Qwen](https://chat.qwenlm.ai/) - Qwen chatbot with image generation, document processing, web search integration, video understanding, etc.
 - [Le Chat](https://chat.mistral.ai/) - Chat with Mistral AI's cutting-edge language models.
 
