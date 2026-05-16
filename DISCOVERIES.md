@@ -213,6 +213,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Glio](https://glio.io/) - A unified API for video, image, audio, and text generation models.
 
 ### Avatars
+- [UGCFast](https://ugcfast.ai/) - Generate UGC video ads with 300+ AI actors across 35+ languages for TikTok, Instagram Reels, and Meta ads.
 
 ### Animation
 
