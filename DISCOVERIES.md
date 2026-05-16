@@ -133,6 +133,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Pixee](https://www.pixee.ai/) - An agentic application security platform for triaging and fixing vulnerabilities in code.
 - [SQLAI.ai](https://www.sqlai.ai/) - Generate, fix, explain and optimize SQL. Get data insights and integrate your app with RAG-powered AI generators.
 - [NeuroLink](https://github.com/juspay/neurolink) - TypeScript-first AI SDK with multi-provider support, MCP integration, and multi-agent orchestration. #opensource
+- [Semantic Cache Router](https://github.com/redjackfred/distributed-semantic-cache-and-stateful-routing-system) - Distributed semantic cache and stateful routing system that cuts LLM API costs by returning cached responses for semantically similar queries. Uses ANN vector search and consistent hashing to pin requests to the same worker, achieving ~7× latency reduction on cache hits. [#opensource](https://github.com/redjackfred/distributed-semantic-cache-and-stateful-routing-system)
 - [Awesome CursorRules](https://github.com/PatrickJS/awesome-cursorrules) - A curated list of .cursorrules files for the Cursor AI code editor. #opensource
 - [Saplings](https://github.com/shobrook/saplings) - A library for building AI agents that use tree search algorithms to complete tasks. #opensource
 - [code-collator](https://github.com/tawandakembo/code-collator) - Compiles an entire codebase into a single markdown file for use as LLM context.
