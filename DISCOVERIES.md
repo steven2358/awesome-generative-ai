@@ -245,6 +245,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Docket AI](https://www.docket.io/) - An AI marketing agent for converting inbound traffic.
 - [Chinese-Elite](https://github.com/ReproduceCycle/Chinese-Elite) - An experimental project that uses LLMs to build a knowledge graph of Chinese political and business elites from public data. [#opensource](https://github.com/anonym-g/Chinese-Elite)
 - [GPU Per Hour](https://gpuperhour.com) - Real-time GPU cloud price comparison across multiple providers.
+- [Arenza](https://arenza.ai/) - Generative Engine Optimization platform measuring brand visibility, share of voice, sentiment, and citations across ChatGPT, Claude, Gemini, Perplexity, Copilot, and Grok.
 
 ## Learning resources
 
