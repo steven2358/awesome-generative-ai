@@ -187,6 +187,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [deAPI.ai](https://deapi.ai/) - A unified inference API to open-source AI models for text-to-image, text-to-speech, transcription, video generation, and more, using a decentralized GPU cloud.
 - [MyPicNow](https://www.mypicnow.com) - An AI headshot generator for creating professional profile photos from uploaded selfies.
 - [PhotoMentor](https://photomentor.pro) - An AI tool for analyzing photos and providing composition and lighting feedback.
+- [TinyTools BG Remover](https://tinytools-smoky.vercel.app/) - Free in-browser AI background remover that runs locally (no upload), with 8 other no-signup AI/web utilities including AI cost calculator, AI content disclosure generator (EU AI Act), and AI robots.txt generator.
 
 ### Graphic design
 
