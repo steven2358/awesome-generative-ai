@@ -144,6 +144,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AI/ML API](https://aimlapi.com/) - Unified API for accessing multiple AI models across text, image, audio, and video.
 - [Codeflash](https://www.codeflash.ai/) - An AI tool that automatically finds optimized versions of Python code through benchmarking.
 - [AgentAudit](https://github.com/jakops88-hub/AgentAudit-AI-Grounding-Reliability-Check) - A tool for verifying grounding and detecting unsupported claims in RAG pipeline outputs. #opensource
+- [Uni-CLI](https://github.com/olo-dot-io/Uni-CLI) - Self-repairing CLI catalog that exposes web, desktop apps, Electron apps, and bridge CLIs as deterministic commands for AI agents. Declarative YAML adapters with structured error envelopes; ships an optional MCP server. Live catalog size tracked in the repo's README. #opensource
 
 ### Playgrounds
 
