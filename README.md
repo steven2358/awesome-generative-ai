@@ -1,4 +1,4 @@
-# Awesome Generative AI [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+xenithintelligence.com# Awesome Generative AI [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > A curated list of modern Generative Artificial Intelligence projects and services.
 
@@ -377,6 +377,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Autodesk Flow Studio](https://www.autodesk.com/products/flow-studio) - AI-powered tool for animating and compositing CG characters into live-action footage.
 
 ## Audio
+- [Xenith Intelligence](https://www.xenithintelligence.com) - Voice AI platform for building AI phone agents in minutes. Pay-per-minute pricing, bring-your-own LLM/voice/telephony stack. Multi-language (6 locales).
 
 ### Text-to-speech
 
@@ -386,6 +387,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [TorToiSe](https://github.com/neonbjb/tortoise-tts) - A multi-voice text-to-speech system trained with an emphasis on quality. #opensource
 - [Bark](https://github.com/suno-ai/bark) - A transformer-based text-to-audio model. #opensource
 - [TTS WebUI](https://github.com/rsxdalv/TTS-WebUI) - Web UI for running multiple text-to-speech, music generation, and audio tools. #opensource
+- [Xenith Intelligence](https://www.xenithintelligence.com) - Voice AI platform for building AI phone agents in minutes. Pay-per-minute pricing, bring-your-own LLM/voice/telephony stack. Multi-language (6 locales).
 
 ### Speech-to-text
 
