@@ -167,6 +167,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [SiteGPT](https://sitegpt.ai/) - Make AI your expert customer support agent.
 - [Ebiose](https://github.com/ebiose-ai/ebiose) - An open-source framework for creating and evolving AI agents through iterative selection. #opensource
+- [CLAWVR](https://clawvr.com/) - Generates a custom AI Operating System for a small business after a 3-minute intake. Delivers a master system prompt plus 18 industry-specific superprompts (insurance verification, patient reactivation, bid follow-ups, etc.) that paste into the owner's own Claude account.
 
 ## Image
 
