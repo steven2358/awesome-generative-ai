@@ -44,6 +44,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Custom interfaces
 
+- [Atlas UI 3](https://github.com/sandialabs/atlas-ui-3) - Full-stack LLM chat interface with MCP tool integration, multi-provider support, RAG, and agentic workflows. #opensource
+
 ### Search engines
 
 - [MemFree](https://github.com/memfreeme/memfree) - Hybrid AI search engine. Get instant answers from your knowledge base and the whole internet. #opensource
