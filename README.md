@@ -280,6 +280,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI) - A framework for building multi-agent AI systems with workflows, tool integrations, and memory. #opensource
 - [Hermes Agent](https://hermes-agent.nousresearch.com) - A self-improving personal agent with memory, messaging integrations, and sandboxed tool execution. [#opensource](https://github.com/NousResearch/hermes-agent)
 - [OpenAgents](https://github.com/openagents-org/openagents) - Open-source platform for building AI agent networks with multi-protocol support (WebSocket, gRPC, HTTP, MCP, A2A). #opensource
+- [TeamOffsite](https://teamoffsite.ai) - Orchestrate and govern agent teams without code; a [mercury.build](https://mercury.build) platform to build, set up, and manage agent teams and bring your own agents like Cursor, Claude Code, Devin, and OpenClaw.
 
 ### Custom assistants
 
