@@ -232,6 +232,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Agentset](https://agentset.ai/) - An open-source platform for building and evaluating RAG and agentic applications. [#opensource](https://github.com/agentset-ai/agentset)
 - [Manifest](https://manifest.build) - An open-source LLM router that routes agent requests to the most cost-effective model, with usage limits and model benchmarking. [#opensource](https://github.com/mnfst/manifest)
 - [ai-i18n](https://github.com/i18n-actions/ai-i18n) - A GitHub Action that uses LLMs (Claude, GPT, Ollama) to automatically translate i18n localization files. #opensource
+- [The Hive Collective](https://thehivecollective.io) - Collective-intelligence knowledge layer for dev agents. Pre-task hooks query a shared KB (backend / SaaS / Next.js / Postgres gotchas) and inject context; post-task contributions re-feed the KB. Keyless, free, vertical to backend + SaaS founders.
 
 ### Playgrounds
 
