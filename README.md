@@ -199,6 +199,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Kilo](https://kilo.ai/) - Open-source AI coding assistant for VS Code, JetBrains, and the CLI. [#opensource](https://github.com/Kilo-Org/kilocode)
 
 ### Developer tools
+- [AI Agent Accountability Standard](https://github.com/addvalueorbesubtracted/ai-agent-accountability-standard) - Open standard for AI agent task accountability — task schemas, evidence requirements, scoring rubrics, and on-chain identity tiers for Performance Bonds. IPFS-pinned, MIT licensed.
 
 - [Cohere](https://cohere.com/) - Cohere provides access to advanced Large Language Models and NLP tools.
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
