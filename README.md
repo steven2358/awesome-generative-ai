@@ -233,6 +233,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Manifest](https://manifest.build) - An open-source LLM router that routes agent requests to the most cost-effective model, with usage limits and model benchmarking. [#opensource](https://github.com/mnfst/manifest)
 - [ai-i18n](https://github.com/i18n-actions/ai-i18n) - A GitHub Action that uses LLMs (Claude, GPT, Ollama) to automatically translate i18n localization files. #opensource
 
+- [ShipPage](https://shippage.ai) - Zero-config HTML publishing service for AI agents. One HTTP POST turns any HTML or Markdown into a public URL. Auto-registers on first call — no account, no API keys to configure. Install as OpenClaw skill or MCP server. [#opensource](https://github.com/jieshu666/ShipPage-Skill)
 ### Playgrounds
 
 - [OpenAI Playground](https://platform.openai.com/playground) - Explore resources, tutorials, API docs, and dynamic examples.
