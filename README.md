@@ -233,6 +233,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Manifest](https://manifest.build) - An open-source LLM router that routes agent requests to the most cost-effective model, with usage limits and model benchmarking. [#opensource](https://github.com/mnfst/manifest)
 - [ai-i18n](https://github.com/i18n-actions/ai-i18n) - A GitHub Action that uses LLMs (Claude, GPT, Ollama) to automatically translate i18n localization files. #opensource
 
+- [grugbot420](https://github.com/grug-group420/grugbot420) - A neuromorphic cognitive engine in Julia for multi-model AI orchestration through architectural configuration. [#opensource](https://github.com/grug-group420/grugbot420)
 ### Playgrounds
 
 - [OpenAI Playground](https://platform.openai.com/playground) - Explore resources, tutorials, API docs, and dynamic examples.
