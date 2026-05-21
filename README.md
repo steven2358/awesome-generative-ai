@@ -281,6 +281,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI) - A framework for building multi-agent AI systems with workflows, tool integrations, and memory. #opensource
 - [Hermes Agent](https://hermes-agent.nousresearch.com) - A self-improving personal agent with memory, messaging integrations, and sandboxed tool execution. [#opensource](https://github.com/NousResearch/hermes-agent)
 - [OpenAgents](https://github.com/openagents-org/openagents) - Open-source platform for building AI agent networks with multi-protocol support (WebSocket, gRPC, HTTP, MCP, A2A). #opensource
+- [Markus](https://github.com/markus-global/markus) - Open-source AI Digital Employee Platform for creating, orchestrating, and managing multi-agent teams with persistent memory, inter-agent communication, and autonomous operation. #opensource
 
 ### Custom assistants
 
