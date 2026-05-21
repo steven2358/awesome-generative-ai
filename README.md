@@ -56,6 +56,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Qwen](https://qwenlm.github.io/) - A series of LLMs independently developed by Alibaba Cloud. [#opensource](https://github.com/QwenLM/Qwen)
 - [DeepSeek](https://huggingface.co/deepseek-ai) - DeepSeek V3 and R1 series of LLMs by DeepSeek AI. [#opensource](https://github.com/deepseek-ai)
 - [MiniMax](https://www.minimax.io/) - Multimodal foundation models for text, speech, video, and music generation
+- [AI Models Catalog](https://github.com/i-need-token/ai-models) - Structured catalog of 4,587+ AI models across 95 providers with pricing, context windows, and capabilities. First-party data with TypeScript types and Zod validation. #opensource
 
 ### Chatbots
 
