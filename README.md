@@ -133,6 +133,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Open Notebook](https://www.open-notebook.ai) - An open source implementation of NotebookLM with more flexibility and features. [#opensource](https://github.com/lfnovo/open-notebook)
 - [Screenpipe](https://github.com/screenpipe/screenpipe) - An open-source tool for recording screen and audio activity with AI-powered search, automations, and support for local LLMs. #opensource
 
+- [career-ops](https://github.com/santifer/career-ops) - AI-powered job search orchestrator built on Claude Code. 14-skill pipeline that evaluates jobs, generates ATS-tailored PDFs, and tracks applications end-to-end on the candidate side. Local-first, MIT. #opensource
+
 ### Meeting assistants
 
 - [Otter.ai](https://otter.ai/) - A meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries.
