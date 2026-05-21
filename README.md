@@ -231,6 +231,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [rehydra](https://github.com/rehydra-ai/rehydra-sdk) - A zero-trust SDK for anonymizing PII locally before sending prompts to LLMs and seamlessly rehydrating the response.
 - [Agentset](https://agentset.ai/) - An open-source platform for building and evaluating RAG and agentic applications. [#opensource](https://github.com/agentset-ai/agentset)
 - [Manifest](https://manifest.build) - An open-source LLM router that routes agent requests to the most cost-effective model, with usage limits and model benchmarking. [#opensource](https://github.com/mnfst/manifest)
+- [AnyRouter](https://anyrouter.dev) - A universal AI model router — one OpenAI-compatible API gateway for 150+ models across 28+ providers with unified billing, audit logs, BYOK, and automatic provider fallbacks.
 - [ai-i18n](https://github.com/i18n-actions/ai-i18n) - A GitHub Action that uses LLMs (Claude, GPT, Ollama) to automatically translate i18n localization files. #opensource
 
 ### Playgrounds
