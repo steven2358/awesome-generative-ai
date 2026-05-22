@@ -320,7 +320,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Reve Image](https://reve.com/) - A model trained from the ground up to excel at prompt adherence, aesthetics, and typography.
 - [Magnific](https://www.magnific.com/) - AI-powered design tools including image generation, background removal, and creative templates.
 - [FigureLabs](https://www.figurelabs.ai/) - An AI tool for generating publication-ready scientific figures in vector format from text descriptions or sketches.
-- [ZSky AI](https://zsky.ai) - Free, unlimited AI image and video generator with synced audio at 1080p. Ad-supported free tier with no credit meter; paid plans from $19/month.
+- [ZSky AI](https://zsky.ai) - Web platform for AI image generation, editing, and short AI video creation with synchronized audio.
 
 ### Graphic design
 
@@ -363,7 +363,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Google Flow](https://labs.google/fx/tools/flow) - An AI filmmaking tool from Google, powered by Veo.
 - [Seedance 2.0](https://seed.bytedance.com/en/seedance2_0) - An image-to-video and text-to-video model developed by Niobotics ByteDance.
 - [MaxVideoAI](https://maxvideoai.com/examples) - A workspace for generating and comparing videos across multiple AI video models.
-- [ZSky AI](https://zsky.ai) - AI image and video generator with synced audio at 1080p in a single render. Genuinely unlimited free tier (ad-supported), no credit meter.
+- [ZSky AI](https://zsky.ai) - Web platform for text-to-video and image-to-video generation with synchronized audio.
 
 ### Avatars
 
