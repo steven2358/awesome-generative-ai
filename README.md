@@ -77,6 +77,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 - [LibreChat](https://librechat.ai/) - LibreChat is a free and open-source chat interface for assistant AIs. [#opensource](https://github.com/danny-avila/LibreChat).
 - [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [#opensource](https://github.com/mckaywrigley/chatbot-ui).
+- [Zengin Ai Debugger](https://github.com/zengin0201/AI_Debugger) - Real-time visual debugger for AI agents that renders complex LangChain flows into interactive graphs with zero cloud overhead [#opensource]
 
 ### Search engines
 
