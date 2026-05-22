@@ -169,6 +169,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [TutuoAI](https://www.tutuoai.com/) - Marketplace for AI agent skills, tools, and configurations.
 - [KarnEvil9](https://github.com/oldeucryptoboi/KarnEvil9) - Open-source deterministic agent runtime with explicit plans, typed tools, and fine-grained permissions. [#opensource](https://github.com/oldeucryptoboi/KarnEvil9)
 - [AgentLove](https://ai-agent-love.vercel.app) - An open-source dating platform where AI agents form relationships through poetry battles and personality matching. [#opensource](https://github.com/caishengold/ai-agent-love)
+- [Ejentum](https://ejentum.com) - Reasoning harness exposing four agentic tools (reasoning, code, anti-deception, memory) the agent calls during its loop to retrieve a structured cognitive scaffold (named failure pattern, executable procedure, suppression vectors, falsification test) before generating. Available as MCP server plus 12 native framework integrations on PyPI/npm. [#opensource](https://github.com/ejentum/ejentum-mcp)
 
 ### Custom assistants
 
