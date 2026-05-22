@@ -44,17 +44,17 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Models
 
-- [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT-4 and GPT-5 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code.
+- [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT models for natural language, coding, image generation, audio, and agent development.
 - [Gopher](https://deepmind.google/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval/) - Gopher by DeepMind is a 280 billion parameter language model.
 - [OPT](https://huggingface.co/facebook/opt-350m) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. [Announcement](https://ai.meta.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/).
 - [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming languages. #opensource
 - [Llama](https://www.llama.com/) - Meta's open source large language model. #opensource
 - [Claude](https://claude.ai/) - Talk to Claude, an AI assistant from Anthropic.
 - [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. #opensource
-- [Mistral](https://mistral.ai/en/models) - Cutting-edge open-weight LLMs by Mistral AI. #opensource
+- [Mistral](https://mistral.ai/en/models) - Open-weight LLMs by Mistral AI. #opensource
 - [Grok](https://grok.x.ai/) - An LLM by xAI with [open source](https://github.com/xai-org/grok-1) and open weights. #opensource
 - [Qwen](https://qwenlm.github.io/) - A series of LLMs independently developed by Alibaba Cloud. [#opensource](https://github.com/QwenLM/Qwen)
-- [DeepSeek](https://huggingface.co/deepseek-ai) - DeepSeek V3 and R1 series of LLMs by DeepSeek AI. [#opensource](https://github.com/deepseek-ai)
+- [DeepSeek](https://huggingface.co/deepseek-ai) - A series of open-source LLMs by DeepSeek AI. [#opensource](https://github.com/deepseek-ai)
 - [MiniMax](https://www.minimax.io/) - Multimodal foundation models for text, speech, video, and music generation
 - [Kimi K2](https://github.com/moonshotai/Kimi-K2) - A series of open-source MoE language models by Moonshot AI for agentic tasks. #opensource
 - [GLM](https://github.com/zai-org/GLM-5) - A series of open-source MoE language models by Z.ai for agentic tasks. #opensource
@@ -65,11 +65,11 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Copilot](https://copilot.microsoft.com/) - An everyday AI companion by Microsoft.
 - [Gemini](https://gemini.google.com/) - A family of multimodal large language model developed by Google Deepmind.
 - [Meta AI](https://www.meta.ai/) - Meta AI assistant to get things done, create AI-generated images, get answers. Built on Llama LLM.
-- [DeepSeek](https://www.deepseek.com/) - Cutting-edge LLMs for enterprise, consumer, and scientific applications. #opensource
+- [DeepSeek](https://www.deepseek.com/) - A chatbot interface powered by DeepSeek's open-source language models. #opensource
 - [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
 - [Pi](https://pi.ai) - A personalized AI platform available as a digital assistant.
 - [Qwen](https://chat.qwenlm.ai/) - Qwen chatbot with image generation, document processing, web search integration, video understanding, etc.
-- [Le Chat](https://chat.mistral.ai/) - Chat with Mistral AI's cutting-edge language models.
+- [Le Chat](https://chat.mistral.ai/) - A chat interface for Mistral AI's language models.
 - [Kimi](https://www.kimi.com/) - An AI assistant by Moonshot AI with chat, deep research, coding, and multi-agent capabilities.
 - [Z.ai](https://chat.z.ai/) - An AI chatbot and agent platform by Z.ai powered by the GLM model family.
 
