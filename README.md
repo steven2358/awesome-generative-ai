@@ -371,6 +371,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Google Flow](https://labs.google/fx/tools/flow) - An AI filmmaking tool from Google, powered by Veo.
 - [Seedance 2.0](https://seed.bytedance.com/en/seedance2_0) - An image-to-video and text-to-video model developed by Niobotics ByteDance.
 - [MaxVideoAI](https://maxvideoai.com/examples) - A workspace for generating and comparing videos across multiple AI video models.
+- [Gemini Omni Prompts](https://geminiomniprompts.org/) - Source-cited prompt library for Google's Gemini Omni video model. Free, no signup.
 
 ### Avatars
 
