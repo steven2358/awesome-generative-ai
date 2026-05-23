@@ -392,6 +392,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [TorToiSe](https://github.com/neonbjb/tortoise-tts) - A multi-voice text-to-speech system trained with an emphasis on quality. #opensource
 - [Bark](https://github.com/suno-ai/bark) - A transformer-based text-to-audio model. #opensource
 - [TTS WebUI](https://github.com/rsxdalv/TTS-WebUI) - Web UI for running multiple text-to-speech, music generation, and audio tools. #opensource
+- [KittenTTS](https://github.com/KittenML/KittenTTS) - Lightweight ONNX text-to-speech models that run on CPU without requiring a GPU. #opensource
 
 ### Speech-to-text
 
