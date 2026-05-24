@@ -199,6 +199,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [DataLine](https://dataline.app) - An AI-driven data analysis and visualization tool. [#opensource](https://github.com/RamiAwar/dataline)
 - [v0](https://v0.dev) - Prompt-driven UI generation for React and Next.js, creating production-ready components.
 - [Lovable](https://lovable.dev) - Conversational full-stack app generation, turning ideas into deployable code.
+- [Primio](https://primio.dev) - Chat-based AI app builder that generates, iterates on, and publishes full Flutter apps for mobile and web from natural language.
 - [aider](https://aider.chat/) - AI pair programming in your terminal, supporting multiple LLM providers. [#opensource](https://github.com/paul-gauthier/aider)
 - [Kilo](https://kilo.ai/) - Open-source AI coding assistant for VS Code, JetBrains, and the CLI. [#opensource](https://github.com/Kilo-Org/kilocode)
 
