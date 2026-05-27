@@ -316,6 +316,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Playground](https://playground.com/) - Playground is a free-to-use online AI image creator. Use it to create art, social media posts, presentations, posters, videos, logos and more.
 - [modyfi](https://www.modyfi.com/) - A browser-based design platform with AI-powered image generation, animation, and real-time collaboration.
 - [PhotoRoom](https://www.photoroom.com/) - Create product and portrait pictures using only your phone. Remove background, change background and showcase products.
+- [PhotoRestore.ai](https://photorestore.ai) - AI-powered restoration of old and damaged photos. Repairs scratches, fading, and colorizes B&W photos.
 - [Photo AI](https://photoai.com/ai-avatars) - Create your own AI-generated avatars.
 - [ClipDrop](https://clipdrop.co/) - Create professional visuals without a photo studio, powered by [stability.ai](https://stability.ai/).
 - [Lensa](https://prisma-ai.com/lensa) - An all-in-one image editing app that includes the generation of personalized avatars using Stable Diffusion.
