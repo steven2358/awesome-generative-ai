@@ -329,6 +329,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Reve Image](https://reve.com/) - A model trained from the ground up to excel at prompt adherence, aesthetics, and typography.
 - [Magnific](https://www.magnific.com/) - AI-powered design tools including image generation, background removal, and creative templates.
 - [FigureLabs](https://www.figurelabs.ai/) - An AI tool for generating publication-ready scientific figures in vector format from text descriptions or sketches.
+- [GoCreative AI](https://api.gocreativeai.com) - Pay-per-call image generation and editing API for AI agents (text-to-image, background removal, upscaling, photo restoration, face swap). Free 5 calls/day per IP demo tier, no signup. Stripe + USDC on Base via x402.
 
 ### Graphic design
 
