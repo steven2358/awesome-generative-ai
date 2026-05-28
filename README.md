@@ -335,6 +335,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Brandmark](https://brandmark.io/) - AI-based logo design tool.
 - [Gamma](https://gamma.app/) - Create beautiful presentations and webpages with none of the formatting and design work.
 - [Microsoft Designer](https://designer.microsoft.com/) - Stunning designs in a flash.
+- [Napkin](https://www.napkin.ai/) - AI tool for generating diagrams, charts, and infographics from text.
 
 ### Image libraries
 
