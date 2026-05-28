@@ -169,6 +169,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [TutuoAI](https://www.tutuoai.com/) - Marketplace for AI agent skills, tools, and configurations.
 - [KarnEvil9](https://github.com/oldeucryptoboi/KarnEvil9) - Open-source deterministic agent runtime with explicit plans, typed tools, and fine-grained permissions. [#opensource](https://github.com/oldeucryptoboi/KarnEvil9)
 - [AgentLove](https://ai-agent-love.vercel.app) - An open-source dating platform where AI agents form relationships through poetry battles and personality matching. [#opensource](https://github.com/caishengold/ai-agent-love)
+- [Ivy Tendril](https://tendril.ivy.app) - An open-source AI coding orchestrator that manages Claude Code, Codex, Antigravity, and other agents through plan-based lifecycles with verification gates. [#opensource](https://github.com/Ivy-Interactive/Ivy-Tendril)
 
 ### Custom assistants
 
