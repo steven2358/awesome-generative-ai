@@ -44,6 +44,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Custom interfaces
 
+- [Atlas UI 3](https://github.com/sandialabs/atlas-ui-3) - Full-stack LLM chat interface with MCP tool integration, multi-provider support, RAG, and agentic workflows. #opensource
+
 ### Search engines
 
 - [MemFree](https://github.com/memfreeme/memfree) - Hybrid AI search engine. Get instant answers from your knowledge base and the whole internet. #opensource
@@ -98,6 +100,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Leaderboards
 
 - [Price Per Token](https://pricepertoken.com/) - A tool for comparing LLM API pricing, token usage, and model benchmarks.
+- [Rival](https://rival.tips) - Leaderboard ranking 200+ AI models based on blind A/B human preference votes.
 
 ### Other text generators
 
@@ -144,6 +147,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AI/ML API](https://aimlapi.com/) - Unified API for accessing multiple AI models across text, image, audio, and video.
 - [Codeflash](https://www.codeflash.ai/) - An AI tool that automatically finds optimized versions of Python code through benchmarking.
 - [AgentAudit](https://github.com/jakops88-hub/AgentAudit-AI-Grounding-Reliability-Check) - A tool for verifying grounding and detecting unsupported claims in RAG pipeline outputs. #opensource
+- [EvoLink](https://evolink.ai/) - API gateway providing unified access to 40+ AI models for chat, image, video, and music generation.
 
 ### Playgrounds
 
@@ -162,6 +166,9 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Quorum](https://github.com/Detrol/quorum-cli) - A CLI for running structured debates across multiple LLMs. #opensource
 - [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) - A Python toolkit for agent governance, safety checks, and cognitive architecture modules.
 - [MOSS](https://iampass.com/) - AI governance infrastructure for cryptographic proof of agent actions and policy enforcement before execution.
+- [TutuoAI](https://www.tutuoai.com/) - Marketplace for AI agent skills, tools, and configurations.
+- [KarnEvil9](https://github.com/oldeucryptoboi/KarnEvil9) - Open-source deterministic agent runtime with explicit plans, typed tools, and fine-grained permissions. [#opensource](https://github.com/oldeucryptoboi/KarnEvil9)
+- [AgentLove](https://ai-agent-love.vercel.app) - An open-source dating platform where AI agents form relationships through poetry battles and personality matching. [#opensource](https://github.com/caishengold/ai-agent-love)
 
 ### Custom assistants
 
