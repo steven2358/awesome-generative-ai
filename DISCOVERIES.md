@@ -252,6 +252,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Docket AI](https://www.docket.io/) - An AI marketing agent for converting inbound traffic.
 - [Chinese-Elite](https://github.com/ReproduceCycle/Chinese-Elite) - An experimental project that uses LLMs to build a knowledge graph of Chinese political and business elites from public data. [#opensource](https://github.com/anonym-g/Chinese-Elite)
 - [GPU Per Hour](https://gpuperhour.com) - Real-time GPU cloud price comparison across multiple providers.
+- [MonkeyEatingMango](https://monkeyeatingmango.com) - Free AI travel planner that turns 8 tap-based answers into a day-by-day itinerary with daily budgets, a food guide, and map routes.
 
 ## Learning resources
 
