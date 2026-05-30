@@ -329,6 +329,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Reve Image](https://reve.com/) - A model trained from the ground up to excel at prompt adherence, aesthetics, and typography.
 - [Magnific](https://www.magnific.com/) - AI-powered design tools including image generation, background removal, and creative templates.
 - [FigureLabs](https://www.figurelabs.ai/) - An AI tool for generating publication-ready scientific figures in vector format from text descriptions or sketches.
+- [STORYLINER](https://www.storyliner.online/) - AI storyboard generator for film and ad pre-production. Turns screenplays into production-quality storyboards in under 2 minutes with consistent characters across every frame thanks to its Character Memory engine. 6 art styles (sketch, lineart, classic, pen art, realism, simple). Free tier with no credit card.
 
 ### Graphic design
 
