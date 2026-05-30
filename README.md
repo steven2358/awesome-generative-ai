@@ -290,6 +290,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 - [Poe](https://poe.com/) - Poe gives access to a variety of bots.
 - [GPT Builder](https://chatgpt.com/gpts/editor) - Assistant for creating GPT-based assistants.
+- [humanbrowser](https://humanbrowser.cloud) - Pay-as-you-go browser automation for agents with an A2A endpoint, residential proxies, and no subscription.
 
 ## Image
 
