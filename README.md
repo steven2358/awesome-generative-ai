@@ -263,6 +263,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [babyagi](https://github.com/yoheinakajima/babyagi) - An AI-powered task management system.
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - Assemble, configure, and deploy autonomous AI Agents in your browser.
+- [EasyClaw](https://easyclaw.com/) - Open‑source autonomous AI web agent for automating repetitive browser workflows and multi‑step web tasks with natural language control.
 - [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [GPT Prompt Engineer](https://github.com/mshumer/gpt-prompt-engineer) - Automated prompt engineering. It generates, tests, and ranks prompts to find the best ones.
 - [MetaGPT](https://github.com/FoundationAgents/MetaGPT) - The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo.
