@@ -148,6 +148,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Codeflash](https://www.codeflash.ai/) - An AI tool that automatically finds optimized versions of Python code through benchmarking.
 - [AgentAudit](https://github.com/jakops88-hub/AgentAudit-AI-Grounding-Reliability-Check) - A tool for verifying grounding and detecting unsupported claims in RAG pipeline outputs. #opensource
 - [EvoLink](https://evolink.ai/) - API gateway providing unified access to 40+ AI models for chat, image, video, and music generation.
+- [Spanlens](https://github.com/spanlens/Spanlens) - Open-source LLM observability platform with drop-in OpenAI/Anthropic/Gemini proxy for cost tracking, agent tracing, and anomaly detection. Self-hostable via Docker. #opensource
 
 ### Playgrounds
 
