@@ -258,6 +258,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ## Agents
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Free open-source monitoring dashboard for OpenClaw AI agents — token usage, session tracking, 7-day trends, multi-model support.
 ### Autonomous agents
 
 - [Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
