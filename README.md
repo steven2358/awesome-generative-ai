@@ -418,6 +418,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
 - [This Image Does Not Exist](https://thisimagedoesnotexist.com/) - Test your ability to tell if an image is human or computer generated.
 - [Have I Been Trained?](https://haveibeentrained.com/) - Check if your image has been used to train popular AI art models.
+- [Human Browser](https://github.com/VirixLabs/humanbrowser) - Cloud-hosted residential browser MCP for AI agents. Real residential IP per session, automated captcha solving (reCAPTCHA, hCaptcha, Turnstile, PerimeterX), live viewer URL for human-in-the-loop, MCP + A2A endpoints, $1 free trial.
 - [AI Dungeon](https://aidungeon.io/) - A text-based adventure-story game you direct (and star in) while the AI brings it to life.
 - [Clickable](https://www.clickable.so/) - Generate ads in seconds with AI. Beautiful, brand-consistent, and highly converting ads for all marketing channels.
 - [Scale Spellbook](https://scale.com/genai-platform) - Build, compare, and deploy large language model apps with Scale Spellbook.
