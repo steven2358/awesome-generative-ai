@@ -257,6 +257,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [off-grid-mobile](https://github.com/alichherawalla/off-grid-mobile-ai) - React Native app for running LLMs, vision models, and Stable Diffusion on-device on iOS and Android without internet access. #opensource
 
 ## Agents
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) — Free open-source monitoring dashboard for OpenClaw AI agents: token usage, session tracking, 7-day trends, multi-model support.
 
 ### Autonomous agents
 
