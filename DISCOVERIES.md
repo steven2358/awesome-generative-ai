@@ -278,5 +278,6 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Awesome AI Software Development Agents](https://github.com/flatlogic/awesome-ai-software-development-agents) - Curated list of AI agents designed for software development tasks.
 - [MODELDROP](https://modeldrop.fyi/) - A community tracker for new generative media AI model releases.
 - [MyVibe](https://www.myvibe.so) - A feed for discovering and sharing AI-created web apps, demos, and interactive projects.
+- [Skill Atlas](https://github.com/luongs3/skill-atlas) - A trust-rated index of public AI-agent skills organized by job, with source reputation, tier, and freshness on every entry.
 
 ### Lists on ChatGPT
