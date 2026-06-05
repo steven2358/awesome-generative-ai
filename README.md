@@ -286,6 +286,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI) - A framework for building multi-agent AI systems with workflows, tool integrations, and memory. #opensource
 - [Hermes Agent](https://hermes-agent.nousresearch.com) - A self-improving personal agent with memory, messaging integrations, and sandboxed tool execution. [#opensource](https://github.com/NousResearch/hermes-agent)
 - [OpenAgents](https://github.com/openagents-org/openagents) - Open-source platform for building AI agent networks with multi-protocol support (WebSocket, gRPC, HTTP, MCP, A2A). #opensource
+- [Hyper](https://hyperfx.ai) - Marketing agent platform delivering Agent Skills plus a hosted MCP that connect agents to 200+ marketing integrations across paid ads, SEO, analytics, social, and image and video generation, with human-in-the-loop approval. [#opensource](https://github.com/hyperfx-ai/marketing-skills)
 
 ### Custom assistants
 
