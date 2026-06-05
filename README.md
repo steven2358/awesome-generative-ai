@@ -310,6 +310,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [DreamStudio](https://stability.ai/dreamstudio) - DreamStudio is an easy-to-use interface for creating images using the Stable Diffusion image generation model.
 - [Artbreeder](https://www.artbreeder.com/) - Artbreeder is new type of creative tool that empowers users creativity by making it easier to collaborate and explore.
 - [Magic Eraser](https://magicstudio.com/magiceraser/) - Remove unwanted things from images in seconds.
+- [igly.ai](https://igly.ai) - Browser-based AI image editor for background removal, inpainting, upscaling, and generative fill.
 - [Imagine by Magic Studio](https://magicstudio.com/imagine) - A tool by Magic Studio that let's you express yourself by just describing what's on your mind.
 - [Alpaca](https://www.getalpaca.io/) - Stable Diffusion Photoshop plugin.
 - [Patience.ai](https://www.patience.ai/) - Patience.ai is an app for creating images with Stable Diffusion, a cutting edge AI developed by Stability.AI.
