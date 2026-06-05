@@ -126,6 +126,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Developer tools
 
 - [Vectara](https://www.vectara.com/) - A Generative AI product platform for developers.
+- [FerryAPI](https://www.ferryapi.io) - An OpenAI-compatible AI API gateway for lower-cost model access, customer API keys, prepaid balances, quotas, and usage records.
 - [Gdańsk AI](https://github.com/jmaczan/gdansk-ai) - Full stack AI voice chatbot (STT, LLM, TTS) with integrations to Auth0, OpenAI, Google Cloud and Stripe. #opensource
 - [ZZZ Code AI](https://zzzcode.ai) - AI-powered free website to get any programming question answered or code generated.
 - [GitPoet](https://www.gitpoet.dev) - Generate accurate and meaningful commit messages based on your git diff.
