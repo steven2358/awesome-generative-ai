@@ -200,6 +200,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Framer AI](https://www.framer.com/ai/) - Enhance your website using Framer's AI-powered tools.
 - [PPT.AI](https://ppt.ai/) - Create professional presentations in minutes.
 - [Seede](https://seede.ai/) - An AI tool for generating posters and marketing visuals from text descriptions.
+- [Adstronaut AI](https://adstronaut.net) - End-to-end AI platform for fashion brands. Generates factory-ready tech packs from a garment photo, on-model AI photoshoots, color and fabric variants, and product catalog tags.
 
 ### Image libraries
 
