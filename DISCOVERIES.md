@@ -181,6 +181,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Services
 
+- [LandscapioAI](https://www.landscapioai.com/) - AI landscape design tool that turns yard photos into outdoor design concepts for gardens, patios, lighting, and hardscapes.
 - [AI Art Generator - Video-Art-X](https://apps.apple.com/us/app/ai-art-generator-video-art-x/id1644315225?ct=awsomegenerativeai&pt=94765902) - Create art in seconds using your iPhone.
 - [ArtSmart](https://artsmart.ai/) - AI image generator that produces realistic images based on text and image prompts, featuring outpainting, pose control, and personalized avatar generation capabilities.
 - [joliGEN](https://github.com/jolibrain/joliGEN) - Generative AI Image Toolset with GANs and Diffusion for Real-World Applications.
