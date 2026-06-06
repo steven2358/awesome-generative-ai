@@ -154,6 +154,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Local LLM Deployment
 
 - [Minima](https://github.com/dmayboroda/minima) - On-premises RAG with configurable Docker containers. #opensource
+- [Local-AI-Models.ai](https://local-ai-models.ai) - Filterable catalog of open-weight models and agent frameworks sized to your GPU and budget.
 
 ## Agents
 
