@@ -286,6 +286,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI) - A framework for building multi-agent AI systems with workflows, tool integrations, and memory. #opensource
 - [Hermes Agent](https://hermes-agent.nousresearch.com) - A self-improving personal agent with memory, messaging integrations, and sandboxed tool execution. [#opensource](https://github.com/NousResearch/hermes-agent)
 - [OpenAgents](https://github.com/openagents-org/openagents) - Open-source platform for building AI agent networks with multi-protocol support (WebSocket, gRPC, HTTP, MCP, A2A). #opensource
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) — MCP server providing on-chain trust scoring for AI agents on Solana. Free: `resolve_agent`, `score_agent`, `preflight_check`, `verify_trust_receipt`. Paid: `get_trust_receipt` (x402/USDC micropayment). Zero-install Streamable HTTP endpoint.
 
 ### Custom assistants
 
