@@ -172,6 +172,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Autohand Code CLI](https://github.com/autohandai/code-cli) - A terminal-based autonomous coding agent with multi-LLM support and a modular skills system. #opensource
 - [Frostbyte](https://frostbyte-api.vercel.app) - MCP server giving AI agents real-time tools: crypto prices, IP geolocation, DNS lookups, screenshots, and code execution.
 - [GhostClaw](https://ghostclaw.io) - A local AI agent with full system access, controllable via Telegram. [#opensource](https://github.com/b1rdmania/ghostclaw)
+- [A3M Router](https://github.com/Das-rebel/a3m-router) - Adaptive multi-model LLM router with parallel ensemble orchestration, Shapley value credit allocation, and game-theoretic risk profiling. Supports 47+ providers with circuit breaker, semantic cache, guardrails, and ObsidianVault memory integration. Highest robustness score (0.8524) on RouterArena. 19K+ npm downloads. #opensource
 
 ### Custom assistants
 
