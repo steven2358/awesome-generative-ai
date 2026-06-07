@@ -237,6 +237,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Manifest](https://manifest.build) - An open-source LLM router that routes agent requests to the most cost-effective model, with usage limits and model benchmarking. [#opensource](https://github.com/mnfst/manifest)
 - [ai-i18n](https://github.com/i18n-actions/ai-i18n) - A GitHub Action that uses LLMs (Claude, GPT, Ollama) to automatically translate i18n localization files. #opensource
 - [Groq](https://groq.com/) - A cloud inference API for running open-source LLMs, powered by custom LPU hardware.
+- [Model Context Protocol](https://modelcontextprotocol.io/) - An open standard for connecting AI models to external tools and data sources. [Registry](https://registry.modelcontextprotocol.io/) [#opensource](https://github.com/modelcontextprotocol/modelcontextprotocol)
 
 ### Playgrounds
 
