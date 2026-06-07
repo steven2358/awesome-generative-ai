@@ -444,6 +444,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Build an AI Agent (From Scratch)](https://www.manning.com/books/build-an-ai-agent-from-scratch) - A book about building AI agents with tools, memory, planning, and multi-agent systems.
 - [Build a DeepSeek Model (From Scratch)](https://www.manning.com/books/build-a-deepseek-model-from-scratch) - A book about implementing DeepSeek-style LLM architecture, training, and distillation methods.
 - [AI Governance](https://www.manning.com/books/ai-governance) - A book about governance, risk, compliance, security, privacy, and oversight for generative AI systems.
+- [Building Speech AI: A Practitioner's Guide](https://prdeepakbabu.github.io/building-speech-ai) - A book about speech representation, ASR, neural TTS, voice cloning, and audio language models with companion code.
 
 ## More lists
 
