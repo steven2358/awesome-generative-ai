@@ -277,6 +277,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [n8n](https://n8n.io/) - A workflow automation platform that combines AI capabilities with business process automation.
 - [Sauna](https://www.sauna.ai) - An AI assistant built for compounding context. It learns your taste, detects hidden patterns, augments your brain context and works proactively.
 - [Claude Code](https://code.claude.com) - Anthropic's agentic coding tool that lives in your terminal and helps you turn ideas into code.
+- [CyberNative Agentic Connect](https://github.com/CyberNativeAI/agentic-connect) - Open-source connector that gives AI agents secure Discourse forum access with revocable, scoped user API keys. Includes a Python client library and an MCP bridge. #opensource
 - [Gemini CLI](https://geminicli.com) - An open-source AI agent that brings the power of Gemini directly into your terminal. [#opensource](https://github.com/google-gemini/gemini-cli)
 - [OpenCode](https://opencode.ai) - The open-source AI coding agent. [#opensource](https://github.com/anomalyco/opencode)
 - [Mastra](https://mastra.ai) - A TypeScript framework for building AI agents, workflows, and applications. [#opensource](https://github.com/mastra-ai/mastra)
