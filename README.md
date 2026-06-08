@@ -376,6 +376,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Google Flow](https://labs.google/fx/tools/flow) - An AI filmmaking tool from Google, powered by Veo.
 - [Seedance 2.0](https://seed.bytedance.com/en/seedance2_0) - An image-to-video and text-to-video model developed by Niobotics ByteDance.
 - [MaxVideoAI](https://maxvideoai.com/examples) - A workspace for generating and comparing videos across multiple AI video models.
+- [cv.cm/v](https://cv.cm/v) - Queue-free Seedance 2.0 text-to-video and image-to-video, plus gpt-image-2/Seedream image generation, with an open API.
 
 ### Avatars
 
