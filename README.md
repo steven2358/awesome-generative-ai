@@ -333,6 +333,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Reve Image](https://reve.com/) - A model trained from the ground up to excel at prompt adherence, aesthetics, and typography.
 - [Magnific](https://www.magnific.com/) - AI-powered design tools including image generation, background removal, and creative templates.
 - [FigureLabs](https://www.figurelabs.ai/) - An AI tool for generating publication-ready scientific figures in vector format from text descriptions or sketches.
+- [AI Pin Maker](https://aipinmaker.com) - All-in-one AI studio for custom enamel pin design, pin art, badges, and creative marketing assets — text-to-image, image-to-image, image-to-video, and text-to-video across 28+ models.
 
 ### Graphic design
 
