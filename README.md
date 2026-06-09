@@ -190,6 +190,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [PR-Agent](https://github.com/The-PR-Agent/pr-agent) - AI-powered tool for automated PR analysis, feedback, suggestions and more.
 - [TurboPilot](https://github.com/ravenscroftj/turbopilot) - A self-hosted copilot clone which uses the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model in 4 GB of RAM.
 - [GPT-Code UI](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter. #opensource
+- [Lacy Shell](https://lacy.sh) - ZSH/Bash plugin that transparently routes natural language to AI coding agents and shell commands. No prefix, no hotkey — pure lexical analysis, sub-millisecond. Works with Claude Code, Gemini CLI, OpenCode, and more. [#opensource](https://github.com/lacymorrow/lacy)
 - [Open Interpreter](https://github.com/openinterpreter/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally.
 - [Continue](https://www.continue.dev/) - Open-source AI code assistant. Connect any model and any context to create custom autocomplete and chat experiences inside the IDE. [#opensource](https://github.com/continuedev/continue)
 - [RooCode](https://github.com/RooCodeInc/Roo-Code) - An AI-powered autonomous coding agent integrated directly into VS Code. [#opensource](https://github.com/RooCodeInc/Roo-Code)
