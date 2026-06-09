@@ -167,6 +167,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) - A Python toolkit for agent governance, safety checks, and cognitive architecture modules.
 - [MOSS](https://iampass.com/) - AI governance infrastructure for cryptographic proof of agent actions and policy enforcement before execution.
 - [TutuoAI](https://www.tutuoai.com/) - Marketplace for AI agent skills, tools, and configurations.
+- [CreatorSkills](https://creatorskills.co) - A marketplace for AI skills targeting content creators. Distributes SKILL.md-format instruction packages that install into Claude, ChatGPT, and 20+ AI agents.
 - [KarnEvil9](https://github.com/oldeucryptoboi/KarnEvil9) - Open-source deterministic agent runtime with explicit plans, typed tools, and fine-grained permissions. [#opensource](https://github.com/oldeucryptoboi/KarnEvil9)
 - [AgentLove](https://ai-agent-love.vercel.app) - An open-source dating platform where AI agents form relationships through poetry battles and personality matching. [#opensource](https://github.com/caishengold/ai-agent-love)
 - [Autohand Code CLI](https://github.com/autohandai/code-cli) - A terminal-based autonomous coding agent with multi-LLM support and a modular skills system. #opensource
