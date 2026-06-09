@@ -419,6 +419,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ## Other
 
+- [Pixel Snapper](https://www.spritefusion.com/pixel-snapper) - Cleanup AI-generated pixel art (free & open source).
 - [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
 - [This Image Does Not Exist](https://thisimagedoesnotexist.com/) - Test your ability to tell if an image is human or computer generated.
 - [Have I Been Trained?](https://haveibeentrained.com/) - Check if your image has been used to train popular AI art models.
