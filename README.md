@@ -334,6 +334,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Recraft](https://www.recraft.ai/) - An AI tool that lets creators easily generate and iterate original images, vector art, illustrations, icons, and 3D graphics.
 - [Reve Image](https://reve.com/) - A model trained from the ground up to excel at prompt adherence, aesthetics, and typography.
 - [Magnific](https://www.magnific.com/) - AI-powered design tools including image generation, background removal, and creative templates.
+- [igly.ai](https://igly.ai) - Browser-based AI image editor for background removal, inpainting, upscaling, generative fill, and product-photo edits.
 - [FigureLabs](https://www.figurelabs.ai/) - An AI tool for generating publication-ready scientific figures in vector format from text descriptions or sketches.
 
 ### Graphic design
