@@ -136,6 +136,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [NotebookLM](https://notebooklm.google/) - A research and note-taking online tool to interact with documents, powered by Google Gemini.
 - [Open Notebook](https://www.open-notebook.ai) - An open source implementation of NotebookLM with more flexibility and features. [#opensource](https://github.com/lfnovo/open-notebook)
 - [Screenpipe](https://github.com/screenpipe/screenpipe) - An open-source tool for recording screen and audio activity with AI-powered search, automations, and support for local LLMs. #opensource
+- [CLAWVR](https://clawvr.com) - A productized service that generates custom AI Operating Systems for small businesses (master prompts + workflow superprompts + 30-day rollout), with open-source assets including a [Claude Agent Skill](https://github.com/Steffd415/clawvr-agent-skill), an [MCP server](https://github.com/Steffd415/clawvr-mcp-server), and [25+ vertical playbooks](https://github.com/Steffd415/awesome-claude-prompts-for-smb). #opensource
 
 ### Meeting assistants
 
