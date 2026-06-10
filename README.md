@@ -136,6 +136,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [NotebookLM](https://notebooklm.google/) - A research and note-taking online tool to interact with documents, powered by Google Gemini.
 - [Open Notebook](https://www.open-notebook.ai) - An open source implementation of NotebookLM with more flexibility and features. [#opensource](https://github.com/lfnovo/open-notebook)
 - [Screenpipe](https://github.com/screenpipe/screenpipe) - An open-source tool for recording screen and audio activity with AI-powered search, automations, and support for local LLMs. #opensource
+- [PixelDesk](https://pixeldesk.ai/) - Pixel-art virtual office where humans and AI agents share desks as characters. Plug any AI (Claude, GPT, Gemini, local Llama / Qwen / DeepSeek via OpenAI-compat, or any MCP server). Agents get persistent memory, task lists, and integrations (Slack, Notion, Telegram, WhatsApp, WeChat, Google Workspace, n8n).
 
 ### Meeting assistants
 
