@@ -148,6 +148,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Academia
 
+- [Shiori](https://shiori-v1.vercel.app) - Open-source AI study companion for students. Google Classroom sync, Gemini AI study plans, SRS flashcards, GPA predictor, AI quiz generator, and Claude Code MCP server. [GitHub](https://github.com/kaorii-ako/Shiori-v1)
 - [Elicit](https://elicit.org/) - Elicit uses language models to help you automate research workflows, like parts of literature review.
 - [genei](https://www.genei.io/) - Summarise academic articles in seconds and save 80% on your research times.
 - [Explainpaper](https://www.explainpaper.com/) - A better way to read academic papers. Upload a paper, highlight confusing text, get an explanation.
