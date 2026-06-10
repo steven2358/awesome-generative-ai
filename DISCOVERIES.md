@@ -148,6 +148,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Codeflash](https://www.codeflash.ai/) - An AI tool that automatically finds optimized versions of Python code through benchmarking.
 - [AgentAudit](https://github.com/jakops88-hub/AgentAudit-AI-Grounding-Reliability-Check) - A tool for verifying grounding and detecting unsupported claims in RAG pipeline outputs. #opensource
 - [EvoLink](https://evolink.ai/) - API gateway providing unified access to 40+ AI models for chat, image, video, and music generation.
+- [brain.md](https://github.com/mi4uu/brain.md) - Local-first markdown vault with a built-in MCP server: 16 tools for Claude Code, Claude Desktop and any MCP agent (semantic_outline, context_for_query, find_orphans, weekly_digest, compare_notes, plus the usual read/write/search/tasks). Per-folder agent permissions, LanceDB vectors, swappable embedder (Xenova ONNX / Ollama / OpenAI). Single Bun binary. #opensource
 
 ### Playgrounds
 
