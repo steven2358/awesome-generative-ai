@@ -200,6 +200,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [v0](https://v0.dev) - Prompt-driven UI generation for React and Next.js, creating production-ready components.
 - [Lovable](https://lovable.dev) - Conversational full-stack app generation, turning ideas into deployable code.
 - [aider](https://aider.chat/) - AI pair programming in your terminal, supporting multiple LLM providers. [#opensource](https://github.com/paul-gauthier/aider)
+- [ccline](https://github.com/jianshuo/ccline) - Type a natural-language thought directly at your zsh prompt and get an AI answer; run suggested commands with one keypress in your live shell. Hijacks `command_not_found_handler`. [#opensource](https://github.com/jianshuo/ccline)
 - [Kilo](https://kilo.ai/) - Open-source AI coding assistant for VS Code, JetBrains, and the CLI. [#opensource](https://github.com/Kilo-Org/kilocode)
 
 ### Developer tools
