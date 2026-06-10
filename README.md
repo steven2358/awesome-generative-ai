@@ -126,6 +126,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [GPT for Gmail](https://workspace.google.com/marketplace/app/gpt_for_gmail_ai_email_assistant_gemini/899305976589) - AI email assistant for Gmail.
 
 ### Productivity
+- [Shiori](https://github.com/kaorii-ako/Shiori-v1) - Open-source AI study companion. Google Classroom sync, Gemini AI study plans, SRS flashcards, AI quiz generator, MCP server for Claude Code. ([Demo](https://shiori-v1.vercel.app))
 
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
 - [Mem](https://mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
