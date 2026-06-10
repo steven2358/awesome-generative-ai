@@ -43,7 +43,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 ## Text
 
 ### Models
-
+- [Pixova](https://pixova.io) - Free browser-based AI image generator. No account, no watermarks, unlimited generations.
 - [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT models for natural language, coding, image generation, audio, and agent development.
 - [Gopher](https://deepmind.google/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval/) - Gopher by DeepMind is a 280 billion parameter language model.
 - [OPT](https://huggingface.co/facebook/opt-350m) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. [Announcement](https://ai.meta.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/).
