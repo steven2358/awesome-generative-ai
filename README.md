@@ -468,6 +468,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Awesome Music AI](https://github.com/steven2358/awesome-music-ai) - A curated list of AI tools for music composition, generation, and analysis.
 - [Awesome AI Market Maps](https://github.com/joylarkin/Awesome-AI-Market-Maps) - A curated list of AI market maps from 2026, 2025, and 2024, by [Joy Larkin](https://twitter.com/joy).
 - [Awesome RAG Production](https://github.com/Yigtwxx/Awesome-RAG-Production) - A curated list of tools and resources for building production RAG systems.
+- [AI Logo Collection](https://ailogocollection.com) - Free SVG & PNG logos for 300+ AI companies, including OpenAI, Anthropic, Midjourney, and many more.
 
 ### Lists on ChatGPT
 
