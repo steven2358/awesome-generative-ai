@@ -258,6 +258,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [GPU Per Hour](https://gpuperhour.com) - Real-time GPU cloud price comparison across multiple providers.
 - [DNA Claude Analysis](https://github.com/shmlkv/dna-claude-analysis) - A personal genome analysis toolkit powered by Claude Code that analyzes raw DNA data across 17 categories and generates terminal-style visualizations. #opensource
 - [Enconvo](https://enconvo.com) - A macOS AI launcher with a system-wide bar, voice input, multi-LLM support, and a plugin ecosystem.
+- [auto-geo](https://github.com/shadowresearch/auto-geo) - Open-source CLI that audits pages for AI-citation readiness and measures whether ChatGPT, Claude, Gemini, Perplexity, and Grok cite a domain. #opensource
 
 ## Learning resources
 
