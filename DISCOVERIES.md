@@ -172,6 +172,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Autohand Code CLI](https://github.com/autohandai/code-cli) - A terminal-based autonomous coding agent with multi-LLM support and a modular skills system. #opensource
 - [Frostbyte](https://frostbyte-api.vercel.app) - MCP server giving AI agents real-time tools: crypto prices, IP geolocation, DNS lookups, screenshots, and code execution.
 - [GhostClaw](https://ghostclaw.io) - A local AI agent with full system access, controllable via Telegram. [#opensource](https://github.com/b1rdmania/ghostclaw)
+- [NextRole](https://github.com/tam159/next-role) - Open-source GenAI career assistant; a multi-agent system turns your CV and a job description into a tailored resume, interview-prep doc, and day-of battlecard. #opensource
 
 ### Custom assistants
 
