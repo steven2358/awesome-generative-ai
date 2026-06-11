@@ -172,6 +172,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Autohand Code CLI](https://github.com/autohandai/code-cli) - A terminal-based autonomous coding agent with multi-LLM support and a modular skills system. #opensource
 - [Frostbyte](https://frostbyte-api.vercel.app) - MCP server giving AI agents real-time tools: crypto prices, IP geolocation, DNS lookups, screenshots, and code execution.
 - [GhostClaw](https://ghostclaw.io) - A local AI agent with full system access, controllable via Telegram. [#opensource](https://github.com/b1rdmania/ghostclaw)
+- [Hivekeep](https://hivekeep.app) - A self-hosted platform of autonomous, persistent personal AI agents that collaborate, remember, and build their own tools, reachable via Telegram, WhatsApp, Slack, Discord, Signal and Matrix. [#opensource](https://github.com/MarlBurroW/hivekeep)
 
 ### Custom assistants
 
