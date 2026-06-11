@@ -211,6 +211,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Stable Diffusion resources
 
+- [comfy-vault](https://github.com/Chepko932/comfy-vault) - Standalone CLI that finds unused models and broken LoRAs in a ComfyUI install.
+
 ## Video
 - [Twelve Labs](https://www.twelvelabs.io/) - Helping developers build programs that can see, listen, and understand the world through video understanding.
 - [invideo AI](https://invideo.io/) - Turn ideas into videos.
