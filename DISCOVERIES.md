@@ -148,6 +148,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Codeflash](https://www.codeflash.ai/) - An AI tool that automatically finds optimized versions of Python code through benchmarking.
 - [AgentAudit](https://github.com/jakops88-hub/AgentAudit-AI-Grounding-Reliability-Check) - A tool for verifying grounding and detecting unsupported claims in RAG pipeline outputs. #opensource
 - [EvoLink](https://evolink.ai/) - API gateway providing unified access to 40+ AI models for chat, image, video, and music generation.
+- [Agent Token Profiler](https://mnifzied-create.github.io/agentloop/) - See an AI agent's per-turn token cost (system prompt + tool schemas, re-sent every turn) and which tool inflates the context. Free, runs in-browser.
 
 ### Playgrounds
 
