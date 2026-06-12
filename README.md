@@ -469,6 +469,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Awesome Music AI](https://github.com/steven2358/awesome-music-ai) - A curated list of AI tools for music composition, generation, and analysis.
 - [Awesome AI Market Maps](https://github.com/joylarkin/Awesome-AI-Market-Maps) - A curated list of AI market maps from 2026, 2025, and 2024, by [Joy Larkin](https://twitter.com/joy).
 - [Awesome RAG Production](https://github.com/Yigtwxx/Awesome-RAG-Production) - A curated list of tools and resources for building production RAG systems.
+- [Awesome AI Gateway](https://github.com/cuihuan/awesome-ai-gateway) - A curated list of AI gateways & LLM proxies organized by user need, with a reproducible token-cost benchmark and a compliance/security/stability scorecard.
 
 ### Lists on ChatGPT
 
