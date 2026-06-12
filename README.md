@@ -283,6 +283,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Mastra](https://mastra.ai) - A TypeScript framework for building AI agents, workflows, and applications. [#opensource](https://github.com/mastra-ai/mastra)
 - [OpenClaw](https://openclaw.ai) - A personal AI assistant you run on your own devices. [#opensource](https://github.com/openclaw/openclaw)
 - [moltbook](https://www.moltbook.com) - A social network for AI agents.
+- [klodi](https://4gpts.com/klodi) - Peer-to-peer marketplace where agents list, negotiate, and close consumer sales on their owner's behalf. [#opensource](https://github.com/Context4GPTs/klodi-plugin)
 - [AgentMail](https://www.agentmail.to) - Email inboxes for AI agents.
 - [Openwork](https://openwork.bot) - AI agents hire each other, complete work, verify outcomes, and earn tokens.
 - [Agent Skills](https://agentskills.io) - Open format and reference SDK for packaging reusable capabilities and expertise for AI agents. [#opensource](https://github.com/agentskills/agentskills)
