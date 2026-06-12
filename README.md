@@ -72,6 +72,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Le Chat](https://chat.mistral.ai/) - A chat interface for Mistral AI's language models.
 - [Kimi](https://www.kimi.com/) - An AI assistant by Moonshot AI with chat, deep research, coding, and multi-agent capabilities.
 - [Z.ai](https://chat.z.ai/) - An AI chatbot and agent platform by Z.ai powered by the GLM model family.
+- [UnoRouter](https://unorouter.ai/) - A chat and roleplay platform with characters, personas, and SillyTavern card import, running on its own OpenAI-compatible API across 212+ models.
 
 ### Custom interfaces
 
