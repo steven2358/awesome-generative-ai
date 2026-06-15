@@ -149,6 +149,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AgentAudit](https://github.com/jakops88-hub/AgentAudit-AI-Grounding-Reliability-Check) - A tool for verifying grounding and detecting unsupported claims in RAG pipeline outputs. #opensource
 - [EvoLink](https://evolink.ai/) - API gateway providing unified access to 40+ AI models for chat, image, video, and music generation.
 - [DownForAI](https://downforai.com) - Real-time status monitoring for 800+ AI services like OpenAI, Anthropic, Gemini, and Groq, with uptime checks, latency tracking, and free status badges.
+- [shekel](https://github.com/arieradle/shekel) - A Python library that sets runtime spending limits for AI agents to prevent runaway LLM costs. #opensource
 
 ### Playgrounds
 
@@ -170,11 +171,15 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [TutuoAI](https://www.tutuoai.com/) - Marketplace for AI agent skills, tools, and configurations.
 - [KarnEvil9](https://github.com/oldeucryptoboi/KarnEvil9) - Open-source deterministic agent runtime with explicit plans, typed tools, and fine-grained permissions. [#opensource](https://github.com/oldeucryptoboi/KarnEvil9)
 - [AgentLove](https://ai-agent-love.vercel.app) - An open-source dating platform where AI agents form relationships through poetry battles and personality matching. [#opensource](https://github.com/caishengold/ai-agent-love)
+- [Autohand Code CLI](https://github.com/autohandai/code-cli) - A terminal-based autonomous coding agent with multi-LLM support and a modular skills system. #opensource
+- [Frostbyte](https://frostbyte-api.vercel.app) - MCP server giving AI agents real-time tools: crypto prices, IP geolocation, DNS lookups, screenshots, and code execution.
+- [GhostClaw](https://ghostclaw.io) - A local AI agent with full system access, controllable via Telegram. [#opensource](https://github.com/b1rdmania/ghostclaw)
 
 ### Custom assistants
 
 - [SiteGPT](https://sitegpt.ai/) - Make AI your expert customer support agent.
 - [Ebiose](https://github.com/ebiose-ai/ebiose) - An open-source framework for creating and evolving AI agents through iterative selection. #opensource
+- [OpenPaw](https://github.com/daxaur/openpaw) - A CLI tool that turns Claude Code into a personal assistant with skills for email, calendar, Spotify, smart home, and Slack. #opensource
 
 ## Image
 
@@ -253,6 +258,9 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Docket AI](https://www.docket.io/) - An AI marketing agent for converting inbound traffic.
 - [Chinese-Elite](https://github.com/ReproduceCycle/Chinese-Elite) - An experimental project that uses LLMs to build a knowledge graph of Chinese political and business elites from public data. [#opensource](https://github.com/anonym-g/Chinese-Elite)
 - [GPU Per Hour](https://gpuperhour.com) - Real-time GPU cloud price comparison across multiple providers.
+- [DNA Claude Analysis](https://github.com/shmlkv/dna-claude-analysis) - A personal genome analysis toolkit powered by Claude Code that analyzes raw DNA data across 17 categories and generates terminal-style visualizations. #opensource
+- [Enconvo](https://enconvo.com) - A macOS AI launcher with a system-wide bar, voice input, multi-LLM support, and a plugin ecosystem.
+- [KeepRule](https://keeprule.com) - Investment-discipline tool with curated principles from 26 investors and AI prompts for scenario analysis.
 
 ## Learning resources
 
