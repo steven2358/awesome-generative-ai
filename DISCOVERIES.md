@@ -239,6 +239,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Speech-to-text
 
 - [Typist](https://iamtypist.dev) - Fast audio transcription service powered by Whisper models hosted on Groq.
+- [PodCrisp](https://podcrisp.com) - AI podcast tool that turns episodes into transcripts, AI show notes, chapters, and summaries for indie podcasters. From $7/mo.
 
 ### Music
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
