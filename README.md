@@ -77,6 +77,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 - [LibreChat](https://librechat.ai/) - LibreChat is a free and open-source chat interface for assistant AIs. [#opensource](https://github.com/danny-avila/LibreChat).
 - [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [#opensource](https://github.com/mckaywrigley/chatbot-ui).
+- [OpenClaw Easy](https://openclaw-easy.com/) - One-click signed desktop installer (macOS + Windows) that routes Claude, ChatGPT, Gemini, DeepSeek, OpenRouter or local Ollama models into WhatsApp, Telegram, Slack, Discord, Feishu and Line. 100% local — keys and messages never leave the device. [#opensource](https://github.com/openclaw-easy/openclaw-easy-desktop).
 
 ### Search engines
 
