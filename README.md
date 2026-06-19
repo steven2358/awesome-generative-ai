@@ -203,6 +203,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Poe](https://poe.com/) - Poe gives access to a variety of bots.
 - [GPT Builder](https://chat.openai.com/gpts/editor) - Assistant for creating GPT-based assistants.
 - [GPTStore](https://gptstore.ai/) - Find useful GPTs. Share your own GPTs.
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads, connecting to live data through Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. #opensource
 
 ## Image
 
