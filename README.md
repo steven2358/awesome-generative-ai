@@ -318,6 +318,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Imagine by Magic Studio](https://magicstudio.com/imagine) - A tool by Magic Studio that let's you express yourself by just describing what's on your mind.
 - [Alpaca](https://www.getalpaca.io/) - Stable Diffusion Photoshop plugin.
 - [Patience.ai](https://www.patience.ai/) - Patience.ai is an app for creating images with Stable Diffusion, a cutting edge AI developed by Stability.AI.
+- [Pixal3D](https://pixal3d.ai) - AI-powered 3D model generator. Create stunning 3D models from text and images.
 - [GenShare](https://www.genshare.io/) - Generate art in seconds for free. Own and share what you create. A multimedia generative studio, democratizing design and creativity.
 - [Playground](https://playground.com/) - Playground is a free-to-use online AI image creator. Use it to create art, social media posts, presentations, posters, videos, logos and more.
 - [modyfi](https://www.modyfi.com/) - A browser-based design platform with AI-powered image generation, animation, and real-time collaboration.
