@@ -149,7 +149,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AgentAudit](https://github.com/jakops88-hub/AgentAudit-AI-Grounding-Reliability-Check) - A tool for verifying grounding and detecting unsupported claims in RAG pipeline outputs. #opensource
 - [EvoLink](https://evolink.ai/) - API gateway providing unified access to 40+ AI models for chat, image, video, and music generation.
 - [shekel](https://github.com/arieradle/shekel) - A Python library that sets runtime spending limits for AI agents to prevent runaway LLM costs. #opensource
-- [dehallucinator](https://dehallucinator.apps.innovationbee.gr) - Fact-checks LLM-generated documents claim-by-claim, verifying numbers, dates, quotes, and citations against the open web and structured sources (Wikidata, World Bank, Crossref), with an evidence-backed report that abstains rather than wrongly accuses.
+- [dehallucinator](https://dehallucinator.io) - Fact-checks LLM-generated documents claim-by-claim, verifying numbers, dates, quotes, and citations against the open web and structured sources (Wikidata, World Bank, Crossref), with an evidence-backed report that abstains rather than wrongly accuses.
 
 ### Playgrounds
 
