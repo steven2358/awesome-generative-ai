@@ -45,6 +45,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Custom interfaces
 
 - [Atlas UI 3](https://github.com/sandialabs/atlas-ui-3) - Full-stack LLM chat interface with MCP tool integration, multi-provider support, RAG, and agentic workflows. #opensource
+- [Nexo](https://github.com/Nexo-Agent/nexo) - Cross-platform desktop AI workspace with multi-provider LLM support, MCP integration, workspace management, and local SQLite storage. [#opensource](https://github.com/Nexo-Agent/nexo)
 
 ### Search engines
 
