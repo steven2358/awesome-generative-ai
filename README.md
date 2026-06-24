@@ -291,6 +291,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [OpenAgents](https://github.com/openagents-org/openagents) - Open-source platform for building AI agent networks with multi-protocol support (WebSocket, gRPC, HTTP, MCP, A2A). #opensource
 - [Dorothy](https://github.com/Charlie85270/Dorothy) - An open-source desktop app to orchestrate multiple AI CLI agents simultaneously with automations and Kanban management. #opensource
 - [Hive](https://github.com/aden-hive/hive) - An open-source multi-agent framework with auto-generated graphs, evolution loops, and MCP integration. #opensource
+- [Loopy](https://loopy.yachts) - A free, local-first agent operating system: assign work on a board and a fleet of AI coding agents ships it under policy. Orchestrates 43 coding-agent CLIs (Codex, Claude Code, Cursor, Gemini) with complexity-aware routing and named subagents, on your machine and your keys. [#opensource](https://github.com/arjunkshah/loopy)
 
 ### Custom assistants
 
