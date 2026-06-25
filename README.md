@@ -477,3 +477,4 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [FlowGPT](https://flowgpt.com/) - Amplify your workflow with the best prompts.
 - [ChatGPT Prompts for Data Science](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) - A repository of useful data science prompts for ChatGPT.
 - [Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt) - Another awesome list for ChatGPT.
+- [Token Diet](https://ranker.co.za/token-diet) - Free open-source prompt token counter. Count LLM tokens, trim prompts, cut AI API costs. Client-side only, no login.
