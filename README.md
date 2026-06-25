@@ -379,6 +379,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Seedance 2.0](https://seed.bytedance.com/en/seedance2_0) - An image-to-video and text-to-video model developed by Niobotics ByteDance.
 - [MaxVideoAI](https://maxvideoai.com/examples) - A workspace for generating and comparing videos across multiple AI video models.
 - [HyperFrames](https://hyperframes.heygen.com/) - A framework for AI agents to render videos by writing HTML, CSS, and JavaScript. [#opensource](https://github.com/heygen-com/hyperframes)
+- [capcut-cli](https://github.com/renezander030/capcut-cli) - A CLI that reads and writes CapCut/JianYing draft files so any LLM agent can generate and edit videos in a pipeline: subtitles, auto-caption, and cutting long-form into shorts. [#opensource](https://github.com/renezander030/capcut-cli)
 
 ### Avatars
 
