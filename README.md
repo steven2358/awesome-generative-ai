@@ -164,6 +164,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 - [Arena](https://arena.ai/) - An open platform for crowdsourced AI benchmarking, hosted by researchers at UC Berkeley SkyLab.
 - [Artificial Analysis](https://artificialanalysis.ai/) - Artificial Analysis provides objective benchmarks & information to help choose AI models and hosting providers.
+- [ImageBench](https://imagebench.ai/) - Benchmark and comparison site for text-to-image models, with side-by-side outputs, pass-rate summaries, and methodology pages.
 - [imgsys](https://imgsys.org/rankings) - A generative image model arena by fal.ai.
 - [OpenRouter LLM Rankings](https://openrouter.ai/rankings) - Language models ranked and analyzed by usage across apps.
 - [SEAL LLM Leaderboard](https://labs.scale.com/leaderboard) - Expert-driven LLM benchmarks and updated AI model leaderboards.
