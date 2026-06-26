@@ -264,6 +264,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 - [Loopy](https://github.com/arjunkshah/loopy) - Kanban-based agent operating system for orchestrating 43 coding-agent CLIs (Codex, Claude Code, Cursor, Gemini) with complexity-aware routing, named subagents, and verifiable execution receipts. Local-first; optional integrations via user-provided API keys.
 
+- [Loopy](https://github.com/arjunkshah/loopy) - Kanban-based agent operating system for orchestrating 43 coding-agent CLIs (Codex, Claude Code, Cursor, Gemini) with complexity-aware routing, named subagents, and verifiable execution receipts. Local-first; optional integrations via user-provided API keys.
+
 ### Autonomous agents
 
 - [Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
