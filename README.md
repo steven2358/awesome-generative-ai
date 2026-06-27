@@ -45,6 +45,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [OPT](https://huggingface.co/facebook/opt-350m) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. [Announcement](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/). [OPT-175B text generation](https://opt.alpa.ai/) hosted by Alpa.
 - [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming languages. #opensource
 - [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - A foundational, 65-billion-parameter large language model by Meta. #opensource
+- [Text Generator](https://text-generator.io) - Unified API providing text generation, vision and speech, with a free tier.
 
 ### Chatbots
 
@@ -54,6 +55,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
 - [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation.
+- [Netwrck](https://netwrck.com/) - Chat with AI characters with voice/TTS and built-in AI image generation, plus a public API.
 
 ### Search engines
 
@@ -117,6 +119,7 @@ Contributions to this list are welcome. Add links through [pull requests](https:
 - [Explainpaper](https://www.explainpaper.com/) - A better way to read academic papers. Upload a paper, highlight confusing text, get an explanation.
 - [Galactica](https://galactica.org/) - A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more. [Model API](https://github.com/paperswithcode/galai).
 - [Consensus](https://consensus.app/search/) - Consensus is a search engine that uses AI to find answers in scientific research.
+- [Papers](https://papers.app.nz/) - Semantic search engine for research papers, linking each paper to its code, methods, and datasets, with GPU-accelerated search.
 
 ### Other text generators
 
