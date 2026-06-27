@@ -124,6 +124,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Forefront](https://www.forefront.ai/) - A Better ChatGPT Experience.
 - [ChatGPT for Sheets, Docs, Slides, Forms](https://workspace.google.com/marketplace/app/gpt_for_sheets_docs_forms_slides/466607203252) - ChatGPT extension for Google Sheets, Google Docs, Google Slides, Google Forms.
 - [GPT for Gmail](https://workspace.google.com/marketplace/app/gpt_for_gmail_ai_email_assistant_gemini/899305976589) - AI email assistant for Gmail.
+- [Toolquix - AI Tools](https://toolquix.com/categories/ai-tools) - A curated directory of free AI tools, ChatGPT resources, and artificial intelligence software.
 
 ### Productivity
 
