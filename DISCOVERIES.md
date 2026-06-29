@@ -181,6 +181,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [SiteGPT](https://sitegpt.ai/) - Make AI your expert customer support agent.
 - [Ebiose](https://github.com/ebiose-ai/ebiose) - An open-source framework for creating and evolving AI agents through iterative selection. #opensource
 - [OpenPaw](https://github.com/daxaur/openpaw) - A CLI tool that turns Claude Code into a personal assistant with skills for email, calendar, Spotify, smart home, and Slack. #opensource
+- [TripSapien](https://www.tripsapien.com) - A free AI itinerary validator that checks ChatGPT, Gemini, Claude, and Perplexity travel plans for real-world hours, closures, booking risk, and neighborhood fit.
 
 ## Image
 
