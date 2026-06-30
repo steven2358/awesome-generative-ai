@@ -261,6 +261,10 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [off-grid-mobile](https://github.com/alichherawalla/off-grid-mobile-ai) - React Native app for running LLMs, vision models, and Stable Diffusion on-device on iOS and Android without internet access. #opensource
 
 ## Agents
+- [SuperCompress](https://github.com/arjunkshah/supercompress) - Open-source learned prompt compression for LLMs. Cuts ~65% of tokens. CPU, 100% recall. [supercompress.dev](https://supercompress.dev)
+
+
+- [Loopy](https://github.com/arjunkshah/loopy) - Kanban-based agent operating system for orchestrating 43 coding-agent CLIs (Codex, Claude Code, Cursor, Gemini) with complexity-aware routing, named subagents, and verifiable execution receipts. Local-first; optional integrations via user-provided API keys.
 
 ### Autonomous agents
 
