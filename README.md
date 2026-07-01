@@ -233,6 +233,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Langfuse](https://langfuse.com/) - An open-source LLM engineering platform for tracing, evaluation, prompt management, and metrics. [#opensource](https://github.com/langfuse/langfuse)
 - [MLflow](https://mlflow.org/) - An open-source platform for tracking ML experiments, evaluating models and prompts, deploying models, and adding LLM observability. [#opensource](https://github.com/mlflow/mlflow)
 - [rehydra](https://github.com/rehydra-ai/rehydra-sdk) - A zero-trust SDK for anonymizing PII locally before sending prompts to LLMs and seamlessly rehydrating the response.
+- [Xberg](https://github.com/xberg-io/xberg) - A Rust-core document intelligence framework that extracts text, tables, and metadata from PDFs, Office files, and 97+ formats with optional OCR, for RAG and LLM data ingestion. [#opensource](https://github.com/xberg-io/xberg)
+- [liter-llm](https://github.com/xberg-io/liter-llm) - A universal LLM API client with one unified interface across 142+ providers, streaming, and native bindings for 11 languages. [#opensource](https://github.com/xberg-io/liter-llm)
 - [Agentset](https://agentset.ai/) - An open-source platform for building and evaluating RAG and agentic applications. [#opensource](https://github.com/agentset-ai/agentset)
 - [Manifest](https://manifest.build) - An open-source LLM router that routes agent requests to the most cost-effective model, with usage limits and model benchmarking. [#opensource](https://github.com/mnfst/manifest)
 - [ai-i18n](https://github.com/i18n-actions/ai-i18n) - A GitHub Action that uses LLMs (Claude, GPT, Ollama) to automatically translate i18n localization files. #opensource
