@@ -149,6 +149,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AgentAudit](https://github.com/jakops88-hub/AgentAudit-AI-Grounding-Reliability-Check) - A tool for verifying grounding and detecting unsupported claims in RAG pipeline outputs. #opensource
 - [EvoLink](https://evolink.ai/) - API gateway providing unified access to 40+ AI models for chat, image, video, and music generation.
 - [shekel](https://github.com/arieradle/shekel) - A Python library that sets runtime spending limits for AI agents to prevent runaway LLM costs. #opensource
+- [GraphCoding](https://github.com/mosabsayyed/graphcoding) - A methodology and zero-dependency CLI that keeps an enforced knowledge graph of a repo for AI coding agents: planned files and scheduled deletions are graph data, and a drift gate blocks commits until code matches the declared design. #opensource
 
 ### Playgrounds
 
