@@ -136,6 +136,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [NotebookLM](https://notebooklm.google/) - A research and note-taking online tool to interact with documents, powered by Google Gemini.
 - [Open Notebook](https://www.open-notebook.ai) - An open source implementation of NotebookLM with more flexibility and features. [#opensource](https://github.com/lfnovo/open-notebook)
 - [Screenpipe](https://github.com/screenpipe/screenpipe) - An open-source tool for recording screen and audio activity with AI-powered search, automations, and support for local LLMs. #opensource
+- [Routines](https://getroutines.ai/) - Local-first macOS app for scheduling agentic AI routines with memory and tools; meeting notes, dictation, and clipboard feed a private markdown brain that never leaves your Mac.
 
 ### Meeting assistants
 
