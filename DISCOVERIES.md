@@ -34,7 +34,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Llama AI: Essay Writer-Typer](https://apps.apple.com/us/app/llama-ai-essay-writer-typer/id1669558411?ct=awesomegenerativeai&pt=94765902) - An AI-powered assistant app for writing essays on iPhone.
 - [Netwrck.com](https://netwrck.com/) - Netwrck.com lets you chat with AI and create AI Characters.
 - [Text-Generator.io](https://text-generator.io) - Multimodal AI APIs for text and audio creation from text/images/speech.
-- [RouterPlex](https://routerplex.com) - OpenAI-compatible AI gateway giving one API key to 25+ models across 11 providers, with per-token billing and no subscription.
+- [RouterPlex](https://routerplex.com) - OpenAI-compatible AI gateway giving one API key to 25+ models across 11 providers, with per-token billing and no subscription. $5 free credit on signup, extra $25 if you sign up with GitHub.
 - [Yona.ai](https://yona.ai) - Converse with AI mirrors of yourself or loved ones for healing, nostalgia, and introspection.
 - [AskVideo](https://www.askvideo.ai) - Chat with any Youtube Video.
 - [AskPPT](https://www.askppt.io/) - Chat with any Presentation.
