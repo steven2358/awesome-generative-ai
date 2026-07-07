@@ -278,6 +278,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Udacity LLMOps Course](https://www.udacity.com/course/building-real-world-applications-with-large-language-models--cd13455) - Learn to build modern software with LLMs.
 - [Gemini by Example](https://geminibyexample.com) - A hands-on introduction to the Gemini API and SDK through annotated code examples. [#opensource](https://github.com/strickvl/geminibyexample)
 - [Rearchitecting LLMs](https://www.manning.com/books/rearchitecting-llms) - A book about optimizing and restructuring LLMs for domain-specific use.
+- [What is Agentic AI?](https://aiarch.dev/what-is-agentic-ai) - A free guide explaining how agentic AI differs from generative AI, with the tool-use loop and common agent architectures.
 
 ## More lists
 
