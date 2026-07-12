@@ -101,6 +101,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Price Per Token](https://pricepertoken.com/) - A tool for comparing LLM API pricing, token usage, and model benchmarks.
 - [Rival](https://rival.tips) - Leaderboard ranking 200+ AI models based on blind A/B human preference votes.
+- [LLM Vibes](https://llmvibes.ai/) - Tracks community sentiment for Claude, ChatGPT, Gemini, and Grok across social posts and app reviews, with daily scores and 30-day history. [#opensource](https://github.com/dkships/llm-moods)
+- [Ship Sense](https://dkships.github.io/ship-sense/) - Benchmarks frontier LLMs on restraint, honesty, and conviction in product decisions, with a public methodology and leaderboard. [#opensource](https://github.com/dkships/ship-sense)
 
 ### Other text generators
 
