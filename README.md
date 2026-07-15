@@ -268,6 +268,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [GPT Prompt Engineer](https://github.com/mshumer/gpt-prompt-engineer) - Automated prompt engineering. It generates, tests, and ranks prompts to find the best ones.
 - [MetaGPT](https://github.com/FoundationAgents/MetaGPT) - The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo.
+- [A3M Router](https://github.com/Das-rebel/a3m-router) - Open-source LLM router with parallel multi-LLM execution across 47+ providers, semantic cache, and circuit breakers.
 - [AutoGen](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
 - [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation.
 - [Devin](https://devin.ai/) - An autonomous AI software engineer by Cognition Labs.
