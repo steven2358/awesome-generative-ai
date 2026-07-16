@@ -72,6 +72,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Le Chat](https://chat.mistral.ai/) - A chat interface for Mistral AI's language models.
 - [Kimi](https://www.kimi.com/) - An AI assistant by Moonshot AI with chat, deep research, coding, and multi-agent capabilities.
 - [Z.ai](https://chat.z.ai/) - An AI chatbot and agent platform by Z.ai powered by the GLM model family.
+- [Avelina AI](https://avelina.ai/) - A self-hosted personal AI assistant that lives in Telegram and runs on your own server, with persistent memory, a voice and an emotional core.
 
 ### Custom interfaces
 
