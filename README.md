@@ -118,6 +118,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [AI Prompt Genius](https://chromewebstore.google.com/detail/ai-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo) - Discover, share, import, and use the best prompts for ChatGPT & save your chat history locally.
 - [ShareGPT](https://sharegpt.com/) - Share your ChatGPT conversations and explore conversations shared by others.
 - [Merlin](https://www.getmerlin.in/) - ChatGPT Plus extension on all websites.
+- [AI Buddy](https://chromewebstore.google.com/detail/ai-buddy/eigpaeoigklelmfgnkljhbjjbpohenpn) - Open-source Chrome side panel that sends selected text or annotated screenshots to ChatGPT, Claude, Gemini, DeepSeek, Copilot, WhatsApp, Telegram, or Discord. 10 starter scenarios (Explain, Translate, Summarize, Debug Code, etc.). No backend, your accounts only.
 - [Jetwriter](https://jetwriter.ai/) - AI writing assistant for Chrome, desktop, and mobile.
 - [ChatGPT for Jupyter](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - Add various helper functions in Jupyter Notebooks and Jupyter Lab, powered by ChatGPT.
 - [editGPT](https://www.editgpt.app/) - Easily proofread, edit, and track changes to your content in chatGPT.
