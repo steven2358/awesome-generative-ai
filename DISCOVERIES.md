@@ -237,6 +237,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Deepgram](https://deepgram.com/) - Real-time speech recognition and understanding with advanced AI.
 - [Kveeky](https://kveeky.com) - An AI text-to-speech tool for generating voiceovers with 100+ natural-sounding voices.
 - [Voice Clone](https://voice-clone.org/) - Voice cloning tool with text-to-speech capabilities. [#opensource](https://github.com/tanchaowen84/voice-clone)
+- [VibeVoice Studio](https://voicestudio.msrbuilds.com) - Self-hosted web studio for the VibeVoice text-to-speech model, for multi-speaker podcasts and voiceovers with voice cloning. [#opensource](https://github.com/msrbuilds/voice-studio)
 
 ### Speech-to-text
 
