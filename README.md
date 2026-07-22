@@ -335,6 +335,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Reve Image](https://reve.com/) - A model trained from the ground up to excel at prompt adherence, aesthetics, and typography.
 - [Magnific](https://www.magnific.com/) - AI-powered design tools including image generation, background removal, and creative templates.
 - [FigureLabs](https://www.figurelabs.ai/) - An AI tool for generating publication-ready scientific figures in vector format from text descriptions or sketches.
+- [Glif](https://glif.app/) - Agent that generates images, video and audio from natural language, usable from Claude and other AI apps via its MCP server.
 
 ### Graphic design
 
