@@ -215,6 +215,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Stable Diffusion resources
 
 ## Video
+- [Marketing Studio](https://github.com/AtlasCloudAI/atlas-marketing-studio) - Open-source AI ad studio for turning products, reference ads, or briefs into testable e-commerce video creatives, including UGC ads, remakes, drama ads, and skits. [#opensource](https://github.com/AtlasCloudAI/atlas-marketing-studio)
 - [Twelve Labs](https://www.twelvelabs.io/) - Helping developers build programs that can see, listen, and understand the world through video understanding.
 - [invideo AI](https://invideo.io/) - Turn ideas into videos.
 - [Haiper](https://haiper.ai/) - Create stunning videos with AI-powered tools for content creators.
