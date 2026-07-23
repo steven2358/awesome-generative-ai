@@ -243,6 +243,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Speech-to-text
 
 - [Typist](https://iamtypist.dev) - Fast audio transcription service powered by Whisper models hosted on Groq.
+- [Echo99](https://www.echo99.app/) - A private macOS call recorder with on-device transcription and speaker labeling.
 
 ### Music
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
