@@ -380,6 +380,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [MaxVideoAI](https://maxvideoai.com/examples) - A workspace for generating and comparing videos across multiple AI video models.
 - [HyperFrames](https://hyperframes.heygen.com/) - A framework for AI agents to render videos by writing HTML, CSS, and JavaScript. [#opensource](https://github.com/heygen-com/hyperframes)
 - [Cinematic Storyboard AI Engine](https://github.com/zfryrgnci/previz-ai-engine) - A screenplay parser and pre-visualization engine that converts text to Unreal Engine 5 sequence scripts.
+- [CinéVague](https://github.com/zfryrgnci/CineVague-Film-Project-Designer) - An AI-driven arthouse film designer and multi-agent virtual studio.
 
 ### Avatars
 
