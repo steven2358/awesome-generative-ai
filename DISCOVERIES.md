@@ -198,6 +198,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Suit me Up](https://suitmeup.pictures/) - Generate pictures of you wearing a suit with AI.
 - [AI Photo Forge](https://www.aiphotoforge.com/) - A Telegram bot for generating realistic AI headshots from uploaded photos in multiple styles.
 - [VectorArt.ai](https://vectorart.ai/) - Create vector images with AI.
+- [STIL.AI](https://stil.gracestack.se) - AI-powered fashion design generator that creates unique clothing designs from text descriptions.
 - [deAPI.ai](https://deapi.ai/) - A unified inference API to open-source AI models for text-to-image, text-to-speech, transcription, video generation, and more, using a decentralized GPU cloud.
 - [MyPicNow](https://www.mypicnow.com) - An AI headshot generator for creating professional profile photos from uploaded selfies.
 - [PhotoMentor](https://photomentor.pro) - An AI tool for analyzing photos and providing composition and lighting feedback.
