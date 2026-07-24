@@ -122,6 +122,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - CLI tool that translates natural-language prompts into shell commands and asks for confirmation before execution.
 - [Yume](https://github.com/aofp/yume) - Desktop GUI for Claude Code with multi-tab sessions, background agents, context compaction, and plugin system. #opensource
 - [Frontman](https://frontman.sh/) - A browser-based AI coding agent for editing frontend code with live app context. [#opensource](https://github.com/frontman-ai/frontman)
+- [VibeKit](https://vibekit.bot) - Build and run web apps from a phone: every app gets a persistent AI agent that codes it, hosts it on a live domain, and keeps iterating after the first build.
 
 ### Developer tools
 
