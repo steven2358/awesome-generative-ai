@@ -337,6 +337,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Magnific](https://www.magnific.com/) - AI-powered design tools including image generation, background removal, and creative templates.
 - [FigureLabs](https://www.figurelabs.ai/) - An AI tool for generating publication-ready scientific figures in vector format from text descriptions or sketches.
 
+- [STIL.AI](https://stil.gracestack.se/outfit) - AI fashion design tool that turns text descriptions into photorealistic clothing designs. Generate custom garments in seconds with studio-quality product photos, 49 SEK per design.
 ### Graphic design
 
 - [Brandmark](https://brandmark.io/) - AI-based logo design tool.
