@@ -150,6 +150,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [EvoLink](https://evolink.ai/) - API gateway providing unified access to 40+ AI models for chat, image, video, and music generation.
 - [shekel](https://github.com/arieradle/shekel) - A Python library that sets runtime spending limits for AI agents to prevent runaway LLM costs. #opensource
 - [whatbroke](https://github.com/arthi-arumugam-git/whatbroke) - A CLI that diffs an AI agent's behavior between two runs, showing changes in tool calls, arguments, cost, latency, and outcomes. #opensource
+- [AI Visibility Check](https://alexander-k-eliot.github.io/ai-visibility-check-free/) - Free, in-browser check for whether ChatGPT, Claude, Perplexity, and other AI assistants can actually read and cite your website; includes llms.txt/robots.txt/JSON-LD generators. #opensource
 
 ### Playgrounds
 
