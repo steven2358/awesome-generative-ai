@@ -71,6 +71,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Qwen](https://chat.qwenlm.ai/) - Qwen chatbot with image generation, document processing, web search integration, video understanding, etc.
 - [Le Chat](https://chat.mistral.ai/) - A chat interface for Mistral AI's language models.
 - [Kimi](https://www.kimi.com/) - An AI assistant by Moonshot AI with chat, deep research, coding, and multi-agent capabilities.
+- [Ouba](https://ouba.art) - Interactive AI romance web app where you play the protagonist and the AI writes each turn, with branching choices and persistent memory.
 - [Z.ai](https://chat.z.ai/) - An AI chatbot and agent platform by Z.ai powered by the GLM model family.
 
 ### Custom interfaces
