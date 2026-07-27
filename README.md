@@ -422,6 +422,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [AIVA](https://www.aiva.ai/) - AI-based music generation assistant. Choose from 250+ styles.
 - [Suno AI](https://suno.com/) - Anyone can make great music. No instrument needed, just imagination. From your mind to music.
 - [Udio](https://www.udio.com/) - Discover, create, and share music with the world.
+- [BopMe](https://bopme.co) - Personalized funny songs written and sung about a specific person, in 60+ music styles.
 
 ## Other
 
