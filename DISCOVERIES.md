@@ -203,6 +203,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [deAPI.ai](https://deapi.ai/) - A unified inference API to open-source AI models for text-to-image, text-to-speech, transcription, video generation, and more, using a decentralized GPU cloud.
 - [MyPicNow](https://www.mypicnow.com) - An AI headshot generator for creating professional profile photos from uploaded selfies.
 - [PhotoMentor](https://photomentor.pro) - An AI tool for analyzing photos and providing composition and lighting feedback.
+- [AI Wallpaper](https://aiwallpaper.me) - AI Wallpaper offers live wallpapers for iPhone, Android, and PC, plus 4K mobile collections, setup guides, and an AI tool for creating custom wallpapers.
 
 ### Graphic design
 
