@@ -30,7 +30,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Chatbots
 
-- [PageLines](https://www.pagelines.com) - AI Chat Agents to Enhance Websites 
+- [PageLines](https://www.pagelines.com) - AI Chat Agents to Enhance Websites.
 - [Llama AI: Essay Writer-Typer](https://apps.apple.com/us/app/llama-ai-essay-writer-typer/id1669558411?ct=awesomegenerativeai&pt=94765902) - An AI-powered assistant app for writing essays on iPhone.
 - [Netwrck.com](https://netwrck.com/) - Netwrck.com lets you chat with AI and create AI Characters.
 - [Text-Generator.io](https://text-generator.io) - Multimodal AI APIs for text and audio creation from text/images/speech.
@@ -150,6 +150,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [EvoLink](https://evolink.ai/) - API gateway providing unified access to 40+ AI models for chat, image, video, and music generation.
 - [shekel](https://github.com/arieradle/shekel) - A Python library that sets runtime spending limits for AI agents to prevent runaway LLM costs. #opensource
 - [whatbroke](https://github.com/arthi-arumugam-git/whatbroke) - A CLI that diffs an AI agent's behavior between two runs, showing changes in tool calls, arguments, cost, latency, and outcomes. #opensource
+- [Xquik](https://xquik.com/) - Hosted X data platform with REST API, MCP, webhooks, and SDKs for AI agent workflows. Not affiliated with X Corp.
 
 ### Playgrounds
 
@@ -161,7 +162,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Autonomous agents
 
-- [BrainSoup](https://www.nurgo-software.com/products/brainsoup) Versatile multi-LLM & multi-agent client with RAG, multi-modality, automation, code interpreter, sandboxed file system and more.
+- [BrainSoup](https://www.nurgo-software.com/products/brainsoup) - Versatile multi-LLM & multi-agent client with RAG, multi-modality, automation, code interpreter, sandboxed file system and more.
 - [Maestro](https://runmaestro.ai) - Run multiple AI coding agents in parallel with a spec-driven workflow. [#opensource](https://github.com/pedramamini/Maestro)
 - [Maxim AI](https://www.getmaxim.ai) - An enterprise-grade generative AI evaluation and observability platform.
 - [Hercules](https://github.com/test-zeus-ai/testzeus-hercules) - An open-source AI agent for automated UI, API, security, and accessibility testing. [#opensource](https://github.com/test-zeus-ai/testzeus-hercules)
