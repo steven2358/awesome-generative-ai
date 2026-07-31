@@ -231,6 +231,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Wren AI](https://www.getwren.ai/oss) - An open-source text-to-SQL and generative BI agent with a semantic layer. [#opensource](https://github.com/Canner/WrenAI)
 - [Cleanlab](https://cleanlab.ai/tlm/) - An API for detecting and scoring hallucinations in LLM outputs.
 - [Opik](https://github.com/comet-ml/opik) - An open-source platform for tracing, evaluating, and monitoring LLM applications. [#opensource](https://github.com/comet-ml/opik)
+- [Statewave](https://github.com/Infrasity-Labs/statewave) - An open-source framework for building stateful AI agents with workflows, memory, and MCP integration. #opensource
 - [Langfuse](https://langfuse.com/) - An open-source LLM engineering platform for tracing, evaluation, prompt management, and metrics. [#opensource](https://github.com/langfuse/langfuse)
 - [MLflow](https://mlflow.org/) - An open-source platform for tracking ML experiments, evaluating models and prompts, deploying models, and adding LLM observability. [#opensource](https://github.com/mlflow/mlflow)
 - [rehydra](https://github.com/rehydra-ai/rehydra-sdk) - A zero-trust SDK for anonymizing PII locally before sending prompts to LLMs and seamlessly rehydrating the response.
