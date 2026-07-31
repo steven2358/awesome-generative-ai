@@ -148,6 +148,9 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Codeflash](https://www.codeflash.ai/) - An AI tool that automatically finds optimized versions of Python code through benchmarking.
 - [AgentAudit](https://github.com/jakops88-hub/AgentAudit-AI-Grounding-Reliability-Check) - A tool for verifying grounding and detecting unsupported claims in RAG pipeline outputs. #opensource
 - [EvoLink](https://evolink.ai/) - API gateway providing unified access to 40+ AI models for chat, image, video, and music generation.
+- [shekel](https://github.com/arieradle/shekel) - A Python library that sets runtime spending limits for AI agents to prevent runaway LLM costs. #opensource
+- [whatbroke](https://github.com/arthi-arumugam-git/whatbroke) - A CLI that diffs an AI agent's behavior between two runs, showing changes in tool calls, arguments, cost, latency, and outcomes. #opensource
+- [AgentsKit](https://github.com/AgentsKit-io/agentskit) - A provider-neutral TypeScript toolkit with a dependency-free core and independently installable packages for agent runtimes, tools, skills, memory, RAG, sandboxing, observability, evaluation, chat UIs, and CLI workflows. [#opensource](https://github.com/AgentsKit-io/agentskit)
 
 ### Playgrounds
 
@@ -169,11 +172,18 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [TutuoAI](https://www.tutuoai.com/) - Marketplace for AI agent skills, tools, and configurations.
 - [KarnEvil9](https://github.com/oldeucryptoboi/KarnEvil9) - Open-source deterministic agent runtime with explicit plans, typed tools, and fine-grained permissions. [#opensource](https://github.com/oldeucryptoboi/KarnEvil9)
 - [AgentLove](https://ai-agent-love.vercel.app) - An open-source dating platform where AI agents form relationships through poetry battles and personality matching. [#opensource](https://github.com/caishengold/ai-agent-love)
+- [Autohand Code CLI](https://github.com/autohandai/code-cli) - A terminal-based autonomous coding agent with multi-LLM support and a modular skills system. #opensource
+- [Frostbyte](https://frostbyte-api.vercel.app) - MCP server giving AI agents real-time tools: crypto prices, IP geolocation, DNS lookups, screenshots, and code execution.
+- [GhostClaw](https://ghostclaw.io) - A local AI agent with full system access, controllable via Telegram. [#opensource](https://github.com/b1rdmania/ghostclaw)
+- [Fazm](https://fazm.ai) - A native macOS app that runs Claude Code and Codex agents with persistent sessions, and can control the browser and other Mac apps. [#opensource](https://github.com/m13v/fazm)
+- [Network-AI](https://github.com/Jovancoding/Network-AI) - A TypeScript/Node.js multi-agent orchestrator with shared state, guardrails, token budgets, and adapters for multiple agent frameworks. #opensource
 
 ### Custom assistants
 
 - [SiteGPT](https://sitegpt.ai/) - Make AI your expert customer support agent.
 - [Ebiose](https://github.com/ebiose-ai/ebiose) - An open-source framework for creating and evolving AI agents through iterative selection. #opensource
+- [OpenPaw](https://github.com/daxaur/openpaw) - A CLI tool that turns Claude Code into a personal assistant with skills for email, calendar, Spotify, smart home, and Slack. #opensource
+- [AnveVoice](https://anvevoice.app) - Voice AI assistant for websites that takes real DOM actions, navigating pages, filling forms, and clicking buttons in 50+ languages.
 
 ## Image
 
@@ -234,6 +244,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Speech-to-text
 
 - [Typist](https://iamtypist.dev) - Fast audio transcription service powered by Whisper models hosted on Groq.
+- [Echo99](https://www.echo99.app/) - A private macOS call recorder with on-device transcription and speaker labeling.
 
 ### Music
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
@@ -252,6 +263,11 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Docket AI](https://www.docket.io/) - An AI marketing agent for converting inbound traffic.
 - [Chinese-Elite](https://github.com/ReproduceCycle/Chinese-Elite) - An experimental project that uses LLMs to build a knowledge graph of Chinese political and business elites from public data. [#opensource](https://github.com/anonym-g/Chinese-Elite)
 - [GPU Per Hour](https://gpuperhour.com) - Real-time GPU cloud price comparison across multiple providers.
+- [DNA Claude Analysis](https://github.com/shmlkv/dna-claude-analysis) - A personal genome analysis toolkit powered by Claude Code that analyzes raw DNA data across 17 categories and generates terminal-style visualizations. #opensource
+- [Enconvo](https://enconvo.com) - A macOS AI launcher with a system-wide bar, voice input, multi-LLM support, and a plugin ecosystem.
+- [KeepRule](https://keeprule.com) - Investment-discipline tool with curated principles from 26 investors and AI prompts for scenario analysis.
+- [GEOScore AI](https://geoscoreai.com/) - Free AI search visibility scanner that checks 11 GEO signals for ChatGPT, Perplexity, and Gemini visibility.
+- [DeepDNA](https://deepdna.ai) - AI-powered DNA analysis platform for personalized health, nutrition, and pharmacogenomic insights from consumer genetic data.
 
 ## Learning resources
 
@@ -267,6 +283,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Udacity LLMOps Course](https://www.udacity.com/course/building-real-world-applications-with-large-language-models--cd13455) - Learn to build modern software with LLMs.
 - [Gemini by Example](https://geminibyexample.com) - A hands-on introduction to the Gemini API and SDK through annotated code examples. [#opensource](https://github.com/strickvl/geminibyexample)
 - [Rearchitecting LLMs](https://www.manning.com/books/rearchitecting-llms) - A book about optimizing and restructuring LLMs for domain-specific use.
+- [PromptZone](https://promptzone.com/) - Community and publication for prompt engineering, LLM comparisons, and AI-tool workflows.
 
 ## More lists
 
