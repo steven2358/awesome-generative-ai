@@ -227,6 +227,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [VideoGen](https://videogen.io/) - A video creation and editing platform with AI b-roll matching, narration, and captions.
 - [TubePrompter](https://tubeprompter.com/) - A tool that converts YouTube, TikTok, and Instagram videos into prompts for AI image and video generators.
 - [Glio](https://glio.io/) - A unified API for video, image, audio, and text generation models.
+- [Faceless Reels](https://facelessreels.video/) - Faceless video generator that turns a topic into a voiced, captioned vertical video for TikTok, Reels and Shorts.
 
 ### Avatars
 
