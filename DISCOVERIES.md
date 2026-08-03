@@ -228,6 +228,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [VideoGen](https://videogen.io/) - A video creation and editing platform with AI b-roll matching, narration, and captions.
 - [TubePrompter](https://tubeprompter.com/) - A tool that converts YouTube, TikTok, and Instagram videos into prompts for AI image and video generators.
 - [Glio](https://glio.io/) - A unified API for video, image, audio, and text generation models.
+- [TubeTube](https://www.tubetube.io/) - Turn lyrics or a story into a finished long-form video: music or narration, consistent characters, scenes and final edit generated in one run.
 
 ### Avatars
 
