@@ -424,6 +424,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Udio](https://www.udio.com/) - Discover, create, and share music with the world.
 
 ## Other
+- [DAUDIT](https://www.daudit.net) - A decision-context engine that audits your thinking across five dimensions (World Model Gaps, Adversarial Risk, Theory of Mind, Decision State, Confidence vs Evidence) before you commit to irreversible decisions.
 
 - [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
 - [This Image Does Not Exist](https://thisimagedoesnotexist.com/) - Test your ability to tell if an image is human or computer generated.
