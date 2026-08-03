@@ -150,6 +150,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [EvoLink](https://evolink.ai/) - API gateway providing unified access to 40+ AI models for chat, image, video, and music generation.
 - [shekel](https://github.com/arieradle/shekel) - A Python library that sets runtime spending limits for AI agents to prevent runaway LLM costs. #opensource
 - [whatbroke](https://github.com/arthi-arumugam-git/whatbroke) - A CLI that diffs an AI agent's behavior between two runs, showing changes in tool calls, arguments, cost, latency, and outcomes. #opensource
+- [AgentsKit](https://github.com/AgentsKit-io/agentskit) - A provider-neutral TypeScript toolkit with a dependency-free core and independently installable packages for agent runtimes, tools, skills, memory, RAG, sandboxing, observability, evaluation, chat UIs, and CLI workflows. [#opensource](https://github.com/AgentsKit-io/agentskit)
 
 ### Playgrounds
 
