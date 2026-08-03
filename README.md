@@ -343,6 +343,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Gamma](https://gamma.app/) - Create beautiful presentations and webpages with none of the formatting and design work.
 - [Microsoft Designer](https://designer.microsoft.com/) - Stunning designs in a flash.
 - [Napkin](https://www.napkin.ai/) - AI tool for generating diagrams, charts, and infographics from text.
+- [flow-chart.io](https://flow-chart.io) - AI diagram tool that generates fully editable diagrams from plain language — C4, BPMN, cloud architecture, ERD, and more — as a live scene graph. Every node and connector is a real object you can click, rename, and export (SVG, PNG, PDF, Mermaid).
 
 ### Image libraries
 
