@@ -156,6 +156,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Local LLM Deployment
 
 - [Minima](https://github.com/dmayboroda/minima) - On-premises RAG with configurable Docker containers. #opensource
+- [Libre WebUI](https://librewebui.org) - Self-hosted, local-first AI workspace with chat, RAG over your own documents, artifacts, and sandboxed workspaces for model-driven work. [#opensource](https://github.com/libre-webui/libre-webui)
 
 ## Agents
 
