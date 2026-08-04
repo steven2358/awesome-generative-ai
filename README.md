@@ -473,6 +473,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Awesome AI Market Maps](https://github.com/joylarkin/Awesome-AI-Market-Maps) - A curated list of AI market maps from 2026, 2025, and 2024, by [Joy Larkin](https://twitter.com/joy).
 - [Awesome RAG Production](https://github.com/Yigtwxx/Awesome-RAG-Production) - A curated list of tools and resources for building production RAG systems.
 
+- [Agents Launchpad](https://launchpad.smartbizcalc.com) - A community-ranked discovery platform for indie AI agents and tools.
 ### Lists on ChatGPT
 
 - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - A curated list of awesome tools, demos, docs for ChatGPT and GPT-3, by [@jordn](https://github.com/jordn).
