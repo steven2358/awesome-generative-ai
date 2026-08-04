@@ -204,6 +204,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [MyPicNow](https://www.mypicnow.com) - An AI headshot generator for creating professional profile photos from uploaded selfies.
 - [PhotoMentor](https://photomentor.pro) - An AI tool for analyzing photos and providing composition and lighting feedback.
 
+- [GPT Image 2](https://gptimage2.asia/) - Generate and edit AI images for marketing, ecommerce, social media, and branded content.
+
 ### Graphic design
 
 - [Framer AI](https://www.framer.com/ai/) - Enhance your website using Framer's AI-powered tools.
