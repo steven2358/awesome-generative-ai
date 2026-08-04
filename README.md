@@ -265,6 +265,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Autonomous agents
 
+- [ai-ops-framework](https://github.com/proudtobe1/ai-ops-framework) - A production-grade AI Operations framework for enterprise workflow orchestration, auditability, and steady-state governance.
 - [Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [babyagi](https://github.com/yoheinakajima/babyagi) - An AI-powered task management system.
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - Assemble, configure, and deploy autonomous AI Agents in your browser.
