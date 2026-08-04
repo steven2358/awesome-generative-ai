@@ -101,6 +101,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Price Per Token](https://pricepertoken.com/) - A tool for comparing LLM API pricing, token usage, and model benchmarks.
 - [Rival](https://rival.tips) - Leaderboard ranking 200+ AI models based on blind A/B human preference votes.
+- [StructEval](https://tiger-ai-lab.github.io/StructEval/) - A TMLR benchmark and leaderboard for LLM generation and conversion across 2,035 examples and 18 text and visual structured-output formats. [#opensource](https://github.com/TIGER-AI-Lab/StructEval).
 
 ### Other text generators
 
