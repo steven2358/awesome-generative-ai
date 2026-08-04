@@ -101,6 +101,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Price Per Token](https://pricepertoken.com/) - A tool for comparing LLM API pricing, token usage, and model benchmarks.
 - [Rival](https://rival.tips) - Leaderboard ranking 200+ AI models based on blind A/B human preference votes.
+- [SenseBench](https://sense-bench.com) - A leaderboard ranking LLMs on English word sense disambiguation over 4,861 lexicographer-reviewed WordNet items, with classic supervised baselines on the same data. [#opensource](https://github.com/GliteTech/sensebench)
 
 ### Other text generators
 
