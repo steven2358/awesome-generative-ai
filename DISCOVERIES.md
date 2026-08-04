@@ -295,5 +295,6 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Awesome AI Software Development Agents](https://github.com/flatlogic/awesome-ai-software-development-agents) - Curated list of AI agents designed for software development tasks.
 - [MODELDROP](https://modeldrop.fyi/) - A community tracker for new generative media AI model releases.
 - [MyVibe](https://www.myvibe.so) - A feed for discovering and sharing AI-created web apps, demos, and interactive projects.
+- [AI/ML Tools — a Leveled Learning Map](https://github.com/maneesh-kumar-thakur/self-serve-learnings-4-all) - A searchable catalog of ~150 LLM and generative-AI tools sorted by concept depth (Level 0 to 4), each with a link to read and a link to the code.
 
 ### Lists on ChatGPT
