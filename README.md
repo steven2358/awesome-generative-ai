@@ -472,6 +472,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Awesome Music AI](https://github.com/steven2358/awesome-music-ai) - A curated list of AI tools for music composition, generation, and analysis.
 - [Awesome AI Market Maps](https://github.com/joylarkin/Awesome-AI-Market-Maps) - A curated list of AI market maps from 2026, 2025, and 2024, by [Joy Larkin](https://twitter.com/joy).
 - [Awesome RAG Production](https://github.com/Yigtwxx/Awesome-RAG-Production) - A curated list of tools and resources for building production RAG systems.
+- [Awesome AI Tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics) - A curated list of tools, research, and practices for measuring, monitoring, and optimizing token spend in LLM and AI agent workflows, by [Quesma](https://github.com/QuesmaOrg).
 
 ### Lists on ChatGPT
 
