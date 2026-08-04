@@ -395,6 +395,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Text-to-speech
 
+- [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
 - [Eleven Labs](https://elevenlabs.io/) - AI voice generator.
 - [Resemble AI](https://www.resemble.ai/) - AI voice generator and voice cloning for text to speech.
 - [WellSaid](https://www.wellsaid.io/) - Convert text to voice in real time.
