@@ -280,6 +280,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Sauna](https://www.sauna.ai) - An AI assistant built for compounding context. It learns your taste, detects hidden patterns, augments your brain context and works proactively.
 - [Claude Code](https://code.claude.com) - Anthropic's agentic coding tool that lives in your terminal and helps you turn ideas into code.
 - [Gemini CLI](https://geminicli.com) - An open-source AI agent that brings the power of Gemini directly into your terminal. [#opensource](https://github.com/google-gemini/gemini-cli)
+- [MemClaw](https://github.com/caura-ai/memclaw) - Open-source long-term memory engine for AI agents with semantic retrieval, episodic memory, and MCP support.
 - [OpenCode](https://opencode.ai) - The open-source AI coding agent. [#opensource](https://github.com/anomalyco/opencode)
 - [Mastra](https://mastra.ai) - A TypeScript framework for building AI agents, workflows, and applications. [#opensource](https://github.com/mastra-ai/mastra)
 - [OpenClaw](https://openclaw.ai) - A personal AI assistant you run on your own devices. [#opensource](https://github.com/openclaw/openclaw)
