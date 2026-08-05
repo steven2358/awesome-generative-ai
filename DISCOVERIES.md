@@ -250,6 +250,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
 - [Soundraw](https://soundraw.io/) - Create your beats with the power of AI.
 - [Jammable](https://www.jammable.com/) - AI voice covers and music creation platform.
+- [Suede AI](https://suedeai.ai/) - Rights-aware music and video generation platform with provenance, programmable-IP workflows, and agent-facing x402 resources for generation, rights lookup, and audio analysis.
 
 ## Other
 
