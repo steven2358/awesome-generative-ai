@@ -295,5 +295,6 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Awesome AI Software Development Agents](https://github.com/flatlogic/awesome-ai-software-development-agents) - Curated list of AI agents designed for software development tasks.
 - [MODELDROP](https://modeldrop.fyi/) - A community tracker for new generative media AI model releases.
 - [MyVibe](https://www.myvibe.so) - A feed for discovering and sharing AI-created web apps, demos, and interactive projects.
+- [stillworks](https://stillworks.supercapybara.com/) - Directories list. We check. A live-probed list of free LLM API endpoints where every row is a real chat completion, failures included. [#opensource](https://github.com/bon5co/stillworks)
 
 ### Lists on ChatGPT
