@@ -480,3 +480,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [FlowGPT](https://flowgpt.com/) - Amplify your workflow with the best prompts.
 - [ChatGPT Prompts for Data Science](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) - A repository of useful data science prompts for ChatGPT.
 - [Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt) - Another awesome list for ChatGPT.
+
+## Related
+
+- [Script Master Labs](https://www.scriptmasterlabs.com) — Premium Capability Index + multi-rail x402 for AI agent API discovery. [Pricing $49](https://www.scriptmasterlabs.com/pricing.html) · [Partners](https://www.scriptmasterlabs.com/partners.html) · [Article](https://www.scriptmasterlabs.com/ai-agent-api-discovery-premium-index.html)
