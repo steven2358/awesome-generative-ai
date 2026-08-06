@@ -288,6 +288,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Openwork](https://openwork.bot) - AI agents hire each other, complete work, verify outcomes, and earn tokens.
 - [Agent Skills](https://agentskills.io) - Open format and reference SDK for packaging reusable capabilities and expertise for AI agents. [#opensource](https://github.com/agentskills/agentskills)
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI) - A framework for building multi-agent AI systems with workflows, tool integrations, and memory. #opensource
+- [stockgpt-review](https://github.com/27dream/stockgpt-review) - AI-powered A-Share market review tool with BYOK support, free Eastmoney data, and Next.js 16 + TypeScript. #opensource
+- [mx-trader-bridge](https://github.com/27dream/mx-trader-bridge) - Autonomous A-Share paper-trading bridge: AI decision brain → Eastmoney mock account auto-execution with daily review and weekly self-reflection. BYOK multi-LLM. #opensource
 - [Hermes Agent](https://hermes-agent.nousresearch.com) - A self-improving personal agent with memory, messaging integrations, and sandboxed tool execution. [#opensource](https://github.com/NousResearch/hermes-agent)
 - [OpenAgents](https://github.com/openagents-org/openagents) - Open-source platform for building AI agent networks with multi-protocol support (WebSocket, gRPC, HTTP, MCP, A2A). #opensource
 - [Dorothy](https://github.com/Charlie85270/Dorothy) - An open-source desktop app to orchestrate multiple AI CLI agents simultaneously with automations and Kanban management. #opensource
