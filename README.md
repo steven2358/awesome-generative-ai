@@ -80,6 +80,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Search engines
 
+- [Agent Critiq](https://agentcritiq.com) - The independent verification layer and side-by-side comparison engine for the generative AI and agent ecosystem.
 - [Perplexity AI](https://www.perplexity.ai/) - AI powered search tools.
 - [Exa](https://exa.ai/) - Language model powered search.
 - [Phind](https://phind.com/) - AI-based search engine.
