@@ -380,6 +380,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Seedance 2.0](https://seed.bytedance.com/en/seedance2_0) - An image-to-video and text-to-video model developed by Niobotics ByteDance.
 - [MaxVideoAI](https://maxvideoai.com/examples) - A workspace for generating and comparing videos across multiple AI video models.
 - [HyperFrames](https://hyperframes.heygen.com/) - A framework for AI agents to render videos by writing HTML, CSS, and JavaScript. [#opensource](https://github.com/heygen-com/hyperframes)
+- [OpenShorts](https://www.openshorts.app/) - Turn long videos into viral 9:16 shorts with AI moment detection, face tracking, animated subtitles and dubbing. [#opensource](https://github.com/mutonby/openshorts)
 
 ### Avatars
 
