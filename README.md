@@ -455,6 +455,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [AI Governance](https://www.manning.com/books/ai-governance) - A book about governance, risk, compliance, security, privacy, and oversight for generative AI systems.
 - [AnimatedLLM](https://animatedllm.github.io/) - Interactive visualizations explaining how large language models work. [#opensource](https://github.com/kasnerz/animated-llm)
 - [Transformer Explainer](https://poloclub.github.io/transformer-explainer/) - Interactive visualization of how transformer-based LLMs work, running a live GPT-2 model in the browser. [#opensource](https://github.com/poloclub/transformer-explainer)
+- [Text-LLM-Training-from-scratch](https://github.com/Y0oshi/Text-LLM-Training-from-scratch) - A complete end-to-end LLM training pipeline (Pretraining, SFT, DPO, GRPO) built from scratch in pure PyTorch to teach the underlying math and mechanics. #opensource
 
 ## More lists
 
