@@ -139,6 +139,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Awesome CursorRules](https://github.com/PatrickJS/awesome-cursorrules) - A curated list of .cursorrules files for the Cursor AI code editor. #opensource
 - [Saplings](https://github.com/shobrook/saplings) - A library for building AI agents that use tree search algorithms to complete tasks. #opensource
 - [code-collator](https://github.com/tawandakembo/code-collator) - Compiles an entire codebase into a single markdown file for use as LLM context.
+- [llm-ctxpack](https://github.com/dacode-dev/llm-ctxpack) - CLI that packs a repo into LLM-ready context, git-diff-aware and token-budget-aware, with automatic secret redaction. #opensource
 - [Stacklok](https://stacklok.com/) - An open-source platform for securely deploying and managing MCP servers at scale. [#opensource](https://github.com/stacklok)
 - [Lunary](https://lunary.ai) - Open-source observability and prompt management platform for LLM apps and agents.
 - [Simplismart](https://simplismart.ai/) - Cloud-agnostic MLOps platform for deploying and scaling open-source and custom AI models.
