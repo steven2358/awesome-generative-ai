@@ -440,6 +440,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ## Learning resources
 
+- [Meridian Institute of AI](https://meridianinstituteai.com) - Free AI courses with certificates covering prompt engineering, AI agents, machine learning, and domain applications in finance, law, healthcare, and cybersecurity.
 - [Learn Prompting](https://learnprompting.org/) - A free, open source course on communicating with artificial intelligence.
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guide and resources for prompt engineering.
 - [ChatGPT prompt engineering for developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - A short course by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI).
