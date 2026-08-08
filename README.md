@@ -260,6 +260,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [RunThisLLM](https://runthisllm.com) - See which LLMs you can run on your hardware.
 - [Harbor](https://github.com/av/harbor) - A containerized toolkit for running local LLM backends, UIs, and supporting services with one command. #opensource
 - [off-grid-mobile](https://github.com/alichherawalla/off-grid-mobile-ai) - React Native app for running LLMs, vision models, and Stable Diffusion on-device on iOS and Android without internet access. #opensource
+- [Off Grid AI Desktop](https://github.com/off-grid-ai/off-grid-ai-desktop) - Private, local-first macOS app for LLM chat, Stable Diffusion image generation, whisper transcription, and personal memory search, fully on-device via llama.cpp. #opensource
 
 ## Agents
 
