@@ -176,6 +176,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [GhostClaw](https://ghostclaw.io) - A local AI agent with full system access, controllable via Telegram. [#opensource](https://github.com/b1rdmania/ghostclaw)
 - [Fazm](https://fazm.ai) - A native macOS app that runs Claude Code and Codex agents with persistent sessions, and can control the browser and other Mac apps. [#opensource](https://github.com/m13v/fazm)
 - [Network-AI](https://github.com/Jovancoding/Network-AI) - A TypeScript/Node.js multi-agent orchestrator with shared state, guardrails, token budgets, and adapters for multiple agent frameworks. #opensource
+- [Distil](https://distil-cx.fly.dev?ref=awesome-generative-ai) - An AI interviewer that runs user research conversations with your users and returns transcripts instead of survey rows.
 
 ### Custom assistants
 
