@@ -228,6 +228,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [VideoGen](https://videogen.io/) - A video creation and editing platform with AI b-roll matching, narration, and captions.
 - [TubePrompter](https://tubeprompter.com/) - A tool that converts YouTube, TikTok, and Instagram videos into prompts for AI image and video generators.
 - [Glio](https://glio.io/) - A unified API for video, image, audio, and text generation models.
+- [iaVideo.pt](https://iavideo.pt) - A Portuguese AI video platform with 12 models (Runway, Kling, Veo 3, Sora) for text- and image-to-video, dubbing, and lip sync.
 
 ### Avatars
 
