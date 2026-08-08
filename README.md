@@ -437,6 +437,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Morpher AI](https://morpher.com/ai) - Morpher AI delivers real-time insights and analysis for any market.
 - [Whimsical AI](https://whimsical.com/ai) - GPT-powered mind mapping, flowcharts, and visual tools for rapid idea development and process organization.
 - [Selfies with Sama](https://selfies-with-sama.vost.ai) - Grab a picture with a real-life billionaire!
+- [Model Catalog](https://openviglet.github.io/model-catalog) - A vendor-neutral, kind-aware catalog of LLM, embedding, rerank and media model ids and capabilities (context window, modalities), published as a free, versioned JSON API.
 
 ## Learning resources
 
