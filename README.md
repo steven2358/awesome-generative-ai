@@ -272,6 +272,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [GPT Prompt Engineer](https://github.com/mshumer/gpt-prompt-engineer) - Automated prompt engineering. It generates, tests, and ranks prompts to find the best ones.
 - [MetaGPT](https://github.com/FoundationAgents/MetaGPT) - The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo.
 - [AutoGen](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
+- [ENLIL](https://github.com/conchaestradamiguelangel-droid/enlil) - Self-hosted multi-agent LLM council: 9 AI models deliberate in parallel on every query, producing a synthesized consensus with post-quantum signed outputs (ML-DSA-87, NIST FIPS 204). [#opensource](https://github.com/conchaestradamiguelangel-droid/enlil)
 - [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation.
 - [Devin](https://devin.ai/) - An autonomous AI software engineer by Cognition Labs.
 - [OpenHands](https://github.com/OpenHands/OpenHands) - An autonomous agent designed to navigate the complexities of software engineering. #opensource
