@@ -41,6 +41,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [GPTHelp.ai](https://gpthelp.ai/) - AI customer support chatbot for your website.
 - [AnythingLLM](https://anythingllm.com/) - Turn any document, resource, or piece of content into context that any LLM can use. [#opensource](https://github.com/Mintplex-Labs/anything-llm)
 - [Character AI Bots](https://www.characteraibots.com/) - A directory of free AI roleplay characters available on Character.AI, JanitorAI, and SpicyChat.
+- [Free AI Chat](https://zalt.me/tools/free-ai-chat-online) - Chat with open-source LLMs (Llama 3, Qwen, Phi) running entirely in your browser via WebGPU. Private, unlimited, no sign-up.
 
 ### Custom interfaces
 
@@ -203,6 +204,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [deAPI.ai](https://deapi.ai/) - A unified inference API to open-source AI models for text-to-image, text-to-speech, transcription, video generation, and more, using a decentralized GPU cloud.
 - [MyPicNow](https://www.mypicnow.com) - An AI headshot generator for creating professional profile photos from uploaded selfies.
 - [PhotoMentor](https://photomentor.pro) - An AI tool for analyzing photos and providing composition and lighting feedback.
+- [AI Cartoonizer](https://zalt.me/tools/cartoonizer) - Turn photos into anime and cartoon art in your browser. Runs locally, nothing uploaded.
 
 ### Graphic design
 
@@ -240,6 +242,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Deepgram](https://deepgram.com/) - Real-time speech recognition and understanding with advanced AI.
 - [Kveeky](https://kveeky.com) - An AI text-to-speech tool for generating voiceovers with 100+ natural-sounding voices.
 - [Voice Clone](https://voice-clone.org/) - Voice cloning tool with text-to-speech capabilities. [#opensource](https://github.com/tanchaowen84/voice-clone)
+- [Text to Speech](https://zalt.me/tools/text-to-speech) - Turn text into a natural AI voice, running in-browser. No sign-up.
 
 ### Speech-to-text
 
