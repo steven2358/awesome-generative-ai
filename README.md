@@ -437,6 +437,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Morpher AI](https://morpher.com/ai) - Morpher AI delivers real-time insights and analysis for any market.
 - [Whimsical AI](https://whimsical.com/ai) - GPT-powered mind mapping, flowcharts, and visual tools for rapid idea development and process organization.
 - [Selfies with Sama](https://selfies-with-sama.vost.ai) - Grab a picture with a real-life billionaire!
+- [Model Price Watch](https://modelpricewatch.com) - Live, source-linked pricing for 150+ LLM APIs across 24 providers; every price links to the provider's official page. Free CORS-open JSON API.
 
 ## Learning resources
 
