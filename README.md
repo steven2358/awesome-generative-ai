@@ -380,6 +380,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Seedance 2.0](https://seed.bytedance.com/en/seedance2_0) - An image-to-video and text-to-video model developed by Niobotics ByteDance.
 - [MaxVideoAI](https://maxvideoai.com/examples) - A workspace for generating and comparing videos across multiple AI video models.
 - [HyperFrames](https://hyperframes.heygen.com/) - A framework for AI agents to render videos by writing HTML, CSS, and JavaScript. [#opensource](https://github.com/heygen-com/hyperframes)
+- [Cinematic Storyboard AI Engine](https://github.com/zfryrgnci/previz-ai-engine) - A screenplay parser and pre-visualization engine that converts text to Unreal Engine 5 sequence scripts.
 
 ### Avatars
 
@@ -422,6 +423,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [AIVA](https://www.aiva.ai/) - AI-based music generation assistant. Choose from 250+ styles.
 - [Suno AI](https://suno.com/) - Anyone can make great music. No instrument needed, just imagination. From your mind to music.
 - [Udio](https://www.udio.com/) - Discover, create, and share music with the world.
+- [MusicMaker AI](https://github.com/zfryrgnci/music-maker) - An auto-regressive AI audio generator for cinematic soundtracks.
 
 ## Other
 
