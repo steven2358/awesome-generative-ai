@@ -85,6 +85,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Phind](https://phind.com/) - AI-based search engine.
 - [You.com](https://you.com/) - A search engine built on AI that provides users with a customized search experience while keeping their data 100% private.
 - [Komo](https://komo.ai/) - An AI-powered search engine.
+- [awesome-aeo-seo](https://github.com/discoveredlabs/awesome-aeo-seo) - Curated research, tooling, and measurement guides for Answer Engine Optimisation and Generative Engine Optimisation.
 
 ### Local search engines
 
@@ -262,6 +263,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [off-grid-mobile](https://github.com/alichherawalla/off-grid-mobile-ai) - React Native app for running LLMs, vision models, and Stable Diffusion on-device on iOS and Android without internet access. #opensource
 
 ## Agents
+
+- [awesome-aeo-seo-agents](https://github.com/discoveredlabs/awesome-aeo-seo-agents) - Curated list of agentic GEO/AEO frameworks, MCP servers for SEO data, and autonomous content pipelines for AI search optimisation.
 
 ### Autonomous agents
 
