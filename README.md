@@ -206,6 +206,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 ### Developer tools
 
 - [Cohere](https://cohere.com/) - Cohere provides access to advanced Large Language Models and NLP tools.
+- [Foveance](https://github.com/aimaghsoodi/foveance) - Open-source drop-in proxy and Python library that anticipatorily compresses long LLM/agent context under a token budget, cutting input tokens 60%+ at matched accuracy (works with OpenAI, Anthropic, Claude Code, Codex, and Ollama).
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
 - [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
 - [gpt4all](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.
