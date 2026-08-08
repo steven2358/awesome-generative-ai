@@ -205,6 +205,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Developer tools
 
+- [SkillDepot](https://skills.rehomi.com) - Open marketplace for AI Agent skills focused on cross-border ecommerce (Alibaba International, Amazon, Shopify).Skills are packaged as ZIP files with SKILL.md metadata, rated by community with anti-gaming leaderboard. Open source.
 - [Cohere](https://cohere.com/) - Cohere provides access to advanced Large Language Models and NLP tools.
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
 - [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
