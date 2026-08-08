@@ -176,6 +176,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [GhostClaw](https://ghostclaw.io) - A local AI agent with full system access, controllable via Telegram. [#opensource](https://github.com/b1rdmania/ghostclaw)
 - [Fazm](https://fazm.ai) - A native macOS app that runs Claude Code and Codex agents with persistent sessions, and can control the browser and other Mac apps. [#opensource](https://github.com/m13v/fazm)
 - [Network-AI](https://github.com/Jovancoding/Network-AI) - A TypeScript/Node.js multi-agent orchestrator with shared state, guardrails, token budgets, and adapters for multiple agent frameworks. #opensource
+- [Prevail](https://prevail.sh) - A local-first desktop app that runs AI per life-domain over a plain-markdown vault, with a multi-model council and autonomy controls. [#opensource](https://github.com/fru-dev3/prevail-desktop)
 
 ### Custom assistants
 
