@@ -456,6 +456,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [AnimatedLLM](https://animatedllm.github.io/) - Interactive visualizations explaining how large language models work. [#opensource](https://github.com/kasnerz/animated-llm)
 - [Transformer Explainer](https://poloclub.github.io/transformer-explainer/) - Interactive visualization of how transformer-based LLMs work, running a live GPT-2 model in the browser. [#opensource](https://github.com/poloclub/transformer-explainer)
 
+- [Ainexusdaily](https://ainexusdaily.vercel.app) - A daily AI news, research, and tools digest. Free, no signup.
 ## More lists
 
 - [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html) - A large list of Google Colab notebooks for generative AI, by [@pharmapsychotic](https://twitter.com/pharmapsychotic).
