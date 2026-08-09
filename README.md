@@ -439,6 +439,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Selfies with Sama](https://selfies-with-sama.vost.ai) - Grab a picture with a real-life billionaire!
 
 ## Learning resources
+- [AI Nexus Daily](https://ainexusdaily.vercel.app) - A free, zero-paywall daily digest of the top AI/ML news — research, product launches, and industry moves, no signup required.
 
 - [Learn Prompting](https://learnprompting.org/) - A free, open source course on communicating with artificial intelligence.
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guide and resources for prompt engineering.
