@@ -156,7 +156,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Local LLM Deployment
 
 - [Minima](https://github.com/dmayboroda/minima) - On-premises RAG with configurable Docker containers. #opensource
-- [Agent Island](https://agent-island.dev) - Status companion for AI coding agents; shows live session state and your-turn alerts for Claude Code, Codex, Gemini, Grok and Cursor, with usage and cost computed locally.
+- [Agent Island](https://agent-island.dev) - Status companion for AI coding agents; shows live session state and your-turn alerts for Claude Code, Codex, Antigravity, Grok and Cursor, with usage and cost computed locally.
 
 ## Agents
 
