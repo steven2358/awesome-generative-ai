@@ -150,13 +150,13 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [EvoLink](https://evolink.ai/) - API gateway providing unified access to 40+ AI models for chat, image, video, and music generation.
 - [shekel](https://github.com/arieradle/shekel) - A Python library that sets runtime spending limits for AI agents to prevent runaway LLM costs. #opensource
 - [whatbroke](https://github.com/arthi-arumugam-git/whatbroke) - A CLI that diffs an AI agent's behavior between two runs, showing changes in tool calls, arguments, cost, latency, and outcomes. #opensource
+- [Agent Island](https://agent-island.dev) - macOS notch and Windows tray companion showing live session state, quota and cost for five AI coding agents. [#opensource](https://github.com/tristan666666/agent-island)
 
 ### Playgrounds
 
 ### Local LLM Deployment
 
 - [Minima](https://github.com/dmayboroda/minima) - On-premises RAG with configurable Docker containers. #opensource
-- [Agent Island](https://agent-island.dev) - Status companion for AI coding agents; shows live session state and your-turn alerts for Claude Code, Codex, Antigravity, Grok and Cursor, with usage and cost computed locally.
 
 ## Agents
 
