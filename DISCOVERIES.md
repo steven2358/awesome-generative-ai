@@ -203,6 +203,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [deAPI.ai](https://deapi.ai/) - A unified inference API to open-source AI models for text-to-image, text-to-speech, transcription, video generation, and more, using a decentralized GPU cloud.
 - [MyPicNow](https://www.mypicnow.com) - An AI headshot generator for creating professional profile photos from uploaded selfies.
 - [PhotoMentor](https://photomentor.pro) - An AI tool for analyzing photos and providing composition and lighting feedback.
+- [Peelaway](https://peelaway.io/editor?utm_source=awesome_generative_ai&utm_medium=referral&utm_campaign=pve-043&utm_content=discoveries_image_services) - A prompt-driven browser image editor for object removal, transparent-background results, and generative edits.
 
 ### Graphic design
 
