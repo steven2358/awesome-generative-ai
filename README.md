@@ -202,6 +202,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Lovable](https://lovable.dev) - Conversational full-stack app generation, turning ideas into deployable code.
 - [aider](https://aider.chat/) - AI pair programming in your terminal, supporting multiple LLM providers. [#opensource](https://github.com/paul-gauthier/aider)
 - [Kilo](https://kilo.ai/) - Open-source AI coding assistant for VS Code, JetBrains, and the CLI. [#opensource](https://github.com/Kilo-Org/kilocode)
+- [Atomic Agent](https://atomicagent.io) - A local-first CLI and TUI coding agent that runs open-weight models entirely on your machine, with no account or API key required. [#opensource](https://github.com/AtomicBot-ai/atomic-agent)
 
 ### Developer tools
 
@@ -292,6 +293,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [OpenAgents](https://github.com/openagents-org/openagents) - Open-source platform for building AI agent networks with multi-protocol support (WebSocket, gRPC, HTTP, MCP, A2A). #opensource
 - [Dorothy](https://github.com/Charlie85270/Dorothy) - An open-source desktop app to orchestrate multiple AI CLI agents simultaneously with automations and Kanban management. #opensource
 - [Hive](https://github.com/aden-hive/hive) - An open-source multi-agent framework with auto-generated graphs, evolution loops, and MCP integration. #opensource
+- [Atomic Agent](https://atomicagent.io) - A local-first personal agent with 56 tools, MCP support, and local memory that runs open-weight models entirely on your machine. [#opensource](https://github.com/AtomicBot-ai/atomic-agent)
 
 ### Custom assistants
 
