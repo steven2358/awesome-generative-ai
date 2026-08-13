@@ -52,6 +52,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Local search engines
 
+- [Wenlan](https://github.com/7xuanlu/wenlan) - Local-first, source-backed AI knowledge base and LLM wiki for AI coding workflows. #opensource
+
 ### Writing assistants
 
 - [Yarnit](https://www.yarnit.app/) - Yarnit, a digital storytelling application that uses generative AI to storyboard, research and design your ideas.
