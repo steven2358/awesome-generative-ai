@@ -229,6 +229,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [TubePrompter](https://tubeprompter.com/) - A tool that converts YouTube, TikTok, and Instagram videos into prompts for AI image and video generators.
 - [Glio](https://glio.io/) - A unified API for video, image, audio, and text generation models.
 
+- [videos.social](https://videos.social/?utm_source=awesome-genai&utm_medium=directory&utm_campaign=listing-wave-b) - Turns blog posts, PDFs, and prompts into editable faceless videos. Start free with 1 render included.
+
 ### Avatars
 
 ### Animation
