@@ -1,5 +1,4 @@
 # Generative AI Discoveries
-- [DSH Studio](https://github.com/Moresyl/dsh-studio) - Cross-platform desktop host for installing, configuring, and managing DeepSeek Harness. #opensource
 
 Welcome to the Discoveries list, a special showcase of up-and-coming Generative AI projects. This collection celebrates the diversity and creativity within the Generative AI community. If you're looking for the main list, you can find it [here](README.md).
 
@@ -298,3 +297,5 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [MyVibe](https://www.myvibe.so) - A feed for discovering and sharing AI-created web apps, demos, and interactive projects.
 
 ### Lists on ChatGPT
+
+- [DSH Studio](https://github.com/Moresyl/dsh-studio) - Cross-platform desktop host for installing, configuring, and managing DeepSeek Harness. #opensource
