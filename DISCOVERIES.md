@@ -268,6 +268,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [KeepRule](https://keeprule.com) - Investment-discipline tool with curated principles from 26 investors and AI prompts for scenario analysis.
 - [GEOScore AI](https://geoscoreai.com/) - Free AI search visibility scanner that checks 11 GEO signals for ChatGPT, Perplexity, and Gemini visibility.
 - [DeepDNA](https://deepdna.ai) - AI-powered DNA analysis platform for personalized health, nutrition, and pharmacogenomic insights from consumer genetic data.
+- [DSH Studio](https://github.com/Moresyl/dsh-studio) - Cross-platform desktop host for installing, configuring, and managing DeepSeek Harness. #opensource
 
 ## Learning resources
 
@@ -297,3 +298,4 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [MyVibe](https://www.myvibe.so) - A feed for discovering and sharing AI-created web apps, demos, and interactive projects.
 
 ### Lists on ChatGPT
+
