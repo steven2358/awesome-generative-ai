@@ -228,6 +228,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [VideoGen](https://videogen.io/) - A video creation and editing platform with AI b-roll matching, narration, and captions.
 - [TubePrompter](https://tubeprompter.com/) - A tool that converts YouTube, TikTok, and Instagram videos into prompts for AI image and video generators.
 - [Glio](https://glio.io/) - A unified API for video, image, audio, and text generation models.
+- [OpenH3-IR](https://github.com/ruashots/open-h3-ir) - MiniMax published H3's Context-IR format but kept the part that writes it. An open one, not a prompt rewriter: type a sentence, get the document, checked first. Command line, HTTP, or its own ComfyUI nodes, on a model you already run. #opensource
 
 ### Avatars
 
