@@ -268,7 +268,9 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [KeepRule](https://keeprule.com) - Investment-discipline tool with curated principles from 26 investors and AI prompts for scenario analysis.
 - [GEOScore AI](https://geoscoreai.com/) - Free AI search visibility scanner that checks 11 GEO signals for ChatGPT, Perplexity, and Gemini visibility.
 - [DeepDNA](https://deepdna.ai) - AI-powered DNA analysis platform for personalized health, nutrition, and pharmacogenomic insights from consumer genetic data.
+### Prompt & AI Workflow Marketplaces
 
+- [PromptImagica](https://promptimagica.com/) - AI marketplace for prompts, workflows, and AI agents.
 ## Learning resources
 
 - [The AI-Powered Developer](https://www.manning.com/books/ai-powered-developer) - A book about techniques and best practices for getting the most out of AI-powered coding using tools like Copilot and ChatGPT.
