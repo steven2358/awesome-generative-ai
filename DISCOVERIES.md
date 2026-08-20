@@ -268,6 +268,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [KeepRule](https://keeprule.com) - Investment-discipline tool with curated principles from 26 investors and AI prompts for scenario analysis.
 - [GEOScore AI](https://geoscoreai.com/) - Free AI search visibility scanner that checks 11 GEO signals for ChatGPT, Perplexity, and Gemini visibility.
 - [DeepDNA](https://deepdna.ai) - AI-powered DNA analysis platform for personalized health, nutrition, and pharmacogenomic insights from consumer genetic data.
+- [APICostCalc](https://apicostcalc.com/llm-price-comparison.html) - Free, sortable comparison of API pricing for 387+ AI models across OpenAI, Anthropic, Google and more, plus calculators for AI app, agent, and RAG running costs.
 
 ## Learning resources
 
