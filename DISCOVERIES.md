@@ -252,7 +252,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Jammable](https://www.jammable.com/) - AI voice covers and music creation platform.
 
 ## Other
-
+- [PetScan AI](https://petscanai.net) - Free, anonymous AI screening tool for exotic pet health risks (reptiles, birds, amphibians, small mammals) — upload a photo, get an instant red/yellow/green triage in seconds. Not a diagnosis; screening only. Available in 27 languages.
 - [GenerativeAI4Finance](https://github.com/GenerativeAI4Finance) - Framework, foundational models, tools for use cases in finance.
 - [SmoothRide](https://smoothri.de/) - AI tool for collaborative urban development, enhancing citizen input and municipal decision-making.
 - [RIZZ AI](https://rizzai.ai/) - AI dating assistant for mastering Tinder with humor and psychology.
@@ -284,6 +284,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Gemini by Example](https://geminibyexample.com) - A hands-on introduction to the Gemini API and SDK through annotated code examples. [#opensource](https://github.com/strickvl/geminibyexample)
 - [Rearchitecting LLMs](https://www.manning.com/books/rearchitecting-llms) - A book about optimizing and restructuring LLMs for domain-specific use.
 - [PromptZone](https://promptzone.com/) - Community and publication for prompt engineering, LLM comparisons, and AI-tool workflows.
+- ![Uploading image.png…]()
+
 
 ## More lists
 
@@ -292,8 +294,10 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [The Rundown AI List](https://www.rundown.ai/tools) - AI tools organized and categorized.
 - [GPT Tracker](https://gptstracker.com/) - Discover 1000+ GPTs & AI Tools.
 - [31 Best AI Coding Tools](https://www.scaler.com/blog/coding-ai-tools/) - A list of AI coding tools.
-- [Awesome AI Software Development Agents](https://github.com/flatlogic/awesome-ai-software-development-agents) - Curated list of AI agents designed for software development tasks.
+- [Awesome AI Software Development Agents](https://github.com/flatlogic/awesome-ai-software-development-agents) - Curated list of AI agents designed for software development
+-tasks.
 - [MODELDROP](https://modeldrop.fyi/) - A community tracker for new generative media AI model releases.
 - [MyVibe](https://www.myvibe.so) - A feed for discovering and sharing AI-created web apps, demos, and interactive projects.
 
 ### Lists on ChatGPT
+
