@@ -73,6 +73,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AI Character for GPT](https://chromewebstore.google.com/detail/ai-character-for-gpt/daoeioifimkjegafelcaljboknjkkohh) - Easily customize AI chatbots like ChatGPT and Google Gemini for better responses.
 - [AI Summary Helper](https://chromewebstore.google.com/detail/ai-summary-helper-openai/hldbejcjaedipeegjcinmhejdndchkmb) - Get AI summaries of web content. Use Send To Kindle for reading on the go. [#opensource](https://github.com/philffm/ai-summary-helper)
 - [Chatgpt Light Session](https://chromewebstore.google.com/detail/fmomjhjnmgpknbabfpojgifokaibeoje) - A browser extension for trimming long ChatGPT conversations in the UI.
+- [Chat Threads](https://github.com/onyourmark/chat-threads) - Open-source side panel that removes unwanted turns from a long ChatGPT or Claude conversation and splits it into separate topic conversations, on a copy that leaves the original untouched.
 
 ### Productivity
 
