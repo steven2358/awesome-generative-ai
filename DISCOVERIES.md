@@ -101,6 +101,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Price Per Token](https://pricepertoken.com/) - A tool for comparing LLM API pricing, token usage, and model benchmarks.
 - [Rival](https://rival.tips) - Leaderboard ranking 200+ AI models based on blind A/B human preference votes.
+- [LLM API pricing](https://xyzs996.github.io/llm-api-pricing/) - A daily-regenerated price table for the models coding agents run on, keeping the second and higher rate card that switches on for long prompts and bills every token in the request. [#opensource](https://github.com/xyzs996/llm-api-pricing)
 
 ### Other text generators
 
