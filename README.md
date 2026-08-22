@@ -381,6 +381,10 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [MaxVideoAI](https://maxvideoai.com/examples) - A workspace for generating and comparing videos across multiple AI video models.
 - [HyperFrames](https://hyperframes.heygen.com/) - A framework for AI agents to render videos by writing HTML, CSS, and JavaScript. [#opensource](https://github.com/heygen-com/hyperframes)
 
+### Video prompts
+
+- [MiniMax H3 1K prompt index](https://github.com/yangzhou-chaofan/minimax-h3-1000-prompts) - Curated 1K prompt dataset for MiniMax H3 text-to-video: prompt anatomy, 10 hand-picked prompts, model comparison.
+
 ### Avatars
 
 - [D-ID](https://www.d-id.com/) - Create and interact with talking avatars at the touch of a button.
