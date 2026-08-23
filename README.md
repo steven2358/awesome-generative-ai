@@ -292,6 +292,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [OpenAgents](https://github.com/openagents-org/openagents) - Open-source platform for building AI agent networks with multi-protocol support (WebSocket, gRPC, HTTP, MCP, A2A). #opensource
 - [Dorothy](https://github.com/Charlie85270/Dorothy) - An open-source desktop app to orchestrate multiple AI CLI agents simultaneously with automations and Kanban management. #opensource
 - [Hive](https://github.com/aden-hive/hive) - An open-source multi-agent framework with auto-generated graphs, evolution loops, and MCP integration. #opensource
+- [OpenOutreach](https://github.com/eracle/OpenOutreach) - A self-hosted B2B lead finder that discovers candidates from licensed data, qualifies each one against your ideal customer profile, and exports the reason it chose them. #opensource
 
 ### Custom assistants
 
