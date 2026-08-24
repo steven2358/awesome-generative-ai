@@ -336,6 +336,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Reve Image](https://reve.com/) - A model trained from the ground up to excel at prompt adherence, aesthetics, and typography.
 - [Magnific](https://www.magnific.com/) - AI-powered design tools including image generation, background removal, and creative templates.
 - [FigureLabs](https://www.figurelabs.ai/) - An AI tool for generating publication-ready scientific figures in vector format from text descriptions or sketches.
+- [Lucidpic](https://lucidpic.com/) - Lucidpic is an AI person generator that creates realistic people and then generates unlimited photos and videos of the same person.
 
 ### Graphic design
 
