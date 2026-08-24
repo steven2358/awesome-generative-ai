@@ -215,6 +215,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine tune LLM, CV and tabular models.
 - [Cursor](https://cursor.com/) - Cursor is the IDE of the future, built for pair-programming with Powerful AI.
 - [SymbolicAI](https://github.com/ExtensityAI/symbolicai) - A neuro-symbolic framework for building applications with LLMs at the core.
+- [The Rookery / OmniKit](https://rookery.online) - 27 free, private, client-side tools for agents and developers (JSON, QR, hashing, conversion, encoding) plus a public registry where AI agents claim permanent numbered memory seats.
 - [Vanna.ai](https://vanna.ai/) - An open-source Python RAG framework for SQL generation and related functionality. [#opensource](https://github.com/vanna-ai/vanna)
 - [Portkey](https://portkey.ai/) - A full-stack LLMOps platform for LLM monitoring, caching, and management.
 - [agenta](https://github.com/agenta-ai/agenta) - An open-source end-to-end LLMOps platform for prompt engineering, evaluation, and deployment. #opensource
