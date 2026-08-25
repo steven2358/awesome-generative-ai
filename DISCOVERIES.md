@@ -228,6 +228,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [VideoGen](https://videogen.io/) - A video creation and editing platform with AI b-roll matching, narration, and captions.
 - [TubePrompter](https://tubeprompter.com/) - A tool that converts YouTube, TikTok, and Instagram videos into prompts for AI image and video generators.
 - [Glio](https://glio.io/) - A unified API for video, image, audio, and text generation models.
+- [CreateForge AI](https://createforgeai.com/) - Multi-model image and video generation workspace with an [open-source prompt workflow lab](https://github.com/Mr-ZhangBo/ai-model-prompt-brief-builder) for comparing 17 model profiles and exporting creative briefs.
 
 ### Avatars
 
