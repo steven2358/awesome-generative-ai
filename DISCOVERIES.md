@@ -228,6 +228,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [VideoGen](https://videogen.io/) - A video creation and editing platform with AI b-roll matching, narration, and captions.
 - [TubePrompter](https://tubeprompter.com/) - A tool that converts YouTube, TikTok, and Instagram videos into prompts for AI image and video generators.
 - [Glio](https://glio.io/) - A unified API for video, image, audio, and text generation models.
+- [AIVideoAdherenceGate](https://github.com/madebysaira/AIVideoAdherenceGate) - Offline post-render semantic and motion health gate for AI video that checks whether a rendered clip honored the creative contract and is physically healthy (motion, morph-drift, lip-sync).
 
 ### Avatars
 
