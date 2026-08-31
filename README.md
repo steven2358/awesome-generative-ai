@@ -391,6 +391,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 - [Autodesk Flow Studio](https://www.autodesk.com/products/flow-studio) - AI-powered tool for animating and compositing CG characters into live-action footage.
 
+- [AiMovieFinder](https://www.aimoviefinder.com/) - Free AI-powered movie finder that identifies films from screenshots, scenes, quotes, plots, actors, songs, posters, or video clips.
 ## Audio
 
 ### Text-to-speech
