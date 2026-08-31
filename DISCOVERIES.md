@@ -228,6 +228,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [VideoGen](https://videogen.io/) - A video creation and editing platform with AI b-roll matching, narration, and captions.
 - [TubePrompter](https://tubeprompter.com/) - A tool that converts YouTube, TikTok, and Instagram videos into prompts for AI image and video generators.
 - [Glio](https://glio.io/) - A unified API for video, image, audio, and text generation models.
+- [Advibly](https://advibly.com/) - An ad-creative platform that generates on-brand image ads, UGC-style video ads, and talking-actor videos from brand and product context, in the app or from AI agents via MCP.
 
 ### Avatars
 
