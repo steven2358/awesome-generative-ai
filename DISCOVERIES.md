@@ -228,6 +228,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [VideoGen](https://videogen.io/) - A video creation and editing platform with AI b-roll matching, narration, and captions.
 - [TubePrompter](https://tubeprompter.com/) - A tool that converts YouTube, TikTok, and Instagram videos into prompts for AI image and video generators.
 - [Glio](https://glio.io/) - A unified API for video, image, audio, and text generation models.
+- [Teno](https://www.useteno.com/) - AI ad creative platform for e-commerce and DTC teams; Ad Agent turns campaign chat into structured briefs and generates image and video ads with built-in quality checks.
 
 ### Avatars
 
