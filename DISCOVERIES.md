@@ -150,7 +150,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [EvoLink](https://evolink.ai/) - API gateway providing unified access to 40+ AI models for chat, image, video, and music generation.
 - [shekel](https://github.com/arieradle/shekel) - A Python library that sets runtime spending limits for AI agents to prevent runaway LLM costs. #opensource
 - [whatbroke](https://github.com/arthi-arumugam-git/whatbroke) - A CLI that diffs an AI agent's behavior between two runs, showing changes in tool calls, arguments, cost, latency, and outcomes. #opensource
-- [LuckyAPI](https://luckyapi.online/en?utm_source=github&utm_medium=resource-list&utm_campaign=gh-steven-awesome-generative-ai-discovery&utm_content=discoveries-developer-tools) - A unified AI API gateway with OpenAI-compatible Chat Completions and Responses, Anthropic Messages, and Gemini-compatible model discovery, plus a public model and pricing catalog for developers.
+- [LuckyAPI](https://argolink.io/en?utm_source=github&utm_medium=resource-list&utm_campaign=gh-steven-awesome-generative-ai-discovery&utm_content=discoveries-developer-tools) - A unified AI API gateway with OpenAI-compatible Chat Completions and Responses, Anthropic Messages, and Gemini-compatible model discovery, plus a public model and pricing catalog for developers.
 
 ### Playgrounds
 
