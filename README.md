@@ -263,6 +263,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - OpenAI-compatible local LLM inference server optimized for Apple Silicon, with tool calling, reasoning, vision, and structured output support. #opensource
 
 ## Agents
+- [Higgs](https://github.com/panbanda/higgs) - Rust inference server for Apple Silicon that runs MLX models behind OpenAI- and Anthropic-compatible APIs, with provider routing and a desktop dashboard. #opensource
 
 ### Autonomous agents
 
