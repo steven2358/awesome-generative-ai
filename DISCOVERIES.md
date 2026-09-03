@@ -122,6 +122,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - CLI tool that translates natural-language prompts into shell commands and asks for confirmation before execution.
 - [Yume](https://github.com/aofp/yume) - Desktop GUI for Claude Code with multi-tab sessions, background agents, context compaction, and plugin system. #opensource
 - [Frontman](https://frontman.sh/) - A browser-based AI coding agent for editing frontend code with live app context. [#opensource](https://github.com/frontman-ai/frontman)
+- [Superagent](https://github.com/pungme/superagent-desktop) - macOS desktop app that gives Claude Code and Codex a real browser to drive, an iOS Simulator to install and screenshot apps in, and a phone companion app for remote monitoring. #opensource
 
 ### Developer tools
 
