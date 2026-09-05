@@ -156,6 +156,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Local LLM Deployment
 
 - [Minima](https://github.com/dmayboroda/minima) - On-premises RAG with configurable Docker containers. #opensource
+- [localmodel.run](https://localmodel.run) - Database mapping RAM and VRAM requirements for 153 local models across 40 devices, with every spec sourced to HuggingFace or Ollama. [#opensource](https://github.com/ansumanshah/localmodel.run)
 
 ## Agents
 
