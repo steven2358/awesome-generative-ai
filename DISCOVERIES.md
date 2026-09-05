@@ -203,6 +203,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [deAPI.ai](https://deapi.ai/) - A unified inference API to open-source AI models for text-to-image, text-to-speech, transcription, video generation, and more, using a decentralized GPU cloud.
 - [MyPicNow](https://www.mypicnow.com) - An AI headshot generator for creating professional profile photos from uploaded selfies.
 - [PhotoMentor](https://photomentor.pro) - An AI tool for analyzing photos and providing composition and lighting feedback.
+- [Nutilz Background Remover](https://nutilz.com/background-remover) - Free AI background remover that runs entirely in the browser via WASM, no upload or sign-up required, outputs a transparent PNG.
 
 ### Graphic design
 
