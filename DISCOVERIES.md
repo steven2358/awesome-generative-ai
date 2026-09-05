@@ -122,6 +122,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - CLI tool that translates natural-language prompts into shell commands and asks for confirmation before execution.
 - [Yume](https://github.com/aofp/yume) - Desktop GUI for Claude Code with multi-tab sessions, background agents, context compaction, and plugin system. #opensource
 - [Frontman](https://frontman.sh/) - A browser-based AI coding agent for editing frontend code with live app context. [#opensource](https://github.com/frontman-ai/frontman)
+- [Termdeck](https://termdeck.io) - Web UI for the Claude Code, Codex and Grok CLIs running on your own machines, with one session board across every machine and tool approvals from a phone.
 
 ### Developer tools
 
