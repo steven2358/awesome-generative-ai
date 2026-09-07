@@ -289,6 +289,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Gemini by Example](https://geminibyexample.com) - A hands-on introduction to the Gemini API and SDK through annotated code examples. [#opensource](https://github.com/strickvl/geminibyexample)
 - [Rearchitecting LLMs](https://www.manning.com/books/rearchitecting-llms) - A book about optimizing and restructuring LLMs for domain-specific use.
 - [PromptZone](https://promptzone.com/) - Community and publication for prompt engineering, LLM comparisons, and AI-tool workflows.
+- [Zero to AI-Native](https://www.zerotoainative.xyz/) - An open-source, sequenced curriculum of primary-source AI reads across eight modules, from foundations through prompting, agents, evals, production, and safety.
 
 ### Podcasts
 
