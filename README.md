@@ -337,6 +337,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Reve Image](https://reve.com/) - A model trained from the ground up to excel at prompt adherence, aesthetics, and typography.
 - [Magnific](https://www.magnific.com/) - AI-powered design tools including image generation, background removal, and creative templates.
 - [FigureLabs](https://www.figurelabs.ai/) - An AI tool for generating publication-ready scientific figures in vector format from text descriptions or sketches.
+- [Kavel](https://www.kavel.ai/) - AI image and video studio with a per-edit page for each job — hairstyle, outfit, expression, background — and a free tier that runs without an account.
 
 ### Graphic design
 
