@@ -289,6 +289,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Gemini by Example](https://geminibyexample.com) - A hands-on introduction to the Gemini API and SDK through annotated code examples. [#opensource](https://github.com/strickvl/geminibyexample)
 - [Rearchitecting LLMs](https://www.manning.com/books/rearchitecting-llms) - A book about optimizing and restructuring LLMs for domain-specific use.
 - [PromptZone](https://promptzone.com/) - Community and publication for prompt engineering, LLM comparisons, and AI-tool workflows.
+- [H3 Max Video Workbook](https://github.com/lpg-it/h3-max-video-workbook) - Prompt briefs, input-selection guidance, and a comparison worksheet for short AI videos with audio.
 
 ### Podcasts
 
