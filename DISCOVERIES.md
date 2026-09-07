@@ -255,6 +255,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
 - [Soundraw](https://soundraw.io/) - Create your beats with the power of AI.
 - [Jammable](https://www.jammable.com/) - AI voice covers and music creation platform.
+- [Singy](https://singy.ai/) - Free AI song generator that turns any occasion into a personalized song with real AI vocals and lyrics, in 35+ languages.
 
 ## Other
 
