@@ -214,6 +214,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [PPT.AI](https://ppt.ai/) - Create professional presentations in minutes.
 - [Seede](https://seede.ai/) - An AI tool for generating posters and marketing visuals from text descriptions.
 - [PolyGlyph](https://polyglyph.io/) - AI-powered SVG generation and editing tool that turns text prompts into editable vector graphics.
+- [YourArt](https://yourart.app) - An AI design agent workspace for generating and editing images and videos across multiple models, with an infinite canvas and node-based workflows.
 
 ### Image libraries
 
