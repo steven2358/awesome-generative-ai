@@ -1,8 +1,11 @@
 # Contribution Guidelines
 
+*[Update 5 Sept. 2026: I review each contributed project by hand. Order: FIFO on the PR queue. If you want to jump the queue, get creative, surprise me, think outside of the box, make my day.]*
+
 ## Formatting
 
 - Use the following format: `[ProjectName](Link) - Description.`
+- Open-source projects should include the tag #opensource at the end. If the source lives at another URL, the tag should link to it.
 - Add new entries to the bottom of their respective category.
 - Keep descriptions concise, clear, and straightforward, and end them with a period.
 - New categories or improvements to the existing ones are also welcome.
