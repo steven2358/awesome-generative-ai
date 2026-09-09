@@ -241,6 +241,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Model Context Protocol](https://modelcontextprotocol.io/) - An open standard for connecting AI models to external tools and data sources. [MCP Registry](https://registry.modelcontextprotocol.io/) [#opensource](https://github.com/modelcontextprotocol/modelcontextprotocol)
 - [Steel Browser](https://github.com/steel-dev/steel-browser) - An open-source browser sandbox and automation infrastructure for AI agents, with session management, screenshots, PDFs, proxies, and anti-bot tooling. #opensource
 - [Bifrost](https://github.com/maximhq/bifrost) - An open-source LLM gateway with routing, load balancing, guardrails, and observability for 1000+ models. #opensource
+- [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding agent's session at the HTTP boundary and serves the recording back, so the same run re-executes with no model called, or forks from a checkpoint onto other models. #opensource
 
 ### Playgrounds
 
