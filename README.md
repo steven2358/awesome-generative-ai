@@ -423,6 +423,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [AIVA](https://www.aiva.ai/) - AI-based music generation assistant. Choose from 250+ styles.
 - [Suno AI](https://suno.com/) - Anyone can make great music. No instrument needed, just imagination. From your mind to music.
 - [Udio](https://www.udio.com/) - Discover, create, and share music with the world.
+- [MUSAI](https://musaisong.app) - An AI songwriter that turns your story into original song lyrics, and gives you a genre-calibrated style prompt to generate the track in Suno or Udio, plus a numbered illustrated plate. 564 documented styles, English and Spanish.
 
 ## Other
 
