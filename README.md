@@ -1,4 +1,5 @@
-# Awesome Generative AI [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+ # Awesome Generative AI
+ 
 
 > A curated list of modern Generative Artificial Intelligence projects and services.
 
@@ -43,6 +44,10 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 ## Text
 
 ### Models
+
+- [Nexus AI]
+(https://nexus-ai-deck-maker.lovable.app) - Turn text, PDFs, and YouTube videos into professional slide decks in seconds.
+
 
 - [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT models for natural language, coding, image generation, audio, and agent development.
 - [Gopher](https://deepmind.google/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval/) - Gopher by DeepMind is a 280 billion parameter language model.
