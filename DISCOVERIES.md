@@ -274,6 +274,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [KeepRule](https://keeprule.com) - Investment-discipline tool with curated principles from 26 investors and AI prompts for scenario analysis.
 - [GEOScore AI](https://geoscoreai.com/) - Free AI search visibility scanner that checks 11 GEO signals for ChatGPT, Perplexity, and Gemini visibility.
 - [DeepDNA](https://deepdna.ai) - AI-powered DNA analysis platform for personalized health, nutrition, and pharmacogenomic insights from consumer genetic data.
+- [Modelglass](https://modelglass.com.au) - Sourced, versioned pricing and capability data for AI models across image, language, video and audio, with coding, science and agentic benchmark verticals, to find the cheapest model that clears a capability bar.
 
 ## Learning resources
 
