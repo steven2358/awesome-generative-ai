@@ -217,6 +217,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Image libraries
 
+- [PromptSpace](https://www.promptspace.in) - Free library of 5,000+ curated AI image prompts for Midjourney, DALL-E, FLUX, and Stable Diffusion, organized by style and use case. No signup required.
+
 ### Model libraries
 
 ### Stable Diffusion resources
