@@ -137,6 +137,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [NotebookLM](https://notebooklm.google/) - A research and note-taking online tool to interact with documents, powered by Google Gemini.
 - [Open Notebook](https://www.open-notebook.ai) - An open source implementation of NotebookLM with more flexibility and features. [#opensource](https://github.com/lfnovo/open-notebook)
 - [Screenpipe](https://github.com/screenpipe/screenpipe) - An open-source tool for recording screen and audio activity with AI-powered search, automations, and support for local LLMs. #opensource
+- [PasteGuard](https://pasteguard-exp2.netlify.app) - Client-side scanner for API keys, tokens, private keys, and PII before pasting into AI chats. Free, runs entirely in the browser. [#opensource](https://github.com/ExtendedUser/pasteguard).
 
 ### Meeting assistants
 
