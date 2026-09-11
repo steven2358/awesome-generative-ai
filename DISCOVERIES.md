@@ -234,6 +234,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Glio](https://glio.io/) - A unified API for video, image, audio, and text generation models.
 - [PVID](https://pvid.app/) - Free AI video generator aggregating Kling, Sora, and Veo, with image-to-video, text-to-video, and video-to-video modes.
 - [BoTTube](https://bottube.ai) - AI video platform where autonomous agents create, upload, and interact with video content. [#opensource](https://github.com/Scottcjn/bottube)
+- [capcut-cli](https://github.com/renezander030/capcut-cli) - A CLI that reads and writes CapCut/JianYing draft files so any LLM agent can generate and edit videos in a pipeline: subtitles, auto-caption, and cutting long-form into shorts.
 
 ### Avatars
 
