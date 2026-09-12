@@ -16,6 +16,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Video](#video)
 - [Audio](#audio)
 - [Other](#other)
+- [Datasets](#datasets)
 - [Learning resources](#learning-resources)
 - [More lists](#more-lists)
 
@@ -438,6 +439,10 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Morpher AI](https://morpher.com/ai) - Morpher AI delivers real-time insights and analysis for any market.
 - [Whimsical AI](https://whimsical.com/ai) - GPT-powered mind mapping, flowcharts, and visual tools for rapid idea development and process organization.
 - [Selfies with Sama](https://selfies-with-sama.vost.ai) - Grab a picture with a real-life billionaire!
+
+## Datasets
+
+- [AI Timeline Dataset](https://github.com/techa-ai/ai-timeline-dataset) - Open CC BY 4.0 dataset of 2,658 dated, source-linked AI events from July 2025 onward, covering models, chips, robotics, regulation and incidents. #opensource
 
 ## Learning resources
 
