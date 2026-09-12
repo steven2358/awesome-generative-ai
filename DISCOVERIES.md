@@ -237,6 +237,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Avatars
 
+- [NanoAvatar](https://github.com/wpydcr/NanoAvatar) - Audio-driven talking avatars rendered locally on Android and NVIDIA GPUs, with streaming generation. #opensource
+
 ### Animation
 
 ## Audio
