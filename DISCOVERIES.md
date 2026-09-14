@@ -153,6 +153,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [whatbroke](https://github.com/arthi-arumugam-git/whatbroke) - A CLI that diffs an AI agent's behavior between two runs, showing changes in tool calls, arguments, cost, latency, and outcomes. #opensource
 - [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) - Claude Code skill for public equity research using SEC EDGAR and market data: thesis scoring, comparables, staleness rules. #opensource
 - [CPS Framework](https://github.com/citedbyai/cps-framework) - AI-citation-readiness scoring for web content, with a free MCP checker and paid full audits.
+- [ArchLang](https://github.com/ChanMeng666/archlang) - Declarative language and compiler for floor plans: .arch source in, dimensioned SVG/DXF/PDF out, with linting and a machine-readable description of the plan. Ships an MCP server so a model can check its own plan without rendering an image. #opensource
 
 ### Playgrounds
 
