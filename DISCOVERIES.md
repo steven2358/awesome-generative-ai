@@ -234,6 +234,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Glio](https://glio.io/) - A unified API for video, image, audio, and text generation models.
 - [PVID](https://pvid.app/) - Free AI video generator aggregating Kling, Sora, and Veo, with image-to-video, text-to-video, and video-to-video modes.
 - [BoTTube](https://bottube.ai) - AI video platform where autonomous agents create, upload, and interact with video content. [#opensource](https://github.com/Scottcjn/bottube)
+- [Fattly](https://fattly.app/) - An AI content platform that generates images, video, voiceovers and UGC-style video ads from 50+ models, with lip-sync dubbing and an MCP server for AI agents.
 
 ### Avatars
 
