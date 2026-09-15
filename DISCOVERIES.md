@@ -234,6 +234,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Glio](https://glio.io/) - A unified API for video, image, audio, and text generation models.
 - [PVID](https://pvid.app/) - Free AI video generator aggregating Kling, Sora, and Veo, with image-to-video, text-to-video, and video-to-video modes.
 - [BoTTube](https://bottube.ai) - AI video platform where autonomous agents create, upload, and interact with video content. [#opensource](https://github.com/Scottcjn/bottube)
+- [AI Short-Drama Hook Generator](https://lescheung.github.io/ai-shortdrama-toolkit/tool-hook-generator.html) - A free browser tool for writing AI short dramas: 40 opening hooks across 8 genres in English and Chinese, matching text-to-video prompts, and a reusable 6-shot storyboard template for Seedance, Kling and Sora. [#opensource](https://github.com/LesCheung/ai-shortdrama-toolkit)
 
 ### Avatars
 
