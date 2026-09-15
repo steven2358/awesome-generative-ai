@@ -150,7 +150,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [EvoLink](https://evolink.ai/) - API gateway providing unified access to 40+ AI models for chat, image, video, and music generation.
 - [shekel](https://github.com/arieradle/shekel) - A Python library that sets runtime spending limits for AI agents to prevent runaway LLM costs. #opensource
 - [whatbroke](https://github.com/arthi-arumugam-git/whatbroke) - A CLI that diffs an AI agent's behavior between two runs, showing changes in tool calls, arguments, cost, latency, and outcomes. #opensource
-- [RelayPlane](https://github.com/RelayPlane/proxy) - An open-source cost-intelligence proxy and OpenAI-compatible LLM gateway that routes requests across 11 providers with smart model routing and a policy engine to cut API costs. #opensource
+- [RelayPlane](https://github.com/RelayPlane/proxy) - Local-first, MIT-licensed LLM proxy that meters what every agent run costs across Anthropic, OpenAI, Google, xAI, OpenRouter and Ollama, and kills runaway spend before it drains your budget. #opensource
 
 ### Playgrounds
 
