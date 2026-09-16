@@ -240,7 +240,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Groq](https://groq.com/) - A cloud inference API for running open-source LLMs, powered by custom LPU hardware.
 - [Model Context Protocol](https://modelcontextprotocol.io/) - An open standard for connecting AI models to external tools and data sources. [MCP Registry](https://registry.modelcontextprotocol.io/) [#opensource](https://github.com/modelcontextprotocol/modelcontextprotocol)
 - [Steel Browser](https://github.com/steel-dev/steel-browser) - An open-source browser sandbox and automation infrastructure for AI agents, with session management, screenshots, PDFs, proxies, and anti-bot tooling. #opensource
-- [Bifrost](https://github.com/maximhq/bifrost) - An open-source LLM gateway with routing, load balancing, guardrails, and observability for 1000+ models. #opensource
+- [Bifrost](https://github.com/maximhq/bifrost) - AI gateway providing a single OpenAI-compatible API across 23+ LLM providers, with automatic fallbacks, load balancing, semantic caching, budget governance, MCP gateway support, and Prometheus metrics. [#opensource](https://github.com/maximhq/bifrost)
 
 ### Playgrounds
 
