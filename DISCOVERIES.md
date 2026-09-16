@@ -85,6 +85,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [SageCollab](https://sagecollab.com/) - SageCollab brings team collaboration features to generative AI.
 - [Worksheets.ai](https://www.worksheets.ai/) - Generate educational worksheets and lesson plans with AI.
 - [Recall](https://www.recall.it/) - A self-organizing knowledge base, where you can summarize and chat with any online content.
+- [LeadPipeline](https://github.com/AI-Invention/lead-pipeline) - Open-source lead generation and outreach automation pipeline: scrape leads from Google Maps, send personalized pitches over SMTP, and track replies, fully self-hosted.
 
 ### Meeting assistants
 - [Goelo](https://www.goelo.com/) - Goelo helps sales teams automatically fill their CRM by recording meetings to create summaries and generate a knowledge base.
