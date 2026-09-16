@@ -242,6 +242,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Steel Browser](https://github.com/steel-dev/steel-browser) - An open-source browser sandbox and automation infrastructure for AI agents, with session management, screenshots, PDFs, proxies, and anti-bot tooling. #opensource
 - [Bifrost](https://github.com/maximhq/bifrost) - An open-source LLM gateway with routing, load balancing, guardrails, and observability for 1000+ models. #opensource
 
+- [ShipPage](https://shippage.ai) - Zero-config HTML publishing service for AI agents. One HTTP POST turns any HTML or Markdown into a public URL. Auto-registers on first call — no account, no API keys to configure. Install as OpenClaw skill or MCP server. [#opensource](https://github.com/jieshu666/ShipPage-Skill)
 ### Playgrounds
 
 - [OpenAI Playground](https://platform.openai.com/playground) - Explore resources, tutorials, API docs, and dynamic examples.
