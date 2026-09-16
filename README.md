@@ -202,6 +202,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Lovable](https://lovable.dev) - Conversational full-stack app generation, turning ideas into deployable code.
 - [aider](https://aider.chat/) - AI pair programming in your terminal, supporting multiple LLM providers. [#opensource](https://github.com/paul-gauthier/aider)
 - [Kilo](https://kilo.ai/) - Open-source AI coding assistant for VS Code, JetBrains, and the CLI. [#opensource](https://github.com/Kilo-Org/kilocode)
+- [Orca](https://onorca.dev) - An open-source IDE for orchestrating multiple AI coding agents (Claude Code, Codex, Cursor, Gemini, OpenCode) side-by-side, each in its own isolated git worktree. [#opensource](https://github.com/stablyai/orca)
 
 ### Developer tools
 
