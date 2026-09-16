@@ -20,6 +20,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ## Recommended reading
 
+- [8bitconcepts Research](https://8bitconcepts.com/) - Independent research publication on enterprise generative AI strategy, governance, and operational risk. Practical papers covering agentic accountability, hallucination budgets, the guardrails gap, AI ROI measurement, and the organizational patterns that determine adoption outcomes.
+
 ### Milestones
 
 ## Text
