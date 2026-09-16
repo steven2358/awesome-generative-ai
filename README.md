@@ -293,6 +293,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [OpenAgents](https://github.com/openagents-org/openagents) - Open-source platform for building AI agent networks with multi-protocol support (WebSocket, gRPC, HTTP, MCP, A2A). #opensource
 - [Dorothy](https://github.com/Charlie85270/Dorothy) - An open-source desktop app to orchestrate multiple AI CLI agents simultaneously with automations and Kanban management. #opensource
 - [Hive](https://github.com/aden-hive/hive) - An open-source multi-agent framework with auto-generated graphs, evolution loops, and MCP integration. #opensource
+- [Magi](https://magi-core-landing-2.vercel.app/) - An autonomous agent fleet that runs its own operating loop end to end: work lands on a shared board, a coordinator delegates each task to the least-loaded headless opencode worker, and a supervisor reviews every done task and reopens subpar work. The fleet publishes its own weekly ops digest as proof. [Source](https://github.com/magiautonomous/CORE) - [Fleet dashboard](https://magi-fleet-status.vercel.app/) - [CC dashboard](https://magi-cc.vercel.app/).
 
 ### Custom assistants
 
