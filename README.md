@@ -111,6 +111,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Copysmith](https://copysmith.ai/) - AI content creation solution for Enterprise & eCommerce.
 - [Humanize-Text](https://github.com/lynote-ai/humanize-text) - AI text humanizer with a multilingual rewriting pipeline and step-by-step examples. #opensource
 
+- [Personaplex](https://personaplex.aifly.club/) - Multi-persona AI voice group chat. Invite 2-3 AI characters with distinct voices into the same room — they hear each other and hold real-time group conversations. Use cases: language learning, roleplay, interview prep.
 ### ChatGPT extensions
 
 - [WebChatGPT](https://chromewebstore.google.com/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn) - Augment your ChatGPT prompts with relevant results from the web.
