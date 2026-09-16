@@ -49,6 +49,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Search engines
 
 - [MemFree](https://github.com/memfreeme/memfree) - Hybrid AI search engine. Get instant answers from your knowledge base and the whole internet. #opensource
+- [Zoom Search](https://github.com/goofrey/zoom-search) - Open-source MCP search and evidence toolkit with query rewriting, domain-focused retrieval, sourced answers, and quality metrics. #opensource
 
 ### Local search engines
 
