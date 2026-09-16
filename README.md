@@ -241,6 +241,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Model Context Protocol](https://modelcontextprotocol.io/) - An open standard for connecting AI models to external tools and data sources. [MCP Registry](https://registry.modelcontextprotocol.io/) [#opensource](https://github.com/modelcontextprotocol/modelcontextprotocol)
 - [Steel Browser](https://github.com/steel-dev/steel-browser) - An open-source browser sandbox and automation infrastructure for AI agents, with session management, screenshots, PDFs, proxies, and anti-bot tooling. #opensource
 - [Bifrost](https://github.com/maximhq/bifrost) - An open-source LLM gateway with routing, load balancing, guardrails, and observability for 1000+ models. #opensource
+- [SourceryKit](https://github.com/ProvablyAI/sourcerykit) - A Python SDK that verifies an AI agent's outbound requests against a source of truth using cryptographic checks, logging each call and blocking anything not on the allow-list.
 
 ### Playgrounds
 
