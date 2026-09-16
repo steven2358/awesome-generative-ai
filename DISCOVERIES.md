@@ -237,6 +237,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [BoTTube](https://bottube.ai) - AI video platform where autonomous agents create, upload, and interact with video content. [#opensource](https://github.com/Scottcjn/bottube)
 
 ### Avatars
+- [UGCFast](https://ugcfast.ai/) - Generate UGC video ads with 300+ AI actors across 35+ languages for TikTok, Instagram Reels, and Meta ads.
 
 ### Animation
 
