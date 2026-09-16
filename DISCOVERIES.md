@@ -101,6 +101,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Price Per Token](https://pricepertoken.com/) - A tool for comparing LLM API pricing, token usage, and model benchmarks.
 - [Rival](https://rival.tips) - Leaderboard ranking 200+ AI models based on blind A/B human preference votes.
+- [StudyArena](https://studyarena.com) - Students compare three anonymous AI answers to one question, vote for the most useful response, then reveal the models.
 
 ### Other text generators
 
