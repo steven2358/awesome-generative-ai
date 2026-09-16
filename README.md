@@ -85,6 +85,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Phind](https://phind.com/) - AI-based search engine.
 - [You.com](https://you.com/) - A search engine built on AI that provides users with a customized search experience while keeping their data 100% private.
 - [Komo](https://komo.ai/) - An AI-powered search engine.
+- [awesome-aeo-seo](https://github.com/discoveredlabs/awesome-aeo-seo) - Curated research, tooling, and measurement guides for Answer Engine Optimisation and Generative Engine Optimisation.
 
 ### Local search engines
 
@@ -263,6 +264,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - OpenAI-compatible local LLM inference server optimized for Apple Silicon, with tool calling, reasoning, vision, and structured output support. #opensource
 
 ## Agents
+
+- [awesome-aeo-seo-agents](https://github.com/discoveredlabs/awesome-aeo-seo-agents) - Curated list of agentic GEO/AEO frameworks, MCP servers for SEO data, and autonomous content pipelines for AI search optimisation.
 
 ### Autonomous agents
 
