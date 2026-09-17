@@ -37,7 +37,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Yona.ai](https://yona.ai) - Converse with AI mirrors of yourself or loved ones for healing, nostalgia, and introspection.
 - [AskVideo](https://www.askvideo.ai) - Chat with any Youtube Video.
 - [AskPPT](https://www.askppt.io/) - Chat with any Presentation.
-- [Broken Bear](https://brokenbear.com) - An AI Teddy Bear that you can vent to for free, online, and anonymously.
+- [Broken Bear](https://brokenbear.com/) - An AI Teddy Bear that you can vent to for free, online, and anonymously.
 - [GPTHelp.ai](https://gpthelp.ai/) - AI customer support chatbot for your website.
 - [AnythingLLM](https://anythingllm.com/) - Turn any document, resource, or piece of content into context that any LLM can use. [#opensource](https://github.com/Mintplex-Labs/anything-llm)
 - [Character AI Bots](https://www.characteraibots.com/) - A directory of free AI roleplay characters available on Character.AI, JanitorAI, and SpicyChat.
@@ -219,6 +219,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Image libraries
 
+- [Livebound](https://github.com/MoonBlack87/livebound) - Local-first workspace for organizing AI-generated images, generation metadata, and Civitai publishing workflows. #opensource
+
 ### Model libraries
 
 ### Stable Diffusion resources
@@ -237,7 +239,6 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [PVID](https://pvid.app/) - Free AI video generator aggregating Kling, Sora, and Veo, with image-to-video, text-to-video, and video-to-video modes.
 - [BoTTube](https://bottube.ai) - AI video platform where autonomous agents create, upload, and interact with video content. [#opensource](https://github.com/Scottcjn/bottube)
 - [Obsidian Engine](https://github.com/harshithkantamneni/obsidian-engine) - A 13-stage pipeline for generating YouTube documentary videos from a topic. #opensource
-
 ### Avatars
 
 ### Animation
