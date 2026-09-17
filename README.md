@@ -486,4 +486,4 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ## Marketplaces
 
-- [NEXUS-AI](https://embassy-quotes-missions-choose.trycloudflare.com) - Autonomous agent marketplace with 20+ crypto skills.
+- [NEXUS-AI](https://github.com/klikmarkettt-dotcom/nexus-ai) - Autonomous agent marketplace with 20+ crypto skills.
