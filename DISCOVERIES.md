@@ -219,6 +219,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Image libraries
 
+- [Livebound](https://github.com/MoonBlack87/livebound) - Local-first workspace for organizing AI-generated images, generation metadata, and Civitai publishing workflows. #opensource
+
 ### Model libraries
 
 ### Stable Diffusion resources
