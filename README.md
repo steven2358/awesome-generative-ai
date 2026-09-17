@@ -26,6 +26,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [A Coming-Out Party for Generative A.I., Silicon Valley's New Craze](https://www.nytimes.com/2022/10/21/technology/generative-ai.html) - Article about the rise of generative AI, particularly the success of the Stable Diffusion image generator, and the associated controversies. New York Times, October 21, 2022.
 - [AI's New Creative Streak Sparks a Silicon Valley Gold Rush](https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/) - Article about the growing hype and investment in generative AI startups, with various industries exploring its potential applications. Wired, October 27, 2022.
 - [ChatGPT Heralds an Intellectual Revolution](https://www.wsj.com/articles/artificial-intelligence-generative-ai-chatgpt-kissinger-84512912) - An op-ed by Henry Kissinger, Eric Schmidt and Daniel Huttenlocher. Wall Street Journal, February 24, 2023.
+- [Retry budgets: why 20% per-step failure doubles your token bill](https://loopandretry.github.io/posts/retry-budgets/?ref=awesome-genai) - Why compounding per-step failure rates inflate an LLM agent's token bill, and how to set retry budgets that bound cost. By Loop & Retry, 2026.
 
 ### Milestones
 
