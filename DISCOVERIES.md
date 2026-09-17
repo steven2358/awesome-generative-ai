@@ -216,6 +216,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Seede](https://seede.ai/) - An AI tool for generating posters and marketing visuals from text descriptions.
 - [PolyGlyph](https://polyglyph.io/) - AI-powered SVG generation and editing tool that turns text prompts into editable vector graphics.
 - [InkCraft](https://inkcraftapp.com) - Generate tattoo designs from a description and preview them on a photo of your own body.
+- [Visual Director](https://github.com/leewilliam200/visual-director-lite) - Plain-text art director that writes AI image prompts and preserves the image when you edit one element.
 
 ### Image libraries
 
