@@ -8,6 +8,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ## Contents
 
+- [NEXUS-AI](https://shoe-pierce-primary-electronics.trycloudflare.com) - Autonomous agent marketplace with 20+ crypto skills.
+
 - [Recommended reading](#recommended-reading)
 - [Text](#text)
 - [Coding](#coding)
