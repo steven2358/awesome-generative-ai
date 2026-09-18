@@ -367,6 +367,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) - Python materials for the online course on diffusion models by [@huggingface](https://github.com/huggingface).
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - A node-based interface for building and running Stable Diffusion workflows. [#opensource](https://github.com/comfyanonymous/ComfyUI)
 
+- [sd-reference-data](https://github.com/suyongtong4-dot/sd-reference-data) - Reference data for Stable Diffusion prompt weight syntax, sampler selection and VRAM behaviour on consumer GPUs, compiled from hands-on testing.
+
 ## Video
 
 - [Runway](https://runwayml.com/) - Magical AI tools, realtime collaboration, precision editing, and more. Your next-generation content creation suite.
