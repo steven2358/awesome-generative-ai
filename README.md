@@ -126,6 +126,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [ChatGPT for Sheets, Docs, Slides, Forms](https://workspace.google.com/marketplace/app/gpt_for_sheets_docs_forms_slides/466607203252) - ChatGPT extension for Google Sheets, Google Docs, Google Slides, Google Forms.
 - [GPT for Gmail](https://workspace.google.com/marketplace/app/gpt_for_gmail_ai_email_assistant_gemini/899305976589) - AI email assistant for Gmail.
 
+- [SummarizAI](https://summarizai.ink) - Chrome extension for on-page YouTube AI summary, chapters, chat, and Study flashcards for students.
 ### Productivity
 
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
