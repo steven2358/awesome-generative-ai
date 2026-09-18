@@ -353,6 +353,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [OpenArt](https://openart.ai/) - Search 10M+ of prompts, and generate AI art via Stable Diffusion, DALL·E 2.
 - [PromptHero](https://prompthero.com/) - Search prompts for models like Stable Diffusion, ChatGPT, Midjourney, etc.
 - [PromptBase](https://promptbase.com/) - Search prompts from top prompt engineers. Sell your own prompts.
+- [Shuixian's AI Prompts](https://prompt.qqsrc.com/) - A curated Chinese prompt gallery with 5,452 prompts across 12 categories and 79 subcategories, with keyword search, category filters and one-click copy. [#opensource](https://github.com/BaYue-SYJ/shuixian-prompts)
 
 ### Model libraries
 
