@@ -259,6 +259,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [PyGPT](https://pygpt.net/) - Personal desktop AI assistant with chat, vision, agents, image generation, tools and commands, voice control and more. #opensource
 - [LLM](https://llm.datasette.io/) - A CLI utility and Python library for interacting with Large Language Models, remote and local. [#opensource](https://github.com/simonw/llm)
 - [LM Studio](https://lmstudio.ai) - Download and run local LLMs on your computer.
+- [nanollama.c](https://github.com/Agarwalrishu13/nanollama.c) - A complete LLM inference engine in ~1,400 lines of dependency-free C, runs Llama-2-architecture models locally on the CPU with its own thread pool and int8 quantization. [#opensource](https://github.com/Agarwalrishu13/nanollama.c)
 - [RunThisLLM](https://runthisllm.com) - See which LLMs you can run on your hardware.
 - [Harbor](https://github.com/av/harbor) - A containerized toolkit for running local LLM backends, UIs, and supporting services with one command. #opensource
 - [off-grid-mobile](https://github.com/alichherawalla/off-grid-mobile-ai) - React Native app for running LLMs, vision models, and Stable Diffusion on-device on iOS and Android without internet access. #opensource
