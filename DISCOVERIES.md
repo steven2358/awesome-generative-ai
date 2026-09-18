@@ -45,6 +45,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Custom interfaces
 
 - [Atlas UI 3](https://github.com/sandialabs/atlas-ui-3) - Full-stack LLM chat interface with MCP tool integration, multi-provider support, RAG, and agentic workflows. #opensource
+- [ThoughtDAG](https://github.com/chenxiachan/thoughtdag) - A local-first visual LLM workspace where graph edges determine which conversation and document nodes enter the next model request. #opensource
 
 ### Search engines
 
