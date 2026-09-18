@@ -160,6 +160,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Local LLM Deployment
 
 - [Minima](https://github.com/dmayboroda/minima) - On-premises RAG with configurable Docker containers. #opensource
+- [One Switch](https://github.com/yinxulai/one-switch) - A cross-platform local LLM gateway desktop app (macOS, Windows and Linux) that exposes an OpenAI/Anthropic-compatible API on localhost, routes requests across multiple LLM channels with automatic failover, and records request logs.
 
 ## Agents
 
