@@ -294,6 +294,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Hermes Agent](https://hermes-agent.nousresearch.com) - A self-improving personal agent with memory, messaging integrations, and sandboxed tool execution. [#opensource](https://github.com/NousResearch/hermes-agent)
 - [OpenAgents](https://github.com/openagents-org/openagents) - Open-source platform for building AI agent networks with multi-protocol support (WebSocket, gRPC, HTTP, MCP, A2A). #opensource
 - [Dorothy](https://github.com/Charlie85270/Dorothy) - An open-source desktop app to orchestrate multiple AI CLI agents simultaneously with automations and Kanban management. #opensource
+- [KinetAios](https://github.com/phinn/KinetAios) - An open-source local-first AI agent dashboard for Windows and macOS with multi-engine sessions (built-in ReAct planner, Claude Code, Codex), streaming answers, 40+ built-in tools, MCP support, and long-term memory. #opensource
 - [Hive](https://github.com/aden-hive/hive) - An open-source multi-agent framework with auto-generated graphs, evolution loops, and MCP integration. #opensource
 
 ### Custom assistants
