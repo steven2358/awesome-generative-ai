@@ -161,6 +161,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Local Deep Research](https://github.com/LearningCircuit/local-deep-research) - A deep research tool for searching academic sources, the web, and private documents with local or cloud LLMs. [#opensource](https://github.com/LearningCircuit/local-deep-research)
 - [Rayyan](https://www.rayyan.ai/) - An AI-powered platform for managing systematic literature reviews with collaborative screening and data management tools.
 - [Paper2Agent](https://paper2agent.ai/) - Converts research papers and associated codebases into tested MCP servers and interactive AI agents. [#opensource](https://github.com/jmiao24/Paper2Agent)
+- [Nujan](https://nujan.app) - Socratic AI research partner and dual-pane split reader for technical papers with grounded citations, LaTeX derivations, and Reviewer 2 sparring.
 
 ### Leaderboards
 
