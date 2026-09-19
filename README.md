@@ -77,6 +77,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 - [LibreChat](https://librechat.ai/) - LibreChat is a free and open-source chat interface for assistant AIs. [#opensource](https://github.com/danny-avila/LibreChat).
 - [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [#opensource](https://github.com/mckaywrigley/chatbot-ui).
+- [JARVIS](https://github.com/Dix01/JARVIS) - A local-first holographic AI desktop assistant for Windows with voice (Whisper + Piper TTS), vision, local image generation (FLUX.2-klein), image-to-3D (TRELLIS/Hunyuan3D), and 80+ tools. Electron + React + Three.js HUD, FastAPI backend. [#opensource](https://github.com/Dix01/JARVIS)
 
 ### Search engines
 
