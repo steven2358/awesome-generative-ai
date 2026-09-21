@@ -123,6 +123,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Yume](https://github.com/aofp/yume) - Desktop GUI for Claude Code with multi-tab sessions, background agents, context compaction, and plugin system. #opensource
 - [Frontman](https://frontman.sh/) - A browser-based AI coding agent for editing frontend code with live app context. [#opensource](https://github.com/frontman-ai/frontman)
 - [Cortex](https://github.com/SKULLFIRE07/cortex-memory) - Persistent AI memory for coding assistants, auto-capturing decisions, patterns, and context from Claude Code, Cursor, and Cline sessions. #opensource
+- [intentic](https://github.com/intentic/intentic) - Self-hosted workspace that runs Claude Code, Codex, OpenCode and Gemini CLI in parallel, each in its own container and git worktree, reviewed as diffs. #opensource
 
 ### Developer tools
 
