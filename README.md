@@ -128,6 +128,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Productivity
 
+- [ResumeAI](https://withresumeai.com/) - AI resume builder with a free ATS checker (3/day no account, 10/day free account) and open State of ATS 2026 data.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
 - [Mem](https://mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
 - [Taskade](https://www.taskade.com/) - Outline tasks, notes, generated structured lists and mind maps with Taskade AI.
