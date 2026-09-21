@@ -303,6 +303,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ## Image
 
+- [MagicKit](https://magickit.47.80.8.174.nip.io) - Free AI toolbox: image generation (FLUX), writing, video. No sign-up. MIT. [Source](https://github.com/kaketiti/magickit)
 ### Models
 
 - [DALL·E 2](https://openai.com/dall-e-2/) - DALL·E 2 by OpenAI is a new AI system that can create realistic images and art from a description in natural language.
