@@ -206,6 +206,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Developer tools
 
+- [MySpec](https://myspec.dev) - Spec-driven development platform for AI coding agents that generates 4-file spec bundles and context via MCP for Cursor and Claude. `Free tier available`
 - [Cohere](https://cohere.com/) - Cohere provides access to advanced Large Language Models and NLP tools.
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
 - [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
