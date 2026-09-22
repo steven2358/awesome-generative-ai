@@ -86,6 +86,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Worksheets.ai](https://www.worksheets.ai/) - Generate educational worksheets and lesson plans with AI.
 - [Recall](https://www.recall.it/) - A self-organizing knowledge base, where you can summarize and chat with any online content.
 
+- [InvoiceFlowAI](https://github.com/EthanYoQ/Invoice-Downloader) - Open-source desktop software for collecting PDF, OFD, and XML invoices from email, extracting fields with OCR, organizing files, and exporting an Excel reimbursement summary with human review. [#opensource](https://github.com/EthanYoQ/Invoice-Downloader)
+
 ### Meeting assistants
 - [Goelo](https://www.goelo.com/) - Goelo helps sales teams automatically fill their CRM by recording meetings to create summaries and generate a knowledge base.
 - [Equal Time](https://equaltime.io/) - An AI meeting assistant that transcribes calls, generates summaries, and tracks participation metrics for more inclusive meetings.
