@@ -224,6 +224,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Stable Diffusion resources
 
 ## Video
+- [Arsaze](https://www.arsaze.com/) - The AI-native video editing OS: real timeline editing, color grading, audio, captions, and export controllable via natural language and MCP.
 - [Twelve Labs](https://www.twelvelabs.io/) - Helping developers build programs that can see, listen, and understand the world through video understanding.
 - [invideo AI](https://invideo.io/) - Turn ideas into videos.
 - [Haiper](https://haiper.ai/) - Create stunning videos with AI-powered tools for content creators.
