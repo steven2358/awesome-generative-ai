@@ -154,6 +154,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) - Claude Code skill for public equity research using SEC EDGAR and market data: thesis scoring, comparables, staleness rules. #opensource
 - [CPS Framework](https://github.com/citedbyai/cps-framework) - AI-citation-readiness scoring for web content, with a free MCP checker and paid full audits.
 - [TabGAN](https://github.com/Diyago/Tabular-data-generation) - A Python library for generating synthetic tabular data with GANs, diffusion models, and language models. #opensource
+- [Agent Workspace Starter](https://github.com/kavatana/agent-workspace-starter) - Repository files that make a coding agent's work checkable by a person: a contract every session is bound by, a reviewer defined without write tools, a mutation pass that proves each new test can fail, and a session-start hook that reports what the last session left unfinished. #opensource
 
 ### Playgrounds
 
