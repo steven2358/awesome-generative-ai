@@ -340,6 +340,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Magnific](https://www.magnific.com/) - AI-powered design tools including image generation, background removal, and creative templates.
 - [FigureLabs](https://www.figurelabs.ai/) - An AI tool for generating publication-ready scientific figures in vector format from text descriptions or sketches.
 
+- [Raphael](https://raphael.app/) - Free AI image generator for text-to-image, editing, and creative workflows in the browser.
+
 ### Graphic design
 
 - [Brandmark](https://brandmark.io/) - AI-based logo design tool.
