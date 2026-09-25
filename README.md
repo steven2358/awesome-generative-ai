@@ -244,6 +244,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Bifrost](https://github.com/maximhq/bifrost) - An open-source LLM gateway with routing, load balancing, guardrails, and observability for 1000+ models. #opensource
 - [fal](https://fal.ai/) - A developer platform for accessing and deploying image, video, audio, and 3D generation models.
 
+- [AgentHUD](https://github.com/IAMMARBIT/AgentHUD) - Game-style HUD overlay for AI agent observability. Live animated cards per agent showing tool calls, tokens, cost, latency, success rate, and a sparkline. Drop-in adapters for LangChain, OpenAI Agents SDK, Claude Agent SDK, CrewAI, and AutoGen. 14 polished skins + community skin marketplace. [#opensource](https://github.com/IAMMARBIT/AgentHUD)
+
 ### Playgrounds
 
 - [OpenAI Playground](https://platform.openai.com/playground) - Explore resources, tutorials, API docs, and dynamic examples.
