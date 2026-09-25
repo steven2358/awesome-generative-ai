@@ -77,6 +77,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 - [LibreChat](https://librechat.ai/) - LibreChat is a free and open-source chat interface for assistant AIs. [#opensource](https://github.com/danny-avila/LibreChat).
 - [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [#opensource](https://github.com/mckaywrigley/chatbot-ui).
+- [Satcove](https://satcove.com/) - Queries six AI models (Claude, GPT, Gemini, Mistral, Perplexity, Grok) in parallel and synthesizes one answer with an agreement score.
 
 ### Search engines
 
