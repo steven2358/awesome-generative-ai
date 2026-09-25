@@ -379,6 +379,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Luma Dream Machine](https://lumalabs.ai/app) - An AI model that makes high quality, realistic videos fast from text and images.
 - [KLING AI](https://kling.ai/) - Tools for creating imaginative images and videos.
 - [Hailuo AI](https://hailuoai.video/) - AI-powered text-to-video generator.
+- [Gemini Omni](https://gemini-omni.dev) - Multimodal AI video creation platform supporting cinema-grade text-to-video, image-to-video, keyframe directing, and native audio-visual synchronization.
 - [Google Flow](https://labs.google/fx/tools/flow) - An AI filmmaking tool from Google, powered by Veo.
 - [Seedance 2.0](https://seed.bytedance.com/en/seedance2_0) - An image-to-video and text-to-video model developed by Niobotics ByteDance.
 - [MaxVideoAI](https://maxvideoai.com/examples) - A workspace for generating and comparing videos across multiple AI video models.
