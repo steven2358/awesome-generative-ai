@@ -294,6 +294,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Rearchitecting LLMs](https://www.manning.com/books/rearchitecting-llms) - A book about optimizing and restructuring LLMs for domain-specific use.
 - [PromptZone](https://promptzone.com/) - Community and publication for prompt engineering, LLM comparisons, and AI-tool workflows.
 - [QuiddityML](https://quiddityml.com/) - An educational app covering machine learning from Python and mathematics through deep learning and generative AI, with exercises, projects, and spaced repetition.
+- [AI Resonance](https://wzznne.github.io/AI-Resonance/) - A daily AI radar that ranks GitHub repos, papers, Hacker News, social posts and lab updates with a published, auditable scoring formula, links the same story across sources, and runs entirely on GitHub Actions and Pages. [#opensource](https://github.com/WZZNNE/AI-Resonance)
 
 ### Podcasts
 
