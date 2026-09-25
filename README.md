@@ -244,6 +244,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Bifrost](https://github.com/maximhq/bifrost) - An open-source LLM gateway with routing, load balancing, guardrails, and observability for 1000+ models. #opensource
 - [fal](https://fal.ai/) - A developer platform for accessing and deploying image, video, audio, and 3D generation models.
 
+- [pdfmux](https://pdfmux.com) - Open-source PDF extraction orchestrator. Routes each page to the best of 5 backends (PyMuPDF, OpenDataLoader, RapidOCR, Docling) with optional BYOK LLM fallback. Per-page confidence scoring catches and re-extracts failures. Ranks #2 on opendataloader-bench (200 PDFs). [#opensource](https://github.com/NameetP/pdfmux)
+
 ### Playgrounds
 
 - [OpenAI Playground](https://platform.openai.com/playground) - Explore resources, tutorials, API docs, and dynamic examples.
