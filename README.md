@@ -1,4 +1,4 @@
-# Awesome Generative AI [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+﻿# Awesome Generative AI [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > A curated list of modern Generative Artificial Intelligence projects and services.
 
@@ -244,6 +244,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Bifrost](https://github.com/maximhq/bifrost) - An open-source LLM gateway with routing, load balancing, guardrails, and observability for 1000+ models. #opensource
 - [fal](https://fal.ai/) - A developer platform for accessing and deploying image, video, audio, and 3D generation models.
 
+- [Prismix](https://prismix.dev) - Real-time status dashboard for 75+ AI services (OpenAI, Anthropic, Cursor, Groq, DeepSeek, Gemini, etc.) with free email alerts, MCP server for Claude Desktop, curated AI news feed, and MCP server directory. [#opensource](https://github.com/Prismor/Pulse)
 ### Playgrounds
 
 - [OpenAI Playground](https://platform.openai.com/playground) - Explore resources, tutorials, API docs, and dynamic examples.
