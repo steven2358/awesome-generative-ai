@@ -239,6 +239,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Obsidian Engine](https://github.com/harshithkantamneni/obsidian-engine) - A 13-stage pipeline for generating YouTube documentary videos from a topic. #opensource
 
 ### Avatars
+- [TalkPix](https://www.talkpix.ai/) - A browser tool that turns one portrait photo and a typed script or audio clip into a lip-synced talking video.
 
 ### Animation
 
