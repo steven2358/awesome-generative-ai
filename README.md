@@ -160,6 +160,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [ASReview](https://asreview.nl/) - Open-source AI-powered tool for systematic reviews, helping researchers screen large volumes of academic literature efficiently. [#opensource](https://github.com/asreview/asreview)
 - [Local Deep Research](https://github.com/LearningCircuit/local-deep-research) - A deep research tool for searching academic sources, the web, and private documents with local or cloud LLMs. [#opensource](https://github.com/LearningCircuit/local-deep-research)
 - [Rayyan](https://www.rayyan.ai/) - An AI-powered platform for managing systematic literature reviews with collaborative screening and data management tools.
+- [Paper2Agent](https://paper2agent.ai/) - Converts research papers and associated codebases into tested MCP servers and interactive AI agents. [#opensource](https://github.com/jmiao24/Paper2Agent)
 
 ### Leaderboards
 
@@ -241,6 +242,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Model Context Protocol](https://modelcontextprotocol.io/) - An open standard for connecting AI models to external tools and data sources. [MCP Registry](https://registry.modelcontextprotocol.io/) [#opensource](https://github.com/modelcontextprotocol/modelcontextprotocol)
 - [Steel Browser](https://github.com/steel-dev/steel-browser) - An open-source browser sandbox and automation infrastructure for AI agents, with session management, screenshots, PDFs, proxies, and anti-bot tooling. #opensource
 - [Bifrost](https://github.com/maximhq/bifrost) - An open-source LLM gateway with routing, load balancing, guardrails, and observability for 1000+ models. #opensource
+- [fal](https://fal.ai/) - A developer platform for accessing and deploying image, video, audio, and 3D generation models.
 
 ### Playgrounds
 

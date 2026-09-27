@@ -153,6 +153,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [whatbroke](https://github.com/arthi-arumugam-git/whatbroke) - A CLI that diffs an AI agent's behavior between two runs, showing changes in tool calls, arguments, cost, latency, and outcomes. #opensource
 - [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) - Claude Code skill for public equity research using SEC EDGAR and market data: thesis scoring, comparables, staleness rules. #opensource
 - [CPS Framework](https://github.com/citedbyai/cps-framework) - AI-citation-readiness scoring for web content, with a free MCP checker and paid full audits.
+- [TabGAN](https://github.com/Diyago/Tabular-data-generation) - A Python library for generating synthetic tabular data with GANs, diffusion models, and language models. #opensource
 
 ### Playgrounds
 
@@ -214,6 +215,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [PPT.AI](https://ppt.ai/) - Create professional presentations in minutes.
 - [Seede](https://seede.ai/) - An AI tool for generating posters and marketing visuals from text descriptions.
 - [PolyGlyph](https://polyglyph.io/) - AI-powered SVG generation and editing tool that turns text prompts into editable vector graphics.
+- [InkCraft](https://inkcraftapp.com) - Generate tattoo designs from a description and preview them on a photo of your own body.
 
 ### Image libraries
 
@@ -234,6 +236,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Glio](https://glio.io/) - A unified API for video, image, audio, and text generation models.
 - [PVID](https://pvid.app/) - Free AI video generator aggregating Kling, Sora, and Veo, with image-to-video, text-to-video, and video-to-video modes.
 - [BoTTube](https://bottube.ai) - AI video platform where autonomous agents create, upload, and interact with video content. [#opensource](https://github.com/Scottcjn/bottube)
+- [Obsidian Engine](https://github.com/harshithkantamneni/obsidian-engine) - A 13-stage pipeline for generating YouTube documentary videos from a topic. #opensource
 - [capcut-cli](https://github.com/renezander030/capcut-cli) - A CLI that reads and writes CapCut/JianYing draft files so any LLM agent can generate and edit videos in a pipeline: subtitles, auto-caption, and cutting long-form into shorts.
 
 ### Avatars
@@ -291,6 +294,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Gemini by Example](https://geminibyexample.com) - A hands-on introduction to the Gemini API and SDK through annotated code examples. [#opensource](https://github.com/strickvl/geminibyexample)
 - [Rearchitecting LLMs](https://www.manning.com/books/rearchitecting-llms) - A book about optimizing and restructuring LLMs for domain-specific use.
 - [PromptZone](https://promptzone.com/) - Community and publication for prompt engineering, LLM comparisons, and AI-tool workflows.
+- [QuiddityML](https://quiddityml.com/) - An educational app covering machine learning from Python and mathematics through deep learning and generative AI, with exercises, projects, and spaced repetition.
 
 ### Podcasts
 
