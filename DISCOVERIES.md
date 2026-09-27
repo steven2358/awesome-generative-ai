@@ -188,6 +188,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Ebiose](https://github.com/ebiose-ai/ebiose) - An open-source framework for creating and evolving AI agents through iterative selection. #opensource
 - [OpenPaw](https://github.com/daxaur/openpaw) - A CLI tool that turns Claude Code into a personal assistant with skills for email, calendar, Spotify, smart home, and Slack. #opensource
 - [AnveVoice](https://anvevoice.app) - Voice AI assistant for websites that takes real DOM actions, navigating pages, filling forms, and clicking buttons in 50+ languages.
+- [Aident Loadout](https://aident.ai) - A capability layer that connects AI agents to 1,000+ apps through one remote MCP server, with a credential vault and audit log. [#opensource](https://github.com/Aident-AI/aident-skill)
+
 
 ## Image
 
