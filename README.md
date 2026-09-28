@@ -266,6 +266,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ## Agents
 
+- [Yila AI](https://yila.ai) — Evidence-traceable research agent for literature review, PDF analysis, figures, and academic slides.
 ### Autonomous agents
 
 - [Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
