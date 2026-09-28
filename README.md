@@ -109,6 +109,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [QuillBot](https://quillbot.com) - AI-powered paraphrasing tool.
 - [Postwise](https://postwise.ai/) - Write tweets, schedule posts and grow your following using AI.
 - [Copysmith](https://copysmith.ai/) - AI content creation solution for Enterprise & eCommerce.
+- [Humanize-Text](https://github.com/lynote-ai/humanize-text) - AI text humanizer with a multilingual rewriting pipeline and step-by-step examples. #opensource
 
 ### ChatGPT extensions
 
@@ -159,6 +160,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [ASReview](https://asreview.nl/) - Open-source AI-powered tool for systematic reviews, helping researchers screen large volumes of academic literature efficiently. [#opensource](https://github.com/asreview/asreview)
 - [Local Deep Research](https://github.com/LearningCircuit/local-deep-research) - A deep research tool for searching academic sources, the web, and private documents with local or cloud LLMs. [#opensource](https://github.com/LearningCircuit/local-deep-research)
 - [Rayyan](https://www.rayyan.ai/) - An AI-powered platform for managing systematic literature reviews with collaborative screening and data management tools.
+- [Paper2Agent](https://paper2agent.ai/) - Converts research papers and associated codebases into tested MCP servers and interactive AI agents. [#opensource](https://github.com/jmiao24/Paper2Agent)
 
 ### Leaderboards
 
@@ -240,6 +242,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Model Context Protocol](https://modelcontextprotocol.io/) - An open standard for connecting AI models to external tools and data sources. [MCP Registry](https://registry.modelcontextprotocol.io/) [#opensource](https://github.com/modelcontextprotocol/modelcontextprotocol)
 - [Steel Browser](https://github.com/steel-dev/steel-browser) - An open-source browser sandbox and automation infrastructure for AI agents, with session management, screenshots, PDFs, proxies, and anti-bot tooling. #opensource
 - [Bifrost](https://github.com/maximhq/bifrost) - An open-source LLM gateway with routing, load balancing, guardrails, and observability for 1000+ models. #opensource
+- [fal](https://fal.ai/) - A developer platform for accessing and deploying image, video, audio, and 3D generation models.
 
 ### Playgrounds
 
@@ -259,6 +262,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [RunThisLLM](https://runthisllm.com) - See which LLMs you can run on your hardware.
 - [Harbor](https://github.com/av/harbor) - A containerized toolkit for running local LLM backends, UIs, and supporting services with one command. #opensource
 - [off-grid-mobile](https://github.com/alichherawalla/off-grid-mobile-ai) - React Native app for running LLMs, vision models, and Stable Diffusion on-device on iOS and Android without internet access. #opensource
+- [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - OpenAI-compatible local LLM inference server optimized for Apple Silicon, with tool calling, reasoning, vision, and structured output support. #opensource
 
 ## Agents
 
@@ -408,6 +412,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Vibe Transcribe](https://thewh1teagle.github.io/vibe/) - All-in-one solution for effortless audio and video transcription. [#opensource](https://github.com/thewh1teagle/vibe)
 - [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++. #opensource
 - [whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2) - A Whisper CLI client compatible with the original OpenAI client, using CTranslate2 for faster inference. [#opensource](https://github.com/Softcatala/whisper-ctranslate2)
+- [NeMo](https://github.com/NVIDIA-NeMo/Speech) - An open-source framework by NVIDIA for building speech AI systems, including automatic speech recognition and text-to-speech. #opensource
+- [Parakeet](https://huggingface.co/collections/nvidia/parakeet-asr-659711f49d1469e51546e021) - A family of open speech recognition models by NVIDIA, including streaming and multilingual variants. #opensource
 
 ### Music
 
