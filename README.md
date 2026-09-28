@@ -295,6 +295,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [OpenAgents](https://github.com/openagents-org/openagents) - Open-source platform for building AI agent networks with multi-protocol support (WebSocket, gRPC, HTTP, MCP, A2A). #opensource
 - [Dorothy](https://github.com/Charlie85270/Dorothy) - An open-source desktop app to orchestrate multiple AI CLI agents simultaneously with automations and Kanban management. #opensource
 - [Hive](https://github.com/aden-hive/hive) - An open-source multi-agent framework with auto-generated graphs, evolution loops, and MCP integration. #opensource
+- [Raven](https://github.com/EverMind-AI/Raven) - A host agent that plans complex tasks as DAGs and orchestrates built-in research, coding, design, and on-call agents alongside third-party agents such as Claude Code, Codex, OpenClaw, and Hermes Agent. #opensource
 
 ### Custom assistants
 
