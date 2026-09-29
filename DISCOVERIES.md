@@ -27,6 +27,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Models
 
 - [SambaNova](https://sambanova.ai/) - Full stack generative AI platform, from chip to model, designed for enterprise and government entities and powered by a dataflow architecture.
+- [Jebadiah](https://jebadiah.ai) - Open-weight decision models that answer typed questions about JSON state with a calibrated probability per option, in one forward pass. [#opensource](https://github.com/getainode/jebadiah)
 
 ### Chatbots
 
