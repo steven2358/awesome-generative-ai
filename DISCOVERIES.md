@@ -41,6 +41,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [GPTHelp.ai](https://gpthelp.ai/) - AI customer support chatbot for your website.
 - [AnythingLLM](https://anythingllm.com/) - Turn any document, resource, or piece of content into context that any LLM can use. [#opensource](https://github.com/Mintplex-Labs/anything-llm)
 - [Character AI Bots](https://www.characteraibots.com/) - A directory of free AI roleplay characters available on Character.AI, JanitorAI, and SpicyChat.
+- [Scowld](https://scowld.xyz/) - Animated AI voice companion for iPhone and iPad with optional vision, local chat history, and bring-your-own model and speech providers. [#opensource](https://github.com/apoorvdarshan/scowld)
 
 ### Custom interfaces
 
