@@ -208,6 +208,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [deAPI.ai](https://deapi.ai/) - A unified inference API to open-source AI models for text-to-image, text-to-speech, transcription, video generation, and more, using a decentralized GPU cloud.
 - [MyPicNow](https://www.mypicnow.com) - An AI headshot generator for creating professional profile photos from uploaded selfies.
 - [PhotoMentor](https://photomentor.pro) - An AI tool for analyzing photos and providing composition and lighting feedback.
+- [Claude Imagine](https://claudeimagine.com) - An AI image and video generator that works on the web and as an MCP connector inside Claude (Nano Banana 2, GPT Image 2.5, Seedream 4.5, Flux 2 Pro, Veo 3.1 Fast).
 
 ### Graphic design
 
