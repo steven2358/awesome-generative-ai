@@ -237,6 +237,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [PVID](https://pvid.app/) - Free AI video generator aggregating Kling, Sora, and Veo, with image-to-video, text-to-video, and video-to-video modes.
 - [BoTTube](https://bottube.ai) - AI video platform where autonomous agents create, upload, and interact with video content. [#opensource](https://github.com/Scottcjn/bottube)
 - [Obsidian Engine](https://github.com/harshithkantamneni/obsidian-engine) - A 13-stage pipeline for generating YouTube documentary videos from a topic. #opensource
+- [PowerTokens Video Studio](https://github.com/PowerTokens/video-studio) - A Windows desktop app focused on batch rendering Excel/CSV shot lists with Wan 3.0, with a shared character sheet and resume by task ID (requires a PowerTokens API key). #opensource
 
 ### Avatars
 
