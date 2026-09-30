@@ -277,6 +277,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [KeepRule](https://keeprule.com) - Investment-discipline tool with curated principles from 26 investors and AI prompts for scenario analysis.
 - [GEOScore AI](https://geoscoreai.com/) - Free AI search visibility scanner that checks 11 GEO signals for ChatGPT, Perplexity, and Gemini visibility.
 - [DeepDNA](https://deepdna.ai) - AI-powered DNA analysis platform for personalized health, nutrition, and pharmacogenomic insights from consumer genetic data.
+- [three.ws Forge](https://three.ws/forge) - Generate textured 3D models (GLB) from a text prompt, photos, or a sketch in the browser, with auto-rigging for characters and a free draft tier. [#opensource](https://github.com/nirholas/three.ws)
 
 ## Learning resources
 
