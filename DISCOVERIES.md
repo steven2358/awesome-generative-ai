@@ -311,5 +311,6 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Awesome AI Software Development Agents](https://github.com/flatlogic/awesome-ai-software-development-agents) - Curated list of AI agents designed for software development tasks.
 - [MODELDROP](https://modeldrop.fyi/) - A community tracker for new generative media AI model releases.
 - [MyVibe](https://www.myvibe.so) - A feed for discovering and sharing AI-created web apps, demos, and interactive projects.
+- [Awesome AI-Built Games](https://github.com/lappemic/awesome-ai-built-games) - Playable games whose code was mostly written by AI coding agents.
 
 ### Lists on ChatGPT
