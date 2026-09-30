@@ -160,6 +160,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Local LLM Deployment
 
 - [Minima](https://github.com/dmayboroda/minima) - On-premises RAG with configurable Docker containers. #opensource
+- [Self-Hosted AI Stack](https://github.com/hwdsl2/self-hosted-ai-stack) - Docker Compose stack for private local AI with Ollama, an OpenAI-compatible gateway, RAG, voice, and MCP tools. #opensource
 
 ## Agents
 
