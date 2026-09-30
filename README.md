@@ -203,6 +203,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Lovable](https://lovable.dev) - Conversational full-stack app generation, turning ideas into deployable code.
 - [aider](https://aider.chat/) - AI pair programming in your terminal, supporting multiple LLM providers. [#opensource](https://github.com/paul-gauthier/aider)
 - [Kilo](https://kilo.ai/) - Open-source AI coding assistant for VS Code, JetBrains, and the CLI. [#opensource](https://github.com/Kilo-Org/kilocode)
+- [ANUS](https://anus.dev) - Free coding agent in your terminal that sends every request to the smartest free model that is up today, and switches to the next one when a model hits its limit. [#opensource](https://github.com/anus-dev/anus)
 
 ### Developer tools
 
