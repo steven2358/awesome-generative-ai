@@ -208,6 +208,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [deAPI.ai](https://deapi.ai/) - A unified inference API to open-source AI models for text-to-image, text-to-speech, transcription, video generation, and more, using a decentralized GPU cloud.
 - [MyPicNow](https://www.mypicnow.com) - An AI headshot generator for creating professional profile photos from uploaded selfies.
 - [PhotoMentor](https://photomentor.pro) - An AI tool for analyzing photos and providing composition and lighting feedback.
+- [Tesla Wrap Generator](https://teslawrapgenerator.com/) - Turn a prompt or photo into a Tesla Paint Shop custom wrap for your exact model, preview it in 3D and download the PNG.
 
 ### Graphic design
 
