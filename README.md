@@ -393,6 +393,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 ### Animation
 
 - [Autodesk Flow Studio](https://www.autodesk.com/products/flow-studio) - AI-powered tool for animating and compositing CG characters into live-action footage.
+- [Faceless.so](https://faceless.so/) - Turns a niche into a daily faceless video channel: AI script, voiceover, visuals and captions, auto-posted to YouTube, TikTok, Instagram and more.
 
 ## Audio
 
