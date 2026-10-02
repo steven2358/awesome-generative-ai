@@ -311,5 +311,6 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Awesome AI Software Development Agents](https://github.com/flatlogic/awesome-ai-software-development-agents) - Curated list of AI agents designed for software development tasks.
 - [MODELDROP](https://modeldrop.fyi/) - A community tracker for new generative media AI model releases.
 - [MyVibe](https://www.myvibe.so) - A feed for discovering and sharing AI-created web apps, demos, and interactive projects.
+- [Awesome Opus 5.5 Video Prompts](https://github.com/eastling/awesome-opus-5.5-video-prompts) - A curated list of prompts for making videos with Claude Opus 5.5, from motion graphics and launch films to explainers, 3D scenes and games.
 
 ### Lists on ChatGPT
