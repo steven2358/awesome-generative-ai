@@ -259,6 +259,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
 - [Soundraw](https://soundraw.io/) - Create your beats with the power of AI.
 - [Jammable](https://www.jammable.com/) - AI voice covers and music creation platform.
+- [Sonicert](https://sonicert.com/) - Free AI music detector that checks whether a song was AI-generated, with model-level signals for Suno and Udio output and a public 26-track benchmark.
 
 ## Other
 
