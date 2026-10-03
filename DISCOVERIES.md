@@ -254,6 +254,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Typist](https://iamtypist.dev) - Fast audio transcription service powered by Whisper models hosted on Groq.
 - [Echo99](https://www.echo99.app/) - A private macOS call recorder with on-device transcription and speaker labeling.
+- [Captions Generator](https://captionsgenerator.app/) - AI caption and subtitle generator for videos, with styled burned-in captions, SRT/VTT export and translation into 100+ languages.
 
 ### Music
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
