@@ -254,6 +254,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Typist](https://iamtypist.dev) - Fast audio transcription service powered by Whisper models hosted on Groq.
 - [Echo99](https://www.echo99.app/) - A private macOS call recorder with on-device transcription and speaker labeling.
+- [ReelGrab](https://reelgrab.ink/) - Paste an Instagram Reel, TikTok or YouTube Short link and get the AI transcript, a summary and the MP3, free with no signup.
 
 ### Music
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
