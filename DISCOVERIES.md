@@ -49,6 +49,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Search engines
 
 - [MemFree](https://github.com/memfreeme/memfree) - Hybrid AI search engine. Get instant answers from your knowledge base and the whole internet. #opensource
+- [GetAskAI](https://getaskai.com/) - No-login AI answer engine that looks things up online when a question calls for it and puts numbered source links under those replies; it can also read PDFs and photos.
 
 ### Local search engines
 
