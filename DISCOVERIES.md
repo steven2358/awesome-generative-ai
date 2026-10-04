@@ -237,6 +237,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [PVID](https://pvid.app/) - Free AI video generator aggregating Kling, Sora, and Veo, with image-to-video, text-to-video, and video-to-video modes.
 - [BoTTube](https://bottube.ai) - AI video platform where autonomous agents create, upload, and interact with video content. [#opensource](https://github.com/Scottcjn/bottube)
 - [Obsidian Engine](https://github.com/harshithkantamneni/obsidian-engine) - A 13-stage pipeline for generating YouTube documentary videos from a topic. #opensource
+- [Azurade AI](https://azurade.com/) - An image and video studio with over 30 models (Veo 3.1, Seedance 2.5, Nano Banana Pro), a REST API and a hosted MCP server, paid per generation from credits that never expire.
 
 ### Avatars
 
