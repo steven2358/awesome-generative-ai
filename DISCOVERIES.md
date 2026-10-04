@@ -52,6 +52,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Local search engines
 
+- [ThreadShelf](https://github.com/ChrystianSchutz/ThreadShelf) - Local-first archive and semantic search for AI conversation histories across ChatGPT, Claude, Google AI Studio, OpenRouter, LM Studio, and Grok, with local embeddings and MCP access. #opensource
+
 ### Writing assistants
 
 - [Yarnit](https://www.yarnit.app/) - Yarnit, a digital storytelling application that uses generative AI to storyboard, research and design your ideas.
