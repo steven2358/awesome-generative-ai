@@ -101,6 +101,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Price Per Token](https://pricepertoken.com/) - A tool for comparing LLM API pricing, token usage, and model benchmarks.
 - [Rival](https://rival.tips) - Leaderboard ranking 200+ AI models based on blind A/B human preference votes.
+- [llmrun Composite Score](https://llmrun.dev/benchmark/llmrun-score) - A composite LLM ranking fitted with a 2PL IRT model over results published by Epoch AI, LiveBench, SWE-bench and MMLU-Pro.
 
 ### Other text generators
 
@@ -160,6 +161,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Local LLM Deployment
 
 - [Minima](https://github.com/dmayboroda/minima) - On-premises RAG with configurable Docker containers. #opensource
+- [llmrun](https://llmrun.dev) - Pick a GPU, Apple Silicon Mac or mini PC and see which open models fit, with VRAM per quantization and estimated tokens per second.
 
 ## Agents
 
