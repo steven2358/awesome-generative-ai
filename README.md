@@ -340,6 +340,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Reve Image](https://reve.com/) - A model trained from the ground up to excel at prompt adherence, aesthetics, and typography.
 - [Magnific](https://www.magnific.com/) - AI-powered design tools including image generation, background removal, and creative templates.
 - [FigureLabs](https://www.figurelabs.ai/) - An AI tool for generating publication-ready scientific figures in vector format from text descriptions or sketches.
+- [HallowPaws](https://hallowpaws.com/) - AI Halloween costumes for dogs and cats: upload one pet photo, pick from 16 fixed presets, and get an HD portrait in about 30 seconds that keeps breed, fur colour, and eyes.
 
 ### Graphic design
 
