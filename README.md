@@ -137,6 +137,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [NotebookLM](https://notebooklm.google/) - A research and note-taking online tool to interact with documents, powered by Google Gemini.
 - [Open Notebook](https://www.open-notebook.ai) - An open source implementation of NotebookLM with more flexibility and features. [#opensource](https://github.com/lfnovo/open-notebook)
 - [Screenpipe](https://github.com/screenpipe/screenpipe) - An open-source tool for recording screen and audio activity with AI-powered search, automations, and support for local LLMs. #opensource
+- [Horizon](https://github.com/Thysrael/Horizon) - A self-hosted AI news radar that aggregates multiple sources, deduplicates, scores, enriches, and delivers personalized daily briefings.
 
 ### Meeting assistants
 
