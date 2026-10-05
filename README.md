@@ -278,6 +278,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [AutoGen](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
 - [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation.
 - [Devin](https://devin.ai/) - An autonomous AI software engineer by Cognition Labs.
+- [Kortix](https://github.com/kortix-ai/suna) - Open-source AI Management System: agents, skills, company memory and connectors in one git repo you own, with an isolated Linux sandbox per session and reviewable change requests. [#opensource](https://github.com/kortix-ai/suna)
+
 - [OpenHands](https://github.com/OpenHands/OpenHands) - An autonomous agent designed to navigate the complexities of software engineering. #opensource
 - [Davika](https://github.com/stitionai/devika) - An agentic AI software engineer. #opensource
 - [n8n](https://n8n.io/) - A workflow automation platform that combines AI capabilities with business process automation.
