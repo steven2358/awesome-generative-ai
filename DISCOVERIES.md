@@ -160,6 +160,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Local LLM Deployment
 
 - [Minima](https://github.com/dmayboroda/minima) - On-premises RAG with configurable Docker containers. #opensource
+- [ModelVRAM](https://modelvram.com/) - Estimate the GPU memory needed to run or fine-tune any Hugging Face LLM, with weights and KV cache read from the model's own files and checked against real llama.cpp and vLLM logs. [#opensource](https://github.com/159753a52/llm-vram-calculator)
 
 ## Agents
 
