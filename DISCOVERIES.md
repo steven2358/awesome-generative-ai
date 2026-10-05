@@ -208,6 +208,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [deAPI.ai](https://deapi.ai/) - A unified inference API to open-source AI models for text-to-image, text-to-speech, transcription, video generation, and more, using a decentralized GPU cloud.
 - [MyPicNow](https://www.mypicnow.com) - An AI headshot generator for creating professional profile photos from uploaded selfies.
 - [PhotoMentor](https://photomentor.pro) - An AI tool for analyzing photos and providing composition and lighting feedback.
+- [TryOnSwap](https://tryonswap.com/en) - Create AI clothing previews from a model photo and garment images, including single items, outfits and new scenes.
 
 ### Graphic design
 
@@ -259,6 +260,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
 - [Soundraw](https://soundraw.io/) - Create your beats with the power of AI.
 - [Jammable](https://www.jammable.com/) - AI voice covers and music creation platform.
+- [Songifted](https://songifted.com/) - Create personalized song gifts from names and memories, with lyrics approval before recording and a free 45-second preview.
 
 ## Other
 
