@@ -110,6 +110,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Postwise](https://postwise.ai/) - Write tweets, schedule posts and grow your following using AI.
 - [Copysmith](https://copysmith.ai/) - AI content creation solution for Enterprise & eCommerce.
 - [Humanize-Text](https://github.com/lynote-ai/humanize-text) - AI text humanizer with a multilingual rewriting pipeline and step-by-step examples. #opensource
+- [OpenPaper](https://openpaper.dev) - Open-source AI research-paper writer that drafts academic papers with citations verified against real databases (OpenAlex, Crossref, and Semantic Scholar).
 
 ### ChatGPT extensions
 
