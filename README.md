@@ -1,5 +1,4 @@
 # Awesome Generative AI [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-
 > A curated list of modern Generative Artificial Intelligence projects and services.
 
 Generative Artificial Intelligence is a technology that creates original content such as images, sounds, and texts by using machine learning algorithms that are trained on large amounts of data. Unlike other forms of AI, it is capable of creating unique and previously unseen outputs such as photorealistic images, digital art, music, and writing. These outputs often have their own unique style and can even be hard to distinguish from human-created works. Generative AI has a wide range of applications in fields such as of art, entertainment, marketing, academia, and computer science.
@@ -396,9 +395,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Autodesk Flow Studio](https://www.autodesk.com/products/flow-studio) - AI-powered tool for animating and compositing CG characters into live-action footage.
 
 ## Audio
-
+- [usesuno](https://usesuno.online) - Free web toolkit for Suno AI: multi-layer prompt builder, style tag cleaner, and track/lyrics downloader.
 ### Text-to-speech
-
 - [Eleven Labs](https://elevenlabs.io/) - AI voice generator.
 - [Resemble AI](https://www.resemble.ai/) - AI voice generator and voice cloning for text to speech.
 - [WellSaid](https://www.wellsaid.io/) - Convert text to voice in real time.
@@ -417,7 +415,6 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Parakeet](https://huggingface.co/collections/nvidia/parakeet-asr-659711f49d1469e51546e021) - A family of open speech recognition models by NVIDIA, including streaming and multilingual variants. #opensource
 
 ### Music
-
 - [Harmonai](https://www.harmonai.org/) - We are a community-driven organization releasing open-source generative audio tools to make music production more accessible and fun for everyone.
 - [Mubert](https://mubert.com/) - A royalty-free music ecosystem for content creators, brands and developers.
 - [MusicLM](https://google-research.github.io/seanet/musiclm/examples/) - A model by Google Research for generating high-fidelity music from text descriptions.
