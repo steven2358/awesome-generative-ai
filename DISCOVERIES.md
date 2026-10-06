@@ -181,6 +181,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Fazm](https://fazm.ai) - A native macOS app that runs Claude Code and Codex agents with persistent sessions, and can control the browser and other Mac apps. [#opensource](https://github.com/m13v/fazm)
 - [Network-AI](https://github.com/Jovancoding/Network-AI) - A TypeScript/Node.js multi-agent orchestrator with shared state, guardrails, token budgets, and adapters for multiple agent frameworks. #opensource
 - [Agency Orchestrator](https://github.com/jnMetaCode/agency-orchestrator) - YAML-first multi-agent workflow orchestrator with built-in AI roles, DAG parallelism, and conditional branching. Supports DeepSeek, Claude, OpenAI, and Ollama. #opensource
+- [Semantik](https://www.noetive.io/semantik) - A semantic message broker for AI agents. Subscribers describe the meaning they care about in [SemQL](https://www.semql.org/) and every matching message arrives over a live stream, with no topic names to agree on. The same messages can be searched on demand.
+- [Bud](https://www.noetive.io/bud) - Mail, calendar and contacts built for AI agents. Each agent gets a real address, a calendar and an address book through one API, with sending limits it can read and can't change. In preview.
 
 ### Custom assistants
 
