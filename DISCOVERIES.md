@@ -238,10 +238,10 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [BoTTube](https://bottube.ai) - AI video platform where autonomous agents create, upload, and interact with video content. [#opensource](https://github.com/Scottcjn/bottube)
 - [Obsidian Engine](https://github.com/harshithkantamneni/obsidian-engine) - A 13-stage pipeline for generating YouTube documentary videos from a topic. #opensource
 
+- [ZombieHug](https://aizombie.app/) - Turn two photos into a 20-second vertical zombie love-story video.
 ### Avatars
 
 ### Animation
-- [ZombieHug](https://aizombie.app/) - Turn two photos into a 20-second vertical zombie love-story video.
 
 ## Audio
 
