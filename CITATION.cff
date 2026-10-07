@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: Awesome Generative AI
+message: "If you use this resource, please cite it as below."
+type: dataset
+authors:
+  - family-names: Van Vaerenbergh
+    given-names: Steven
+    orcid: https://orcid.org/0000-0003-3091-0171
+repository-code: https://github.com/steven2358/awesome-generative-ai
+url: https://github.com/steven2358/awesome-generative-ai
+abstract: >-
+  A curated list of modern Generative AI projects and services.
+license: CC0-1.0
+date-released: 2022-10-20
