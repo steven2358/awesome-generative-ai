@@ -85,6 +85,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [SageCollab](https://sagecollab.com/) - SageCollab brings team collaboration features to generative AI.
 - [Worksheets.ai](https://www.worksheets.ai/) - Generate educational worksheets and lesson plans with AI.
 - [Recall](https://www.recall.it/) - A self-organizing knowledge base, where you can summarize and chat with any online content.
+- [Comment.io](https://comment.io) - Shared documents where people and agents work together, with human corrections keeping shared knowledge current. [MCP guide](https://comment.io/llms/mcp.md).
 
 ### Meeting assistants
 - [Goelo](https://www.goelo.com/) - Goelo helps sales teams automatically fill their CRM by recording meetings to create summaries and generate a knowledge base.
@@ -181,7 +182,6 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Fazm](https://fazm.ai) - A native macOS app that runs Claude Code and Codex agents with persistent sessions, and can control the browser and other Mac apps. [#opensource](https://github.com/m13v/fazm)
 - [Network-AI](https://github.com/Jovancoding/Network-AI) - A TypeScript/Node.js multi-agent orchestrator with shared state, guardrails, token budgets, and adapters for multiple agent frameworks. #opensource
 - [Agency Orchestrator](https://github.com/jnMetaCode/agency-orchestrator) - YAML-first multi-agent workflow orchestrator with built-in AI roles, DAG parallelism, and conditional branching. Supports DeepSeek, Claude, OpenAI, and Ollama. #opensource
-- [Comment.io](https://comment.io) - Shared documents where people and agents work together, with human corrections keeping shared knowledge current. [MCP guide](https://comment.io/llms/mcp.md).
 
 ### Custom assistants
 
