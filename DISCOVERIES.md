@@ -241,6 +241,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Avatars
 
 ### Animation
+- [ZombieHug](https://aizombie.app/) - Turn two photos into a 20-second vertical zombie love-story video.
 
 ## Audio
 
