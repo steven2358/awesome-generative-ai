@@ -241,6 +241,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Avatars
 
 ### Animation
+- [Incarn](https://www.incarn.co/en) - Animates old family photos and ancestor portraits into short lifelike videos, paid per photo, with an API and an MCP server.
 
 ## Audio
 
