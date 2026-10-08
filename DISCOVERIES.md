@@ -294,6 +294,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Rearchitecting LLMs](https://www.manning.com/books/rearchitecting-llms) - A book about optimizing and restructuring LLMs for domain-specific use.
 - [PromptZone](https://promptzone.com/) - Community and publication for prompt engineering, LLM comparisons, and AI-tool workflows.
 - [QuiddityML](https://quiddityml.com/) - An educational app covering machine learning from Python and mathematics through deep learning and generative AI, with exercises, projects, and spaced repetition.
+- [AiBook](https://cdn.shoemoney.com/aibook/AiBook.pdf) - A free, humorous field manual for managing AI agents in production, with 62 short chapters on verification, evaluation, and the ways agents fail.
 
 ### Podcasts
 
