@@ -223,6 +223,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Stable Diffusion resources
 
+- [Hinode](https://hinode.run/) - A cloud Linux workspace with single-GPU machines (L4, L40S, RTX PRO 6000) billed by the minute, where ComfyUI and other AI apps install in one click.
+
 ## Video
 - [Twelve Labs](https://www.twelvelabs.io/) - Helping developers build programs that can see, listen, and understand the world through video understanding.
 - [invideo AI](https://invideo.io/) - Turn ideas into videos.
