@@ -154,6 +154,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) - Claude Code skill for public equity research using SEC EDGAR and market data: thesis scoring, comparables, staleness rules. #opensource
 - [CPS Framework](https://github.com/citedbyai/cps-framework) - AI-citation-readiness scoring for web content, with a free MCP checker and paid full audits.
 - [TabGAN](https://github.com/Diyago/Tabular-data-generation) - A Python library for generating synthetic tabular data with GANs, diffusion models, and language models. #opensource
+- [Shannon API](https://shannonapi.xyz/) - An OpenAI-compatible LLM gateway: one API key and one base URL for multiple leading models, with a model marketplace, per-model pricing, and usage-based billing.
 
 ### Playgrounds
 
