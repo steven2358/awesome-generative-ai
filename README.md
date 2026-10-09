@@ -390,6 +390,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [D-ID](https://www.d-id.com/) - Create and interact with talking avatars at the touch of a button.
 - [HeyGen](https://app.heygen.com/) - Turn scripts into talking videos with customizable AI avatars in minutes.
 - [Affogato](https://affogato.ai/) - Create AI-generated product video ads for TikTok, Reels, and Shorts.
+- [AdsTurbo](https://adsturbo.ai/) - Turn a product link or a reference ad into short video ads with AI actors, lip sync and translation into 35+ languages.
 
 ### Animation
 
