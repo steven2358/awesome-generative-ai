@@ -249,6 +249,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Deepgram](https://deepgram.com/) - Real-time speech recognition and understanding with advanced AI.
 - [Kveeky](https://kveeky.com) - An AI text-to-speech tool for generating voiceovers with 100+ natural-sounding voices.
 - [Voice Clone](https://voice-clone.org/) - Voice cloning tool with text-to-speech capabilities. [#opensource](https://github.com/tanchaowen84/voice-clone)
+- [EarDub](https://www.eardub.com/) - AI YouTube dubbing extension for Chrome that turns a video's captions into a synced voice-over in 17 languages.
 
 ### Speech-to-text
 
