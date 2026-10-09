@@ -336,6 +336,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [KREA](https://www.krea.ai/) - Generate high quality visuals with an AI that knows about your styles, concepts, or products.
 - [Nightcafe](https://creator.nightcafe.studio/) - NightCafe Creator is an AI Art Generator app with multiple methods of AI art generation.
 - [Leonardo AI](https://leonardo.ai/) - Create production-quality visual assets for your projects with unprecedented quality, speed, and style.
+- [LivePair AI](https://livepairai.com/) - A private AI generation studio and API for images and video across frontier models, with per-request billing via API key or x402.
 - [Recraft](https://www.recraft.ai/) - An AI tool that lets creators easily generate and iterate original images, vector art, illustrations, icons, and 3D graphics.
 - [Reve Image](https://reve.com/) - A model trained from the ground up to excel at prompt adherence, aesthetics, and typography.
 - [Magnific](https://www.magnific.com/) - AI-powered design tools including image generation, background removal, and creative templates.
