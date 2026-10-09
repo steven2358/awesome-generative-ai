@@ -237,6 +237,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [PVID](https://pvid.app/) - Free AI video generator aggregating Kling, Sora, and Veo, with image-to-video, text-to-video, and video-to-video modes.
 - [BoTTube](https://bottube.ai) - AI video platform where autonomous agents create, upload, and interact with video content. [#opensource](https://github.com/Scottcjn/bottube)
 - [Obsidian Engine](https://github.com/harshithkantamneni/obsidian-engine) - A 13-stage pipeline for generating YouTube documentary videos from a topic. #opensource
+- [VideoFreeTier](https://videofreetier.com/) - Dated free-tier figures for twelve AI video models, covering credits, daily caps, watermark behaviour and the measured cost of one generation, with every row carrying the channel it was observed on, the date, and whether the source was a vendor statement or a report. [#opensource](https://github.com/nicoleiszsy/seedance-2-5-free-tier-data)
 
 ### Avatars
 
