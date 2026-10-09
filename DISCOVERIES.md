@@ -249,6 +249,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Deepgram](https://deepgram.com/) - Real-time speech recognition and understanding with advanced AI.
 - [Kveeky](https://kveeky.com) - An AI text-to-speech tool for generating voiceovers with 100+ natural-sounding voices.
 - [Voice Clone](https://voice-clone.org/) - Voice cloning tool with text-to-speech capabilities. [#opensource](https://github.com/tanchaowen84/voice-clone)
+- [LocalSoundsAPI](https://github.com/aivrar/LocalSoundsAPI) - Portable offline audio studio for Windows with XTTS, Fish Speech, Kokoro, Stable Audio and ACE-Step, voice cloning, a web UI and a local REST API. #opensource
 
 ### Speech-to-text
 
