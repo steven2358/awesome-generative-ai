@@ -254,6 +254,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Typist](https://iamtypist.dev) - Fast audio transcription service powered by Whisper models hosted on Groq.
 - [Echo99](https://www.echo99.app/) - A private macOS call recorder with on-device transcription and speaker labeling.
+- [VidFoil AI](https://vidfoil.app/) - Turns videos into typo-free transcripts and structured Markdown notes using multimodal vision and speech recognition.
 
 ### Music
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
