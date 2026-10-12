@@ -294,6 +294,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Rearchitecting LLMs](https://www.manning.com/books/rearchitecting-llms) - A book about optimizing and restructuring LLMs for domain-specific use.
 - [PromptZone](https://promptzone.com/) - Community and publication for prompt engineering, LLM comparisons, and AI-tool workflows.
 - [QuiddityML](https://quiddityml.com/) - An educational app covering machine learning from Python and mathematics through deep learning and generative AI, with exercises, projects, and spaced repetition.
+- [Nano Banana Live](https://www.nano-banana.live/) - Unofficial, source-checked guide to Google's Nano Banana (Gemini image) models: cloud API usage, local open-weight alternatives, and VRAM/benchmark notes.
 
 ### Podcasts
 
