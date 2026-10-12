@@ -328,6 +328,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [modyfi](https://www.modyfi.com/) - A browser-based design platform with AI-powered image generation, animation, and real-time collaboration.
 - [PhotoRoom](https://www.photoroom.com/) - Create product and portrait pictures using only your phone. Remove background, change background and showcase products.
 - [Photo AI](https://photoai.com/ai-avatars) - Create your own AI-generated avatars.
+- [LivePair AI](https://livepairai.com) - Multimodal image and video generation studio and API — pay-per-call with x402 or prepaid credits; CLI, MCP server, and n8n node.
 - [ClipDrop](https://clipdrop.co/) - Create professional visuals without a photo studio, powered by [stability.ai](https://stability.ai/).
 - [Lensa](https://prisma-ai.com/lensa) - An all-in-one image editing app that includes the generation of personalized avatars using Stable Diffusion.
 - [RunDiffusion](https://rundiffusion.com/) - Cloud-based workspace for creating AI-generated art.
