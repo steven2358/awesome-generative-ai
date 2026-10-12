@@ -367,6 +367,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [PublicPrompts](https://publicprompts.art/) - A collection of free prompts for Stable Diffusion.
 - [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) - Python materials for the online course on diffusion models by [@huggingface](https://github.com/huggingface).
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - A node-based interface for building and running Stable Diffusion workflows. [#opensource](https://github.com/comfyanonymous/ComfyUI)
+- [stablediffusion.fr](https://stablediffusion.fr/) - Free Stable Diffusion online since 2022, no account: text to image, inpainting, upscaling, 1,731 artist styles rendered with SDXL, 93 FLUX.2 styles compared on the same scenes, and 3,000 prompts with their images.
 
 ## Video
 
