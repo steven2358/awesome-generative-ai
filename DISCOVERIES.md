@@ -160,6 +160,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Local LLM Deployment
 
 - [Minima](https://github.com/dmayboroda/minima) - On-premises RAG with configurable Docker containers. #opensource
+- [Outmake](https://outmake.app) - Mac app that downloads open models and runs them on your Mac for chat, pictures, video and voices, and shows which models fit before you download.
 
 ## Agents
 
