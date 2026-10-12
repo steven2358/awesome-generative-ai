@@ -311,5 +311,6 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Awesome AI Software Development Agents](https://github.com/flatlogic/awesome-ai-software-development-agents) - Curated list of AI agents designed for software development tasks.
 - [MODELDROP](https://modeldrop.fyi/) - A community tracker for new generative media AI model releases.
 - [MyVibe](https://www.myvibe.so) - A feed for discovering and sharing AI-created web apps, demos, and interactive projects.
+- [Axiomi](https://axiomi.si/) - Curated directory of open-weight models, ML frameworks, fine-tuning, interpretability, datasets and research platforms, with live arXiv and Hugging Face trending feeds.
 
 ### Lists on ChatGPT
