@@ -101,6 +101,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Price Per Token](https://pricepertoken.com/) - A tool for comparing LLM API pricing, token usage, and model benchmarks.
 - [Rival](https://rival.tips) - Leaderboard ranking 200+ AI models based on blind A/B human preference votes.
+- [The Aggregate](https://theaggregate.ai/) - Free LLM leaderboard that fits one daily ranking across public benchmark leaderboards, with standard errors and source-linked scores.
 
 ### Other text generators
 
