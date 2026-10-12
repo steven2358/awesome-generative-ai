@@ -67,6 +67,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [LogicBalls](https://logicballs.com/) - An AI writing tool for generating blog posts, ads, emails, and social media content. Includes a prompt library.
 - [Publish7](https://publish7.com/) - Agentic platform for digital marketing.
 - [WordLift Agent](https://wordlift.io/agent/) - AI agent for SEO tasks such as product descriptions, internal linking, and SERP analysis.
+- [Email Marketing Bible](https://nitrosend.com/email-marketing-bible) - A data-backed email marketing skill for Claude Code, Codex, and other AI agents, covering automation flows, deliverability, copywriting, email design, and compliance. [#opensource](https://github.com/CosmoBlk/email-marketing-bible)
 
 ### ChatGPT extensions
 
