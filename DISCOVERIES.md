@@ -219,6 +219,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Image libraries
 
+- [Vintage Photo Prompt](https://vintagephotoprompt.com/) - Free gallery of 1980s and retro AI photo prompts with example images, ready to copy into ChatGPT, Gemini or Midjourney.
+
 ### Model libraries
 
 ### Stable Diffusion resources
