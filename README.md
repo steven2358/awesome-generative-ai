@@ -113,6 +113,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### ChatGPT extensions
 
+- [PrivacyScrubber](https://chromewebstore.google.com/detail/privacyscrubber-%E2%80%94-zero-tr/pimoejgefeilajmmbpghifdmhdlkgjol) - Zero-trust client-side PII sanitizer that automatically redacts sensitive personal data and secrets in ChatGPT and Claude before prompts leave the browser.
 - [WebChatGPT](https://chromewebstore.google.com/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn) - Augment your ChatGPT prompts with relevant results from the web.
 - [GPT for Sheets and Docs](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654) - ChatGPT extension for Google Sheets and Google Docs.
 - [YouTube Summary with ChatGPT](https://chromewebstore.google.com/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) - Use ChatGPT to summarize YouTube videos.
