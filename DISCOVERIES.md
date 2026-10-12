@@ -126,6 +126,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Developer tools
 
+- [AIWG](https://github.com/jmagly/aiwg) - Open-source toolkit for deploying reusable agents, skills, and governed workflows across AI coding platforms.
 - [Vectara](https://www.vectara.com/) - A Generative AI product platform for developers.
 - [Gdańsk AI](https://github.com/jmaczan/gdansk-ai) - Full stack AI voice chatbot (STT, LLM, TTS) with integrations to Auth0, OpenAI, Google Cloud and Stripe. #opensource
 - [ZZZ Code AI](https://zzzcode.ai) - AI-powered free website to get any programming question answered or code generated.
