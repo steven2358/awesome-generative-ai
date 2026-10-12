@@ -204,6 +204,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Lovable](https://lovable.dev) - Conversational full-stack app generation, turning ideas into deployable code.
 - [aider](https://aider.chat/) - AI pair programming in your terminal, supporting multiple LLM providers. [#opensource](https://github.com/paul-gauthier/aider)
 - [Kilo](https://kilo.ai/) - Open-source AI coding assistant for VS Code, JetBrains, and the CLI. [#opensource](https://github.com/Kilo-Org/kilocode)
+- [Xenon](https://github.com/xianyu-sheng/Xenon) - Terminal AI coding agent that records every session event in an append-only hash chain, blocks hollow answers with a single verification gate, and lists what it could not verify as an explicit checklist. [#opensource](https://github.com/xianyu-sheng/Xenon)
 
 ### Developer tools
 
