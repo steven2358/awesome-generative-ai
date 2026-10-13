@@ -216,6 +216,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Seede](https://seede.ai/) - An AI tool for generating posters and marketing visuals from text descriptions.
 - [PolyGlyph](https://polyglyph.io/) - AI-powered SVG generation and editing tool that turns text prompts into editable vector graphics.
 - [InkCraft](https://inkcraftapp.com) - Generate tattoo designs from a description and preview them on a photo of your own body.
+- [APPLORE](https://applore.app/ai-app-icon-generator) - Describe your app and generate an original app icon, optionally in the style of real App Store and Google Play icons.
 
 ### Image libraries
 
