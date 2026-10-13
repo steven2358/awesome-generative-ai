@@ -270,6 +270,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 ### Autonomous agents
 
 - [Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [OpenAmer](https://github.com/openamer/openamer) - Self-improving, self-learning open-source agent with real desktop control (files, browser, terminal, GUI), persistent vector memory and a peer-to-peer A2A mesh. Runs fully local on Windows. #opensource
 - [babyagi](https://github.com/yoheinakajima/babyagi) - An AI-powered task management system.
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
