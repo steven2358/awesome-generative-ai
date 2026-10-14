@@ -45,6 +45,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Custom interfaces
 
 - [Atlas UI 3](https://github.com/sandialabs/atlas-ui-3) - Full-stack LLM chat interface with MCP tool integration, multi-provider support, RAG, and agentic workflows. #opensource
+- [JoeBro](https://github.com/joexk1/JoeBro) - Native macOS workspace for chat and document editing with local models via Ollama or any API, plus memory, MCP tools, and deep research. #opensource
 
 ### Search engines
 
