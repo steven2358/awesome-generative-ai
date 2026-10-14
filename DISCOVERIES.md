@@ -208,6 +208,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [deAPI.ai](https://deapi.ai/) - A unified inference API to open-source AI models for text-to-image, text-to-speech, transcription, video generation, and more, using a decentralized GPU cloud.
 - [MyPicNow](https://www.mypicnow.com) - An AI headshot generator for creating professional profile photos from uploaded selfies.
 - [PhotoMentor](https://photomentor.pro) - An AI tool for analyzing photos and providing composition and lighting feedback.
+- [만화 번역기 AI](https://www.mangatranslate.com/ko/ai-manga-translator/) - Ficory LLC의 기업용 만화 리더·번역기는 100개 이상의 언어와 지원되는 모든 번역 언어를 처리하며, 개인의 일괄·맞춤 번역, 스튜디오용 완전한 온라인 Photoshop 방식 편집기와 개인 워크플로용 API를 제공합니다.
 
 ### Graphic design
 
