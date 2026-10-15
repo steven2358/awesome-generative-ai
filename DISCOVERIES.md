@@ -311,5 +311,6 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Awesome AI Software Development Agents](https://github.com/flatlogic/awesome-ai-software-development-agents) - Curated list of AI agents designed for software development tasks.
 - [MODELDROP](https://modeldrop.fyi/) - A community tracker for new generative media AI model releases.
 - [MyVibe](https://www.myvibe.so) - A feed for discovering and sharing AI-created web apps, demos, and interactive projects.
+- [AIBuildersUse](https://aibuildersuse.com) - A ranked directory of AI tools for builders, with a free Stack Picker that recommends a tool stack and estimated monthly cost.
 
 ### Lists on ChatGPT
