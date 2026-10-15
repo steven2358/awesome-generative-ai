@@ -208,6 +208,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [deAPI.ai](https://deapi.ai/) - A unified inference API to open-source AI models for text-to-image, text-to-speech, transcription, video generation, and more, using a decentralized GPU cloud.
 - [MyPicNow](https://www.mypicnow.com) - An AI headshot generator for creating professional profile photos from uploaded selfies.
 - [PhotoMentor](https://photomentor.pro) - An AI tool for analyzing photos and providing composition and lighting feedback.
+- [ImageLoom](https://github.com/elapen/imageloom) - Local AI image studio for Mac with a chat-style UI to create, edit with a brush mask, upscale and export images to PNG, WebP or SVG, running models such as Qwen-Image offline. #opensource
 
 ### Graphic design
 
