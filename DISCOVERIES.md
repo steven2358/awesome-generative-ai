@@ -242,6 +242,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Animation
 
+- [FilmeeAi](https://filmee.app/) - Turns one line of text into a narrated storybook-style anime video, or adds explainer animation to your own talking-head footage.
+
 ## Audio
 
 ### Text-to-speech
