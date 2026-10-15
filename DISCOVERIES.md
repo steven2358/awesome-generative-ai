@@ -216,13 +216,13 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Seede](https://seede.ai/) - An AI tool for generating posters and marketing visuals from text descriptions.
 - [PolyGlyph](https://polyglyph.io/) - AI-powered SVG generation and editing tool that turns text prompts into editable vector graphics.
 - [InkCraft](https://inkcraftapp.com) - Generate tattoo designs from a description and preview them on a photo of your own body.
+- [PromptImage](https://promptimage.cloud) - Free AI image and video studio with a prompt library and multi-model generation.
 
 ### Image libraries
 
 ### Model libraries
 
 ### Stable Diffusion resources
-- [PromptImage](https://promptimage.cloud) - Free AI image and video studio with a prompt library and multi-model generation.
 
 ## Video
 - [Twelve Labs](https://www.twelvelabs.io/) - Helping developers build programs that can see, listen, and understand the world through video understanding.
@@ -238,11 +238,11 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [PVID](https://pvid.app/) - Free AI video generator aggregating Kling, Sora, and Veo, with image-to-video, text-to-video, and video-to-video modes.
 - [BoTTube](https://bottube.ai) - AI video platform where autonomous agents create, upload, and interact with video content. [#opensource](https://github.com/Scottcjn/bottube)
 - [Obsidian Engine](https://github.com/harshithkantamneni/obsidian-engine) - A 13-stage pipeline for generating YouTube documentary videos from a topic. #opensource
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent AI text-to-video generator with a free trial (not affiliated with xAI or X).
 
 ### Avatars
 
 ### Animation
-- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent AI text-to-video generator with a free trial (not affiliated with xAI or X).
 
 ## Audio
 
