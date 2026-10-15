@@ -222,6 +222,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Model libraries
 
 ### Stable Diffusion resources
+- [PromptImage](https://promptimage.cloud) - Free AI image and video studio with a prompt library and multi-model generation.
 
 ## Video
 - [Twelve Labs](https://www.twelvelabs.io/) - Helping developers build programs that can see, listen, and understand the world through video understanding.
@@ -241,6 +242,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Avatars
 
 ### Animation
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent AI text-to-video generator with a free trial (not affiliated with xAI or X).
 
 ## Audio
 
