@@ -90,6 +90,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Goelo](https://www.goelo.com/) - Goelo helps sales teams automatically fill their CRM by recording meetings to create summaries and generate a knowledge base.
 - [Equal Time](https://equaltime.io/) - An AI meeting assistant that transcribes calls, generates summaries, and tracks participation metrics for more inclusive meetings.
 - [MeetGeek](https://meetgeek.ai) - An AI meeting assistant that automatically records, transcribes, and summarizes meetings.
+- [Aside](https://asidehq.app/) - A Mac app that shows what to say next during live calls without a bot joining, then writes up notes and next steps, with audio transcribed on-device.
 
 ### Academia
 
