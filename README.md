@@ -244,6 +244,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Steel Browser](https://github.com/steel-dev/steel-browser) - An open-source browser sandbox and automation infrastructure for AI agents, with session management, screenshots, PDFs, proxies, and anti-bot tooling. #opensource
 - [Bifrost](https://github.com/maximhq/bifrost) - An open-source LLM gateway with routing, load balancing, guardrails, and observability for 1000+ models. #opensource
 - [fal](https://fal.ai/) - A developer platform for accessing and deploying image, video, audio, and 3D generation models.
+- [Unified AI System](https://github.com/happy520ai/unified-ai-system) - Self-hosted AI gateway and MCP server with virtual keys, per-key token budgets, response caching, an append-only audit chain, and reverse MCP governance over upstream servers and OpenAPI specs. [#opensource](https://github.com/happy520ai/unified-ai-system)
 
 ### Playgrounds
 
