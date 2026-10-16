@@ -295,6 +295,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Rearchitecting LLMs](https://www.manning.com/books/rearchitecting-llms) - A book about optimizing and restructuring LLMs for domain-specific use.
 - [PromptZone](https://promptzone.com/) - Community and publication for prompt engineering, LLM comparisons, and AI-tool workflows.
 - [QuiddityML](https://quiddityml.com/) - An educational app covering machine learning from Python and mathematics through deep learning and generative AI, with exercises, projects, and spaced repetition.
+- [AI Course Check](https://aicoursecheck.com/) - An independent guide to AI certifications from Anthropic, Google, Microsoft, AWS and others, showing who can take each exam, the price and validity, checked against the issuers' own pages.
 
 ### Podcasts
 
