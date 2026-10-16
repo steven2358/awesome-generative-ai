@@ -62,6 +62,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AI Humanize](https://aihumanize.io/) - Humanize AI transforms AI content into natural, human-like writing that bypasses all AI detection.
 - [Elephas](https://elephas.app/) - Personal AI writing assistant for the Mac.
 - [Taplio](https://taplio.com/) - All-in-one AI-powered LinkedIn tool.
+- [Klype](https://klype.ai) - Drafts LinkedIn, X and Reddit posts in your measured writing voice and flags AI phrasing and unsourced claims before you post.
 - [Yomu](https://www.yomu.ai) - AI writing assistant for students and academics.
 - [Samwell](https://www.samwell.ai/) - Samwell.ai is an academic essay generator that helps you write all types of academic essays with 100% accurate citations.
 - [LogicBalls](https://logicballs.com/) - An AI writing tool for generating blog posts, ads, emails, and social media content. Includes a prompt library.
