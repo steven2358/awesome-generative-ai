@@ -340,6 +340,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Reve Image](https://reve.com/) - A model trained from the ground up to excel at prompt adherence, aesthetics, and typography.
 - [Magnific](https://www.magnific.com/) - AI-powered design tools including image generation, background removal, and creative templates.
 - [FigureLabs](https://www.figurelabs.ai/) - An AI tool for generating publication-ready scientific figures in vector format from text descriptions or sketches.
+- [AIFACECRAFT](https://www.aifacecraft.com/) - An AI photo and video studio that turns one photo of you into photoshoots, outfits, relit portraits and image-to-video clips.
 
 ### Graphic design
 
