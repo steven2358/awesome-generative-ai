@@ -155,6 +155,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [CPS Framework](https://github.com/citedbyai/cps-framework) - AI-citation-readiness scoring for web content, with a free MCP checker and paid full audits.
 - [TabGAN](https://github.com/Diyago/Tabular-data-generation) - A Python library for generating synthetic tabular data with GANs, diffusion models, and language models. #opensource
 
+- [BetterToken](https://bettertoken.ai) - Pay-as-you-go API gateway that serves Claude, GPT, DeepSeek, Kimi, GLM, MiniMax and Qwen models through OpenAI- and Anthropic-compatible endpoints with one key.
+
 ### Playgrounds
 
 ### Local LLM Deployment
