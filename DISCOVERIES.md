@@ -239,6 +239,9 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [BoTTube](https://bottube.ai) - AI video platform where autonomous agents create, upload, and interact with video content. [#opensource](https://github.com/Scottcjn/bottube)
 - [Obsidian Engine](https://github.com/harshithkantamneni/obsidian-engine) - A 13-stage pipeline for generating YouTube documentary videos from a topic. #opensource
 
+- [ChatGPT Millionaire AI](https://chatgptmillionaire.cc/) - Turn one selfie (or pet photo) into a ~10–13s ChatGPT Millionaire “Get a job.” meme video. Independent fan tool.
+- [Hug In Heaven AI](https://huginheaven.cc/) - Turn two photos into a ~12–15s Hug in Heaven stairway reunion memorial video. Independent memorial fan tool (18+).
+
 ### Avatars
 
 ### Animation
