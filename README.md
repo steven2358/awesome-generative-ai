@@ -461,6 +461,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Transformer Explainer](https://poloclub.github.io/transformer-explainer/) - Interactive visualization of how transformer-based LLMs work, running a live GPT-2 model in the browser. [#opensource](https://github.com/poloclub/transformer-explainer)
 
 ## More lists
+- [Awesome AI Decision Matrix](https://github.com/TayeemHasanpro/awesome-ai-decision-matrix) - Curated, benchmark-backed decision matrix comparing pricing, token limits, and trade-offs for 50+ generative AI tools.
 
 - [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html) - A large list of Google Colab notebooks for generative AI, by [@pharmapsychotic](https://twitter.com/pharmapsychotic).
 - [The Generative AI Application Landscape](https://twitter.com/sonyatweetybird/status/1584580362339962880) - An infographic that maps the generative AI ecosystem, by [Sonya Huang](https://twitter.com/sonyatweetybird) of Sequoia Capital.
