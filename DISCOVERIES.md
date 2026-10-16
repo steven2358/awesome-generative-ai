@@ -220,6 +220,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Image libraries
 
+- [SurgePix](https://surgepix.ai/resources/gpt-image-2-prompts) - A free, multilingual library of GPT Image 2 prompts with preview images and one-click generate. [#opensource](https://github.com/SurgePix/awesome-gpt-image-2-free-prompts)
+
 ### Model libraries
 
 ### Stable Diffusion resources
