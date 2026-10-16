@@ -255,6 +255,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Typist](https://iamtypist.dev) - Fast audio transcription service powered by Whisper models hosted on Groq.
 - [Echo99](https://www.echo99.app/) - A private macOS call recorder with on-device transcription and speaker labeling.
+- [VoiceVibe](https://voicevibe.ai/) - AI voice assistant for the desktop that dictates in any app, rewrites selected text, answers questions about the screen and reads text aloud.
 
 ### Music
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
