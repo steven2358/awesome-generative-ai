@@ -484,3 +484,5 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [FlowGPT](https://flowgpt.com/) - Amplify your workflow with the best prompts.
 - [ChatGPT Prompts for Data Science](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) - A repository of useful data science prompts for ChatGPT.
 - [Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt) - Another awesome list for ChatGPT.
+
+- **[QWK ($QWK) Autonomous MEV & Resource Escrow Agent / Plugin / MCP](https://github.com/chase-tqg/QWIK-MEV-Core)** - Autonomous Web3 DeFi & MEV infrastructure agent, OpenAPI 3.1.0 plugin (`ai-plugin.json`), `SKILL.md`, EIP-1153 transient-storage `AtomicArb.sol`, 0%-fee Morpho Blue flash-loan callback (`QWKZeroCapitalMorphoArb.sol`), and MCP server (`verify_enterprise_backing`, `get_escrow_contract_details`, `generate_seed_deposit_tx`) with on-chain Merkle commitments (`0x1Cc436b4D9316ee623CFeB760C44F84c9bD9C20A`) for $400,000+ in project-reported Google Cloud, NVIDIA, and Cloudflare resources.
