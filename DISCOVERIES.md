@@ -189,6 +189,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [OpenPaw](https://github.com/daxaur/openpaw) - A CLI tool that turns Claude Code into a personal assistant with skills for email, calendar, Spotify, smart home, and Slack. #opensource
 - [AnveVoice](https://anvevoice.app) - Voice AI assistant for websites that takes real DOM actions, navigating pages, filling forms, and clicking buttons in 50+ languages.
 
+- [iPulse AI](https://ipulseai.com) - Open Agentic Investment Research Platform with independent AI advisor reports, asset forecasts, and reviewable market intelligence; designed for research and decision support.
+
 ## Image
 
 ### Models
