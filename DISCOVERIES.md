@@ -250,6 +250,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Deepgram](https://deepgram.com/) - Real-time speech recognition and understanding with advanced AI.
 - [Kveeky](https://kveeky.com) - An AI text-to-speech tool for generating voiceovers with 100+ natural-sounding voices.
 - [Voice Clone](https://voice-clone.org/) - Voice cloning tool with text-to-speech capabilities. [#opensource](https://github.com/tanchaowen84/voice-clone)
+- [Avorythm](https://msmahdinejad.github.io/avorythm/) - Chrome extension for AI dubbing and bilingual captions from selected-tab audio, using user-provided Gemini API keys and optional Groq transcription. [#opensource](https://github.com/msmahdinejad/avorythm)
 
 ### Speech-to-text
 
