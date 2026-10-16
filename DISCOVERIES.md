@@ -296,6 +296,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [PromptZone](https://promptzone.com/) - Community and publication for prompt engineering, LLM comparisons, and AI-tool workflows.
 - [QuiddityML](https://quiddityml.com/) - An educational app covering machine learning from Python and mathematics through deep learning and generative AI, with exercises, projects, and spaced repetition.
 
+- [Personal Agent Bench](https://personalagentbench.com/) - Runtime teardowns and task-exam reports for personal AI assistants, with uncertainty intervals and sample sizes; operated by Zentor, whose products are excluded from the scorecard.
+
 ### Podcasts
 
 - [Chain of Thought](https://chainofthought.show/) - A weekly podcast with AI leaders covering inference infrastructure, developer tools, and AI strategy.
