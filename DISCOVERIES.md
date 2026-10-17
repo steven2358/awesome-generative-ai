@@ -155,6 +155,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [CPS Framework](https://github.com/citedbyai/cps-framework) - AI-citation-readiness scoring for web content, with a free MCP checker and paid full audits.
 - [TabGAN](https://github.com/Diyago/Tabular-data-generation) - A Python library for generating synthetic tabular data with GANs, diffusion models, and language models. #opensource
 
+- [BeatBrowser](https://github.com/BeatAPI/BeatBrowser) - A Chrome extension and local MCP bridge that lets compatible agents use existing signed-in browser sessions, with background task windows, pause and human takeover. #opensource
+
 ### Playgrounds
 
 ### Local LLM Deployment
