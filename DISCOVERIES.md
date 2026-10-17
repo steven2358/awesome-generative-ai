@@ -27,6 +27,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Models
 
 - [SambaNova](https://sambanova.ai/) - Full stack generative AI platform, from chip to model, designed for enterprise and government entities and powered by a dataflow architecture.
+- [Hemmingway-1](https://hemmingway.io/model/) - A 27B open-weights model by Altworld, fine-tuned from Qwen3.8-27B for everyday writing such as messages, emails and short stories. [#opensource](https://huggingface.co/Altworld/Hemmingway-1)
 
 ### Chatbots
 
