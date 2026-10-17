@@ -238,6 +238,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [PVID](https://pvid.app/) - Free AI video generator aggregating Kling, Sora, and Veo, with image-to-video, text-to-video, and video-to-video modes.
 - [BoTTube](https://bottube.ai) - AI video platform where autonomous agents create, upload, and interact with video content. [#opensource](https://github.com/Scottcjn/bottube)
 - [Obsidian Engine](https://github.com/harshithkantamneni/obsidian-engine) - A 13-stage pipeline for generating YouTube documentary videos from a topic. #opensource
+- [ViralMint](https://github.com/openclaw-easy/ViralMint) - Desktop app that scouts trending YouTube videos, transcribes them locally with Whisper and turns scripts into captioned shorts over stock footage, with an agent chat and MCP server. #opensource
 
 ### Avatars
 
