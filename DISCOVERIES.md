@@ -85,6 +85,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [SageCollab](https://sagecollab.com/) - SageCollab brings team collaboration features to generative AI.
 - [Worksheets.ai](https://www.worksheets.ai/) - Generate educational worksheets and lesson plans with AI.
 - [Recall](https://www.recall.it/) - A self-organizing knowledge base, where you can summarize and chat with any online content.
+- [Dot (getdot.ai)](https://www.getdot.ai/) - An AI data analyst that answers plain-English questions in Slack, Microsoft Teams or the web app by writing and running SQL on your own data warehouse.
 
 ### Meeting assistants
 - [Goelo](https://www.goelo.com/) - Goelo helps sales teams automatically fill their CRM by recording meetings to create summaries and generate a knowledge base.
