@@ -160,6 +160,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Local LLM Deployment
 
 - [Minima](https://github.com/dmayboroda/minima) - On-premises RAG with configurable Docker containers. #opensource
+- [SpeqAI Local Stack](https://tools.speqai.com/) - Directory of local AI tools filtered by the hardware you own, with will-it-run pages for GPUs and Macs.
 
 ## Agents
 
