@@ -210,6 +210,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [PhotoMentor](https://photomentor.pro) - An AI tool for analyzing photos and providing composition and lighting feedback.
 - [AI Hairstyle Fit](https://aihairstylefit.com/) - A tool for previewing haircuts on a front-facing photo, with before/after comparison and a barber card with cutting notes.
 
+- [ProRemover](https://proremover.io) - Browser AI tool to remove objects, people, text, and watermarks from photos.
+
 ### Graphic design
 
 - [Framer AI](https://www.framer.com/ai/) - Enhance your website using Framer's AI-powered tools.
@@ -238,6 +240,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [PVID](https://pvid.app/) - Free AI video generator aggregating Kling, Sora, and Veo, with image-to-video, text-to-video, and video-to-video modes.
 - [BoTTube](https://bottube.ai) - AI video platform where autonomous agents create, upload, and interact with video content. [#opensource](https://github.com/Scottcjn/bottube)
 - [Obsidian Engine](https://github.com/harshithkantamneni/obsidian-engine) - A 13-stage pipeline for generating YouTube documentary videos from a topic. #opensource
+
+- [Wedding AI](https://weddingai.studio) - AI wedding invitation video maker that turns templates, names, and photos into an HD MP4.
 
 ### Avatars
 
