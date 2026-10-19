@@ -296,7 +296,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [OpenAgents](https://github.com/openagents-org/openagents) - Open-source platform for building AI agent networks with multi-protocol support (WebSocket, gRPC, HTTP, MCP, A2A). #opensource
 - [Dorothy](https://github.com/Charlie85270/Dorothy) - An open-source desktop app to orchestrate multiple AI CLI agents simultaneously with automations and Kanban management. #opensource
 - [Hive](https://github.com/aden-hive/hive) - An open-source multi-agent framework with auto-generated graphs, evolution loops, and MCP integration. #opensource
-- [Big Agentic Brain](https://github.com/enhesa/big-agentic-brain) - Self-hosted shared memory for an organization's AI agents, with memories ranked by agents' feedback, private reminders and agent-to-agent messages over MCP. #opensource
+- [Big Agentic Brain](https://github.com/enhesa/big-agentic-brain) - Swarm intelligence for your distributed AI agents. Every discovery is remembered, every lesson shared, and agents message each other directly. #opensource
 
 ### Custom assistants
 
