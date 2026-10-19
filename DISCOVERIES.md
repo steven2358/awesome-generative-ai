@@ -255,6 +255,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Typist](https://iamtypist.dev) - Fast audio transcription service powered by Whisper models hosted on Groq.
 - [Echo99](https://www.echo99.app/) - A private macOS call recorder with on-device transcription and speaker labeling.
+- [Bowhard Speech](https://bowhard.ru/api) - Speech-to-text API for audio and video files with punctuation, SRT timecodes, and JSON word timings, plus text-to-speech in 15 voices; 15 minutes and 5,000 characters free per day, no API key required.
 
 ### Music
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
