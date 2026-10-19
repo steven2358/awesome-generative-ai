@@ -101,6 +101,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Price Per Token](https://pricepertoken.com/) - A tool for comparing LLM API pricing, token usage, and model benchmarks.
 - [Rival](https://rival.tips) - Leaderboard ranking 200+ AI models based on blind A/B human preference votes.
+- [aivs.tv](https://aivs.tv/) - Gallery of side-by-side comparisons of AI coding and video models from X, where each post gives several models the same prompt and shows the outputs as video.
 
 ### Other text generators
 
