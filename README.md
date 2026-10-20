@@ -165,6 +165,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Leaderboards
 
+- [Mode VC Benchmarks](https://modevc.com/benchmarks) - Live empirical LLM latency, throughput, and token unit economics benchmarks across distributed VPS nodes with open DuckDB Parquet telemetry.
 - [Arena](https://arena.ai/) - An open platform for crowdsourced AI benchmarking, hosted by researchers at UC Berkeley SkyLab.
 - [Artificial Analysis](https://artificialanalysis.ai/) - Artificial Analysis provides objective benchmarks & information to help choose AI models and hosting providers.
 - [imgsys](https://imgsys.org/rankings) - A generative image model arena by fal.ai.
