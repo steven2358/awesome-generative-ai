@@ -295,6 +295,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Rearchitecting LLMs](https://www.manning.com/books/rearchitecting-llms) - A book about optimizing and restructuring LLMs for domain-specific use.
 - [PromptZone](https://promptzone.com/) - Community and publication for prompt engineering, LLM comparisons, and AI-tool workflows.
 - [QuiddityML](https://quiddityml.com/) - An educational app covering machine learning from Python and mathematics through deep learning and generative AI, with exercises, projects, and spaced repetition.
+- [Shift](https://kai-nex.com/shift/) - A source-first weekly AI news index (CN/EN) with one-line summaries linking to original sources and a JSON feed. [#opensource](https://github.com/orocoa/shift)
 
 ### Podcasts
 
