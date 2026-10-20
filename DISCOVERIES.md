@@ -68,6 +68,10 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Publish7](https://publish7.com/) - Agentic platform for digital marketing.
 - [WordLift Agent](https://wordlift.io/agent/) - AI agent for SEO tasks such as product descriptions, internal linking, and SERP analysis.
 
+### AI authenticity & provenance
+
+- [Mydentify AI Watermark and Claude Checker](https://mydentify.com/tools/ai-watermark-detector) - Browser-based checks for observable Unicode artifacts and cautious AI-text signals, with explicit limits on what pasted text can prove.
+
 ### ChatGPT extensions
 
 - [AI Character for GPT](https://chromewebstore.google.com/detail/ai-character-for-gpt/daoeioifimkjegafelcaljboknjkkohh) - Easily customize AI chatbots like ChatGPT and Google Gemini for better responses.
