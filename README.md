@@ -343,6 +343,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Graphic design
 
+- [BannerGen](https://astra-intelligence.github.io/bannergen-cli/) - AI-powered social media banner generator for Twitter/X, LinkedIn, Instagram, YouTube, Facebook, and GitHub OG images. Free web app + $1 CLI.
 - [Brandmark](https://brandmark.io/) - AI-based logo design tool.
 - [Gamma](https://gamma.app/) - Create beautiful presentations and webpages with none of the formatting and design work.
 - [Microsoft Designer](https://designer.microsoft.com/) - Stunning designs in a flash.
