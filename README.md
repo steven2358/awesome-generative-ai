@@ -264,6 +264,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Harbor](https://github.com/av/harbor) - A containerized toolkit for running local LLM backends, UIs, and supporting services with one command. #opensource
 - [off-grid-mobile](https://github.com/alichherawalla/off-grid-mobile-ai) - React Native app for running LLMs, vision models, and Stable Diffusion on-device on iOS and Android without internet access. #opensource
 - [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - OpenAI-compatible local LLM inference server optimized for Apple Silicon, with tool calling, reasoning, vision, and structured output support. #opensource
+- [MLX Compare](https://mlx.app/compare) - See which open models fit a Mac's or GPU's memory, with an estimated tokens-per-second range.
 
 ## Agents
 
