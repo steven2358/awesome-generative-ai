@@ -208,6 +208,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [deAPI.ai](https://deapi.ai/) - A unified inference API to open-source AI models for text-to-image, text-to-speech, transcription, video generation, and more, using a decentralized GPU cloud.
 - [MyPicNow](https://www.mypicnow.com) - An AI headshot generator for creating professional profile photos from uploaded selfies.
 - [PhotoMentor](https://photomentor.pro) - An AI tool for analyzing photos and providing composition and lighting feedback.
+- [AI Hairstyle Fit](https://aihairstylefit.com/) - A tool for previewing haircuts on a front-facing photo, with before/after comparison and a barber card with cutting notes.
 - [Alosem](https://alosem.com/) - Connects AI image examples to their exact prompts and creative workflows, with a visual product for exploring and creating images.
 
 ### Graphic design
@@ -294,6 +295,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Gemini by Example](https://geminibyexample.com) - A hands-on introduction to the Gemini API and SDK through annotated code examples. [#opensource](https://github.com/strickvl/geminibyexample)
 - [Rearchitecting LLMs](https://www.manning.com/books/rearchitecting-llms) - A book about optimizing and restructuring LLMs for domain-specific use.
 - [PromptZone](https://promptzone.com/) - Community and publication for prompt engineering, LLM comparisons, and AI-tool workflows.
+- [QuiddityML](https://quiddityml.com/) - An educational app covering machine learning from Python and mathematics through deep learning and generative AI, with exercises, projects, and spaced repetition.
 
 ### Podcasts
 
