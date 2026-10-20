@@ -340,6 +340,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Reve Image](https://reve.com/) - A model trained from the ground up to excel at prompt adherence, aesthetics, and typography.
 - [Magnific](https://www.magnific.com/) - AI-powered design tools including image generation, background removal, and creative templates.
 - [FigureLabs](https://www.figurelabs.ai/) - An AI tool for generating publication-ready scientific figures in vector format from text descriptions or sketches.
+- [InkDoo](https://inkdoo.app/) - Paste an article and get a planned set of hand-drawn explainer illustrations starring one consistent character, either a built-in mascot or your own uploaded one.
 
 ### Graphic design
 
