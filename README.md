@@ -207,6 +207,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Developer tools
 
+- [Vivacious Cloud](https://vivaciouscloud.com/) - A unified multi-cloud GPU platform and preflight validator for training, fine-tuning, and deploying generative models. [#opensource](https://github.com/Viavcious-cloud/vivacious-cli)
 - [Cohere](https://cohere.com/) - Cohere provides access to advanced Large Language Models and NLP tools.
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
 - [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
