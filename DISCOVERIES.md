@@ -101,6 +101,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Price Per Token](https://pricepertoken.com/) - A tool for comparing LLM API pricing, token usage, and model benchmarks.
 - [Rival](https://rival.tips) - Leaderboard ranking 200+ AI models based on blind A/B human preference votes.
+- [PickOneAI](https://pickoneai.pages.dev) - Picks one best AI tool and a runner-up for 31 AI coding and agent-building jobs, ranked by a published formula and refreshed daily.
 
 ### Other text generators
 
