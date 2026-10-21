@@ -301,6 +301,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 - [Poe](https://poe.com/) - Poe gives access to a variety of bots.
 - [GPT Builder](https://chatgpt.com/gpts/editor) - Assistant for creating GPT-based assistants.
+- [AgenticOS](https://github.com/vstorm-co/agenticos) - Open-source, self-hosted workspace where a company builds, shares and governs AI agents. #opensource
 
 ## Image
 
