@@ -41,6 +41,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [GPTHelp.ai](https://gpthelp.ai/) - AI customer support chatbot for your website.
 - [AnythingLLM](https://anythingllm.com/) - Turn any document, resource, or piece of content into context that any LLM can use. [#opensource](https://github.com/Mintplex-Labs/anything-llm)
 - [Character AI Bots](https://www.characteraibots.com/) - A directory of free AI roleplay characters available on Character.AI, JanitorAI, and SpicyChat.
+- [SteamDownload AI Game Recommender](https://www.steamdownload.cn/ai?lang=en) - Free chat-based game recommender that searches a live library of 9,000+ PC, Switch and mobile games via tool calls, so every pick is a real title with a short reason.
 
 ### Custom interfaces
 
