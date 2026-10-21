@@ -85,6 +85,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [SageCollab](https://sagecollab.com/) - SageCollab brings team collaboration features to generative AI.
 - [Worksheets.ai](https://www.worksheets.ai/) - Generate educational worksheets and lesson plans with AI.
 - [Recall](https://www.recall.it/) - A self-organizing knowledge base, where you can summarize and chat with any online content.
+- [JustFill](https://justfill.app/) - Detect, review, and fill fields on existing PDF forms (including flat or scanned PDFs) in the browser or from AI agents via Model Context Protocol (MCP).
 
 ### Meeting assistants
 - [Goelo](https://www.goelo.com/) - Goelo helps sales teams automatically fill their CRM by recording meetings to create summaries and generate a knowledge base.
