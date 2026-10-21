@@ -96,6 +96,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Perlego Research Assistant](https://www.perlego.com/research-assistant) - AI research assistant that answers queries by referencing academic books in the Perlego library.
 - [Qualitati](https://mimitalk.app/) - AI qualitative research software for AI-moderated interviews, thematic analysis, and conversational surveys.
 - [BGPT](https://bgpt.pro/mcp/) - A scientific paper search tool with structured experimental data from full-text studies. [#opensource](https://github.com/connerlambden/bgpt-mcp)
+- [BiliMind Desktop](https://github.com/Odilient/bilimind-desktop) - Turns your own lecture slides and past papers into a narrated course, with quiz answers checked against the source files. #opensource
 
 ### Leaderboards
 
