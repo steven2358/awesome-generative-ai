@@ -137,6 +137,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [NotebookLM](https://notebooklm.google/) - A research and note-taking online tool to interact with documents, powered by Google Gemini.
 - [Open Notebook](https://www.open-notebook.ai) - An open source implementation of NotebookLM with more flexibility and features. [#opensource](https://github.com/lfnovo/open-notebook)
 - [Screenpipe](https://github.com/screenpipe/screenpipe) - An open-source tool for recording screen and audio activity with AI-powered search, automations, and support for local LLMs. #opensource
+- [Resume ATS Checker](https://apps.visionquantech.com/resume-ats-checker/) - Free ATS resume checker for India: paste a resume and a job description to get an ATS-style score and a prioritized fix list, with no signup.
 
 ### Meeting assistants
 
@@ -340,6 +341,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Reve Image](https://reve.com/) - A model trained from the ground up to excel at prompt adherence, aesthetics, and typography.
 - [Magnific](https://www.magnific.com/) - AI-powered design tools including image generation, background removal, and creative templates.
 - [FigureLabs](https://www.figurelabs.ai/) - An AI tool for generating publication-ready scientific figures in vector format from text descriptions or sketches.
+- [Background Remover](https://apps.visionquantech.com/bg-remover/) - Free AI background remover: upload any photo and download a transparent PNG, with no signup and no watermark.
 
 ### Graphic design
 
@@ -415,6 +417,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2) - A Whisper CLI client compatible with the original OpenAI client, using CTranslate2 for faster inference. [#opensource](https://github.com/Softcatala/whisper-ctranslate2)
 - [NeMo](https://github.com/NVIDIA-NeMo/Speech) - An open-source framework by NVIDIA for building speech AI systems, including automatic speech recognition and text-to-speech. #opensource
 - [Parakeet](https://huggingface.co/collections/nvidia/parakeet-asr-659711f49d1469e51546e021) - A family of open speech recognition models by NVIDIA, including streaming and multilingual variants. #opensource
+- [Voice Note Summarizer](https://apps.visionquantech.com/voice-note-summarizer/) - Free voice note summarizer: upload an audio note and get a transcript, summary and action items in English and Hinglish.
 
 ### Music
 
