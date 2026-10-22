@@ -123,6 +123,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Yume](https://github.com/aofp/yume) - Desktop GUI for Claude Code with multi-tab sessions, background agents, context compaction, and plugin system. #opensource
 - [Frontman](https://frontman.sh/) - A browser-based AI coding agent for editing frontend code with live app context. [#opensource](https://github.com/frontman-ai/frontman)
 - [Termdeck](https://termdeck.io) - Web UI for the Claude Code, Codex and Grok CLIs running on your own machines, with one session board across every machine and tool approvals from a phone.
+- [Cortex](https://github.com/SKULLFIRE07/cortex-memory) - Persistent AI memory for coding assistants, auto-capturing decisions, patterns, and context from Claude Code, Cursor, and Cline sessions. #opensource
 
 ### Developer tools
 
@@ -151,6 +152,9 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [EvoLink](https://evolink.ai/) - API gateway providing unified access to 40+ AI models for chat, image, video, and music generation.
 - [shekel](https://github.com/arieradle/shekel) - A Python library that sets runtime spending limits for AI agents to prevent runaway LLM costs. #opensource
 - [whatbroke](https://github.com/arthi-arumugam-git/whatbroke) - A CLI that diffs an AI agent's behavior between two runs, showing changes in tool calls, arguments, cost, latency, and outcomes. #opensource
+- [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) - Claude Code skill for public equity research using SEC EDGAR and market data: thesis scoring, comparables, staleness rules. #opensource
+- [CPS Framework](https://github.com/citedbyai/cps-framework) - AI-citation-readiness scoring for web content, with a free MCP checker and paid full audits.
+- [TabGAN](https://github.com/Diyago/Tabular-data-generation) - A Python library for generating synthetic tabular data with GANs, diffusion models, and language models. #opensource
 
 ### Playgrounds
 
@@ -177,6 +181,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [GhostClaw](https://ghostclaw.io) - A local AI agent with full system access, controllable via Telegram. [#opensource](https://github.com/b1rdmania/ghostclaw)
 - [Fazm](https://fazm.ai) - A native macOS app that runs Claude Code and Codex agents with persistent sessions, and can control the browser and other Mac apps. [#opensource](https://github.com/m13v/fazm)
 - [Network-AI](https://github.com/Jovancoding/Network-AI) - A TypeScript/Node.js multi-agent orchestrator with shared state, guardrails, token budgets, and adapters for multiple agent frameworks. #opensource
+- [Agency Orchestrator](https://github.com/jnMetaCode/agency-orchestrator) - YAML-first multi-agent workflow orchestrator with built-in AI roles, DAG parallelism, and conditional branching. Supports DeepSeek, Claude, OpenAI, and Ollama. #opensource
 
 ### Custom assistants
 
@@ -204,6 +209,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [deAPI.ai](https://deapi.ai/) - A unified inference API to open-source AI models for text-to-image, text-to-speech, transcription, video generation, and more, using a decentralized GPU cloud.
 - [MyPicNow](https://www.mypicnow.com) - An AI headshot generator for creating professional profile photos from uploaded selfies.
 - [PhotoMentor](https://photomentor.pro) - An AI tool for analyzing photos and providing composition and lighting feedback.
+- [AI Hairstyle Fit](https://aihairstylefit.com/) - A tool for previewing haircuts on a front-facing photo, with before/after comparison and a barber card with cutting notes.
 
 ### Graphic design
 
@@ -211,6 +217,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [PPT.AI](https://ppt.ai/) - Create professional presentations in minutes.
 - [Seede](https://seede.ai/) - An AI tool for generating posters and marketing visuals from text descriptions.
 - [PolyGlyph](https://polyglyph.io/) - AI-powered SVG generation and editing tool that turns text prompts into editable vector graphics.
+- [InkCraft](https://inkcraftapp.com) - Generate tattoo designs from a description and preview them on a photo of your own body.
 
 ### Image libraries
 
@@ -229,6 +236,9 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [VideoGen](https://videogen.io/) - A video creation and editing platform with AI b-roll matching, narration, and captions.
 - [TubePrompter](https://tubeprompter.com/) - A tool that converts YouTube, TikTok, and Instagram videos into prompts for AI image and video generators.
 - [Glio](https://glio.io/) - A unified API for video, image, audio, and text generation models.
+- [PVID](https://pvid.app/) - Free AI video generator aggregating Kling, Sora, and Veo, with image-to-video, text-to-video, and video-to-video modes.
+- [BoTTube](https://bottube.ai) - AI video platform where autonomous agents create, upload, and interact with video content. [#opensource](https://github.com/Scottcjn/bottube)
+- [Obsidian Engine](https://github.com/harshithkantamneni/obsidian-engine) - A 13-stage pipeline for generating YouTube documentary videos from a topic. #opensource
 
 ### Avatars
 
@@ -285,6 +295,13 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Gemini by Example](https://geminibyexample.com) - A hands-on introduction to the Gemini API and SDK through annotated code examples. [#opensource](https://github.com/strickvl/geminibyexample)
 - [Rearchitecting LLMs](https://www.manning.com/books/rearchitecting-llms) - A book about optimizing and restructuring LLMs for domain-specific use.
 - [PromptZone](https://promptzone.com/) - Community and publication for prompt engineering, LLM comparisons, and AI-tool workflows.
+- [QuiddityML](https://quiddityml.com/) - An educational app covering machine learning from Python and mathematics through deep learning and generative AI, with exercises, projects, and spaced repetition.
+
+### Podcasts
+
+- [Chain of Thought](https://chainofthought.show/) - A weekly podcast with AI leaders covering inference infrastructure, developer tools, and AI strategy.
+- [How I AI](https://www.youtube.com/@howiaipodcast) - Claire Vo interviews builders about how they use AI in practice.
+- [Latent Space](https://www.latent.space/podcast) - Technical deep dives into AI engineering, LLMs, and the developer tooling stack.
 
 ## More lists
 
