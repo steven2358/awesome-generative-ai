@@ -238,6 +238,9 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [PVID](https://pvid.app/) - Free AI video generator aggregating Kling, Sora, and Veo, with image-to-video, text-to-video, and video-to-video modes.
 - [BoTTube](https://bottube.ai) - AI video platform where autonomous agents create, upload, and interact with video content. [#opensource](https://github.com/Scottcjn/bottube)
 - [Obsidian Engine](https://github.com/harshithkantamneni/obsidian-engine) - A 13-stage pipeline for generating YouTube documentary videos from a topic. #opensource
+- [Alors On Danse Video Maker](https://alorsondansevideo.com/) - A paid tool that turns two portrait photos into a 13-second two-person AI studio dance video; independent and unofficial, without the original song.
+- [Bad Times AI](https://badtimesai.dev/) - A paid tool that turns one portrait, group or pet photo into a short AI-generated dance effect video using five templates.
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com/) - A paid tool that turns two portrait photos into a short AI-generated encounter effect video with a balcony-and-spotlight scene.
 
 ### Avatars
 
