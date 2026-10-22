@@ -67,6 +67,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [LogicBalls](https://logicballs.com/) - An AI writing tool for generating blog posts, ads, emails, and social media content. Includes a prompt library.
 - [Publish7](https://publish7.com/) - Agentic platform for digital marketing.
 - [WordLift Agent](https://wordlift.io/agent/) - AI agent for SEO tasks such as product descriptions, internal linking, and SERP analysis.
+- [JuzPost](https://www.juzpost.com) - AI-first social media scheduler for 11 networks that Claude and ChatGPT can drive over MCP.
 
 ### ChatGPT extensions
 
