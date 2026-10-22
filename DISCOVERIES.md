@@ -260,6 +260,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
 - [Soundraw](https://soundraw.io/) - Create your beats with the power of AI.
 - [Jammable](https://www.jammable.com/) - AI voice covers and music creation platform.
+- [HeartMuLa](https://heart-mula.com/) - A hosted app for turning lyrics or a written idea into songs with vocals, using signup credits, one-time credit packs, or subscriptions.
 
 ## Other
 
