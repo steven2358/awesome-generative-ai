@@ -239,6 +239,9 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [BoTTube](https://bottube.ai) - AI video platform where autonomous agents create, upload, and interact with video content. [#opensource](https://github.com/Scottcjn/bottube)
 - [Obsidian Engine](https://github.com/harshithkantamneni/obsidian-engine) - A 13-stage pipeline for generating YouTube documentary videos from a topic. #opensource
 
+- [Corpse Bride AI](https://corpsebride.cc) - One photo to ~10s 9:16 ghost bride/groom cemetery dance video. From $8.88. Independent fan tool.
+- [White Chicks AI](https://whitechicks.cc) - 1–2 photos to ~10–12s 9:16 night convertible sing video (duo or pet). From $8.88. Independent fan tool.
+
 ### Avatars
 
 ### Animation
