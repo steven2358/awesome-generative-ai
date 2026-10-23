@@ -155,6 +155,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [CPS Framework](https://github.com/citedbyai/cps-framework) - AI-citation-readiness scoring for web content, with a free MCP checker and paid full audits.
 - [TabGAN](https://github.com/Diyago/Tabular-data-generation) - A Python library for generating synthetic tabular data with GANs, diffusion models, and language models. #opensource
 
+- [System One API](https://system-one.dev/en/api) - Unified API and open-source SDK (@system-one-ai/core) to call multiple AI model providers without vendor lock-in.
+
 ### Playgrounds
 
 ### Local LLM Deployment
@@ -209,6 +211,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [MyPicNow](https://www.mypicnow.com) - An AI headshot generator for creating professional profile photos from uploaded selfies.
 - [PhotoMentor](https://photomentor.pro) - An AI tool for analyzing photos and providing composition and lighting feedback.
 - [AI Hairstyle Fit](https://aihairstylefit.com/) - A tool for previewing haircuts on a front-facing photo, with before/after comparison and a barber card with cutting notes.
+
+- [artgen](https://artgen.net/en/tools/image-to-pixel-art) - Free browser photo-to-pixel-art converter with block size, palettes, and optional dithering; also ASCII and other deterministic photo effects.
 
 ### Graphic design
 
