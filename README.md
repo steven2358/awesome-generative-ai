@@ -244,6 +244,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Steel Browser](https://github.com/steel-dev/steel-browser) - An open-source browser sandbox and automation infrastructure for AI agents, with session management, screenshots, PDFs, proxies, and anti-bot tooling. #opensource
 - [Bifrost](https://github.com/maximhq/bifrost) - An open-source LLM gateway with routing, load balancing, guardrails, and observability for 1000+ models. #opensource
 - [fal](https://fal.ai/) - A developer platform for accessing and deploying image, video, audio, and 3D generation models.
+- [Agent Stopover](https://chapelgate.github.io/agent-stopover-experiment/) - Public resource hub with browser-based tools for developers and people using AI agents. Static site; not an autonomous agent, MCP server, or A2A endpoint.
 
 ### Playgrounds
 
