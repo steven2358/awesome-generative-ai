@@ -67,6 +67,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [LogicBalls](https://logicballs.com/) - An AI writing tool for generating blog posts, ads, emails, and social media content. Includes a prompt library.
 - [Publish7](https://publish7.com/) - Agentic platform for digital marketing.
 - [WordLift Agent](https://wordlift.io/agent/) - AI agent for SEO tasks such as product descriptions, internal linking, and SERP analysis.
+- [SwapDraft](https://swapdraft.com/?utm_source=awesome-generative-ai&utm_medium=directory) - Chrome extension that rewrites only the passages you mark in a draft and shows versions from several AI models side by side.
 
 ### ChatGPT extensions
 
