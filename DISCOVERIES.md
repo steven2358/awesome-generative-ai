@@ -238,6 +238,12 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [PVID](https://pvid.app/) - Free AI video generator aggregating Kling, Sora, and Veo, with image-to-video, text-to-video, and video-to-video modes.
 - [BoTTube](https://bottube.ai) - AI video platform where autonomous agents create, upload, and interact with video content. [#opensource](https://github.com/Scottcjn/bottube)
 - [Obsidian Engine](https://github.com/harshithkantamneni/obsidian-engine) - A 13-stage pipeline for generating YouTube documentary videos from a topic. #opensource
+- [Alors On Danse Video Maker](https://alorsondansevideo.com/) - A paid tool that turns two portrait photos into a 13-second two-person AI studio dance video; independent and unofficial, without the original song.
+- [Bad Times AI](https://badtimesai.dev/) - A paid tool that turns one portrait, group or pet photo into a short AI-generated dance effect video using five templates.
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com/) - A paid tool that turns two portrait photos into a short AI-generated encounter effect video with a balcony-and-spotlight scene.
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev/) - A paid independent unofficial tool that turns one portrait into a 13-second 480p 21:9 solo AI dance video; not affiliated with Riot Games or K/DA.
+- [A2O LITE NEON AI Dance](https://a2oliteai.org/) - A paid independent tool that turns two portraits into a 15-second 480p 16:9 duo AI dance video with a reference soundtrack.
+- [dime dime baby ai](https://dimedimebabyai.dev/) - A paid independent tool that turns one photo into a ~5-second 480p 9:16 AI dance video (Quince Classic or Party Groove) with generated music.
 
 ### Avatars
 
