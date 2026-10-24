@@ -160,6 +160,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Local LLM Deployment
 
 - [Minima](https://github.com/dmayboroda/minima) - On-premises RAG with configurable Docker containers. #opensource
+- [LLMBOX](https://llmbox.store/tools/vram-calculator/) - Free VRAM calculator and hardware guide for running open models locally, with sourced memory figures per model and quantization.
 
 ## Agents
 
