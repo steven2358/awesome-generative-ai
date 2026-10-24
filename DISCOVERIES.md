@@ -155,6 +155,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [CPS Framework](https://github.com/citedbyai/cps-framework) - AI-citation-readiness scoring for web content, with a free MCP checker and paid full audits.
 - [TabGAN](https://github.com/Diyago/Tabular-data-generation) - A Python library for generating synthetic tabular data with GANs, diffusion models, and language models. #opensource
 
+- [AgentRedactor](https://github.com/Negative-Star-Innovators/AgentRedactor) - Local proxy that redacts PII and secrets from AI coding-agent requests and restores values in responses, including streamed responses. #opensource
+
 ### Playgrounds
 
 ### Local LLM Deployment
