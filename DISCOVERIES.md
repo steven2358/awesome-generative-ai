@@ -251,6 +251,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Deepgram](https://deepgram.com/) - Real-time speech recognition and understanding with advanced AI.
 - [Kveeky](https://kveeky.com) - An AI text-to-speech tool for generating voiceovers with 100+ natural-sounding voices.
 - [Voice Clone](https://voice-clone.org/) - Voice cloning tool with text-to-speech capabilities. [#opensource](https://github.com/tanchaowen84/voice-clone)
+- [Paxa TTS](https://paxalabs.com/text-to-speech) - A text-to-speech API for Thai, English and Mandarin, with 50 voices that each speak all three languages, including mixed-language sentences.
 
 ### Speech-to-text
 
