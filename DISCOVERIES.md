@@ -239,6 +239,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [BoTTube](https://bottube.ai) - AI video platform where autonomous agents create, upload, and interact with video content. [#opensource](https://github.com/Scottcjn/bottube)
 - [Obsidian Engine](https://github.com/harshithkantamneni/obsidian-engine) - A 13-stage pipeline for generating YouTube documentary videos from a topic. #opensource
 
+- [AI Dance Generator](https://danceaigenerator.com/) - Turn one photo into a short 9:16 AI dance video; pay per video with no subscription.
+
 ### Avatars
 
 ### Animation
