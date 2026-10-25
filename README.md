@@ -196,6 +196,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Open Interpreter](https://github.com/openinterpreter/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally.
 - [Continue](https://www.continue.dev/) - Open-source AI code assistant. Connect any model and any context to create custom autocomplete and chat experiences inside the IDE. [#opensource](https://github.com/continuedev/continue)
 - [RooCode](https://github.com/RooCodeInc/Roo-Code) - An AI-powered autonomous coding agent integrated directly into VS Code. [#opensource](https://github.com/RooCodeInc/Roo-Code)
+- [Orbi](https://github.com/orbi-build/orbi) - Open-source autonomous coding agent that runs unattended from a labeled GitHub Issue to a reviewed pull request; self-host it or use [Orbi Cloud](https://orbi.build/?ref=gh-steven2358-agai). [#opensource](https://github.com/orbi-build/orbi)
 - [Windsurf](https://windsurf.com/) - An AI-native IDE that combines code editing with advanced AI assistance throughout the development process.
 - [Plandex](https://github.com/plandex-ai/plandex) - Open source, terminal-based AI programming engine for complex tasks. [#opensource](https://github.com/plandex-ai/plandex)
 - [Jupyter AI](https://github.com/jupyterlab/jupyter-ai) - An open-source, configurable AI assistant in Jupyter Notebook and JupyterLab that supports 100+ LLMs, including locally-hosted models from Ollama and GPT4All. #opensource
