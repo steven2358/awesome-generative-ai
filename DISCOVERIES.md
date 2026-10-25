@@ -244,6 +244,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Animation
 
+- [claude-motion](https://github.com/TheOnlyFusionCube/claude-motion) - Programmatic motion graphics runtime and agent toolkit to direct and render 2D/3D video, UI walkthroughs, and kinetic typography. #opensource
+
 ## Audio
 
 ### Text-to-speech
