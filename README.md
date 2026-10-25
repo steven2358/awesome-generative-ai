@@ -406,6 +406,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Bark](https://github.com/suno-ai/bark) - A transformer-based text-to-audio model. #opensource
 - [TTS WebUI](https://github.com/rsxdalv/TTS-WebUI) - Web UI for running multiple text-to-speech, music generation, and audio tools. #opensource
 
+- [British Accent Generator](https://britishaccent.pro/) - AI British/UK accent TTS with 262 regional voices (RP, Scottish, Welsh, Northern Irish), plus voice clone/design and lip sync.
 ### Speech-to-text
 
 - [Whisper](https://openai.com/index/whisper/) - Robust speech recognition via large-scale weak supervision. [#opensource](https://github.com/openai/whisper)
