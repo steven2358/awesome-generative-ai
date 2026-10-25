@@ -261,6 +261,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
 - [Soundraw](https://soundraw.io/) - Create your beats with the power of AI.
 - [Jammable](https://www.jammable.com/) - AI voice covers and music creation platform.
+- [MusicFX](https://musicfx.net/) - Generate songs and instrumentals from text or lyrics, with free in-browser BPM, key and audio-to-MIDI tools.
 
 ## Other
 
