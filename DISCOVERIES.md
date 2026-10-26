@@ -313,5 +313,6 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Awesome AI Software Development Agents](https://github.com/flatlogic/awesome-ai-software-development-agents) - Curated list of AI agents designed for software development tasks.
 - [MODELDROP](https://modeldrop.fyi/) - A community tracker for new generative media AI model releases.
 - [MyVibe](https://www.myvibe.so) - A feed for discovering and sharing AI-created web apps, demos, and interactive projects.
+-  [Awesome AI Workflows](https://github.com/Daniyal-Khatri/awesome-ai-workflows) - Complete AI workflows a beginner can follow step by step, with free and freemium tools and no credit card needed, plus an open dataset. #opensource
 
 ### Lists on ChatGPT
