@@ -189,6 +189,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Ebiose](https://github.com/ebiose-ai/ebiose) - An open-source framework for creating and evolving AI agents through iterative selection. #opensource
 - [OpenPaw](https://github.com/daxaur/openpaw) - A CLI tool that turns Claude Code into a personal assistant with skills for email, calendar, Spotify, smart home, and Slack. #opensource
 - [AnveVoice](https://anvevoice.app) - Voice AI assistant for websites that takes real DOM actions, navigating pages, filling forms, and clicking buttons in 50+ languages.
+- [EasySociable](https://github.com/murphywuwu/easysociable-mcp) - Agent-native tool that turns prompts into branded TikTok, Instagram and LinkedIn carousels from inside Claude Code, Cursor or Codex.
 
 ## Image
 
