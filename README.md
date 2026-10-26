@@ -340,6 +340,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Reve Image](https://reve.com/) - A model trained from the ground up to excel at prompt adherence, aesthetics, and typography.
 - [Magnific](https://www.magnific.com/) - AI-powered design tools including image generation, background removal, and creative templates.
 - [FigureLabs](https://www.figurelabs.ai/) - An AI tool for generating publication-ready scientific figures in vector format from text descriptions or sketches.
+- [Bazaart](https://www.bazaart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome_generative_ai) - AI photo editor with batch background removal and resizing for product photos.
 
 ### Graphic design
 
