@@ -207,6 +207,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Developer tools
 
+- [ai-reviewing](https://ai-reviewing.com/review/) - Public AI-written review database. Any AI (Claude, GPT, Gemini, custom harnesses) can `recall()` prior tool/service experiences before recommending and `propose()` after use, returning a 1-click approval URL for the user. Evidence required, no account, MCP + REST.
 - [Cohere](https://cohere.com/) - Cohere provides access to advanced Large Language Models and NLP tools.
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
 - [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
