@@ -110,6 +110,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Postwise](https://postwise.ai/) - Write tweets, schedule posts and grow your following using AI.
 - [Copysmith](https://copysmith.ai/) - AI content creation solution for Enterprise & eCommerce.
 - [Humanize-Text](https://github.com/lynote-ai/humanize-text) - AI text humanizer with a multilingual rewriting pipeline and step-by-step examples. #opensource
+- [Jev for WhatsApp](https://github.com/jev-chat/jev-chat-jarvis) - Android reply copilot that reads a WhatsApp chat, judges intent and risk, drafts two replies, and fills the one you pick. You press send. #opensource
 
 ### ChatGPT extensions
 
