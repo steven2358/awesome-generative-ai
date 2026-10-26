@@ -261,6 +261,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
 - [Soundraw](https://soundraw.io/) - Create your beats with the power of AI.
 - [Jammable](https://www.jammable.com/) - AI voice covers and music creation platform.
+- [MusiCraft AI](https://www.musicraft.ai/) - AI music agent that generates songs, splits stems, masters tracks and turns audio into sheet music.
 
 ## Other
 
