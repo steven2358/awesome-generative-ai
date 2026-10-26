@@ -239,6 +239,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [PVID](https://pvid.app/) - Free AI video generator aggregating Kling, Sora, and Veo, with image-to-video, text-to-video, and video-to-video modes.
 - [BoTTube](https://bottube.ai) - AI video platform where autonomous agents create, upload, and interact with video content. [#opensource](https://github.com/Scottcjn/bottube)
 - [Obsidian Engine](https://github.com/harshithkantamneni/obsidian-engine) - A 13-stage pipeline for generating YouTube documentary videos from a topic. #opensource
+- [Jutsu Studio](https://jutsustudio.com/) - An unofficial Mac client for Higgsfield that makes videos and images with Seedance, Kling and Genjutsu and keeps every result on disk. [#opensource](https://github.com/jutsuhq/jutsu-studio)
+- [Swapjutsu](https://jutsustudio.com/swapjutsu/) - A Mac app that swaps a character in a video with Seedance 2.5 or Wan 2.2 Animate, preparing the clip on-device. [#opensource](https://github.com/jutsuhq/swapjutsu-seedance-character-swap)
 
 ### Avatars
 
