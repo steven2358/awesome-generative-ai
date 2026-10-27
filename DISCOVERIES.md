@@ -225,6 +225,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Stable Diffusion resources
 
+- [ToolKnit AI Image Metadata Viewer](https://toolknit.com/tools/ai-image-metadata-viewer.html) - Reads saved Stable Diffusion prompts, generation parameters and ComfyUI workflows from PNG, JPEG and WebP metadata locally in the browser.
+
 ## Video
 - [Twelve Labs](https://www.twelvelabs.io/) - Helping developers build programs that can see, listen, and understand the world through video understanding.
 - [invideo AI](https://invideo.io/) - Turn ideas into videos.
