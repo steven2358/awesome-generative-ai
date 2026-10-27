@@ -301,6 +301,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 - [Poe](https://poe.com/) - Poe gives access to a variety of bots.
 - [GPT Builder](https://chatgpt.com/gpts/editor) - Assistant for creating GPT-based assistants.
+- [Secondee](https://secondee.ai) - B2B AI that handles agreed routine work inside your existing tools.
 
 ## Image
 
