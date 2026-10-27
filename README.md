@@ -174,6 +174,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Other text generators
 
+- [armor-gw](https://github.com/Dixxxzao-01/armor-gw) - Self-hosted OpenAI-compatible LLM gateway that detects refusals and fluff, automatically retries with mutated prompts until a clean answer comes through, and scrubs output to deliverables-only. MIT, Python.
 - [EmailTriager](https://www.emailtriager.com/) - Use AI to automatically draft email replies in the background.
 - [AI Poem Generator](https://www.aipoemgenerator.org) - AI Poem Generator writes a beautiful rhyming poem for you on any subject, given a text prompt.
 
