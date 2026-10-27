@@ -156,6 +156,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [TabGAN](https://github.com/Diyago/Tabular-data-generation) - A Python library for generating synthetic tabular data with GANs, diffusion models, and language models. #opensource
 - [AKF](https://github.com/HMAKT99/AKF) - A file format for embedding trust scores, source provenance, and compliance metadata in AI-generated content. #opensource
 
+- [NovaSynth](https://noveum.ai/en/novasynth) - Automated voice agent testing over phone or LiveKit with configurable AI callers, batch calls, recordings, transcripts, and regression evaluations.
+
 ### Playgrounds
 
 ### Local LLM Deployment
