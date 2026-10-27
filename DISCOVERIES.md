@@ -221,6 +221,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Image libraries
 
+- [PicGens](https://www.picgens.com/) - Free gallery of AI image & photo prompts you can copy, with the picture, model, and creator link.
+
 ### Model libraries
 
 ### Stable Diffusion resources
