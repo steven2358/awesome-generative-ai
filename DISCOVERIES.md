@@ -218,6 +218,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Seede](https://seede.ai/) - An AI tool for generating posters and marketing visuals from text descriptions.
 - [PolyGlyph](https://polyglyph.io/) - AI-powered SVG generation and editing tool that turns text prompts into editable vector graphics.
 - [InkCraft](https://inkcraftapp.com) - Generate tattoo designs from a description and preview them on a photo of your own body.
+- [HomePlan](https://homeplan-arhansubas-projects.vercel.app) - Generates a real computed room layout (not a template) from a plain-language house description, with SVG/3D views, a drag-to-edit Studio, and PDF/DXF export. [#opensource](https://github.com/caelum0x/homeplan)
 
 ### Image libraries
 
