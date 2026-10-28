@@ -340,6 +340,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Reve Image](https://reve.com/) - A model trained from the ground up to excel at prompt adherence, aesthetics, and typography.
 - [Magnific](https://www.magnific.com/) - AI-powered design tools including image generation, background removal, and creative templates.
 - [FigureLabs](https://www.figurelabs.ai/) - An AI tool for generating publication-ready scientific figures in vector format from text descriptions or sketches.
+- [Home Design AI](https://homedesignai.co?utm_source=directory&utm_medium=referral&utm_campaign=grok_submit) - AI Interior, Exterior & Floor Plan Generator that creates 3D interior redesigns, photorealistic exterior renderings, and floor plans from sketches.
 
 ### Graphic design
 
