@@ -256,6 +256,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Typist](https://iamtypist.dev) - Fast audio transcription service powered by Whisper models hosted on Groq.
 - [Echo99](https://www.echo99.app/) - A private macOS call recorder with on-device transcription and speaker labeling.
+- [VoxFlow Pro for Mac](https://bemooore.com/voxflow/mac/?utm_source=awesome_genai) - Free push-to-talk dictation for macOS that transcribes on-device with WhisperKit, so the audio never leaves the Mac.
 
 ### Music
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
