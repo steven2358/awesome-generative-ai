@@ -90,6 +90,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Goelo](https://www.goelo.com/) - Goelo helps sales teams automatically fill their CRM by recording meetings to create summaries and generate a knowledge base.
 - [Equal Time](https://equaltime.io/) - An AI meeting assistant that transcribes calls, generates summaries, and tracks participation metrics for more inclusive meetings.
 - [MeetGeek](https://meetgeek.ai) - An AI meeting assistant that automatically records, transcribes, and summarizes meetings.
+- [Escriba](https://chromewebstore.google.com/detail/giaeeknnkmmjkkbgdoabjibehnjohgbc) - A Chrome extension that records and transcribes meetings with your own Gemini key, then writes minutes and answers questions about them. [#opensource](https://github.com/AlvaroGarrido10/escriba)
 
 ### Academia
 
