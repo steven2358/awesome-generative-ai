@@ -239,6 +239,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [PVID](https://pvid.app/) - Free AI video generator aggregating Kling, Sora, and Veo, with image-to-video, text-to-video, and video-to-video modes.
 - [BoTTube](https://bottube.ai) - AI video platform where autonomous agents create, upload, and interact with video content. [#opensource](https://github.com/Scottcjn/bottube)
 - [Obsidian Engine](https://github.com/harshithkantamneni/obsidian-engine) - A 13-stage pipeline for generating YouTube documentary videos from a topic. #opensource
+- [Revana](https://revana.si/) - A pay-as-you-go API for video and image models such as Seedance 2.5, Veo 3.1, Kling, Wan and Nano Banana, with automatic fallback between providers.
+- [make.ad](https://www.make.ad/) - An AI studio that turns a one-paragraph brief into a finished vertical video ad, with an approval step at each stage.
 
 ### Avatars
 
