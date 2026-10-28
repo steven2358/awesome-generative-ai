@@ -313,5 +313,6 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Awesome AI Software Development Agents](https://github.com/flatlogic/awesome-ai-software-development-agents) - Curated list of AI agents designed for software development tasks.
 - [MODELDROP](https://modeldrop.fyi/) - A community tracker for new generative media AI model releases.
 - [MyVibe](https://www.myvibe.so) - A feed for discovering and sharing AI-created web apps, demos, and interactive projects.
+- [Agent Cookbook](https://agentcookbook.dev) - Free directory of 75 real AI agent setups, including 20 that people made money with, each with its source link and a copyable prompt and steps.
 
 ### Lists on ChatGPT
