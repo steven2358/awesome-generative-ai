@@ -1,4 +1,4 @@
-# Generative AI Discoveries
+  # Generative AI Discoveries
 
 Welcome to the Discoveries list, a special showcase of up-and-coming Generative AI projects. This collection celebrates the diversity and creativity within the Generative AI community. If you're looking for the main list, you can find it [here](README.md).
 
@@ -296,6 +296,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Rearchitecting LLMs](https://www.manning.com/books/rearchitecting-llms) - A book about optimizing and restructuring LLMs for domain-specific use.
 - [PromptZone](https://promptzone.com/) - Community and publication for prompt engineering, LLM comparisons, and AI-tool workflows.
 - [QuiddityML](https://quiddityml.com/) - An educational app covering machine learning from Python and mathematics through deep learning and generative AI, with exercises, projects, and spaced repetition.
+- [DisconfirmAI Reading](https://disconfirmai.com/en/reading) - AI-assisted briefs on AI companies and industry developments with original-source links and publication-time context.
 
 ### Podcasts
 
