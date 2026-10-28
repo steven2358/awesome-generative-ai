@@ -210,6 +210,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [MyPicNow](https://www.mypicnow.com) - An AI headshot generator for creating professional profile photos from uploaded selfies.
 - [PhotoMentor](https://photomentor.pro) - An AI tool for analyzing photos and providing composition and lighting feedback.
 - [AI Hairstyle Fit](https://aihairstylefit.com/) - A tool for previewing haircuts on a front-facing photo, with before/after comparison and a barber card with cutting notes.
+- [PetMona](https://petmona.app) - A service that turns a single pet photo into a portrait in 30+ art styles, with a free watermarked preview before any purchase.
 
 ### Graphic design
 
