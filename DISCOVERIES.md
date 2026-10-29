@@ -221,6 +221,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Image libraries
 
+- [GPT Image Hub](https://www.gptimagehub.com/) - Search 30,000+ AI image prompt templates for GPT Image 2, Nano Banana and Seedream, with example images, an online generator and an MCP server. The prompt dataset is open on GitHub and Hugging Face.
+
 ### Model libraries
 
 ### Stable Diffusion resources
