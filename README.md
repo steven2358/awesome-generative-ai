@@ -296,6 +296,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [OpenAgents](https://github.com/openagents-org/openagents) - Open-source platform for building AI agent networks with multi-protocol support (WebSocket, gRPC, HTTP, MCP, A2A). #opensource
 - [Dorothy](https://github.com/Charlie85270/Dorothy) - An open-source desktop app to orchestrate multiple AI CLI agents simultaneously with automations and Kanban management. #opensource
 - [Hive](https://github.com/aden-hive/hive) - An open-source multi-agent framework with auto-generated graphs, evolution loops, and MCP integration. #opensource
+- [ESP32 iPhone Agent](https://github.com/onehumanbeing/esp32-iphone-agent) - An open-source agent that lets any OpenAI-compatible vision model use a real iPhone through AirPlay screen mirroring and an ESP32-S3 acting as a USB mouse and keyboard. #opensource
 
 ### Custom assistants
 
