@@ -244,6 +244,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Steel Browser](https://github.com/steel-dev/steel-browser) - An open-source browser sandbox and automation infrastructure for AI agents, with session management, screenshots, PDFs, proxies, and anti-bot tooling. #opensource
 - [Bifrost](https://github.com/maximhq/bifrost) - An open-source LLM gateway with routing, load balancing, guardrails, and observability for 1000+ models. #opensource
 - [fal](https://fal.ai/) - A developer platform for accessing and deploying image, video, audio, and 3D generation models.
+- [RAGFlow](https://github.com/infiniflow/ragflow) - An open-source RAG engine for building knowledge-grounded AI agents with deep document understanding, hybrid retrieval, and visual agent workflows. #opensource
 
 ### Playgrounds
 
