@@ -180,7 +180,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 ## Coding
 
 ### Coding Assistants
-
+[Antigravity-OS](https://github.com/ratulbd/antigravity-os)
+ - An autonomous engineering runtime & 182-skill playbook for Google Antigravity and AI coding agents with AST dual-memory routing.
 - [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
 - [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - An AI system by OpenAI that translates natural language to code.
 - [Ghostwriter](https://blog.replit.com/ai) - An AI-powered pair programmer by replit.
