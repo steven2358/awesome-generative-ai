@@ -218,6 +218,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Seede](https://seede.ai/) - An AI tool for generating posters and marketing visuals from text descriptions.
 - [PolyGlyph](https://polyglyph.io/) - AI-powered SVG generation and editing tool that turns text prompts into editable vector graphics.
 - [InkCraft](https://inkcraftapp.com) - Generate tattoo designs from a description and preview them on a photo of your own body.
+- [ThumbnailSnap](https://thumbnailsnap.com/) - Make YouTube thumbnails and TikTok, Reels and Shorts covers with AI, with the headline kept as an editable text layer so it is always spelled right.
 
 ### Image libraries
 
