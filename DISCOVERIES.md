@@ -123,6 +123,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Yume](https://github.com/aofp/yume) - Desktop GUI for Claude Code with multi-tab sessions, background agents, context compaction, and plugin system. #opensource
 - [Frontman](https://frontman.sh/) - A browser-based AI coding agent for editing frontend code with live app context. [#opensource](https://github.com/frontman-ai/frontman)
 - [Cortex](https://github.com/SKULLFIRE07/cortex-memory) - Persistent AI memory for coding assistants, auto-capturing decisions, patterns, and context from Claude Code, Cursor, and Cline sessions. #opensource
+- [ChubbyClaw](https://chubbyclaw.com/?ref=awesome-generative-ai) - Group chat where people and coding agents (Claude Code, Codex, DeepSeek) work in the same thread, sharing memory, files and scheduled tasks. Claude Code and Codex run on your own computer.
 
 ### Developer tools
 
