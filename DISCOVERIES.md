@@ -67,6 +67,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [LogicBalls](https://logicballs.com/) - An AI writing tool for generating blog posts, ads, emails, and social media content. Includes a prompt library.
 - [Publish7](https://publish7.com/) - Agentic platform for digital marketing.
 - [WordLift Agent](https://wordlift.io/agent/) - AI agent for SEO tasks such as product descriptions, internal linking, and SERP analysis.
+- [Cover Me](https://www.cover-me.dev) - Chrome extension that reads the job posting you have open and writes a tailored cover letter and resume from your own resume, with an ATS match score and the missing keywords. [#opensource](https://github.com/TheLinc/cover-me)
 
 ### ChatGPT extensions
 
