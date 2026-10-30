@@ -270,6 +270,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Autonomous agents
 
+- [OctaDezx](https://octadezx.com) - Autonomous customer support and voice dispatch platform powered by LLMs and [Model Context Protocol](https://octadezx.com/ai-agent-mcp-server), eliminating resolution taxes.
 - [Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [babyagi](https://github.com/yoheinakajima/babyagi) - An AI-powered task management system.
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - Assemble, configure, and deploy autonomous AI Agents in your browser.
