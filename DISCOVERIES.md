@@ -155,6 +155,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [CPS Framework](https://github.com/citedbyai/cps-framework) - AI-citation-readiness scoring for web content, with a free MCP checker and paid full audits.
 - [TabGAN](https://github.com/Diyago/Tabular-data-generation) - A Python library for generating synthetic tabular data with GANs, diffusion models, and language models. #opensource
 - [AKF](https://github.com/HMAKT99/AKF) - A file format for embedding trust scores, source provenance, and compliance metadata in AI-generated content. #opensource
+- [Kane CLI](https://github.com/LambdaTest/kane-cli) - An AI test agent CLI that turns plain-English objectives into end-to-end tests and runs them on web, Android and iOS, returning an evidence-backed pass or fail. #opensource
 
 ### Playgrounds
 
