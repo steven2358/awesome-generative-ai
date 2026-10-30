@@ -341,6 +341,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Reve Image](https://reve.com/) - A model trained from the ground up to excel at prompt adherence, aesthetics, and typography.
 - [Magnific](https://www.magnific.com/) - AI-powered design tools including image generation, background removal, and creative templates.
 - [FigureLabs](https://www.figurelabs.ai/) - An AI tool for generating publication-ready scientific figures in vector format from text descriptions or sketches.
+- [Klaruvo](https://www.powersoftware.app/en-US/product/detail/klaruvo) - Local, offline AI image editor for Windows and macOS: removes watermarks and unwanted objects with LaMa inpainting (built on the open-source IOPaint) without uploading images; one-time purchase.
 
 ### Graphic design
 
