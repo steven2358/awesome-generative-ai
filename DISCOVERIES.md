@@ -296,6 +296,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Rearchitecting LLMs](https://www.manning.com/books/rearchitecting-llms) - A book about optimizing and restructuring LLMs for domain-specific use.
 - [PromptZone](https://promptzone.com/) - Community and publication for prompt engineering, LLM comparisons, and AI-tool workflows.
 - [QuiddityML](https://quiddityml.com/) - An educational app covering machine learning from Python and mathematics through deep learning and generative AI, with exercises, projects, and spaced repetition.
+- [FixKit AI](https://fixkitai.com/) - Free, no-signup library of 178 everyday "fix it yourself with AI" recipes (medical bills, refunds, subscriptions, paperwork, coding), each with three steps and a copy-paste prompt, plus a prompt library, AI comparisons, and beginner guides.
 
 ### Podcasts
 
