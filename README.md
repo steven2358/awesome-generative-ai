@@ -416,6 +416,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2) - A Whisper CLI client compatible with the original OpenAI client, using CTranslate2 for faster inference. [#opensource](https://github.com/Softcatala/whisper-ctranslate2)
 - [NeMo](https://github.com/NVIDIA-NeMo/Speech) - An open-source framework by NVIDIA for building speech AI systems, including automatic speech recognition and text-to-speech. #opensource
 - [Parakeet](https://huggingface.co/collections/nvidia/parakeet-asr-659711f49d1469e51546e021) - A family of open speech recognition models by NVIDIA, including streaming and multilingual variants. #opensource
+- [Amical](https://amical.ai) - AI dictation and note-taking app for Mac and Windows that converts voice into formatted text based on the app you dictate in (emails, messages, code and more), using local Whisper or Parakeet models. [#opensource](https://github.com/amicalhq/amical)
 
 ### Music
 
