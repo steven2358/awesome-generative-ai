@@ -242,6 +242,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Avatars
 
+- [Go Rocket](https://www.go-rocket.ai/) - Website URL to a 9:16 UGC video ad with a photoreal AI presenter, in 21 languages.
+
 ### Animation
 
 ## Audio
