@@ -239,6 +239,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [PVID](https://pvid.app/) - Free AI video generator aggregating Kling, Sora, and Veo, with image-to-video, text-to-video, and video-to-video modes.
 - [BoTTube](https://bottube.ai) - AI video platform where autonomous agents create, upload, and interact with video content. [#opensource](https://github.com/Scottcjn/bottube)
 - [Obsidian Engine](https://github.com/harshithkantamneni/obsidian-engine) - A 13-stage pipeline for generating YouTube documentary videos from a topic. #opensource
+- [legit2clip](https://www.legit2clip.com/) - Turns long videos, streams and podcasts into short vertical clips with word-by-word captions.
 
 ### Avatars
 
@@ -261,6 +262,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
 - [Soundraw](https://soundraw.io/) - Create your beats with the power of AI.
 - [Jammable](https://www.jammable.com/) - AI voice covers and music creation platform.
+- [Synestia](https://synestia.bot/) - Makes songs, cover art and music videos by chat or in Discord, with a free library of AI songs for videos (credit required).
 
 ## Other
 
