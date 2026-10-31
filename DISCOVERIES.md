@@ -155,6 +155,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [CPS Framework](https://github.com/citedbyai/cps-framework) - AI-citation-readiness scoring for web content, with a free MCP checker and paid full audits.
 - [TabGAN](https://github.com/Diyago/Tabular-data-generation) - A Python library for generating synthetic tabular data with GANs, diffusion models, and language models. #opensource
 - [AKF](https://github.com/HMAKT99/AKF) - A file format for embedding trust scores, source provenance, and compliance metadata in AI-generated content. #opensource
+- [landmine](https://landmine.tech) - Finds open GitHub issues filed against the exact npm and PyPI versions a project pins and gives coding agents the bug and the workaround, via AGENTS.md/CLAUDE.md, a pre-edit hook or MCP. [#opensource](https://github.com/devanshranjan10/landmines)
 
 ### Playgrounds
 
