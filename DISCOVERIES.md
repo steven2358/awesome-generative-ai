@@ -182,6 +182,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Fazm](https://fazm.ai) - A native macOS app that runs Claude Code and Codex agents with persistent sessions, and can control the browser and other Mac apps. [#opensource](https://github.com/m13v/fazm)
 - [Network-AI](https://github.com/Jovancoding/Network-AI) - A TypeScript/Node.js multi-agent orchestrator with shared state, guardrails, token budgets, and adapters for multiple agent frameworks. #opensource
 - [Agency Orchestrator](https://github.com/jnMetaCode/agency-orchestrator) - YAML-first multi-agent workflow orchestrator with built-in AI roles, DAG parallelism, and conditional branching. Supports DeepSeek, Claude, OpenAI, and Ollama. #opensource
+- [TapVow](https://tapvow.com) - MIT-licensed local gateway that enforces a signed spend cap on every AI-agent payment call, returns an x402 receipt per call, and keeps a hash-chained ledger for audit. [#opensource](https://github.com/theluckystrike/tapvow)
 
 ### Custom assistants
 
