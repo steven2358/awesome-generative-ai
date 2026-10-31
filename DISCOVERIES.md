@@ -188,6 +188,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Ebiose](https://github.com/ebiose-ai/ebiose) - An open-source framework for creating and evolving AI agents through iterative selection. #opensource
 - [OpenPaw](https://github.com/daxaur/openpaw) - A CLI tool that turns Claude Code into a personal assistant with skills for email, calendar, Spotify, smart home, and Slack. #opensource
 - [AnveVoice](https://anvevoice.app) - Voice AI assistant for websites that takes real DOM actions, navigating pages, filling forms, and clicking buttons in 50+ languages.
+- [AnyModelBot](https://anymodel.bot/) - Run your own AI bots on your computer or server and switch between GPT, Claude, Gemini, DeepSeek and other models per chat; bots can use files, commands and your computer, and live in the app, WeChat and Feishu. [#opensource](https://github.com/modelflare-ai/AnyModelBot)
 
 ## Image
 
