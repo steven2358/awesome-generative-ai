@@ -279,6 +279,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [KeepRule](https://keeprule.com) - Investment-discipline tool with curated principles from 26 investors and AI prompts for scenario analysis.
 - [GEOScore AI](https://geoscoreai.com/) - Free AI search visibility scanner that checks 11 GEO signals for ChatGPT, Perplexity, and Gemini visibility.
 - [DeepDNA](https://deepdna.ai) - AI-powered DNA analysis platform for personalized health, nutrition, and pharmacogenomic insights from consumer genetic data.
+- [NutriScan](https://nutriscan.app) - AI calorie and macro tracker for iOS and Android that logs a meal from a photo, voice note or typed text and gives it a NutriScore A to E meal grade.
 
 ## Learning resources
 
