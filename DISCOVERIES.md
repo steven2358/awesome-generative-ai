@@ -218,6 +218,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Seede](https://seede.ai/) - An AI tool for generating posters and marketing visuals from text descriptions.
 - [PolyGlyph](https://polyglyph.io/) - AI-powered SVG generation and editing tool that turns text prompts into editable vector graphics.
 - [InkCraft](https://inkcraftapp.com) - Generate tattoo designs from a description and preview them on a photo of your own body.
+- [EditableImage](https://editableimage.com/) - Turns a slide screenshot into an editable PowerPoint, a diagram picture into a draw.io file, and flat artwork into a layered PSD, with the real exports shown beside each input.
 
 ### Image libraries
 
