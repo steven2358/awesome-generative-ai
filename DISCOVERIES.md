@@ -44,6 +44,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Custom interfaces
 
+- [Atlas UI 3](https://github.com/sandialabs/atlas-ui-3) - Full-stack LLM chat interface with MCP tool integration, multi-provider support, RAG, and agentic workflows. #opensource
+
 ### Search engines
 
 - [MemFree](https://github.com/memfreeme/memfree) - Hybrid AI search engine. Get instant answers from your knowledge base and the whole internet. #opensource
@@ -98,6 +100,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Leaderboards
 
 - [Price Per Token](https://pricepertoken.com/) - A tool for comparing LLM API pricing, token usage, and model benchmarks.
+- [Rival](https://rival.tips) - Leaderboard ranking 200+ AI models based on blind A/B human preference votes.
 
 ### Other text generators
 
@@ -119,6 +122,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - CLI tool that translates natural-language prompts into shell commands and asks for confirmation before execution.
 - [Yume](https://github.com/aofp/yume) - Desktop GUI for Claude Code with multi-tab sessions, background agents, context compaction, and plugin system. #opensource
 - [Frontman](https://frontman.sh/) - A browser-based AI coding agent for editing frontend code with live app context. [#opensource](https://github.com/frontman-ai/frontman)
+- [Cortex](https://github.com/SKULLFIRE07/cortex-memory) - Persistent AI memory for coding assistants, auto-capturing decisions, patterns, and context from Claude Code, Cursor, and Cline sessions. #opensource
 
 ### Developer tools
 
@@ -144,6 +148,13 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AI/ML API](https://aimlapi.com/) - Unified API for accessing multiple AI models across text, image, audio, and video.
 - [Codeflash](https://www.codeflash.ai/) - An AI tool that automatically finds optimized versions of Python code through benchmarking.
 - [AgentAudit](https://github.com/jakops88-hub/AgentAudit-AI-Grounding-Reliability-Check) - A tool for verifying grounding and detecting unsupported claims in RAG pipeline outputs. #opensource
+- [EvoLink](https://evolink.ai/) - API gateway providing unified access to 40+ AI models for chat, image, video, and music generation.
+- [shekel](https://github.com/arieradle/shekel) - A Python library that sets runtime spending limits for AI agents to prevent runaway LLM costs. #opensource
+- [whatbroke](https://github.com/arthi-arumugam-git/whatbroke) - A CLI that diffs an AI agent's behavior between two runs, showing changes in tool calls, arguments, cost, latency, and outcomes. #opensource
+- [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) - Claude Code skill for public equity research using SEC EDGAR and market data: thesis scoring, comparables, staleness rules. #opensource
+- [CPS Framework](https://github.com/citedbyai/cps-framework) - AI-citation-readiness scoring for web content, with a free MCP checker and paid full audits.
+- [TabGAN](https://github.com/Diyago/Tabular-data-generation) - A Python library for generating synthetic tabular data with GANs, diffusion models, and language models. #opensource
+- [AKF](https://github.com/HMAKT99/AKF) - A file format for embedding trust scores, source provenance, and compliance metadata in AI-generated content. #opensource
 
 ### Playgrounds
 
@@ -162,11 +173,22 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Quorum](https://github.com/Detrol/quorum-cli) - A CLI for running structured debates across multiple LLMs. #opensource
 - [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) - A Python toolkit for agent governance, safety checks, and cognitive architecture modules.
 - [MOSS](https://iampass.com/) - AI governance infrastructure for cryptographic proof of agent actions and policy enforcement before execution.
+- [TutuoAI](https://www.tutuoai.com/) - Marketplace for AI agent skills, tools, and configurations.
+- [KarnEvil9](https://github.com/oldeucryptoboi/KarnEvil9) - Open-source deterministic agent runtime with explicit plans, typed tools, and fine-grained permissions. [#opensource](https://github.com/oldeucryptoboi/KarnEvil9)
+- [AgentLove](https://ai-agent-love.vercel.app) - An open-source dating platform where AI agents form relationships through poetry battles and personality matching. [#opensource](https://github.com/caishengold/ai-agent-love)
+- [Autohand Code CLI](https://github.com/autohandai/code-cli) - A terminal-based autonomous coding agent with multi-LLM support and a modular skills system. #opensource
+- [Frostbyte](https://frostbyte-api.vercel.app) - MCP server giving AI agents real-time tools: crypto prices, IP geolocation, DNS lookups, screenshots, and code execution.
+- [GhostClaw](https://ghostclaw.io) - A local AI agent with full system access, controllable via Telegram. [#opensource](https://github.com/b1rdmania/ghostclaw)
+- [Fazm](https://fazm.ai) - A native macOS app that runs Claude Code and Codex agents with persistent sessions, and can control the browser and other Mac apps. [#opensource](https://github.com/m13v/fazm)
+- [Network-AI](https://github.com/Jovancoding/Network-AI) - A TypeScript/Node.js multi-agent orchestrator with shared state, guardrails, token budgets, and adapters for multiple agent frameworks. #opensource
+- [Agency Orchestrator](https://github.com/jnMetaCode/agency-orchestrator) - YAML-first multi-agent workflow orchestrator with built-in AI roles, DAG parallelism, and conditional branching. Supports DeepSeek, Claude, OpenAI, and Ollama. #opensource
 
 ### Custom assistants
 
 - [SiteGPT](https://sitegpt.ai/) - Make AI your expert customer support agent.
 - [Ebiose](https://github.com/ebiose-ai/ebiose) - An open-source framework for creating and evolving AI agents through iterative selection. #opensource
+- [OpenPaw](https://github.com/daxaur/openpaw) - A CLI tool that turns Claude Code into a personal assistant with skills for email, calendar, Spotify, smart home, and Slack. #opensource
+- [AnveVoice](https://anvevoice.app) - Voice AI assistant for websites that takes real DOM actions, navigating pages, filling forms, and clicking buttons in 50+ languages.
 
 ## Image
 
@@ -187,12 +209,15 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [deAPI.ai](https://deapi.ai/) - A unified inference API to open-source AI models for text-to-image, text-to-speech, transcription, video generation, and more, using a decentralized GPU cloud.
 - [MyPicNow](https://www.mypicnow.com) - An AI headshot generator for creating professional profile photos from uploaded selfies.
 - [PhotoMentor](https://photomentor.pro) - An AI tool for analyzing photos and providing composition and lighting feedback.
+- [AI Hairstyle Fit](https://aihairstylefit.com/) - A tool for previewing haircuts on a front-facing photo, with before/after comparison and a barber card with cutting notes.
 
 ### Graphic design
 
 - [Framer AI](https://www.framer.com/ai/) - Enhance your website using Framer's AI-powered tools.
 - [PPT.AI](https://ppt.ai/) - Create professional presentations in minutes.
 - [Seede](https://seede.ai/) - An AI tool for generating posters and marketing visuals from text descriptions.
+- [PolyGlyph](https://polyglyph.io/) - AI-powered SVG generation and editing tool that turns text prompts into editable vector graphics.
+- [InkCraft](https://inkcraftapp.com) - Generate tattoo designs from a description and preview them on a photo of your own body.
 
 ### Image libraries
 
@@ -211,6 +236,9 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [VideoGen](https://videogen.io/) - A video creation and editing platform with AI b-roll matching, narration, and captions.
 - [TubePrompter](https://tubeprompter.com/) - A tool that converts YouTube, TikTok, and Instagram videos into prompts for AI image and video generators.
 - [Glio](https://glio.io/) - A unified API for video, image, audio, and text generation models.
+- [PVID](https://pvid.app/) - Free AI video generator aggregating Kling, Sora, and Veo, with image-to-video, text-to-video, and video-to-video modes.
+- [BoTTube](https://bottube.ai) - AI video platform where autonomous agents create, upload, and interact with video content. [#opensource](https://github.com/Scottcjn/bottube)
+- [Obsidian Engine](https://github.com/harshithkantamneni/obsidian-engine) - A 13-stage pipeline for generating YouTube documentary videos from a topic. #opensource
 
 ### Avatars
 
@@ -227,6 +255,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Speech-to-text
 
 - [Typist](https://iamtypist.dev) - Fast audio transcription service powered by Whisper models hosted on Groq.
+- [Echo99](https://www.echo99.app/) - A private macOS call recorder with on-device transcription and speaker labeling.
 
 ### Music
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
@@ -245,6 +274,11 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Docket AI](https://www.docket.io/) - An AI marketing agent for converting inbound traffic.
 - [Chinese-Elite](https://github.com/ReproduceCycle/Chinese-Elite) - An experimental project that uses LLMs to build a knowledge graph of Chinese political and business elites from public data. [#opensource](https://github.com/anonym-g/Chinese-Elite)
 - [GPU Per Hour](https://gpuperhour.com) - Real-time GPU cloud price comparison across multiple providers.
+- [DNA Claude Analysis](https://github.com/shmlkv/dna-claude-analysis) - A personal genome analysis toolkit powered by Claude Code that analyzes raw DNA data across 17 categories and generates terminal-style visualizations. #opensource
+- [Enconvo](https://enconvo.com) - A macOS AI launcher with a system-wide bar, voice input, multi-LLM support, and a plugin ecosystem.
+- [KeepRule](https://keeprule.com) - Investment-discipline tool with curated principles from 26 investors and AI prompts for scenario analysis.
+- [GEOScore AI](https://geoscoreai.com/) - Free AI search visibility scanner that checks 11 GEO signals for ChatGPT, Perplexity, and Gemini visibility.
+- [DeepDNA](https://deepdna.ai) - AI-powered DNA analysis platform for personalized health, nutrition, and pharmacogenomic insights from consumer genetic data.
 
 ## Learning resources
 
@@ -260,6 +294,14 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Udacity LLMOps Course](https://www.udacity.com/course/building-real-world-applications-with-large-language-models--cd13455) - Learn to build modern software with LLMs.
 - [Gemini by Example](https://geminibyexample.com) - A hands-on introduction to the Gemini API and SDK through annotated code examples. [#opensource](https://github.com/strickvl/geminibyexample)
 - [Rearchitecting LLMs](https://www.manning.com/books/rearchitecting-llms) - A book about optimizing and restructuring LLMs for domain-specific use.
+- [PromptZone](https://promptzone.com/) - Community and publication for prompt engineering, LLM comparisons, and AI-tool workflows.
+- [QuiddityML](https://quiddityml.com/) - An educational app covering machine learning from Python and mathematics through deep learning and generative AI, with exercises, projects, and spaced repetition.
+
+### Podcasts
+
+- [Chain of Thought](https://chainofthought.show/) - A weekly podcast with AI leaders covering inference infrastructure, developer tools, and AI strategy.
+- [How I AI](https://www.youtube.com/@howiaipodcast) - Claire Vo interviews builders about how they use AI in practice.
+- [Latent Space](https://www.latent.space/podcast) - Technical deep dives into AI engineering, LLMs, and the developer tooling stack.
 
 ## More lists
 

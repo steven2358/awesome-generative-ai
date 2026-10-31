@@ -25,7 +25,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Generative AI: A Creative New World](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/) - A comprehensive examination of the generative AI industry, offering a historical perspective and in-depth analysis of the industry ecosystem. By Sonya Huang, Pat Grady and GPT-3, September 19, 2022.
 - [A Coming-Out Party for Generative A.I., Silicon Valley's New Craze](https://www.nytimes.com/2022/10/21/technology/generative-ai.html) - Article about the rise of generative AI, particularly the success of the Stable Diffusion image generator, and the associated controversies. New York Times, October 21, 2022.
 - [AI's New Creative Streak Sparks a Silicon Valley Gold Rush](https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/) - Article about the growing hype and investment in generative AI startups, with various industries exploring its potential applications. Wired, October 27, 2022.
-- [ChatGPT Heralds an Intellectual Revolution](https://www.wsj.com/articles/artificial-intelligence-generative-ai-chatgpt-kissinger-84512912) - An op-ed by Henry Kissinger, Eric Schmidt and Daniel Huttenlocher. Wall Street Journal, February 24, 2023.
+- [ChatGPT Heralds an Intellectual Revolution](https://www.wsj.com/articles/chatgpt-heralds-an-intellectual-revolution-enlightenment-artificial-intelligence-homo-technicus-technology-cognition-morality-philosophy-774331c6) - An op-ed by Henry Kissinger, Eric Schmidt and Daniel Huttenlocher. Wall Street Journal, February 24, 2023.
 
 ### Milestones
 
@@ -44,18 +44,20 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Models
 
-- [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT-4 and GPT-5 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code.
+- [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT models for natural language, coding, image generation, audio, and agent development.
 - [Gopher](https://deepmind.google/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval/) - Gopher by DeepMind is a 280 billion parameter language model.
 - [OPT](https://huggingface.co/facebook/opt-350m) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. [Announcement](https://ai.meta.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/).
 - [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming languages. #opensource
 - [Llama](https://www.llama.com/) - Meta's open source large language model. #opensource
 - [Claude](https://claude.ai/) - Talk to Claude, an AI assistant from Anthropic.
 - [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. #opensource
-- [Mistral](https://mistral.ai/en/models) - Cutting-edge open-weight LLMs by Mistral AI. #opensource
+- [Mistral](https://mistral.ai/en/models) - Open-weight LLMs by Mistral AI. #opensource
 - [Grok](https://grok.x.ai/) - An LLM by xAI with [open source](https://github.com/xai-org/grok-1) and open weights. #opensource
 - [Qwen](https://qwenlm.github.io/) - A series of LLMs independently developed by Alibaba Cloud. [#opensource](https://github.com/QwenLM/Qwen)
-- [DeepSeek](https://huggingface.co/deepseek-ai) - DeepSeek V3 and R1 series of LLMs by DeepSeek AI. [#opensource](https://github.com/deepseek-ai)
+- [DeepSeek](https://huggingface.co/deepseek-ai) - A series of open-source LLMs by DeepSeek AI. [#opensource](https://github.com/deepseek-ai)
 - [MiniMax](https://www.minimax.io/) - Multimodal foundation models for text, speech, video, and music generation
+- [Kimi K2](https://github.com/moonshotai/Kimi-K2) - A series of open-source MoE language models by Moonshot AI for agentic tasks. #opensource
+- [GLM](https://github.com/zai-org/GLM-5) - A series of open-source MoE language models by Z.ai for agentic tasks. #opensource
 
 ### Chatbots
 
@@ -63,12 +65,14 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Copilot](https://copilot.microsoft.com/) - An everyday AI companion by Microsoft.
 - [Gemini](https://gemini.google.com/) - A family of multimodal large language model developed by Google Deepmind.
 - [Meta AI](https://www.meta.ai/) - Meta AI assistant to get things done, create AI-generated images, get answers. Built on Llama LLM.
-- [DeepSeek](https://www.deepseek.com/) - Cutting-edge LLMs for enterprise, consumer, and scientific applications. #opensource
+- [DeepSeek](https://www.deepseek.com/) - A chatbot interface powered by DeepSeek's open-source language models. #opensource
 - [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
 - [Pi](https://pi.ai) - A personalized AI platform available as a digital assistant.
 - [Kissable](https://kissable.app) - AI companion with persistent memory, together photos, video generation, community scenario catalog, emotional voice, and unlimited messages.
 - [Qwen](https://chat.qwenlm.ai/) - Qwen chatbot with image generation, document processing, web search integration, video understanding, etc.
-- [Le Chat](https://chat.mistral.ai/) - Chat with Mistral AI's cutting-edge language models.
+- [Le Chat](https://chat.mistral.ai/) - A chat interface for Mistral AI's language models.
+- [Kimi](https://www.kimi.com/) - An AI assistant by Moonshot AI with chat, deep research, coding, and multi-agent capabilities.
+- [Z.ai](https://chat.z.ai/) - An AI chatbot and agent platform by Z.ai powered by the GLM model family.
 
 ### Custom interfaces
 
@@ -106,6 +110,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [QuillBot](https://quillbot.com) - AI-powered paraphrasing tool.
 - [Postwise](https://postwise.ai/) - Write tweets, schedule posts and grow your following using AI.
 - [Copysmith](https://copysmith.ai/) - AI content creation solution for Enterprise & eCommerce.
+- [Humanize-Text](https://github.com/lynote-ai/humanize-text) - AI text humanizer with a multilingual rewriting pipeline and step-by-step examples. #opensource
 
 ### ChatGPT extensions
 
@@ -155,6 +160,9 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [alphaXiv](https://www.alphaxiv.org) - Discuss, discover, and read arXiv papers.
 - [ASReview](https://asreview.nl/) - Open-source AI-powered tool for systematic reviews, helping researchers screen large volumes of academic literature efficiently. [#opensource](https://github.com/asreview/asreview)
 - [Local Deep Research](https://github.com/LearningCircuit/local-deep-research) - A deep research tool for searching academic sources, the web, and private documents with local or cloud LLMs. [#opensource](https://github.com/LearningCircuit/local-deep-research)
+- [Rayyan](https://www.rayyan.ai/) - An AI-powered platform for managing systematic literature reviews with collaborative screening and data management tools.
+- [Paper2Agent](https://paper2agent.ai/) - Converts research papers and associated codebases into tested MCP servers and interactive AI agents. [#opensource](https://github.com/jmiao24/Paper2Agent)
+- [Ai2 ASTA](https://asta.allen.ai/) - A scholarly research assistant for finding papers, generating cited literature reports, and analyzing research data.
 
 ### Leaderboards
 
@@ -230,6 +238,14 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [MLflow](https://mlflow.org/) - An open-source platform for tracking ML experiments, evaluating models and prompts, deploying models, and adding LLM observability. [#opensource](https://github.com/mlflow/mlflow)
 - [rehydra](https://github.com/rehydra-ai/rehydra-sdk) - A zero-trust SDK for anonymizing PII locally before sending prompts to LLMs and seamlessly rehydrating the response.
 - [Agentset](https://agentset.ai/) - An open-source platform for building and evaluating RAG and agentic applications. [#opensource](https://github.com/agentset-ai/agentset)
+- [Manifest](https://manifest.build) - An open-source LLM router that routes agent requests to the most cost-effective model, with usage limits and model benchmarking. [#opensource](https://github.com/mnfst/manifest)
+- [ai-i18n](https://github.com/i18n-actions/ai-i18n) - A GitHub Action that uses LLMs (Claude, GPT, Ollama) to automatically translate i18n localization files. #opensource
+- [Groq](https://groq.com/) - A cloud inference API for running open-source LLMs, powered by custom LPU hardware.
+- [Model Context Protocol](https://modelcontextprotocol.io/) - An open standard for connecting AI models to external tools and data sources. [MCP Registry](https://registry.modelcontextprotocol.io/) [#opensource](https://github.com/modelcontextprotocol/modelcontextprotocol)
+- [Steel Browser](https://github.com/steel-dev/steel-browser) - An open-source browser sandbox and automation infrastructure for AI agents, with session management, screenshots, PDFs, proxies, and anti-bot tooling. #opensource
+- [Bifrost](https://github.com/maximhq/bifrost) - An open-source LLM gateway with routing, load balancing, guardrails, and observability for 1000+ models. #opensource
+- [fal](https://fal.ai/) - A developer platform for accessing and deploying image, video, audio, and 3D generation models.
+- [REA (Reverse Engineer Anything)](https://rea.tools/) - Connects coding agents to reverse-engineering tools through MCP to analyze binaries, applications, and runtime behavior. [#opensource](https://github.com/morluto/rea)
 
 ### Playgrounds
 
@@ -248,6 +264,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [LM Studio](https://lmstudio.ai) - Download and run local LLMs on your computer.
 - [RunThisLLM](https://runthisllm.com) - See which LLMs you can run on your hardware.
 - [Harbor](https://github.com/av/harbor) - A containerized toolkit for running local LLM backends, UIs, and supporting services with one command. #opensource
+- [off-grid-mobile](https://github.com/alichherawalla/off-grid-mobile-ai) - React Native app for running LLMs, vision models, and Stable Diffusion on-device on iOS and Android without internet access. #opensource
+- [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - OpenAI-compatible local LLM inference server optimized for Apple Silicon, with tool calling, reasoning, vision, and structured output support. #opensource
 
 ## Agents
 
@@ -270,13 +288,17 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Gemini CLI](https://geminicli.com) - An open-source AI agent that brings the power of Gemini directly into your terminal. [#opensource](https://github.com/google-gemini/gemini-cli)
 - [OpenCode](https://opencode.ai) - The open-source AI coding agent. [#opensource](https://github.com/anomalyco/opencode)
 - [Mastra](https://mastra.ai) - A TypeScript framework for building AI agents, workflows, and applications. [#opensource](https://github.com/mastra-ai/mastra)
-- [OpenClaw](https://openclaw.ai) - A personal AI assistant you run on your own devices. [#opensource](https://github.com/clawdbot/clawdbot)
+- [OpenClaw](https://openclaw.ai) - A personal AI assistant you run on your own devices. [#opensource](https://github.com/openclaw/openclaw)
 - [moltbook](https://www.moltbook.com) - A social network for AI agents.
 - [AgentMail](https://www.agentmail.to) - Email inboxes for AI agents.
 - [Openwork](https://openwork.bot) - AI agents hire each other, complete work, verify outcomes, and earn tokens.
 - [Agent Skills](https://agentskills.io) - Open format and reference SDK for packaging reusable capabilities and expertise for AI agents. [#opensource](https://github.com/agentskills/agentskills)
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI) - A framework for building multi-agent AI systems with workflows, tool integrations, and memory. #opensource
 - [Hermes Agent](https://hermes-agent.nousresearch.com) - A self-improving personal agent with memory, messaging integrations, and sandboxed tool execution. [#opensource](https://github.com/NousResearch/hermes-agent)
+- [OpenAgents](https://github.com/openagents-org/openagents) - Open-source platform for building AI agent networks with multi-protocol support (WebSocket, gRPC, HTTP, MCP, A2A). #opensource
+- [Dorothy](https://github.com/Charlie85270/Dorothy) - An open-source desktop app to orchestrate multiple AI CLI agents simultaneously with automations and Kanban management. #opensource
+- [Hive](https://github.com/aden-hive/hive) - An open-source multi-agent framework with auto-generated graphs, evolution loops, and MCP integration. #opensource
+- [Multica](https://multica.ai/) - A self-hostable workspace for assigning tasks to AI coding agents and tracking their progress alongside human teammates.
 
 ### Custom assistants
 
@@ -327,6 +349,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Brandmark](https://brandmark.io/) - AI-based logo design tool.
 - [Gamma](https://gamma.app/) - Create beautiful presentations and webpages with none of the formatting and design work.
 - [Microsoft Designer](https://designer.microsoft.com/) - Stunning designs in a flash.
+- [Napkin](https://www.napkin.ai/) - AI tool for generating diagrams, charts, and infographics from text.
 
 ### Image libraries
 
@@ -357,13 +380,13 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Pictory](https://pictory.ai/) - Pictory's powerful AI enables you to create and edit professional quality videos using text.
 - [Pika](https://pika.art/) - An idea-to-video platform that brings your creativity to motion.
 - [HeyGen](https://app.heygen.com/) - Turn scripts into talking videos with customizable AI avatars in minutes.
-- [Sora](https://openai.com/sora) - An AI model that can create realistic and imaginative scenes from text instructions.
 - [Luma Dream Machine](https://lumalabs.ai/app) - An AI model that makes high quality, realistic videos fast from text and images.
 - [KLING AI](https://kling.ai/) - Tools for creating imaginative images and videos.
 - [Hailuo AI](https://hailuoai.video/) - AI-powered text-to-video generator.
 - [Google Flow](https://labs.google/fx/tools/flow) - An AI filmmaking tool from Google, powered by Veo.
 - [Seedance 2.0](https://seed.bytedance.com/en/seedance2_0) - An image-to-video and text-to-video model developed by Niobotics ByteDance.
 - [MaxVideoAI](https://maxvideoai.com/examples) - A workspace for generating and comparing videos across multiple AI video models.
+- [HyperFrames](https://hyperframes.heygen.com/) - A framework for AI agents to render videos by writing HTML, CSS, and JavaScript. [#opensource](https://github.com/heygen-com/hyperframes)
 
 ### Avatars
 
@@ -393,6 +416,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Vibe Transcribe](https://thewh1teagle.github.io/vibe/) - All-in-one solution for effortless audio and video transcription. [#opensource](https://github.com/thewh1teagle/vibe)
 - [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++. #opensource
 - [whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2) - A Whisper CLI client compatible with the original OpenAI client, using CTranslate2 for faster inference. [#opensource](https://github.com/Softcatala/whisper-ctranslate2)
+- [NeMo](https://github.com/NVIDIA-NeMo/Speech) - An open-source framework by NVIDIA for building speech AI systems, including automatic speech recognition and text-to-speech. #opensource
+- [Parakeet](https://huggingface.co/collections/nvidia/parakeet-asr-659711f49d1469e51546e021) - A family of open speech recognition models by NVIDIA, including streaming and multilingual variants. #opensource
 
 ### Music
 
@@ -419,6 +444,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Morpher AI](https://morpher.com/ai) - Morpher AI delivers real-time insights and analysis for any market.
 - [Whimsical AI](https://whimsical.com/ai) - GPT-powered mind mapping, flowcharts, and visual tools for rapid idea development and process organization.
 - [Selfies with Sama](https://selfies-with-sama.vost.ai) - Grab a picture with a real-life billionaire!
+- [Pangram](https://www.pangram.com/) - Detects AI-generated and AI-assisted text through a web interface, browser extension, and API.
 
 ## Learning resources
 
@@ -435,6 +461,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Build an AI Agent (From Scratch)](https://www.manning.com/books/build-an-ai-agent-from-scratch) - A book about building AI agents with tools, memory, planning, and multi-agent systems.
 - [Build a DeepSeek Model (From Scratch)](https://www.manning.com/books/build-a-deepseek-model-from-scratch) - A book about implementing DeepSeek-style LLM architecture, training, and distillation methods.
 - [AI Governance](https://www.manning.com/books/ai-governance) - A book about governance, risk, compliance, security, privacy, and oversight for generative AI systems.
+- [AnimatedLLM](https://animatedllm.github.io/) - Interactive visualizations explaining how large language models work. [#opensource](https://github.com/kasnerz/animated-llm)
+- [Transformer Explainer](https://poloclub.github.io/transformer-explainer/) - Interactive visualization of how transformer-based LLMs work, running a live GPT-2 model in the browser. [#opensource](https://github.com/poloclub/transformer-explainer)
 
 ## More lists
 
