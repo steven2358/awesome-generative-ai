@@ -242,6 +242,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Avatars
 
+- [Prelulu](https://prelulu.ai/realtime-ai-avatar) - Real-time AI video stories: AI roleplay with characters, plus AI video call and AI video chat on a live avatar face you can interrupt mid-sentence.
+
 ### Animation
 
 ## Audio
