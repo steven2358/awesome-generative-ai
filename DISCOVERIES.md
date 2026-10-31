@@ -239,6 +239,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [PVID](https://pvid.app/) - Free AI video generator aggregating Kling, Sora, and Veo, with image-to-video, text-to-video, and video-to-video modes.
 - [BoTTube](https://bottube.ai) - AI video platform where autonomous agents create, upload, and interact with video content. [#opensource](https://github.com/Scottcjn/bottube)
 - [Obsidian Engine](https://github.com/harshithkantamneni/obsidian-engine) - A 13-stage pipeline for generating YouTube documentary videos from a topic. #opensource
+- [Cutora AI](https://usecutora.com/) - Cutora is an AI video editor for talking-head videos: upload a raw recording and it hands back an edited video, with the pauses, false starts and retakes cut, the audio cleaned, the colour corrected, and captions, zooms and on-screen text added, all on a timeline you can change.
 
 ### Avatars
 
