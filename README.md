@@ -342,6 +342,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Reve Image](https://reve.com/) - A model trained from the ground up to excel at prompt adherence, aesthetics, and typography.
 - [Magnific](https://www.magnific.com/) - AI-powered design tools including image generation, background removal, and creative templates.
 - [FigureLabs](https://www.figurelabs.ai/) - An AI tool for generating publication-ready scientific figures in vector format from text descriptions or sketches.
+- [ClearPix](https://clearpix.org) - Remove watermarks, objects and burned-in subtitles and upscale images 4x, entirely in the browser with local WebGPU inference and no uploads. [#opensource](https://github.com/SharksevenRo/browser-watermark-removal)
 
 ### Graphic design
 
