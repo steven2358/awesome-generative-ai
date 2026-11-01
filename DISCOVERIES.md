@@ -239,6 +239,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [PVID](https://pvid.app/) - Free AI video generator aggregating Kling, Sora, and Veo, with image-to-video, text-to-video, and video-to-video modes.
 - [BoTTube](https://bottube.ai) - AI video platform where autonomous agents create, upload, and interact with video content. [#opensource](https://github.com/Scottcjn/bottube)
 - [Obsidian Engine](https://github.com/harshithkantamneni/obsidian-engine) - A 13-stage pipeline for generating YouTube documentary videos from a topic. #opensource
+- [Make Dime Dime Baby](https://makedimedimebaby.com) - Turns one photo into a 10-second Full HD 9:16 Dime Dime Baby dance video in the browser. New accounts get one free video; later one-time packs are $9.99 for one video or $24.99 for three.
 
 ### Avatars
 
