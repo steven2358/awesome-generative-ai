@@ -148,6 +148,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AI/ML API](https://aimlapi.com/) - Unified API for accessing multiple AI models across text, image, audio, and video.
 - [Codeflash](https://www.codeflash.ai/) - An AI tool that automatically finds optimized versions of Python code through benchmarking.
 - [AgentAudit](https://github.com/jakops88-hub/AgentAudit-AI-Grounding-Reliability-Check) - A tool for verifying grounding and detecting unsupported claims in RAG pipeline outputs. #opensource
+- [SEOCheck-AI](https://seocheck-ai.com/) - AI-powered website auditor analyzing Core Web Vitals, JSON-LD structured data, and LLM search readiness.
 - [EvoLink](https://evolink.ai/) - API gateway providing unified access to 40+ AI models for chat, image, video, and music generation.
 - [shekel](https://github.com/arieradle/shekel) - A Python library that sets runtime spending limits for AI agents to prevent runaway LLM costs. #opensource
 - [whatbroke](https://github.com/arthi-arumugam-git/whatbroke) - A CLI that diffs an AI agent's behavior between two runs, showing changes in tool calls, arguments, cost, latency, and outcomes. #opensource
@@ -182,6 +183,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Fazm](https://fazm.ai) - A native macOS app that runs Claude Code and Codex agents with persistent sessions, and can control the browser and other Mac apps. [#opensource](https://github.com/m13v/fazm)
 - [Network-AI](https://github.com/Jovancoding/Network-AI) - A TypeScript/Node.js multi-agent orchestrator with shared state, guardrails, token budgets, and adapters for multiple agent frameworks. #opensource
 - [Agency Orchestrator](https://github.com/jnMetaCode/agency-orchestrator) - YAML-first multi-agent workflow orchestrator with built-in AI roles, DAG parallelism, and conditional branching. Supports DeepSeek, Claude, OpenAI, and Ollama. #opensource
+- [ListAIHub](https://listaihub.com/) - A curated directory of AI agents and autonomous tools with machine-readable OpenAPI specifications.
 
 ### Custom assistants
 
