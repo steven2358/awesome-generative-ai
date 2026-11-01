@@ -261,6 +261,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
 - [Soundraw](https://soundraw.io/) - Create your beats with the power of AI.
 - [Jammable](https://www.jammable.com/) - AI voice covers and music creation platform.
+- [LyricsGift](https://lyricsgift.com/) - Paid AI service that writes a personalised song from your story, with line-by-line lyric approval and a one-minute preview of two versions before paying.
 
 ## Other
 
