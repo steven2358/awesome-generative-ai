@@ -298,6 +298,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Dorothy](https://github.com/Charlie85270/Dorothy) - An open-source desktop app to orchestrate multiple AI CLI agents simultaneously with automations and Kanban management. #opensource
 - [Hive](https://github.com/aden-hive/hive) - An open-source multi-agent framework with auto-generated graphs, evolution loops, and MCP integration. #opensource
 - [Multica](https://multica.ai/) - A self-hostable workspace for assigning tasks to AI coding agents and tracking their progress alongside human teammates.
+- [Piomio](https://piomio.io) - Open-source team of personal AI agents that runs on your own computer using your Claude Code or Codex subscription, with approval before any outgoing action. [#opensource](https://github.com/legostin/piomio)
 
 ### Custom assistants
 
