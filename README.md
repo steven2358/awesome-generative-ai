@@ -138,6 +138,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Open Notebook](https://www.open-notebook.ai) - An open source implementation of NotebookLM with more flexibility and features. [#opensource](https://github.com/lfnovo/open-notebook)
 - [Screenpipe](https://github.com/screenpipe/screenpipe) - An open-source tool for recording screen and audio activity with AI-powered search, automations, and support for local LLMs. #opensource
 
+- [Vaneform](https://vaneform.com/) - Free website traffic checker: look up any site's visits, trends, and traffic sources.
 ### Meeting assistants
 
 - [Otter.ai](https://otter.ai/) - A meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries.
