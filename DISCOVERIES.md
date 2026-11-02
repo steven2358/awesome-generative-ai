@@ -67,6 +67,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [LogicBalls](https://logicballs.com/) - An AI writing tool for generating blog posts, ads, emails, and social media content. Includes a prompt library.
 - [Publish7](https://publish7.com/) - Agentic platform for digital marketing.
 - [WordLift Agent](https://wordlift.io/agent/) - AI agent for SEO tasks such as product descriptions, internal linking, and SERP analysis.
+- [Revenue Scout](https://revenuescout.ai/) - AI finds leads on seven social sites and drafts replies you review and post yourself; free tier and paid plans.
 
 ### ChatGPT extensions
 
@@ -155,6 +156,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [CPS Framework](https://github.com/citedbyai/cps-framework) - AI-citation-readiness scoring for web content, with a free MCP checker and paid full audits.
 - [TabGAN](https://github.com/Diyago/Tabular-data-generation) - A Python library for generating synthetic tabular data with GANs, diffusion models, and language models. #opensource
 - [AKF](https://github.com/HMAKT99/AKF) - A file format for embedding trust scores, source provenance, and compliance metadata in AI-generated content. #opensource
+- [Akii: SEO & AI Search Optimizer](https://github.com/akii-technologies-ltd/akii-seo-ai-search-optimizer) - Free MIT-licensed Claude Code plugin for SEO audits, content plans, schema markup and link checks. #opensource
 
 ### Playgrounds
 
