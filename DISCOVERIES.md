@@ -230,6 +230,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Glio](https://glio.io/) - A unified API for video, image, audio, and text generation models.
 
 ### Avatars
+- [TalkPix](https://www.talkpix.ai/) - Turn one photo plus a typed script or an uploaded audio file into a lip-synced talking video, with a REST API for developers.
 
 ### Animation
 
