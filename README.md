@@ -462,6 +462,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [AI Governance](https://www.manning.com/books/ai-governance) - A book about governance, risk, compliance, security, privacy, and oversight for generative AI systems.
 - [AnimatedLLM](https://animatedllm.github.io/) - Interactive visualizations explaining how large language models work. [#opensource](https://github.com/kasnerz/animated-llm)
 - [Transformer Explainer](https://poloclub.github.io/transformer-explainer/) - Interactive visualization of how transformer-based LLMs work, running a live GPT-2 model in the browser. [#opensource](https://github.com/poloclub/transformer-explainer)
+- [100 AI Engineer Interview Questions](https://github.com/Johnnnmai/ai-engineer-interview-questions) - 100 graded AI engineer interview questions with full model answers covering LLMs, RAG, agents, system design, MLOps, and coding, plus a free answer self-checker. [#opensource](https://github.com/Johnnnmai/ai-engineer-interview-questions)
 
 ## More lists
 
