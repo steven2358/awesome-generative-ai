@@ -298,7 +298,6 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [QuiddityML](https://quiddityml.com/) - An educational app covering machine learning from Python and mathematics through deep learning and generative AI, with exercises, projects, and spaced repetition.
 - [AppToBot](https://apptobot.com) - A directory of 86 sourced AI agent and automation recipes that replaced paid apps, each with costs and a 1-5 reliability rating.
 
-
 ### Podcasts
 
 - [Chain of Thought](https://chainofthought.show/) - A weekly podcast with AI leaders covering inference infrastructure, developer tools, and AI strategy.
