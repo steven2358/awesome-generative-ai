@@ -239,6 +239,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [PVID](https://pvid.app/) - Free AI video generator aggregating Kling, Sora, and Veo, with image-to-video, text-to-video, and video-to-video modes.
 - [BoTTube](https://bottube.ai) - AI video platform where autonomous agents create, upload, and interact with video content. [#opensource](https://github.com/Scottcjn/bottube)
 - [Obsidian Engine](https://github.com/harshithkantamneni/obsidian-engine) - A 13-stage pipeline for generating YouTube documentary videos from a topic. #opensource
+- [Aisma](https://aisma.ai/) - An AI editor for videos you already shot: describe the change in plain words, add reference photos, and get the edited clip with its original framing and audio, also through a REST API and a remote MCP server.
 
 ### Avatars
 
