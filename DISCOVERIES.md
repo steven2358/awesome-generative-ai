@@ -244,6 +244,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Animation
 
+- [SpriteCanvas](https://spritecanvas.com/) - Generates 2D game character animations (idle, walk, run, attack) from a text prompt or an image and exports transparent sprite sheets for game engines.
+
 ## Audio
 
 ### Text-to-speech
