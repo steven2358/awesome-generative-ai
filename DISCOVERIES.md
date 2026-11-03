@@ -244,6 +244,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Animation
 
+- [claude-motion](https://github.com/TheOnlyFusionCube/claude-motion) - Independent coding-agent motion graphics renderer using DOM/SVG and Three.js for 2D/3D films, with frame-exact MP4 export through Chromium and FFmpeg. #opensource
+
 ## Audio
 
 ### Text-to-speech
