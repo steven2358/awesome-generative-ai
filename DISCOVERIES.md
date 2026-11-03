@@ -106,6 +106,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Never Jobless](https://neverjobless.com/) - Maximize your interview chances with AI-powered LinkedIn messaging.
 - [Vedika API](https://vedika.io/) - An astrology API with chat-based queries and horoscope endpoints.
+- [Marcora](https://marcora.ai) - The context layer for go-to-market teams: your positioning, brand voice, and product facts in one source of truth that your AI tools read from.
 
 ## Coding
 
