@@ -210,6 +210,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [MyPicNow](https://www.mypicnow.com) - An AI headshot generator for creating professional profile photos from uploaded selfies.
 - [PhotoMentor](https://photomentor.pro) - An AI tool for analyzing photos and providing composition and lighting feedback.
 - [AI Hairstyle Fit](https://aihairstylefit.com/) - A tool for previewing haircuts on a front-facing photo, with before/after comparison and a barber card with cutting notes.
+- [isGenAI](https://isgenai.com/) - A free checker that reads C2PA Content Credentials, IPTC AI labels and saved Stable Diffusion prompts in images, and reports a separate AI-likelihood score.
 
 ### Graphic design
 
