@@ -1,489 +1,1354 @@
-# Awesome Generative AI [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome-Generative-AI 
+### Visit the [Website](https://generative-ai-hub.gitbook.io/awesomegenerativeai)
 
-> A curated list of modern Generative Artificial Intelligence projects and services.
+![Banner Image](https://github.com/natnew/Awesome-Generative-AI/blob/main/image/DALL%C2%B7E%202023-11-25%2001.18.11%20-%20AwesomeGenAI.png)
 
-Generative Artificial Intelligence is a technology that creates original content such as images, sounds, and texts by using machine learning algorithms that are trained on large amounts of data. Unlike other forms of AI, it is capable of creating unique and previously unseen outputs such as photorealistic images, digital art, music, and writing. These outputs often have their own unique style and can even be hard to distinguish from human-created works. Generative AI has a wide range of applications in fields such as of art, entertainment, marketing, academia, and computer science.
+---
 
-Contributions to this list are welcome. Before submitting your suggestions, please review the [Contribution Guidelines](CONTRIBUTING.md) to ensure your entries meet the criteria. Add links through [pull requests](https://github.com/steven2358/awesome-generative-ai/pulls) or create an [issue](https://github.com/steven2358/awesome-generative-ai/issues) to start a discussion. More projects can be found in the [Discoveries List](DISCOVERIES.md), where we showcase a wide range of up-and-coming Generative AI projects.
+## Recently Added
+
+> 🆕 *Last updated: January 2025*
+
+| Resource | Category | Description |
+|----------|----------|-------------|
+| [LangGraph](https://github.com/langchain-ai/langgraph) | Agent Frameworks | Stateful multi-agent orchestration |
+| [Inspect AI](https://inspect.ai-safety-institute.org.uk/) | Evaluation | UK AISI's open-source eval framework |
+| [DSPy](https://github.com/stanfordnlp/dspy) | Frameworks | Programming (not prompting) LLMs |
+| [Pydantic AI](https://ai.pydantic.dev/) | Agent Frameworks | Type-safe, model-agnostic agents |
+| [RAGAS](https://github.com/explodinggradients/ragas) | Evaluation | RAG pipeline evaluation |
+
+---
+
+![Static Badge](https://img.shields.io/badge/Welcome%20to%20Awesome%20Generative%20AI%20-%20Green)
+![Static Badge](https://img.shields.io/badge/License-MIT-lightgrey.svg?longCache=true)
+
+Created by [NatNew](https://github.com/natnew) and [Contributors](https://github.com/natnew/Awesome-Generative-AI/settings/access)
+
+## About
+**Awesome-Generative-AI** is your go-to open source repository for exploring the dynamic and creative world of generative artificial intelligence. From AI-generated art to innovative applications in various domains, this repository offers a wealth of resources, projects, and inspiration.
+[Project Roadmap](https://redis-roadmap-azure-one.vercel.app/)
+
+---
 
 ## Contents
 
-- [Recommended reading](#recommended-reading)
-- [Text](#text)
-- [Coding](#coding)
-- [Agents](#agents)
-- [Image](#image)
-- [Video](#video)
-- [Audio](#audio)
-- [Other](#other)
-- [Learning resources](#learning-resources)
-- [More lists](#more-lists)
-
-## Recommended reading
-
-- [How Large Language Models Will Transform Science, Society, and AI](https://hai.stanford.edu/news/how-large-language-models-will-transform-science-society-and-ai) - Article summarizing the capabilities and limitations of the GPT-3 model, and its potential impact on society. By Alex Tamkin and Deep Ganguli, February 5, 2021.
-- [Generative AI: A Creative New World](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/) - A comprehensive examination of the generative AI industry, offering a historical perspective and in-depth analysis of the industry ecosystem. By Sonya Huang, Pat Grady and GPT-3, September 19, 2022.
-- [A Coming-Out Party for Generative A.I., Silicon Valley's New Craze](https://www.nytimes.com/2022/10/21/technology/generative-ai.html) - Article about the rise of generative AI, particularly the success of the Stable Diffusion image generator, and the associated controversies. New York Times, October 21, 2022.
-- [AI's New Creative Streak Sparks a Silicon Valley Gold Rush](https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/) - Article about the growing hype and investment in generative AI startups, with various industries exploring its potential applications. Wired, October 27, 2022.
-- [ChatGPT Heralds an Intellectual Revolution](https://www.wsj.com/articles/chatgpt-heralds-an-intellectual-revolution-enlightenment-artificial-intelligence-homo-technicus-technology-cognition-morality-philosophy-774331c6) - An op-ed by Henry Kissinger, Eric Schmidt and Daniel Huttenlocher. Wall Street Journal, February 24, 2023.
-
-### Milestones
-
-- [OpenAI API](https://openai.com/blog/openai-api/) - Announcement of the OpenAI API for text-to-text general-purpose AI models based on GPT-3. OpenAI blog, June 11, 2020.
-- [GitHub Copilot](https://github.blog/news-insights/product-news/introducing-github-copilot-ai-pair-programmer/) - Announcement of Copilot, a new AI pair programmer that helps you write better code. GitHub blog, June 29, 2021.
-- [DALL·E 2](https://openai.com/blog/dall-e-2/) - Announcement of the release of DALL·E 2, an advanced image generation system with improved resolution, expanded image creation capabilities, and various safety mitigations. OpenAI blog, April 6, 2022.
-- [Stable Diffusion Public Release](https://stability.ai/news-updates/stable-diffusion-public-release) - Announcement of the public release of Stable Diffusion, an AI-based image generation model trained on a broad internet scrape and licensed under a Creative ML OpenRAIL-M license. Stable Diffusion blog, 22 August, 2022.
-- [ChatGPT](https://openai.com/blog/chatgpt/) - Announcement of ChatGPT, a conversational model trained to answer follow-up questions, admit mistakes, challenge incorrect premises, and reject inappropriate requests. OpenAI blog, November 30, 2022.
-- [Bing Search](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) - Microsoft announces a new version of its search engine Bing, powered by a next-generation OpenAI model. Microsoft blog, February 7, 2023.
-- [LLaMA](https://ai.meta.com/blog/large-language-model-llama-meta-ai/) - Llama LLM, a foundational, 65-billion-parameter large language model by Meta. Meta, February 23rd, 2023. #opensource
-- [GPT-4](https://openai.com/research/gpt-4) - Announcement of GPT-4, a large multimodal model. OpenAI blog, March 14, 2023.
-- [DALL·E 3](https://openai.com/index/dall-e-3/) - Announcement of DALL·E 3 image generator. OpenAI blog, September 20, 2023.
-- [Sora](https://openai.com/research/video-generation-models-as-world-simulators) - Presentation of Sora, a large video generation model. OpenAI, February 15, 2024.
-
-## Text
-
-### Models
-
-- [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT models for natural language, coding, image generation, audio, and agent development.
-- [Gopher](https://deepmind.google/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval/) - Gopher by DeepMind is a 280 billion parameter language model.
-- [OPT](https://huggingface.co/facebook/opt-350m) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. [Announcement](https://ai.meta.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/).
-- [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming languages. #opensource
-- [Llama](https://www.llama.com/) - Meta's open source large language model. #opensource
-- [Claude](https://claude.ai/) - Talk to Claude, an AI assistant from Anthropic.
-- [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. #opensource
-- [Mistral](https://mistral.ai/en/models) - Open-weight LLMs by Mistral AI. #opensource
-- [Grok](https://grok.x.ai/) - An LLM by xAI with [open source](https://github.com/xai-org/grok-1) and open weights. #opensource
-- [Qwen](https://qwenlm.github.io/) - A series of LLMs independently developed by Alibaba Cloud. [#opensource](https://github.com/QwenLM/Qwen)
-- [DeepSeek](https://huggingface.co/deepseek-ai) - A series of open-source LLMs by DeepSeek AI. [#opensource](https://github.com/deepseek-ai)
-- [MiniMax](https://www.minimax.io/) - Multimodal foundation models for text, speech, video, and music generation
-- [Kimi K2](https://github.com/moonshotai/Kimi-K2) - A series of open-source MoE language models by Moonshot AI for agentic tasks. #opensource
-- [GLM](https://github.com/zai-org/GLM-5) - A series of open-source MoE language models by Z.ai for agentic tasks. #opensource
-
-### Chatbots
-
-- [ChatGPT](https://chatgpt.com/) - ChatGPT by OpenAI is a large language model that interacts in a conversational way.
-- [Copilot](https://copilot.microsoft.com/) - An everyday AI companion by Microsoft.
-- [Gemini](https://gemini.google.com/) - A family of multimodal large language model developed by Google Deepmind.
-- [Meta AI](https://www.meta.ai/) - Meta AI assistant to get things done, create AI-generated images, get answers. Built on Llama LLM.
-- [DeepSeek](https://www.deepseek.com/) - A chatbot interface powered by DeepSeek's open-source language models. #opensource
-- [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
-- [Pi](https://pi.ai) - A personalized AI platform available as a digital assistant.
-- [Qwen](https://chat.qwenlm.ai/) - Qwen chatbot with image generation, document processing, web search integration, video understanding, etc.
-- [Le Chat](https://chat.mistral.ai/) - A chat interface for Mistral AI's language models.
-- [Kimi](https://www.kimi.com/) - An AI assistant by Moonshot AI with chat, deep research, coding, and multi-agent capabilities.
-- [Z.ai](https://chat.z.ai/) - An AI chatbot and agent platform by Z.ai powered by the GLM model family.
-
-### Custom interfaces
-
-- [LibreChat](https://librechat.ai/) - LibreChat is a free and open-source chat interface for assistant AIs. [#opensource](https://github.com/danny-avila/LibreChat).
-- [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [#opensource](https://github.com/mckaywrigley/chatbot-ui).
-
-### Search engines
-
-- [Perplexity AI](https://www.perplexity.ai/) - AI powered search tools.
-- [Exa](https://exa.ai/) - Language model powered search.
-- [Phind](https://phind.com/) - AI-based search engine.
-- [You.com](https://you.com/) - A search engine built on AI that provides users with a customized search experience while keeping their data 100% private.
-- [Komo](https://komo.ai/) - An AI-powered search engine.
-
-### Local search engines
-
-- [privateGPT](https://github.com/zylon-ai/private-gpt) - Ask questions to your documents without an internet connection, using the power of LLMs.
-- [quivr](https://github.com/QuivrHQ/quivr) - Dump all your files and chat with it using your generative AI second brain using LLMs & embeddings.
-
-### Writing assistants
-
-- [Jasper](https://www.jasper.ai/) - Create content faster with artificial intelligence.
-- [Compose AI](https://www.compose.ai/) - Compose AI is a free Chrome extension that cuts your writing time by 40% with AI-powered autocompletion.
-- [Rytr](https://rytr.me/) - Rytr is an AI writing assistant that helps you create high-quality content.
-- [wordtune](https://www.wordtune.com/) - Personal writing assistant.
-- [HyperWrite](https://hyperwriteai.com/) - HyperWrite helps you write with confidence and get your work done faster from idea to final draft.
-- [Moonbeam](https://www.gomoonbeam.com/) - Better blogs in a fraction of the time.
-- [copy.ai](https://www.copy.ai/) - Write better marketing copy and content with AI.
-- [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation.
-- [Anyword](https://anyword.com/) - Anyword's AI writing assistant generates effective copy for anyone.
-- [Hypotenuse AI](https://www.hypotenuse.ai/) - Turn a few keywords into original, insightful articles, product descriptions and social media copy.
-- [Lavender](https://www.lavender.ai/) - Lavender email assistant helps you get more replies in less time.
-- [Lex](https://lex.page/) - A word processor with artificial intelligence baked in, so you can write faster.
-- [Jenni](https://jenni.ai/) - Jenni is the ultimate writing assistant that saves you hours of ideation and writing time.
-- [QuillBot](https://quillbot.com) - AI-powered paraphrasing tool.
-- [Postwise](https://postwise.ai/) - Write tweets, schedule posts and grow your following using AI.
-- [Copysmith](https://copysmith.ai/) - AI content creation solution for Enterprise & eCommerce.
-- [Humanize-Text](https://github.com/lynote-ai/humanize-text) - AI text humanizer with a multilingual rewriting pipeline and step-by-step examples. #opensource
-
-### ChatGPT extensions
-
-- [WebChatGPT](https://chromewebstore.google.com/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn) - Augment your ChatGPT prompts with relevant results from the web.
-- [GPT for Sheets and Docs](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654) - ChatGPT extension for Google Sheets and Google Docs.
-- [YouTube Summary with ChatGPT](https://chromewebstore.google.com/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) - Use ChatGPT to summarize YouTube videos.
-- [AI Prompt Genius](https://chromewebstore.google.com/detail/ai-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo) - Discover, share, import, and use the best prompts for ChatGPT & save your chat history locally.
-- [ShareGPT](https://sharegpt.com/) - Share your ChatGPT conversations and explore conversations shared by others.
-- [Merlin](https://www.getmerlin.in/) - ChatGPT Plus extension on all websites.
-- [Jetwriter](https://jetwriter.ai/) - AI writing assistant for Chrome, desktop, and mobile.
-- [ChatGPT for Jupyter](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - Add various helper functions in Jupyter Notebooks and Jupyter Lab, powered by ChatGPT.
-- [editGPT](https://www.editgpt.app/) - Easily proofread, edit, and track changes to your content in chatGPT.
-- [Forefront](https://www.forefront.ai/) - A Better ChatGPT Experience.
-- [ChatGPT for Sheets, Docs, Slides, Forms](https://workspace.google.com/marketplace/app/gpt_for_sheets_docs_forms_slides/466607203252) - ChatGPT extension for Google Sheets, Google Docs, Google Slides, Google Forms.
-- [GPT for Gmail](https://workspace.google.com/marketplace/app/gpt_for_gmail_ai_email_assistant_gemini/899305976589) - AI email assistant for Gmail.
-
-### Productivity
-
-- [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
-- [Mem](https://mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
-- [Taskade](https://www.taskade.com/) - Outline tasks, notes, generated structured lists and mind maps with Taskade AI.
-- [Notion AI](https://www.notion.so/product/ai) - Write better, more efficient notes and docs.
-- [Nekton AI](https://nekton.ai) - Automate your workflows with AI. Describe your workflows step by step in plain language.
-- [Limitless](https://www.limitless.ai/) - An AI memory assistant for recording conversations and meetings, generating summaries, and searching past interactions across apps and an optional wearable.
-- [NotebookLM](https://notebooklm.google/) - A research and note-taking online tool to interact with documents, powered by Google Gemini.
-- [Open Notebook](https://www.open-notebook.ai) - An open source implementation of NotebookLM with more flexibility and features. [#opensource](https://github.com/lfnovo/open-notebook)
-- [Screenpipe](https://github.com/screenpipe/screenpipe) - An open-source tool for recording screen and audio activity with AI-powered search, automations, and support for local LLMs. #opensource
-
-### Meeting assistants
-
-- [Otter.ai](https://otter.ai/) - A meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries.
-- [Cogram](https://www.cogram.com/) - Cogram takes automatic notes in virtual meetings and identifies action items.
-- [Sybill](https://www.sybill.ai/) - Sybill generates summaries of sales calls, including next steps, pain points and areas of interest, by combining transcript and emotion-based insights.
-- [Loopin AI](https://www.loopinhq.com/) - Loopin is a collaborative meeting workspace that not only enables you to record, transcribe & summaries meetings using AI, but also enables you to auto-organise meeting notes on top of your calendar.
-- [Read AI](https://www.read.ai/) - An AI copilot for wherever you work, making your meetings, emails, and messages more productive with summaries, content discovery, and recommendations.
-- [Fireflies.ai](https://fireflies.ai) - Transcribe, summarize, search, and analyze all your team conversations.
-
-### Academia
-
-- [Elicit](https://elicit.org/) - Elicit uses language models to help you automate research workflows, like parts of literature review.
-- [genei](https://www.genei.io/) - Summarise academic articles in seconds and save 80% on your research times.
-- [Explainpaper](https://www.explainpaper.com/) - A better way to read academic papers. Upload a paper, highlight confusing text, get an explanation.
-- [Consensus](https://consensus.app/search/) - Consensus is a search engine that uses AI to find answers in scientific research.
-- [scite](https://scite.ai/) - A platform for discovering and evaluating scientific articles.
-- [SciSpace](https://scispace.com/) - An AI research assistant for understanding scientific literature.
-- [STORM](https://storm.genie.stanford.edu/) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. [#opensource](https://github.com/stanford-oval/storm/)
-- [alphaXiv](https://www.alphaxiv.org) - Discuss, discover, and read arXiv papers.
-- [ASReview](https://asreview.nl/) - Open-source AI-powered tool for systematic reviews, helping researchers screen large volumes of academic literature efficiently. [#opensource](https://github.com/asreview/asreview)
-- [Local Deep Research](https://github.com/LearningCircuit/local-deep-research) - A deep research tool for searching academic sources, the web, and private documents with local or cloud LLMs. [#opensource](https://github.com/LearningCircuit/local-deep-research)
-- [Rayyan](https://www.rayyan.ai/) - An AI-powered platform for managing systematic literature reviews with collaborative screening and data management tools.
-- [Paper2Agent](https://paper2agent.ai/) - Converts research papers and associated codebases into tested MCP servers and interactive AI agents. [#opensource](https://github.com/jmiao24/Paper2Agent)
-- [Ai2 ASTA](https://asta.allen.ai/) - A scholarly research assistant for finding papers, generating cited literature reports, and analyzing research data.
-
-### Leaderboards
-
-- [Arena](https://arena.ai/) - An open platform for crowdsourced AI benchmarking, hosted by researchers at UC Berkeley SkyLab.
-- [Artificial Analysis](https://artificialanalysis.ai/) - Artificial Analysis provides objective benchmarks & information to help choose AI models and hosting providers.
-- [imgsys](https://imgsys.org/rankings) - A generative image model arena by fal.ai.
-- [OpenRouter LLM Rankings](https://openrouter.ai/rankings) - Language models ranked and analyzed by usage across apps.
-- [SEAL LLM Leaderboard](https://labs.scale.com/leaderboard) - Expert-driven LLM benchmarks and updated AI model leaderboards.
-- [LLM Stats](https://llm-stats.com/) - Compare AI models across benchmarks, pricing, speed, and context window.
-
-### Other text generators
-
-- [EmailTriager](https://www.emailtriager.com/) - Use AI to automatically draft email replies in the background.
-- [AI Poem Generator](https://www.aipoemgenerator.org) - AI Poem Generator writes a beautiful rhyming poem for you on any subject, given a text prompt.
-
-## Coding
-
-### Coding Assistants
-
-- [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
-- [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - An AI system by OpenAI that translates natural language to code.
-- [Ghostwriter](https://blog.replit.com/ai) - An AI-powered pair programmer by replit.
-- [Amazon Q](https://aws.amazon.com/q/) - The AWS generative AI–powered assistant that helps answer questions, write code, and automate tasks.
-- [tabnine](https://www.tabnine.com/) - Code faster with whole-line & full-function code completions.
-- [Stenography](https://stenography.dev/) - Automatic code documentation.
-- [Mintlify](https://mintlify.com/) - AI powered documentation writer.
-- [AI2sql](https://www.ai2sql.io/) - With AI2sql, engineers and non-engineers can easily write efficient, error-free SQL queries without knowing SQL.
-- [Qodo](https://www.qodo.ai/) - AI code review tool with agentic workflows for IDEs, pull requests, and security.
-- [PR-Agent](https://github.com/The-PR-Agent/pr-agent) - AI-powered tool for automated PR analysis, feedback, suggestions and more.
-- [TurboPilot](https://github.com/ravenscroftj/turbopilot) - A self-hosted copilot clone which uses the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model in 4 GB of RAM.
-- [GPT-Code UI](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter. #opensource
-- [Open Interpreter](https://github.com/openinterpreter/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally.
-- [Continue](https://www.continue.dev/) - Open-source AI code assistant. Connect any model and any context to create custom autocomplete and chat experiences inside the IDE. [#opensource](https://github.com/continuedev/continue)
-- [RooCode](https://github.com/RooCodeInc/Roo-Code) - An AI-powered autonomous coding agent integrated directly into VS Code. [#opensource](https://github.com/RooCodeInc/Roo-Code)
-- [Windsurf](https://windsurf.com/) - An AI-native IDE that combines code editing with advanced AI assistance throughout the development process.
-- [Plandex](https://github.com/plandex-ai/plandex) - Open source, terminal-based AI programming engine for complex tasks. [#opensource](https://github.com/plandex-ai/plandex)
-- [Jupyter AI](https://github.com/jupyterlab/jupyter-ai) - An open-source, configurable AI assistant in Jupyter Notebook and JupyterLab that supports 100+ LLMs, including locally-hosted models from Ollama and GPT4All. #opensource
-- [DataLine](https://dataline.app) - An AI-driven data analysis and visualization tool. [#opensource](https://github.com/RamiAwar/dataline)
-- [v0](https://v0.dev) - Prompt-driven UI generation for React and Next.js, creating production-ready components.
-- [Lovable](https://lovable.dev) - Conversational full-stack app generation, turning ideas into deployable code.
-- [aider](https://aider.chat/) - AI pair programming in your terminal, supporting multiple LLM providers. [#opensource](https://github.com/paul-gauthier/aider)
-- [Kilo](https://kilo.ai/) - Open-source AI coding assistant for VS Code, JetBrains, and the CLI. [#opensource](https://github.com/Kilo-Org/kilocode)
-
-### Developer tools
-
-- [Cohere](https://cohere.com/) - Cohere provides access to advanced Large Language Models and NLP tools.
-- [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
-- [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
-- [gpt4all](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.
-- [LLM App](https://github.com/pathwaycom/llm-app) - Open-source Python library to build real-time LLM-enabled data pipeline.
-- [LMQL](https://lmql.ai/) - LMQL is a query language for large language models.
-- [LlamaIndex](https://www.llamaindex.ai/) - A data framework for building LLM applications over external data.
-- [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine tune LLM, CV and tabular models.
-- [Cursor](https://cursor.com/) - Cursor is the IDE of the future, built for pair-programming with Powerful AI.
-- [SymbolicAI](https://github.com/ExtensityAI/symbolicai) - A neuro-symbolic framework for building applications with LLMs at the core.
-- [Vanna.ai](https://vanna.ai/) - An open-source Python RAG framework for SQL generation and related functionality. [#opensource](https://github.com/vanna-ai/vanna)
-- [Portkey](https://portkey.ai/) - A full-stack LLMOps platform for LLM monitoring, caching, and management.
-- [agenta](https://github.com/agenta-ai/agenta) - An open-source end-to-end LLMOps platform for prompt engineering, evaluation, and deployment. #opensource
-- [Together AI](https://www.together.ai/) - Train, fine-tune-and run inference on AI models blazing fast, at low cost, and at production scale.
-- [Gitingest](https://gitingest.com/) - Turn any Git repository into a simple text digest of its codebase so it can be fed into any LLM. [#opensource](https://github.com/cyclotruc/gitingest)
-- [Repomix](https://repomix.com/) - Pack your codebase into AI-friendly formats. [#opensource](https://github.com/yamadashy/repomix)
-- [llama.cpp](https://github.com/ggml-org/llama.cpp) - Inference of Meta's LLaMA model (and others) in pure C/C++. #opensource
-- [bitnet.cpp](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs, by Microsoft. [#opensource](https://github.com/microsoft/BitNet)
-- [OpenRouter](https://openrouter.ai/) - A unified interface for LLMs. [#opensource](https://github.com/OpenRouterTeam)
-- [Ludwig](https://github.com/ludwig-ai/ludwig) - A low-code framework for building custom AI models like LLMs and other deep neural networks. [#opensource](https://github.com/ludwig-ai/ludwig)
-- [Unsloth](https://unsloth.ai) - A Python library for fine-tuning LLMs [#opensource](https://github.com/unslothai/unsloth).
-- [OpenLIT](https://github.com/openlit/openlit) - Open-source GenAI and LLM observability platform native to OpenTelemetry with traces and metrics. #opensource
-- [Helicone AI](https://helicone.ai/) - Open-source LLM observability platform for logging, monitoring, and debugging AI applications. [#opensource](https://github.com/Helicone/helicone)
-- [Wren AI](https://www.getwren.ai/oss) - An open-source text-to-SQL and generative BI agent with a semantic layer. [#opensource](https://github.com/Canner/WrenAI)
-- [Cleanlab](https://cleanlab.ai/tlm/) - An API for detecting and scoring hallucinations in LLM outputs.
-- [Opik](https://github.com/comet-ml/opik) - An open-source platform for tracing, evaluating, and monitoring LLM applications. [#opensource](https://github.com/comet-ml/opik)
-- [Langfuse](https://langfuse.com/) - An open-source LLM engineering platform for tracing, evaluation, prompt management, and metrics. [#opensource](https://github.com/langfuse/langfuse)
-- [MLflow](https://mlflow.org/) - An open-source platform for tracking ML experiments, evaluating models and prompts, deploying models, and adding LLM observability. [#opensource](https://github.com/mlflow/mlflow)
-- [rehydra](https://github.com/rehydra-ai/rehydra-sdk) - A zero-trust SDK for anonymizing PII locally before sending prompts to LLMs and seamlessly rehydrating the response.
-- [Agentset](https://agentset.ai/) - An open-source platform for building and evaluating RAG and agentic applications. [#opensource](https://github.com/agentset-ai/agentset)
-- [Manifest](https://manifest.build) - An open-source LLM router that routes agent requests to the most cost-effective model, with usage limits and model benchmarking. [#opensource](https://github.com/mnfst/manifest)
-- [ai-i18n](https://github.com/i18n-actions/ai-i18n) - A GitHub Action that uses LLMs (Claude, GPT, Ollama) to automatically translate i18n localization files. #opensource
-- [Groq](https://groq.com/) - A cloud inference API for running open-source LLMs, powered by custom LPU hardware.
-- [Model Context Protocol](https://modelcontextprotocol.io/) - An open standard for connecting AI models to external tools and data sources. [MCP Registry](https://registry.modelcontextprotocol.io/) [#opensource](https://github.com/modelcontextprotocol/modelcontextprotocol)
-- [Steel Browser](https://github.com/steel-dev/steel-browser) - An open-source browser sandbox and automation infrastructure for AI agents, with session management, screenshots, PDFs, proxies, and anti-bot tooling. #opensource
-- [Bifrost](https://github.com/maximhq/bifrost) - An open-source LLM gateway with routing, load balancing, guardrails, and observability for 1000+ models. #opensource
-- [fal](https://fal.ai/) - A developer platform for accessing and deploying image, video, audio, and 3D generation models.
-- [REA (Reverse Engineer Anything)](https://rea.tools/) - Connects coding agents to reverse-engineering tools through MCP to analyze binaries, applications, and runtime behavior. [#opensource](https://github.com/morluto/rea)
-
-### Playgrounds
-
-- [OpenAI Playground](https://platform.openai.com/playground) - Explore resources, tutorials, API docs, and dynamic examples.
-- [Google AI Studio](https://aistudio.google.com/) - A web-based tool to prototype with Gemini and experimental models.
-- [GitHub Models](https://github.com/marketplace/models) - Find and experiment with AI models to develop a generative AI application.
-
-### Local LLM Deployment
-
-- [Ollama](https://github.com/ollama/ollama) - Get up and running with large language models locally.
-- [Open WebUI](https://github.com/open-webui/open-webui) - An extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline. #opensource
-- [Jan](https://jan.ai/) - Run LLMs like Mistral or Llama2 locally and offline on your computer, or connect to remote AI APIs. [#opensource](https://github.com/janhq/jan)
-- [Msty](https://msty.ai/) - A straightforward and powerful interface for local and online AI models.
-- [PyGPT](https://pygpt.net/) - Personal desktop AI assistant with chat, vision, agents, image generation, tools and commands, voice control and more. #opensource
-- [LLM](https://llm.datasette.io/) - A CLI utility and Python library for interacting with Large Language Models, remote and local. [#opensource](https://github.com/simonw/llm)
-- [LM Studio](https://lmstudio.ai) - Download and run local LLMs on your computer.
-- [RunThisLLM](https://runthisllm.com) - See which LLMs you can run on your hardware.
-- [Harbor](https://github.com/av/harbor) - A containerized toolkit for running local LLM backends, UIs, and supporting services with one command. #opensource
-- [off-grid-mobile](https://github.com/alichherawalla/off-grid-mobile-ai) - React Native app for running LLMs, vision models, and Stable Diffusion on-device on iOS and Android without internet access. #opensource
-- [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - OpenAI-compatible local LLM inference server optimized for Apple Silicon, with tool calling, reasoning, vision, and structured output support. #opensource
-
-## Agents
-
-### Autonomous agents
-
-- [Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
-- [babyagi](https://github.com/yoheinakajima/babyagi) - An AI-powered task management system.
-- [AgentGPT](https://github.com/reworkd/AgentGPT) - Assemble, configure, and deploy autonomous AI Agents in your browser.
-- [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
-- [GPT Prompt Engineer](https://github.com/mshumer/gpt-prompt-engineer) - Automated prompt engineering. It generates, tests, and ranks prompts to find the best ones.
-- [MetaGPT](https://github.com/FoundationAgents/MetaGPT) - The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo.
-- [AutoGen](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
-- [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation.
-- [Devin](https://devin.ai/) - An autonomous AI software engineer by Cognition Labs.
-- [OpenHands](https://github.com/OpenHands/OpenHands) - An autonomous agent designed to navigate the complexities of software engineering. #opensource
-- [Davika](https://github.com/stitionai/devika) - An agentic AI software engineer. #opensource
-- [n8n](https://n8n.io/) - A workflow automation platform that combines AI capabilities with business process automation.
-- [Sauna](https://www.sauna.ai) - An AI assistant built for compounding context. It learns your taste, detects hidden patterns, augments your brain context and works proactively.
-- [Claude Code](https://code.claude.com) - Anthropic's agentic coding tool that lives in your terminal and helps you turn ideas into code.
-- [Gemini CLI](https://geminicli.com) - An open-source AI agent that brings the power of Gemini directly into your terminal. [#opensource](https://github.com/google-gemini/gemini-cli)
-- [OpenCode](https://opencode.ai) - The open-source AI coding agent. [#opensource](https://github.com/anomalyco/opencode)
-- [Mastra](https://mastra.ai) - A TypeScript framework for building AI agents, workflows, and applications. [#opensource](https://github.com/mastra-ai/mastra)
-- [OpenClaw](https://openclaw.ai) - A personal AI assistant you run on your own devices. [#opensource](https://github.com/openclaw/openclaw)
-- [moltbook](https://www.moltbook.com) - A social network for AI agents.
-- [AgentMail](https://www.agentmail.to) - Email inboxes for AI agents.
-- [Openwork](https://openwork.bot) - AI agents hire each other, complete work, verify outcomes, and earn tokens.
-- [Agent Skills](https://agentskills.io) - Open format and reference SDK for packaging reusable capabilities and expertise for AI agents. [#opensource](https://github.com/agentskills/agentskills)
-- [PraisonAI](https://github.com/MervinPraison/PraisonAI) - A framework for building multi-agent AI systems with workflows, tool integrations, and memory. #opensource
-- [Hermes Agent](https://hermes-agent.nousresearch.com) - A self-improving personal agent with memory, messaging integrations, and sandboxed tool execution. [#opensource](https://github.com/NousResearch/hermes-agent)
-- [OpenAgents](https://github.com/openagents-org/openagents) - Open-source platform for building AI agent networks with multi-protocol support (WebSocket, gRPC, HTTP, MCP, A2A). #opensource
-- [Dorothy](https://github.com/Charlie85270/Dorothy) - An open-source desktop app to orchestrate multiple AI CLI agents simultaneously with automations and Kanban management. #opensource
-- [Hive](https://github.com/aden-hive/hive) - An open-source multi-agent framework with auto-generated graphs, evolution loops, and MCP integration. #opensource
-- [Multica](https://multica.ai/) - A self-hostable workspace for assigning tasks to AI coding agents and tracking their progress alongside human teammates.
-
-### Custom assistants
-
-- [Poe](https://poe.com/) - Poe gives access to a variety of bots.
-- [GPT Builder](https://chatgpt.com/gpts/editor) - Assistant for creating GPT-based assistants.
-
-## Image
-
-### Models
-
-- [DALL·E 2](https://openai.com/dall-e-2/) - DALL·E 2 by OpenAI is a new AI system that can create realistic images and art from a description in natural language.
-- [Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4) - Stable Diffusion by Stability AI is a state of the art text-to-image model that generates images from text. #opensource
-- [Midjourney](https://www.midjourney.com/) - Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
-- [Imagen](https://imagen.research.google/) - Imagen by Google is a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding.
-- [Make-A-Scene](https://ai.meta.com/blog/greater-creative-control-for-ai-image-generation/) - Make-A-Scene by Meta is a multimodal generative AI method puts creative control in the hands of people who use it by allowing them to describe and illustrate their vision through both text descriptions and freeform sketches.
-- [DragGAN](https://github.com/XingangPan/DragGAN) - Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.
-- [Flux](https://github.com/black-forest-labs/flux) - Text-to-image models by Black Forest Labs with high-quality photorealistic output. #opensource
-
-### Services
-
-- [Craiyon](https://www.craiyon.com/) - Craiyon, formerly DALL-E mini, is an AI model that can draw images from any text prompt.
-- [DreamStudio](https://stability.ai/dreamstudio) - DreamStudio is an easy-to-use interface for creating images using the Stable Diffusion image generation model.
-- [Artbreeder](https://www.artbreeder.com/) - Artbreeder is new type of creative tool that empowers users creativity by making it easier to collaborate and explore.
-- [Magic Eraser](https://magicstudio.com/magiceraser/) - Remove unwanted things from images in seconds.
-- [Imagine by Magic Studio](https://magicstudio.com/imagine) - A tool by Magic Studio that let's you express yourself by just describing what's on your mind.
-- [Alpaca](https://www.getalpaca.io/) - Stable Diffusion Photoshop plugin.
-- [Patience.ai](https://www.patience.ai/) - Patience.ai is an app for creating images with Stable Diffusion, a cutting edge AI developed by Stability.AI.
-- [GenShare](https://www.genshare.io/) - Generate art in seconds for free. Own and share what you create. A multimedia generative studio, democratizing design and creativity.
-- [Playground](https://playground.com/) - Playground is a free-to-use online AI image creator. Use it to create art, social media posts, presentations, posters, videos, logos and more.
-- [modyfi](https://www.modyfi.com/) - A browser-based design platform with AI-powered image generation, animation, and real-time collaboration.
-- [PhotoRoom](https://www.photoroom.com/) - Create product and portrait pictures using only your phone. Remove background, change background and showcase products.
-- [Photo AI](https://photoai.com/ai-avatars) - Create your own AI-generated avatars.
-- [ClipDrop](https://clipdrop.co/) - Create professional visuals without a photo studio, powered by [stability.ai](https://stability.ai/).
-- [Lensa](https://prisma-ai.com/lensa) - An all-in-one image editing app that includes the generation of personalized avatars using Stable Diffusion.
-- [RunDiffusion](https://rundiffusion.com/) - Cloud-based workspace for creating AI-generated art.
-- [Ideogram](https://ideogram.ai/) - A text-to-image platform to make creative expression more accessible.
-- [Bing Image Creator](https://www.bing.com/images/create) - DALLE·3 based text-to-image generator with safety features.
-- [KREA](https://www.krea.ai/) - Generate high quality visuals with an AI that knows about your styles, concepts, or products.
-- [Nightcafe](https://creator.nightcafe.studio/) - NightCafe Creator is an AI Art Generator app with multiple methods of AI art generation.
-- [Leonardo AI](https://leonardo.ai/) - Create production-quality visual assets for your projects with unprecedented quality, speed, and style.
-- [Recraft](https://www.recraft.ai/) - An AI tool that lets creators easily generate and iterate original images, vector art, illustrations, icons, and 3D graphics.
-- [Reve Image](https://reve.com/) - A model trained from the ground up to excel at prompt adherence, aesthetics, and typography.
-- [Magnific](https://www.magnific.com/) - AI-powered design tools including image generation, background removal, and creative templates.
-- [FigureLabs](https://www.figurelabs.ai/) - An AI tool for generating publication-ready scientific figures in vector format from text descriptions or sketches.
-
-### Graphic design
-
-- [Brandmark](https://brandmark.io/) - AI-based logo design tool.
-- [Gamma](https://gamma.app/) - Create beautiful presentations and webpages with none of the formatting and design work.
-- [Microsoft Designer](https://designer.microsoft.com/) - Stunning designs in a flash.
-- [Napkin](https://www.napkin.ai/) - AI tool for generating diagrams, charts, and infographics from text.
-
-### Image libraries
-
-- [Lexica](https://lexica.art/) - Stable Diffusion search engine.
-- [OpenArt](https://openart.ai/) - Search 10M+ of prompts, and generate AI art via Stable Diffusion, DALL·E 2.
-- [PromptHero](https://prompthero.com/) - Search prompts for models like Stable Diffusion, ChatGPT, Midjourney, etc.
-- [PromptBase](https://promptbase.com/) - Search prompts from top prompt engineers. Sell your own prompts.
-
-### Model libraries
-
-- [Civitai](https://civitai.com/) - Community driven AI model sharing tool.
-- [Stable Diffusion Models](https://rentry.org/sdmodels) - A comprehensive list of Stable Diffusion checkpoints on rentry.org.
-
-### Stable Diffusion resources
-
-- [Stable Horde](https://stablehorde.net/) - A crowdsourced distributed cluster of Stable Diffusion workers.
-- [DiffusionDB](https://diffusiondb.com/) - A list of all public apps, developer tools, guides and plugins for Stable Diffusion. [Airtable version](https://airtable.com/shr0HlBwbw3nZ8Ht3/tblxOCylXV8ynh7ti).
-- [PublicPrompts](https://publicprompts.art/) - A collection of free prompts for Stable Diffusion.
-- [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) - Python materials for the online course on diffusion models by [@huggingface](https://github.com/huggingface).
-- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - A node-based interface for building and running Stable Diffusion workflows. [#opensource](https://github.com/comfyanonymous/ComfyUI)
-
-## Video
-
-- [Runway](https://runwayml.com/) - Magical AI tools, realtime collaboration, precision editing, and more. Your next-generation content creation suite.
-- [Synthesia](https://www.synthesia.io/) - Create videos from plain text in minutes.
-- [Colossyan](https://www.colossyan.com/) - Learning & Development focused video creator. Use AI avatars to create educational videos in multiple languages.
-- [Fliki](https://fliki.ai/) - Create text to video and text to speech content with ai powered voices in minutes.
-- [Pictory](https://pictory.ai/) - Pictory's powerful AI enables you to create and edit professional quality videos using text.
-- [Pika](https://pika.art/) - An idea-to-video platform that brings your creativity to motion.
-- [HeyGen](https://app.heygen.com/) - Turn scripts into talking videos with customizable AI avatars in minutes.
-- [Luma Dream Machine](https://lumalabs.ai/app) - An AI model that makes high quality, realistic videos fast from text and images.
-- [KLING AI](https://kling.ai/) - Tools for creating imaginative images and videos.
-- [Hailuo AI](https://hailuoai.video/) - AI-powered text-to-video generator.
-- [Google Flow](https://labs.google/fx/tools/flow) - An AI filmmaking tool from Google, powered by Veo.
-- [Seedance 2.0](https://seed.bytedance.com/en/seedance2_0) - An image-to-video and text-to-video model developed by Niobotics ByteDance.
-- [MaxVideoAI](https://maxvideoai.com/examples) - A workspace for generating and comparing videos across multiple AI video models.
-- [HyperFrames](https://hyperframes.heygen.com/) - A framework for AI agents to render videos by writing HTML, CSS, and JavaScript. [#opensource](https://github.com/heygen-com/hyperframes)
-
-### Avatars
-
-- [D-ID](https://www.d-id.com/) - Create and interact with talking avatars at the touch of a button.
-- [HeyGen](https://app.heygen.com/) - Turn scripts into talking videos with customizable AI avatars in minutes.
-- [Affogato](https://affogato.ai/) - Create AI-generated product video ads for TikTok, Reels, and Shorts.
-
-### Animation
-
-- [Autodesk Flow Studio](https://www.autodesk.com/products/flow-studio) - AI-powered tool for animating and compositing CG characters into live-action footage.
-
-## Audio
-
-### Text-to-speech
-
-- [Eleven Labs](https://elevenlabs.io/) - AI voice generator.
-- [Resemble AI](https://www.resemble.ai/) - AI voice generator and voice cloning for text to speech.
-- [WellSaid](https://www.wellsaid.io/) - Convert text to voice in real time.
-- [TorToiSe](https://github.com/neonbjb/tortoise-tts) - A multi-voice text-to-speech system trained with an emphasis on quality. #opensource
-- [Bark](https://github.com/suno-ai/bark) - A transformer-based text-to-audio model. #opensource
-- [TTS WebUI](https://github.com/rsxdalv/TTS-WebUI) - Web UI for running multiple text-to-speech, music generation, and audio tools. #opensource
-
-### Speech-to-text
-
-- [Whisper](https://openai.com/index/whisper/) - Robust speech recognition via large-scale weak supervision. [#opensource](https://github.com/openai/whisper)
-- [Wispr Flow](https://wisprflow.ai/) - Flow makes writing quick with seamless voice dictation for any application on your computer.
-- [Vibe Transcribe](https://thewh1teagle.github.io/vibe/) - All-in-one solution for effortless audio and video transcription. [#opensource](https://github.com/thewh1teagle/vibe)
-- [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++. #opensource
-- [whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2) - A Whisper CLI client compatible with the original OpenAI client, using CTranslate2 for faster inference. [#opensource](https://github.com/Softcatala/whisper-ctranslate2)
-- [NeMo](https://github.com/NVIDIA-NeMo/Speech) - An open-source framework by NVIDIA for building speech AI systems, including automatic speech recognition and text-to-speech. #opensource
-- [Parakeet](https://huggingface.co/collections/nvidia/parakeet-asr-659711f49d1469e51546e021) - A family of open speech recognition models by NVIDIA, including streaming and multilingual variants. #opensource
-
-### Music
-
-- [Harmonai](https://www.harmonai.org/) - We are a community-driven organization releasing open-source generative audio tools to make music production more accessible and fun for everyone.
-- [Mubert](https://mubert.com/) - A royalty-free music ecosystem for content creators, brands and developers.
-- [MusicLM](https://google-research.github.io/seanet/musiclm/examples/) - A model by Google Research for generating high-fidelity music from text descriptions.
-- [AudioCraft](https://audiocraft.metademolab.com/) - A single-stop code base for generative audio needs, by Meta. Includes MusicGen for music and AudioGen for sounds. #opensource
-- [Stable Audio](https://stability.ai/stable-audio) - Stable Audio is Stability AI's first product for music and sound effect generation.
-- [AIVA](https://www.aiva.ai/) - AI-based music generation assistant. Choose from 250+ styles.
-- [Suno AI](https://suno.com/) - Anyone can make great music. No instrument needed, just imagination. From your mind to music.
-- [Udio](https://www.udio.com/) - Discover, create, and share music with the world.
-
-## Other
-
-- [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
-- [This Image Does Not Exist](https://thisimagedoesnotexist.com/) - Test your ability to tell if an image is human or computer generated.
-- [Have I Been Trained?](https://haveibeentrained.com/) - Check if your image has been used to train popular AI art models.
-- [AI Dungeon](https://aidungeon.io/) - A text-based adventure-story game you direct (and star in) while the AI brings it to life.
-- [Clickable](https://www.clickable.so/) - Generate ads in seconds with AI. Beautiful, brand-consistent, and highly converting ads for all marketing channels.
-- [Scale Spellbook](https://scale.com/genai-platform) - Build, compare, and deploy large language model apps with Scale Spellbook.
-- [Scenario](https://www.scenario.com/) - AI-generated gaming assets.
-- [Teleprompter](https://github.com/danielgross/teleprompter) - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
-- [FinChat](https://finchat.io/) - Using AI, FinChat generates answers to questions about public companies and investors.
-- [Morpher AI](https://morpher.com/ai) - Morpher AI delivers real-time insights and analysis for any market.
-- [Whimsical AI](https://whimsical.com/ai) - GPT-powered mind mapping, flowcharts, and visual tools for rapid idea development and process organization.
-- [Selfies with Sama](https://selfies-with-sama.vost.ai) - Grab a picture with a real-life billionaire!
-- [Pangram](https://www.pangram.com/) - Detects AI-generated and AI-assisted text through a web interface, browser extension, and API.
-
-## Learning resources
-
-- [Learn Prompting](https://learnprompting.org/) - A free, open source course on communicating with artificial intelligence.
-- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guide and resources for prompt engineering.
-- [ChatGPT prompt engineering for developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - A short course by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI).
-- [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
-- [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering) - Strategies and tactics for getting better results from large language models.
-- [PromptPerfect](https://promptperfect.jina.ai/) - Tool for prompt engineering.
-- [Anthropic courses](https://github.com/anthropics/courses) - Anthropic's educational courses.
-- [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) - A guide to building your own working LLM, by Sebastian Raschka.
-- [Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/) - A free DeepLearning.AI short course on how to prompt computer vision models with natural language, bounding boxes, segmentation masks, coordinate points, and other images.
-- [Build a Reasoning Model (From Scratch)](https://www.manning.com/books/build-a-reasoning-model-from-scratch) - A guide to building a working reasoning model from the ground up, by Sebastian Raschka.
-- [Build an AI Agent (From Scratch)](https://www.manning.com/books/build-an-ai-agent-from-scratch) - A book about building AI agents with tools, memory, planning, and multi-agent systems.
-- [Build a DeepSeek Model (From Scratch)](https://www.manning.com/books/build-a-deepseek-model-from-scratch) - A book about implementing DeepSeek-style LLM architecture, training, and distillation methods.
-- [AI Governance](https://www.manning.com/books/ai-governance) - A book about governance, risk, compliance, security, privacy, and oversight for generative AI systems.
-- [AnimatedLLM](https://animatedllm.github.io/) - Interactive visualizations explaining how large language models work. [#opensource](https://github.com/kasnerz/animated-llm)
-- [Transformer Explainer](https://poloclub.github.io/transformer-explainer/) - Interactive visualization of how transformer-based LLMs work, running a live GPT-2 model in the browser. [#opensource](https://github.com/poloclub/transformer-explainer)
-
-## More lists
-
-- [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html) - A large list of Google Colab notebooks for generative AI, by [@pharmapsychotic](https://twitter.com/pharmapsychotic).
-- [The Generative AI Application Landscape](https://twitter.com/sonyatweetybird/status/1584580362339962880) - An infographic that maps the generative AI ecosystem, by [Sonya Huang](https://twitter.com/sonyatweetybird) of Sequoia Capital.
-- [Startups - @builtwithgenai](https://airtable.com/shr6nfE9FOHp17IjG/tblL3ekHZfkm3p6YT) - An Airtable list by [@builtwithgenai](https://twitter.com/builtwithgenai).
-- [The Generative AI Index](https://airtable.com/shrH4REIgddv8SzUo/tbl5dsXdD1P859QLO) - An Airtable list by [Scale Venture Partners](https://www.scalevp.com/generative-ai).
-- [Generative AI for Games](https://twitter.com/gwertz/status/1593268767269670912) - A market map of companies working on Generative AI for games, by [a16z](https://a16z.com/).
-- [Generative Deep Art](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of generative deep learning tools, works, models, etc. for artistic uses, by [@filipecalegario](https://github.com/filipecalegario/).
-- [GPT-3 Demo](https://gpt3demo.com/) - Showcase with GPT-3 examples, demos, apps, showcase, and NLP use-cases.
-- [GPT-4 Demo](https://gpt4demo.com/) - GPT-4 apps and use-cases.
-- [The Generative AI Landscape](https://github.com/ai-collection/ai-collection) - A Collection of Awesome Generative AI Applications.
-- [Molecular design](https://github.com/AspirinCode/papers-for-molecular-design-using-DL) - List of molecular design using Generative AI and Deep Learning.
-- [Open LLMs](https://github.com/eugeneyan/open-llms) - A list of open LLMs available for commercial use.
-- [Awesome Music AI](https://github.com/steven2358/awesome-music-ai) - A curated list of AI tools for music composition, generation, and analysis.
-- [Awesome AI Market Maps](https://github.com/joylarkin/Awesome-AI-Market-Maps) - A curated list of AI market maps from 2026, 2025, and 2024, by [Joy Larkin](https://twitter.com/joy).
-- [Awesome RAG Production](https://github.com/Yigtwxx/Awesome-RAG-Production) - A curated list of tools and resources for building production RAG systems.
-
-### Lists on ChatGPT
-
-- [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - A curated list of awesome tools, demos, docs for ChatGPT and GPT-3, by [@jordn](https://github.com/jordn).
-- [Awesome ChatGPT Prompts](https://github.com/f/prompts.chat) - A collection of prompt examples to be used with the ChatGPT model.
-- [FlowGPT](https://flowgpt.com/) - Amplify your workflow with the best prompts.
-- [ChatGPT Prompts for Data Science](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) - A repository of useful data science prompts for ChatGPT.
-- [Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt) - Another awesome list for ChatGPT.
+- [Introduction](#introduction)
+- [Getting Started](#getting-started)
+- [What is Generative AI?](#what-is-generative-ai)
+- **Building & Development**
+  - [Frameworks and Models](#frameworks-and-models)
+  - [Frameworks & Orchestration](#frameworks--orchestration)
+  - [Agent Building Platforms](#agent-building-platforms)
+  - [RAG & Retrieval](#rag--retrieval)
+  - [Command Line Tools](#command-line-tools)
+  - [AI-Native IDEs & Code Editors](#ai-native-ides--code-editors)
+  - [Code Generators](#code-generators)
+- **Safety, Security & Governance**
+  - [Safety, Alignment & Guardrails](#safety-alignment--guardrails)
+  - [Evaluation Frameworks](#evaluation-frameworks)
+  - [Observability & Tracing](#observability--tracing)
+  - [AI Safety & Red Teaming](#ai-safety--red-teaming)
+  - [Regulations & Policy](#regulations--policy)
+  - [Best Practices](#best-practices)
+- **Applications**
+  - [Writing and Content Creation](#writing-and-content-creation)
+  - [Image Design](#image-design)
+  - [Video](#video)
+  - [Audio - Voice Generators](#audio---voice-generators)
+  - [Music Generators](#music-generators)
+  - [Multimodal Models](#multimodal-models)
+- **Learning & Research**
+  - [Learning Platforms](#learning-platforms)
+  - [Educational Resources](#educational-resources)
+  - [Books](#books)
+  - [Papers](#papers)
+  - [Podcasts](#podcasts)
+  - [Playbooks & Reference Architectures](#playbooks--reference-architectures)
+  - [People to Follow](#people-to-follow)
+- **Resources**
+  - [Articles](#articles)
+  - [Newsletters](#newsletters)
+  - [GitHub Repositories & Code Examples](#github-repositories--code-examples)
+  - [Cybersecurity & OSINT Tools](#cybersecurity--osint-tools)
+- [Featured Projects](#featured-projects)
+- [Community Contributions](#community-contributions)
+
+---
+
+## Introduction
+
+[↑ Back to top](#contents)
+
+Generative AI is not just about technology; it's about the art of the possible. In this section, we delve into the vision, scope, and potential of generative AI. Learn about our community and how you can be a part of this exciting journey.
+
+[More about our vision](LINK_TO_DETAILED_SECTION.md)
+
+---
+
+## Getting Started
+
+[↑ Back to top](#contents) 
+
+New to generative AI? No worries! Our step-by-step guide will help you set up your environment and start exploring the world of AI-driven creativity.
+
+[Start your journey here](LINK_TO_SETUP_GUIDE.md)
+
+---
+
+## What is Generative AI?
+
+[↑ Back to top](#contents) <br>
+
+ What is Generative AI?
+ <br>
+| Link | Preview |
+| --- | --- |
+| [What is generative AI? - McKinsey & Company](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-generative-ai) | Generative artificial intelligence (AI) describes algorithms (such as ChatGPT) that can be used to create new content, including audio, code, images, text, simulations, and videos. Recent breakthroughs in the field have the potential to drastically change the way we approach content creation. 
+| [What is generative AI? - Gartner](https://www.gartner.com/en/topics/generative-ai) | Generative AI can learn from existing artifacts to generate new, realistic artifacts (at scale) that reflect the characteristics of the training data but don’t repeat it. It can produce a variety of novel content, such as images, video, music, speech, text, software code and product designs.   |
+| [What is Generative AI? - Nvidia](https://www.nvidia.com/en-us/glossary/generative-ai/) | Generative AI enables users to quickly generate new content based on a variety of inputs. Inputs and outputs to these models can include text, images, sounds, animation, 3D models, or other types of data. |
+| [What Is Generative AI: A Super-Simple Explanation Anyone Can Understand- Forbes](https://www.forbes.com/sites/bernardmarr/2023/09/19/what-is-generative-ai-a-super-simple-explanation-anyone-can-understand/) | The term AI, as it's used today, refers to computer algorithms that can effectively simulate human cognitive processes - learning, decision-making, problem-solving, and even creativity. |
+| [The Turing Lectures: What is generative AI?](https://www.turing.ac.uk/events/turing-lectures-what-generative-ai) | Generative AI refers to a type of artificial intelligence that involves creating new and original data or content. Unlike traditional AI models that rely on large datasets and algorithms to classify or predict outcomes, generative AI models are designed to learn the underlying patterns and structure of the data and generate novel outputs that mimic human creativity.   |
+
+---
+
+## Featured Projects
+
+[↑ Back to top](#contents)
+
+
+Dive into our curated collection of the most innovative and inspiring generative AI projects. Each project comes with a comprehensive description, source codes, and insights.
+
+[Explore Featured Projects](LINK_TO_FEATURED_PROJECTS_SECTION.md)
+
+---
+
+## Interactive Experiences
+
+[↑ Back to top](#contents)
+
+Experience AI like never before with our interactive demos. Play around with AI models, create your art, music, or text, and see the magic unfold in real time.
+
+[Get Interactive](LINK_TO_INTERACTIVE_EXPERIENCES.md)
+
+---
+
+## Educational Resources
+
+* [OpenAI Academy](https://academy.openai.com/) - Official OpenAI learning platform.
+* [DeepLearning.AI Courses](https://www.deeplearning.ai/) - AI and ML courses by Andrew Ng.
+* [Lycee AI](https://www.lycee.ai/) - AI learning platform.
+* [Copilot Studio Agent Academy](https://aka.ms/copilotstudioagentacademy) - Microsoft's Copilot Studio training.
+* [LangChain Academy](https://academy.langchain.com/) - Deep Agents with LangGraph course.
+* [Google DeepMind: AI Research Foundations](https://www.cloudskillsboost.google/) - Google's AI research learning.
+* [Azure AI Foundry Learning](https://learn.microsoft.com/en-us/azure/ai-services/) - Microsoft Azure AI training.
+* [TogetherAI Technical Sessions](https://www.together.ai/) - Fine-tuning LLMs series.
+* [Founderz Online Business School](https://founderz.com/) - AI business education.
+* [FourthRev Circle](https://www.fourthrev.com/) - AI content discussions and courses.
+
+
+Whether you're a beginner or an advanced learner, our collection of tutorials, guides, and resources will help you deepen your understanding of generative AI.
+
+[Learn More](LINK_TO_EDUCATIONAL_RESOURCES.md)
+
+[↑ Back to top](#contents)
+
+
+
+## Community Contributions
+
+[↑ Back to top](#contents)
+
+Your creativity can inspire many! Learn how you can contribute to this repository, and check out the amazing work done by our community.
+
+
+[Contribute Now](LINK_TO_CONTRIBUTION_GUIDELINES.md)
+
+---
+
+## Art and Media Gallery
+
+[↑ Back to top](#contents)
+
+Enter our virtual gallery showcasing a mesmerizing array of AI-generated art and media. Be inspired and perhaps contribute your masterpiece!
+
+[Visit the Gallery](LINK_TO_GALLERY.md)
+
+---
+
+## Discussions and Support
+
+[↑ Back to top](#contents)
+
+Got questions? Need help? Join our vibrant community in discussions, Q&A sessions, and get all the support you need for your generative AI journey.
+
+[Join the Discussion](LINK_TO_FORUM.md)
+
+---
+
+## Additional Resources
+
+[↑ Back to top](#contents)
+
+Explore more! Here's a list of additional resources, tools, communities, and reading materials to fuel your curiosity and knowledge in generative AI.
+
+[Discover More](LINK_TO_ADDITIONAL_RESOURCES.md)
+
+---
+## Infographics
+
+| Preview                                                                                                                                                                                                                                     | Description                                                                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [<img src="https://www.nvidia.com/content/nvidiaGDC/us/en_US/glossary/generative-ai/_jcr_content/root/responsivegrid/nv_container_684078787/nv_image.coreimg.svg/1685574370254/evaluate.svg" width="150" />](https://www.nvidia.com/content/nvidiaGDC/us/en_US/glossary/generative-ai/_jcr_content/root/responsivegrid/nv_container_684078787/nv_image.coreimg.svg/1685574370254/evaluate.svg)    | [ The three requirements of a successful generative AI model.](https://www.nvidia.com/en-us/glossary/generative-ai/) |
+| [<img src="https://www.nvidia.com/content/nvidiaGDC/us/en_US/glossary/generative-ai/_jcr_content/root/responsivegrid/nv_container_871136465/nv_image.coreimg.svg/1685574370784/usecases.svg" width="150" />](https://www.nvidia.com/content/nvidiaGDC/us/en_US/glossary/generative-ai/_jcr_content/root/responsivegrid/nv_container_871136465/nv_image.coreimg.svg/1685574370784/usecases.svg)    | [The diagram shows possible generative AI use cases within each category.](https://www.nvidia.com/en-us/glossary/generative-ai/) |
+| [<img src="https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202310/MIT-AI-Shift-01-press.jpg?itok=gDETOcEM" width="150" />](https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202310/MIT-AI-Shift-01-press.jpg?itok=gDETOcEM)    | [AI models that prioritize similarity falter when asked to design something completely new.](https://news.mit.edu/2023/generative-ai-must-innovate-engineering-design-1019) |
+| [<img src="https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/GANs_Diffusion_Autoencoders.png" width="150" />](https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/GANs_Diffusion_Autoencoders.png)    |  [Generative learning trilemma](https://developer.nvidia.com/blog/improving-diffusion-models-as-an-alternative-to-gans-part-1/) |
+| [<img src="https://blogs.nvidia.com/wp-content/uploads/2022/03/Transformer-apps-1280x875.jpg.webp" width="150" />](https://blogs.nvidia.com/wp-content/uploads/2022/03/Transformer-apps-1280x875.jpg.webp)    | [What Can Transformer Models Do?](https://blogs.nvidia.com/blog/what-is-a-transformer-model/) |
+| [<img src="https://blogs.nvidia.com/wp-content/uploads/2022/03/Switch-Transformer-842x440.jpg.webp" width="150" />](https://blogs.nvidia.com/wp-content/uploads/2022/03/Switch-Transformer-842x440.jpg.webp)    |  [MoE Means More for Transformers](https://blogs.nvidia.com/blog/what-is-a-transformer-model/) |
+
+---
+## Awesome Generative AI List
+
+![](https://github.com/natnew/Awesome-Generative-AI/blob/main/image/Awesome-Generative-AI.png)
+
+##### Agent Building Platforms
+
+Platforms for building, deploying, and managing AI agents at scale.
+
+| Platform | Provider | Best For | Key Features |
+|----------|----------|----------|--------------|
+| [Microsoft Copilot Studio](https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio) | Microsoft | Enterprise agents | Low-code, M365 integration, multi-agent orchestration |
+| [OpenAI Assistants API](https://platform.openai.com/docs/assistants/overview) | OpenAI | Custom GPT agents | Code interpreter, retrieval, function calling |
+| [Google Vertex AI Agent Builder](https://cloud.google.com/products/agent-builder) | Google | Enterprise search & agents | Grounding, RAG, Google Cloud integration |
+| [Amazon Bedrock Agents](https://aws.amazon.com/bedrock/agents/) | AWS | AWS-integrated agents | Knowledge bases, action groups, guardrails |
+| [Azure AI Agent Service](https://azure.microsoft.com/en-us/products/ai-services/ai-agent-service) | Microsoft | Azure-native agents | Enterprise security, Azure integration |
+| [Salesforce Agentforce](https://www.salesforce.com/agentforce/) | Salesforce | CRM agents | Sales, service, marketing automation |
+| [LangGraph Platform](https://www.langchain.com/langgraph-platform) | LangChain | Custom agent workflows | Stateful graphs, human-in-loop, LangSmith |
+| [Relevance AI](https://relevanceai.com/) | Relevance AI | No-code agents | Visual builder, tool library |
+| [Voiceflow](https://www.voiceflow.com/) | Voiceflow | Conversational agents | Visual design, multi-channel |
+| [Botpress](https://botpress.com/) | Botpress | Open-source agents | Self-hostable, visual flow builder |
+| [AI for Database](https://aifordatabase.com) | AI for Database | Database AI agents | Natural language queries, auto-refreshing dashboards, workflow triggers |
+
+**Microsoft Copilot Ecosystem Clarification:**
+
+| Product | What It Is | Target User |
+|---------|------------|-------------|
+| **Microsoft Copilot** (consumer) | ChatGPT-like assistant | General public |
+| **Microsoft 365 Copilot** | AI in Word, Excel, Teams, etc. | Enterprise users |
+| **Microsoft Copilot Studio** | Platform for building custom agents | Developers, makers |
+| **GitHub Copilot** | AI code completion | Developers |
+| **Copilot+ PC** | Hardware with local AI | Consumers |
+
+**[⬆ back to top](#contents)**
+
+##### AI-Native IDEs & Code Editors
+
+Development environments with deeply integrated AI assistance.
+
+| IDE | Description | AI Features | Pricing |
+|-----|-------------|-------------|---------|
+| [Cursor](https://cursor.sh/) | VS Code fork with native AI | Tab completion, chat, codebase Q&A, agent mode | Free tier available |
+| [Windsurf](https://codeium.com/windsurf) | AI-native IDE by Codeium | Flows, cascades, multi-file edits | Free tier available |
+| [Zed](https://zed.dev/) | High-performance collaborative editor | AI assistant, inline edits | Free (open source) |
+| [JetBrains AI Assistant](https://www.jetbrains.com/ai/) | AI in IntelliJ ecosystem | Code completion, chat, refactoring | Subscription |
+| [Visual Studio + Copilot](https://visualstudio.microsoft.com/) | Microsoft's full IDE | GitHub Copilot integration | Free tier available |
+| [VS Code + Copilot](https://code.visualstudio.com/) | Lightweight editor | GitHub Copilot, extensions | Free |
+| [Replit](https://replit.com/) | Browser-based IDE | Ghostwriter AI, deployment | Free tier available |
+| [GitHub Codespaces](https://github.com/features/codespaces) | Cloud dev environments | Copilot, pre-configured | Free tier (60 hrs/mo) |
+| [Amazon CodeCatalyst](https://codecatalyst.aws/) | AWS dev environment | CodeWhisperer integration | Free tier available |
+
+
+**IDE Extensions:**
+
+| Extension | For | Description |
+|-----------|-----|-------------|
+| [GitHub Copilot](https://github.com/features/copilot) | VS Code, JetBrains, Neovim | AI pair programmer |
+| [Codeium](https://codeium.com/) | 70+ editors | Free AI code completion |
+| [Tabnine](https://www.tabnine.com/) | Most editors | Privacy-focused completion |
+| [Continue](https://continue.dev/) | VS Code, JetBrains | Open-source AI assistant |
+| [Cody](https://sourcegraph.com/cody) | VS Code, JetBrains | Codebase-aware assistant |
+| [NotFair](https://github.com/nowork-studio/NotFair) | Claude Code | Plugin for SEO, search analytics, and advertising workflow automation. |
+
+**[⬆ back to top](#contents)**
+
+##### AI Safety & Red Teaming
+
+| Tool | Description |
+| --- | --- |
+| [PyRIT](https://github.com/Azure/PyRIT) | Microsoft's Python Risk Identification Tool for generative AI |
+| [Garak](https://github.com/leondz/garak) | LLM vulnerability scanner |
+| [Adversarial Robustness Toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) | Python library for ML security - evasion, poisoning, extraction |
+| [AI Village CTF](https://aivillage.org/) | Capture the flag challenges at DEFCON |
+| [SAIF](https://safety.google/ai-framework/) | Google's guide to Secure AI Framework |
+| [TrojAI Security](https://www.youtube.com/@TrojAI-Security) | AI security research channel |
+| [AVID](https://avidml.org/) | AI Vulnerability Database |
+| [NIST AI](https://www.nist.gov/artificial-intelligence) | NIST AI risk management framework |
+| [AI Security Institute (AISI)](https://www.gov.uk/government/organisations/ai-safety-institute) | UK government AI safety research |
+| [PortSwigger Web Security](https://portswigger.net/web-security) | Web application security training |
+
+**[⬆ back to top](#contents)**
+
+##### Articles
+
+* [AI Trends](https://aitrends.com/) - Offers insights on the latest developments in AI.
+* [Synced Review](https://syncedreview.com/) - Reports on AI technology and industry developments.
+* [The Gradient](https://thegradient.pub/) - Publishes perspectives on AI and emerging technology.
+* [VentureBeat AI](https://venturebeat.com/) - Focuses on AI in the business sector.
+* [MIT Technology Review AI Section](https://cdn.technologyreview.com/) - Provides cutting-edge research and perspectives in AI.
+* [Harvard Business Review  AI Section](https://hbr.org/) - Offers insights on AI's impact on business.
+* [AI Magazine](https://aaai.org/) - Published by the Association for the Advancement of Artificial Intelligence.
+* [ScienceDaily (Artificial Intelligence News)](https://www.sciencedaily.com/) - Covers the latest research news in AI.
+* [Anthropic Research Blog](https://www.anthropic.com/research) - Model welfare, Constitutional AI, and alignment research.
+* [Microsoft AI Blog](https://blogs.microsoft.com/ai/) - Azure AI, Copilot Studio, and enterprise AI updates.
+* [OpenAI Blog](https://openai.com/blog) - ChatGPT enterprise, GPT updates, and research.
+* [NVIDIA AI Blog](https://blogs.nvidia.com/blog/category/deep-learning/) - Physical AI, robotics, and compute infrastructure.
+* [Google DeepMind Blog](https://deepmind.google/discover/blog/) - Gemini, robotics, and research breakthroughs.
+* [Thinking Machines Lab](https://thinkingmachineslab.com/) - AI research and modular manifolds.
+* [Y Combinator: Do Things That Don't Scale](https://paulgraham.com/ds.html) - Building AI startups.
+* [Wiley AI Principles](https://www.wiley.com/ai) - AI ethics and principles in publishing.
+  
+**[↑ Back to top](#contents)**
+  
+##### Audio - Voice Generators
+
+* [Replica](https://replika.ai/) - AI-powered voice generator for producing voice lines.
+* [Speechify](https://speechify.com/) - Text-to-speech reader with natural-sounding voice.
+* [Murf](https://murf.ai/) - Offers studio-quality voice for presentations and podcasts.
+* [Play.ht](https://play.ht/) - AI Voice Generator for realistic Text to Speech audio.
+
+**[⬆ back to top](#contents)**
+
+##### Automation Tools
+
+* [Zapier](https://zapier.com/) - Automates tasks between web apps.
+* [Blue Prism](https://www.blueprism.com/) - Robotic process automation software.
+* [WorkFusion](https://www.workfusion.com/) -Intelligent automation and RPA powered by AI.
+* [Integromat](https://www.make.com/) - An advanced online automation platform.
+* [Pega RPA](https://www.pega.com/) - Automates repetitive tasks in your workflows.
+* [IBM Robotic Process Automation](https://www.ibm.com/) - AI-powered automation platform.
+* [Kofax](https://www.kofax.com/) - Automation software for digital workflow transformation.
+* [Automate.io](https://www.automate.io/) - Connects all your cloud applications with amazing ease.
+* [Make (formerly Integromat)](https://www.make.com/) - Advanced online automation platform.
+
+**[⬆ back to top](#contents)**
+
+##### Best Practices
+
+Guidelines for building secure, maintainable, and production-ready AI systems.
+
+**Security:**
+
+| Practice | Description | Resources |
+|----------|-------------|-----------|
+| Input validation | Sanitize and validate all user inputs | [OWASP LLM Top 10](https://owasp.org/www-project-top-10-for-large-language-model-applications/) |
+| Prompt injection defense | Guard against instruction hijacking | [Rebuff](https://github.com/protectai/rebuff), [LLM Guard](https://github.com/protectai/llm-guard) |
+| Output filtering | Scan outputs for sensitive data, harmful content | [Guardrails AI](https://www.guardrailsai.com/), [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) |
+| API key management | Never commit keys, use secrets managers | [Azure Key Vault](https://azure.microsoft.com/en-us/products/key-vault/), [AWS Secrets Manager](https://aws.amazon.com/secrets-manager/) |
+| Rate limiting | Protect against abuse and cost overruns | API gateway policies |
+| Audit logging | Track all AI interactions | [LangSmith](https://smith.langchain.com/), [Langfuse](https://langfuse.com/) |
+
+**GitHub Hygiene:**
+
+| Practice | Why | How |
+|----------|-----|-----|
+| `.gitignore` for AI | Exclude model weights, API keys, caches | [gitignore.io](https://www.toptal.com/developers/gitignore) |
+| Pre-commit hooks | Catch secrets before commit | [pre-commit](https://pre-commit.com/), [detect-secrets](https://github.com/Yelp/detect-secrets) |
+| Dependency scanning | Identify vulnerabilities | [Dependabot](https://github.com/dependabot), [Snyk](https://snyk.io/) |
+| Branch protection | Require reviews for main | GitHub branch rules |
+| Signed commits | Verify authorship | GPG signing |
+| CODEOWNERS | Define ownership | `.github/CODEOWNERS` |
+
+**Testing AI Systems:**
+
+| Test Type | Purpose | Tools |
+|-----------|---------|-------|
+| Unit tests | Test individual components | pytest, unittest |
+| Integration tests | Test tool/API interactions | pytest, responses |
+| Evaluation tests | Measure model quality | [DeepEval](https://github.com/confident-ai/deepeval), [RAGAS](https://github.com/explodinggradients/ragas) |
+| Regression tests | Catch quality degradation | [PromptFoo](https://github.com/promptfoo/promptfoo) |
+| Red team tests | Find adversarial failures | [Garak](https://github.com/leondz/garak), [PyRIT](https://github.com/Azure/PyRIT) |
+| Load tests | Verify performance at scale | [Locust](https://locust.io/), [k6](https://k6.io/) |
+
+**Production Checklist:**
+
+- [ ] Implement graceful degradation (fallbacks when AI fails)
+- [ ] Set token/cost budgets per request
+- [ ] Add request timeouts
+- [ ] Cache repeated queries
+- [ ] Monitor latency, errors, costs
+- [ ] Implement circuit breakers for external calls
+- [ ] Log trajectories for debugging
+- [ ] Set up alerts for anomalies
+- [ ] Document failure modes
+- [ ] Plan for model deprecation
+
+**[⬆ back to top](#contents)**
+
+##### Books
+
+Essential reading for understanding generative AI foundations, applications, and implications.
+
+**Foundations & Technical:**
+
+| Title | Author | Focus |
+|-------|--------|-------|
+| [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) | Chip Huyen | Production ML systems design |
+| [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) | Sebastian Raschka | LLM architecture and training |
+| [Natural Language Processing with Transformers](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/) | Lewis Tunstall, Leandro von Werra, Thomas Wolf | Hugging Face ecosystem |
+| [Generative Deep Learning](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/) | David Foster | VAEs, GANs, Transformers |
+| [Deep Learning](https://www.deeplearningbook.org/) | Ian Goodfellow, Yoshua Bengio, Aaron Courville | Foundational deep learning theory |
+| [Hands-On Large Language Models](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/) | Jay Alammar, Maarten Grootendorst | Practical LLM applications |
+
+**AI Safety & Ethics:**
+
+| Title | Author | Focus |
+|-------|--------|-------|
+| [Human Compatible](https://www.penguinrandomhouse.com/books/566677/human-compatible-by-stuart-russell/) | Stuart Russell | Value alignment problem |
+| [The Alignment Problem](https://brianchristian.org/the-alignment-problem/) | Brian Christian | Survey of AI safety challenges |
+| [Superintelligence](https://www.nickbostrom.com/) | Nick Bostrom | Long-term AI risks |
+| [AI Ethics](https://mitpress.mit.edu/9780262538190/ai-ethics/) | Mark Coeckelbergh | Philosophical foundations |
+| [Weapons of Math Destruction](https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/) | Cathy O'Neil | Algorithmic bias and harm |
+| [Atlas of AI](https://yalebooks.yale.edu/book/9780300264630/atlas-of-ai/) | Kate Crawford | Political economy of AI |
+
+**Strategy & Business:**
+
+| Title | Author | Focus |
+|-------|--------|-------|
+| [Co-Intelligence](https://www.penguinrandomhouse.com/books/741805/co-intelligence-by-ethan-mollick/) | Ethan Mollick | Living and working with AI |
+| [The Coming Wave](https://www.the-coming-wave.com/) | Mustafa Suleyman | AI and synthetic biology futures |
+| [AI Superpowers](https://www.aisuperpowers.com/) | Kai-Fu Lee | US-China AI competition |
+| [Prediction Machines](https://www.predictionmachines.ai/) | Ajay Agrawal, Joshua Gans, Avi Goldfarb | Economics of AI |
+
+**[⬆ back to top](#contents)**
+  
+##### Bot Building Tools
+
+* [Botpress](https://botpress.com/) - Open-source conversational AI platform.
+* [Pandorabots](https://home.pandorabots.com/) - Platform for building and deploying chatbots.
+* [Rasa](https://rasa.com/) - Open-source machine learning framework for automated text and voice-based conversations.
+* [ManyChat](https://manychat.com/) - Visual bot builder for Facebook Messenger with broadcasts, analytics, scheduled posting, and many other features.
+* [Chatfuel](https://chatfuel.com/) - A leading chatbot platform for Messenger.
+* [Botsify](https://botsify.com/) - A simple way to build AI chatbots for websites.
+* [Wit.ai](https://wit.ai/) - Voice-activated interface for apps.
+* [Botkit](https://github.com/howdyai/botkit) - A toolkit for making bot applications.
+
+**[⬆ back to top](#contents)**
+
+##### Command Line Tools
+
+CLI tools for interacting with AI models and building AI-powered workflows.
+
+| Tool | Provider | Description | Install |
+|------|----------|-------------|---------|
+| [Claude CLI](https://docs.anthropic.com/en/docs/claude-cli) | Anthropic | Chat with Claude from terminal | `npm install -g @anthropic-ai/claude-cli` |
+| [Gemini CLI](https://github.com/google-gemini/gemini-cli) | Google | Interact with Gemini models | `npm install -g @anthropic-ai/gemini-cli` |
+| [OpenAI CLI](https://platform.openai.com/docs/quickstart) | OpenAI | GPT models from command line | `pip install openai` |
+| [Aider](https://github.com/paul-gauthier/aider) | Open Source | AI pair programming in terminal | `pip install aider-chat` |
+| [Agent QA](https://github.com/vostride/agent-qa) | Vostride | Natural-language web and mobile regression tests with persistent memory and run evidence; source-available under FSL-1.1-ALv2 | `npm install -D agent-qa` |
+| [LangChain CLI](https://python.langchain.com/docs/langchain-cli) | LangChain | Scaffold and manage LangChain projects | `pip install langchain-cli` |
+| [LlamaIndex CLI](https://docs.llamaindex.ai/en/stable/getting_started/installation/) | LlamaIndex | Build and query indices | `pip install llama-index` |
+| [Ollama](https://ollama.ai/) | Ollama | Run open models locally | `curl -fsSL https://ollama.ai/install.sh \| sh` |
+| [Simon Willison's LLM](https://github.com/simonw/llm) | Open Source | Access multiple LLMs from CLI | `pip install llm` |
+| [Fabric](https://github.com/danielmiessler/fabric) | Open Source | AI prompts and patterns library | `pip install fabric-ai` |
+| [sgpt](https://github.com/tbckr/sgpt) | Open Source | Shell-GPT for command line | `pip install shell-gpt` |
+| [Warp AI](https://www.warp.dev/) | Warp | AI-native terminal | Desktop app |
+| [GitHub CLI + Copilot](https://cli.github.com/) | GitHub | Copilot in the terminal | `gh extension install github/gh-copilot` |
+| [YYLO](https://github.com/yylo-dev/yylo) | Open Source | Orchestrate AI coding agents — Kanban, task worktrees, and typed merge flows | `npm install -g @yylo/cli` |
+
+**[⬆ back to top](#contents)**
+
+##### Cloud Platforms and Virtual Agents
+
+* [Amazon SageMaker](https://aws.amazon.com/sagemaker/) - A fully managed machine learning service by AWS, streamlining the entire machine learning workflow.
+* [Google AI Cloud Platform](https://cloud.google.com/products/ai) - Offers a suite of cloud-based tools and services for AI and ML applications.
+* [Microsoft Azure AI](https://azure.microsoft.com/en-us/overview/ai-platform/) - Provides a range of pre-built AI models and integrates with Azure services.
+* [Salesforce Einstein AI Cloud](https://www.salesforce.com/products/einstein/overview/) - Enhances CRM and intelligent decision-making with AI and ML.
+* [IBM Watson](https://www.ibm.com/watson) - Known for its cognitive computing capabilities and wide range of AI services.
+* [Oracle Cloud AI](https://www.oracle.com/artificial-intelligence/) - Offers AI and ML services, including predictive analytics and chatbots
+
+**[⬆ back to top](#contents)**
+
+##### Code Analysis Tools
+
+* [ESLint](https://eslint.org/) - A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript.
+* [FindBugs](https://github.com/findbugsproject/findbugs) - A program to find bugs in Java programs.
+* [Coverity](https://www.synopsys.com/software-integrity/security-testing/static-analysis-sast.html) - Offers static code analysis to identify software defects.
+* [Black Duck](https://www.synopsys.com/software-integrity/security-testing/software-composition-analysis.html) - Helps developers and security professionals manage open-source security, license compliance, and code quality risks.
+* [JSHint](https://jshint.com/) - A tool that helps to detect errors and potential problems in your JavaScript code.
+* [Pylint](https://www.pylint.org/) - A tool that helps to detect errors and potential problems in your JavaScript code.
+* [RuboCop](https://github.com/rubocop/rubocop) -A Python static code analysis tool.
+* [StyleCop](https://github.com/StyleCop/StyleCop) - A Ruby static code analysis and formatting tool.
+* [StyleCop](https://github.com/StyleCop/StyleCop) -Analyzes C# source code to enforce a set of style and consistency rules.
+
+**[⬆ back to top](#contents)**
+
+##### Code Generators
+
+* [Tabnine](https://www.tabnine.com/) - AI code generator offering context-based code completions.
+* [K-Explorer](https://www.k-explorer.ai/) - Provides code snippet recommendations and enterprise code analysis.
+* [PyCharm](https://www.jetbrains.com/pycharm) - Offers features like syntax highlighting, code formatting, and error-highlighting.
+* [OpenAI Codex](https://openai.com/) - Trained on GitHub repositories, assists in coding in multiple languages.
+* [Cursor](https://cursor.sh/) - AI-native code editor with built-in assistant.
+* [Codeium](https://codeium.com/) - Free AI code completion for multiple IDEs.
+* [Aider](https://github.com/paul-gauthier/aider) - CLI pair programming tool for terminal-based coding.
+* [Continue](https://continue.dev/) - Open-source AI coding assistant, extensible.
+
+**[⬆ back to top](#contents)**
+
+##### Collaboration Tools
+
+* [Dropbox](https://www.dropbox.com/) - File hosting service offering personal cloud, file synchronization, cloud storage, and client software.
+* [Confluence by Atlassian](https://www.atlassian.com/) - Content collaboration tool used to help teams collaborate and share knowledge efficiently.
+* [Trello](https://trello.com/) - Web-based Kanban-style list-making application.
+* [Miro](https://miro.com/) - Online collaborative whiteboarding platform to bring teams together, anytime, anywhere.
+* [Evernote](https://evernote.com/) - App designed for note taking, organizing, task management, and archiving.
+* [Flock](https://www.flock.com/) - A communication app for teams.
+* [Mural](https://www.mural.co/) - Digital workspace for visual collaboration.
+
+**[⬆ back to top](#contents)**
+
+##### Co-Pilot Tools
+
+* [Tabnine](https://www.tabnine.com/) - Code completion tool powered by machine learning.
+* [Codeguru by AWS](https://aws.amazon.com/) - Automated code review and performance profiling tool.
+* [DeepCode](https://snyk.io/) - AI-based code review tool.
+* [Codota](https://www.codota.com/) - AI pair programmer to help you write better code.
+* [IntelliCode by Microsoft](https://visualstudio.microsoft.com/) - AI-assisted code completion tool.
+* [Sourcegraph](https://sourcegraph.com/) - Universal code search tool.
+* [Klocwork](https://www.perforce.com/) - Static code analysis and SAST tool.
+* [ReSharper by JetBrains](https://www.jetbrains.com/) - An extension for Microsoft Visual Studio that provides on-the-fly code analysis and eliminates errors in C#, VB.NET, XAML, ASP.NET, and XML.
+
+**[⬆ back to top](#contents)**
+
+##### Customer Support
+
+* [SecondBrain (previously MagicChat)](https://www.secondbrain.fyi/) - AI tool for customer support.
+* [Chatfuel AI](https://www.chatfuel.com/) - AI chatbot for customer interaction.
+* [Second Nature](https://www.secondnature.ai/) - AI tool for customer engagement.
+* [Kustomer](https://www.kustomer.com/) - AI tool for customer service.
+* [AutoResponder](https://www.autoresponder.ai/) - AI tool for automated customer responses.
+* [MagicForm](https://www.magicform.ai/) - AI tool for form automation in customer interaction.
+* [Conversica](https://www.conversica.com/) - AI assistant for engaging potential customers.
+* [Candide](https://www.candide.ai/) - AI tool for customer support.
+* [WARMER.ai](https://www.warmer.ai/) - AI tool for sales and customer engagement.
+
+**[⬆ back to top](#contents)**
+
+##### Cybersecurity & OSINT Tools
+
+**Frameworks & Databases:**
+* [MITRE ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/) - Adversary tactics and techniques visualization.
+* [Exploit Database](https://www.exploit-db.com/) - Archive of exploits for penetration testers.
+* [OSINT Framework](https://osintframework.com/) - Collection of OSINT tools organized by category.
+* [Unified Kill Chain](https://www.unifiedkillchain.com/) - Comprehensive attack framework.
+
+**Tools:**
+* [Metasploit](https://www.metasploit.com/) - Penetration testing framework.
+* [Wireshark](https://www.wireshark.org/) - Network protocol analyzer.
+* [ExifTool](https://exiftool.org/) - Metadata extraction tool.
+* [Bellingcat's Online Investigation Toolkit](https://www.bellingcat.com/resources/) - OSINT investigation resources.
+
+**Learning:**
+* [IntelTechniques](https://inteltechniques.com/) - OSINT training by Michael Bazzell.
+* [NahamSec](https://www.nahamsec.com/) - Bug bounty and web security.
+* [Google Hacking Database (GHDB)](https://www.exploit-db.com/google-hacking-database) - Google dorks for reconnaissance.
+* [TomNomNom Tools](https://github.com/tomnomnom) - Security tools (anew, gf, etc.).
+
+**[⬆ back to top](#contents)**
+
+##### Data Science and Analysis Tools
+
+* [MATLAB](https://www.mathworks.com/products/matlab.html) - A high-level language and interactive environment for numerical computation, visualization, and programming.
+* [Apache Spark](https://spark.apache.org/) - An open-source distributed general-purpose cluster-computing framework.
+* [SAS](https://www.sas.com/) - Statistical software suite developed by SAS Institute for data management, advanced analytics, multivariate analysis, business intelligence, and predictive analytics.
+* [IBM SPSS Statistics](https://www.ibm.com/products/spss-statistics) - Software package used for interactive, or batched, statistical analysis.
+* [Anaconda](https://www.anaconda.com/) - A distribution of the Python and R programming languages for scientific computing.
+* [Tableau Public](https://public.tableau.com/en-us/s/) - Free software that can allow anyone to connect to a spreadsheet or file and create interactive data visualizations for the web.
+* [KNIME](https://www.knime.com/) - A free and open-source data analytics, reporting, and integration platform.
+* [Domo](https://www.domo.com/) - A cloud software company specializing in business intelligence tools and data visualization.
+
+**[⬆ back to top](#contents)**
+
+##### Deep Learning and Neural Network Tools
+
+* [Chainer](https://chainer.org/) - Chainer: A flexible framework for neural networks, particularly powerful for research and development.
+* [ONNX (Open Neural Network Exchange)](https://onnx.ai/) - ONNX (Open Neural Network Exchange): An open ecosystem for interchangeable AI models.
+* [Seldon](https://www.seldon.io/) - Seldon: An open-source platform for deploying machine learning models in Kubernetes.
+* [Deeplearning4j](https://deeplearning4j.konduit.ai/) - Deeplearning4j: An open-source deep-learning library for the Java Virtual Machine.
+* [Neuroph](https://neuroph.sourceforge.net/) - Neuroph: A lightweight Java neural network framework.
+
+**[⬆ back to top](#contents)**
+
+##### Design Generators
+
+* [Khroma](http://www.khroma.co/) - AI color tool for designers, offering color discovery and selection.
+* [Uizard](https://uizard.io/) - Enables rapid design of interfaces and conversion of screenshots to mockups.
+* [Colormind](http://colormind.io/) - AI-powered color scheme generator learning from art and photos.
+* [Designs.ai](https://designs.ai/) - Helps users create designs and logos without technical expertise.
+* [Fronty AI](https://fronty.com/) - Converts images to HTML CSS for website design.
+
+**[⬆ back to top](#contents)**
+
+##### Ethics and Society
+
+* [Future of Life Institute](https://futureoflife.org/) - Focuses on existential risks facing humanity, particularly artificial intelligence.
+* [The Partnership on AI](https://partnershiponai.org/) - A partnership between major tech companies and non-profits for the responsible development of AI.
+* [AI Now Institute](https://ainowinstitute.org/) -Researches the social implications of artificial intelligence.
+* [Ethics in AI Research Initiative by Google](https://blog.research.google/2023/03/responsible-ai-at-google-research.html) - A program to support research on responsible AI development.
+* [Center for AI and Digital Policy (CAIDP)](https://www.caidp.org/) - Promotes a better society through responsible AI and digital policy.
+* [Ethical AI Toolkit](https://rai-toolkit.github.io/) - A toolkit to help incorporate ethical considerations in AI development.
+* [AI Ethics Lab](https://aiethicslab.com/) - Provides practical tools and methods for integrating ethics into AI research and development.
+* [Deon](https://deon.drivendata.org/) - A command-line tool that allows data scientists and developers to easily add ethical considerations checklists to their projects.
+* [Ethics Canvas](https://www.ethicscanvas.org/) - A framework for exploring the ethical impact of AI technologies.
+* [Ought](https://ought.org/) - A tool for experimenting with mechanisms for delegating open-ended cognitive work to AI.
+* [Women in AI Ethics](https://womeninaiethics.org/about-us/) - Community of women who are leaders in the AI ethics industry.
+
+**[⬆ back to top](#contents)**
+
+##### Evaluation Frameworks
+
+
+| Tool | Focus | Description |
+|------|-------|-------------|
+| [Inspect AI](https://inspect.ai-safety-institute.org.uk/) | General evaluation | UK AISI's open-source task-based eval framework |
+| [HELM](https://crfm.stanford.edu/helm/) | Holistic evaluation | Stanford's comprehensive LLM benchmarks |
+| [LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) | Benchmark suite | EleutherAI's 200+ task evaluation framework |
+| [DeepEval](https://github.com/confident-ai/deepeval) | LLM testing | Unit tests and CI/CD for LLM apps |
+| [RAGAS](https://github.com/explodinggradients/ragas) | RAG evaluation | Retrieval quality and answer relevance metrics |
+| [TruLens](https://www.trulens.org/) | App evaluation | Feedback functions for groundedness and relevance |
+| [PromptFoo](https://github.com/promptfoo/promptfoo) | Prompt testing | CLI-based prompt evaluation and comparison |
+| [Giskard](https://www.giskard.ai/) | ML testing | Bias and robustness testing |
+| [OpenAI Evals](https://github.com/openai/evals) | Eval framework | OpenAI's evaluation framework |
+| [Future AGI](https://github.com/future-agi/future-agi) | LLM and agent evaluation | Open-source platform for evaluating, tracing, simulating, and improving LLM and AI agent applications. |
+
+**[⬆ back to top](#contents)**
+
+##### Frameworks and Models
+
+* [TensorFlow](https://www.tensorflow.org/) - Developed by the Google Brain team, this open-source AI library is used for machine learning and deep neural network research.
+* [Sci-kit Learn](https://scikit-learn.org/) - A Python library for machine learning tasks like classification, regression, and clustering.
+* [Pandas](https://pandas.pydata.org/) - A data analysis and manipulation library known for its comprehensive data manipulation tools.
+* [NumPy](https://numpy.org/) - Supports large, multi-dimensional arrays and matrices, with a vast collection of high-level mathematical functions.
+* [PyTorch](https://pytorch.org/) - Developed by Facebook's AI Research lab, this is a dynamic computational graph-based AI framework.
+* [Keras](https://keras.io/) - An open-source neural network library acting as an interface for TensorFlow and Theano.
+* [Theano](https://github.com/pytensor) - A library for numerical computation, particularly efficient for numerical tasks.
+* [Google ML Kit](https://developers.googleblog.com/) - A mobile SDK that brings Google's machine learning to Android and iOS apps.
+* [Caffe 2](https://caffe2.ai/) - A deep learning framework developed by Facebook.
+* [Microsoft CNTK](https://learn.microsoft.com/en-us/cognitive-toolkit/) - A deep learning framework known for its efficiency at scale.
+* [PraisonAI](https://github.com/MervinPraison/PraisonAI) - Production-ready Multi-AI Agents framework with self-reflection, 100+ LLM support, MCP integration, and agentic workflows.
+* [JAX](https://github.com/google/jax) - Composable transformations and XLA compilation for high-performance ML.
+* [Hugging Face Transformers](https://huggingface.co/transformers) - State-of-the-art NLP models and pipelines.
+
+**[⬆ back to top](#contents)**
+
+##### Frameworks & Orchestration 
+
+| Tool | Description | Key Features |
+|------|-------------|--------------|
+| [LangChain](https://github.com/langchain-ai/langchain) | LLM application framework | Chains, memory, tool integration |
+| [LangGraph](https://github.com/langchain-ai/langgraph) | Stateful multi-agent orchestration | Cycles, persistence, human-in-the-loop |
+| [LlamaIndex](https://github.com/run-llama/llama_index) | Data framework for LLM apps | Indexing, retrieval, query engines |
+| [CrewAI](https://www.crewai.com/) | Role-playing agent orchestration | Agent roles, delegation, collaboration |
+| [AutoGen](https://github.com/microsoft/autogen) | Multi-agent conversation framework | Conversational patterns |
+| [DSPy](https://github.com/stanfordnlp/dspy) | Programming (not prompting) LLMs | Optimizers, signatures, modules |
+| [Semantic Kernel](https://github.com/microsoft/semantic-kernel) | LLM integration SDK | Plugins, planners, memory |
+| [Haystack](https://haystack.deepset.ai/) | End-to-end NLP framework | Pipelines, document stores |
+| [Pydantic AI](https://ai.pydantic.dev/) | Type-safe agent framework | Model-agnostic, structured outputs |
+
+**[⬆ back to top](#contents)**
+
+##### GitHub Repositories & Code Examples
+
+* [microsoft/CopilotStudioSamples](https://github.com/microsoft/CopilotStudioSamples) - Official Copilot Studio examples and templates.
+* [microsoft/mcs-labs](https://github.com/microsoft/mcs-labs) - Microsoft Labs experiments.
+* [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for the Gemini API.
+* [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) - All-in-one RAG framework.
+* [natnew/MoA](https://github.com/natnew/MoA) - Mixture-of-Agents implementation (65.1% on AlpacaEval).
+* [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) - UI components for AI assistants.
+* [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community instructions and prompts for GitHub Copilot.
+* [MicrosoftDocs/mcp](https://github.com/MicrosoftDocs/mcp) - Microsoft MCP documentation.
+* [joonspk-research/genagents](https://github.com/joonspk-research/genagents) - Generative agents research code.
+
+**[⬆ back to top](#contents)**
+
+##### GUIs
+
+* [Tableau](https://www.tableau.com/) - A powerful business intelligence and data visualization tool.
+* [Power BI](https://powerbi.microsoft.com/) - A Microsoft tool that turns data into visual insights.
+* [QlikView](https://www.qlik.com/us/products/qlikview) - Business intelligence and visualization software.
+* [Dataiku](https://www.dataiku.com/) - Collaborative data science platform with a user-friendly GUI.
+* [RapidMiner](https://rapidminer.com/) - Data science platform that includes a robust GUI.
+* [Alteryx](https://www.alteryx.com/) - Blends data science and analytics for deeper insights.
+* [Talend](https://www.talend.com/) - Data integration and data integrity with a graphical interface.
+* [D3.js](https://d3js.org/) - JavaScript library for producing dynamic, interactive data visualizations in web browsers.
+
+**[⬆ back to top](#contents)**
+
+##### Guides
+
+* [DEV Community](https://dev.to/) - It covers setting up the environment, understanding generative models, and building a simple Generative Adversarial Network (GAN) with a focus on image datasets.
+* [Flan](https://www.promptingguide.ai/models/flan)- Scaling Instruction-Finetuned Language Models
+* [ChatGPT](https://www.promptingguide.ai/models/chatgpt) - ChatGPT Prompt Engineering
+* [LLaMA](https://www.promptingguide.ai/models/llama)- LLaMA: Open and Efficient Foundation Language Models
+* [GPT-4](https://www.promptingguide.ai/models/gpt-4) - Prompt engineering techniques for GPT-4, including tips, applications, limitations, and additional reading materials.
+* [Mistral](https://www.promptingguide.ai/models/mistral-7b) - Mistral 7B is a 7-billion-parameter language model released by Mistral AI.
+* [Gemini](https://www.promptingguide.ai/models/gemini) - Getting Started with Gemini
+* [Phi-2](https://www.promptingguide.ai/models/phi-2) - Overview of the Phi-2, a 2.7 billion parameter language model.
+* [LLM Collection](https://www.promptingguide.ai/models/collection) - This section consists of a collection and summary of notable and foundational LLMs.
+
+**[⬆ back to top](#contents)**
+
+##### HR and Recruiting
+
+* [Paradox](https://www.paradox.ai/) - AI tool for human resources.
+* [Textio](https://www.textio.com/) - AI tool for job listing optimization.
+* [HiredScore](https://www.hiredscore.com/) - AI tool for talent acquisition.
+* [Juicebox (PeopleGPT)](https://www.juicebox.ai/) - AI tool for HR processes.
+* [Attract](https://www.attract.ai/) - AI tool for recruitment.
+* [Effy](https://www.effy.ai/) - AI tool for HR management.
+
+**[⬆ back to top](#contents)**
+  
+##### Image Design
+
+* [Midjourney](https://beta.midjourney.com/) - Image design tool.
+* [DALL·E 3 by OpenAI](https://openai.com/) - AI model for image synthesis from text prompts.
+* [NightCafe](https://creator.nightcafe.studio/) - Art generator using Stable Diffusion and DALL-E 2 models.
+* [BlueWillow](https://www.bluewillow.ai/) - Image design tool.
+* [Bria](https://bria.ai/) - Image design tool.
+* [Stockimg](https://stockimg.ai/) - AI tool for generating stock images.
+* [StarryAI](https://starryai.com/) - Art generator app transforming text prompts into artwork.
+* [Craiyon (formerly DALL·E mini)](https://www.craiyon.com/) - Draws images from text prompts.
+* [Artbreeder](https://www.artbreeder.com/) - Allows users to ‘breed’ or remix images using machine learning.
+* [DALL·E 3 by OpenAI](https://openai.com/dall-e-3) - Latest version with improved text rendering and accuracy.
+* [Adobe Firefly](https://www.adobe.com/products/firefly.html) - Adobe's generative AI, trained on licensed content.
+* [Ideogram](https://ideogram.ai/) - Strong text-in-image generation capabilities.
+* [Leonardo.AI](https://leonardo.ai/) - AI image generation focused on game assets and consistency.
+* [Seedream](https://seed.bytedance.com/en/seedream4_0) - ByteDance image generation and editing model family for high-resolution image creation, multimodal editing, and reference-guided visual workflows.
+
+**[⬆ back to top](#contents)**
+
+##### Journals and Publications
+
+* [Journal of Machine Learning Research](http://www.jmlr.org/) - An open-access journal covering machine learning and related fields.
+* [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) - Publishes technical articles on the theory, design, and applications of neural networks and related learning systems.
+* [Artificial Intelligence Journal](https://www.sciencedirect.com/journal/artificial-intelligence) - One of the oldest and most respected journals in AI.
+* [Machine Learning: Science and Technology](https://iopscience.iop.org/journal/2632-2153) - A journal focusing on the application of machine learning in the sciences.
+* [International Journal of Artificial Intelligence & Applications (IJAIA)](https://www.airccse.org/journal/ijaia/ijaia.html) - Covers both theoretical and practical aspects of artificial intelligence.
+
+**[⬆ back to top](#contents)**
+
+##### Languages
+
+* [Java](https://www.oracle.com/java/) - Popular for its portability across platforms.
+* [C++](https://isocpp.org/) - Known for its efficiency and control over system resources.
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Widely used in web development, now increasingly for AI as well.
+* [LISP](http://common-lisp.net/) - One of the oldest programming languages, historically popular in AI.
+* [Prolog](https://www.swi-prolog.org/) - Notable for its role in computational linguistics and AI.
+* [Scala](https://www.scala-lang.org/) - Combines functional and object-oriented programming, useful in big data.
+* [Julia](https://julialang.org/) - Known for high-performance numerical analysis and computational science
+* [Swift](https://swift.org/) - KApple's programming language, growing in AI for app development.
+
+**[⬆ back to top](#contents)**
+
+##### Learning Platforms
+
+Structured learning paths and certifications for AI skills.
+
+| Platform | Focus | Cost |
+|----------|-------|------|
+| [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) | GCP, Gemini, Vertex AI | Free + paid labs |
+| [Microsoft Learn](https://learn.microsoft.com/en-us/training/) | Azure AI, Copilot, M365 | Free |
+| [DeepLearning.AI](https://www.deeplearning.ai/) | ML/AI courses by Andrew Ng | Free + paid |
+| [Coursera ML/AI Specializations](https://www.coursera.org/browse/data-science/machine-learning) | University courses | Subscription |
+| [fast.ai](https://www.fast.ai/) | Practical deep learning | Free |
+| [Hugging Face Learn](https://huggingface.co/learn) | NLP, Transformers, Diffusion | Free |
+| [OpenAI Academy](https://academy.openai.com/) | Prompt engineering, APIs | Free |
+| [LangChain Academy](https://academy.langchain.com/) | LangChain, LangGraph | Free |
+| [AWS Skill Builder](https://skillbuilder.aws/) | AWS AI services | Free + paid |
+| [DataCamp](https://www.datacamp.com/) | Data science, ML | Subscription |
+| [Kaggle Learn](https://www.kaggle.com/learn) | ML, Python, SQL | Free |
+| [Full Stack LLM Bootcamp](https://fullstackdeeplearning.com/) | Production LLM apps | Free |
+| [Weights & Biases Courses](https://www.wandb.courses/) | MLOps, LLMs | Free |
+| [Cohere LLM University](https://docs.cohere.com/docs/llmu) | NLP fundamentals | Free |
+
+**[⬆ back to top](#contents)**
+
+##### Machine Learning Deployment and MLOps Tools
+
+* [Kubeflow](https://www.kubeflow.org/) - An open-source project dedicated to making deployments of machine learning workflows on Kubernetes simple, portable, and scalable.
+* [MLServer](https://mlserver.readthedocs.io/) - An open-source inference server to serve machine learning models in production.
+* [Tecton](https://www.tecton.ai/) - A data platform for machine learning, providing an easy way to build and deploy features for real-time machine learning models.
+* [Polyaxon](https://polyaxon.com/) - A platform for reproducible and scalable machine learning and deep learning on Kubernetes.
+* [Valohai](https://valohai.com/) - A deep learning management platform that automates machine learning infrastructure on any cloud or on-premises.
+
+**[⬆ back to top](#contents)**
+
+##### Miscellaneous Tools
+
+| Link | Description |
+| --- | --- |
+| [SingSong](https://storage.googleapis.com/sing-song/index.html?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_4zfBvV84quJyYowB_7sImvE4t7Wffz-45FHrPoTz2URuxI_3N0s5Ws1yVPgIbfLJR1T6h) | We present SingSong, a system which generates instrumental music to accompany input vocals, potentially offering musicians and non-musicians alike an intuitive new way to create music featuring their own voice. |
+| [AI21labs](https://www.ai21.com/) |  Build generative AI applications that solve today's business challenges, powered by AI21's state-of-the-art foundation and task-specific models.  |
+| [HuggingFace AI Community](https://huggingface.co/) |  Host and collaborate on unlimited models, datasets and applications. |
+| [DeepSpeed](https://www.microsoft.com/en-us/research/project/deepspeed/) |  DeepSpeed is an easy-to-use deep learning optimization software suite that enables unprecedented scale and speed for DL Training and Inference.  |
+| [Eleuther.ai](https://www.eleuther.ai/) |  Empowering Open-Source Artificial Intelligence Research |
+| [Chainer.org](https://chainer.org/) | A Powerful, Flexible, and Intuitive Framework for Neural Networks  |
+| [Kubeflow](https://www.kubeflow.org/) | The Machine Learning Toolkit for Kubernetes  |
+| [Ainow](https://ainowinstitute.org/) |  The AI Now Institute produces diagnosis and actionable policy research on artificial intelligence. |
+| [Microsoft responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox) | About Responsible AI Toolbox is a suite of tools providing model and data exploration and assessment user interfaces and libraries that enable a better understanding of AI systems.   |
+| [Trulens](https://www.trulens.org/) |  Evaluate, iterate faster, and select your best LLM app with TruLens. |
+| [Jailbreak Chat](https://www.jailbreakchat.com/) |Your weekly report on all things AI and language models. Read by over 10,000 others at places like at Google, Tesla, Microsoft, a16z, and more. |
+| [ETHICAL INTELLIGENCE](https://www.ethicalintelligence.co/) | Elevating the human in the equation|
+| [Purple Llama](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=llama&utm_content=link) | An umbrella project featuring open trust and safety tools and evaluations meant to level the playing field for developers to responsibly deploy generative AI models and experiences in accordance with best practice|
+| [Oxa](https://oxa.tech/?utm_source=otta.com) |Self-driving software and services that unlock the power of autonomy. |
+| [Deeprender.ai](https://deeprender.ai/?utm_source=otta.com) | Developing the next generation of compression technology using AI, we’re here to completely rethink, reshape and revolutionise what’s possible.|
+| [Papercup](https://www.papercup.com/?utm_source=otta.com) | We use data from real actors to produce voices so real that audiences can’t tell them apart from the real thing.|
+| [Onfido](https://onfido.com/?utm_source=otta.com) | Create trust at onboarding and beyond with a complete, AI-powered digital identity solution built to help you know your customers online.  |
+| [Quantexa](https://www.quantexa.com/?utm_source=otta.com) | Protect, optimize, and grow your organization with the power of Quantexa’s Decision Intelligence Platform and outcome-driven solutions.|
+| [Synthesia](https://www.synthesia.io/academy) | Our AI Video Generator enables everyone to create professional videos without mics, cameras, actors or studios.|
+| [Causalens.com](https://causalens.com/resource-hub/) |Gain insights into Causal AI from blogs, white papers, case studies, webinars, and more. |
+|[Robina](https://www.robinai.com/) | The AI Copilot for your Contracts|
+|[PhysicsX](https://www.physicsx.ai/) | We are building AI and simulation engineering technologies to reinvent the design and operation of machines and products in advanced industries, with a strong focus on applications impacting the climate and human health.|
+|[Pitch](https://pitch.com/?utm_source=substack&utm_medium=email) | Pitch is the fastest way for your team to create and share beautiful presentations that get results.|
+|[Playgroundai](https://blog.playgroundai.com/) | At Playground, we’re building an image editor that combines AI research and product design to enable people to create graphics like a Pro without being one.|
+|[Nexusflow.ai](https://nexusflow.ai/blogs/ravenv2?utm_source=substack&utm_medium=email) |Open source NexusRaven-V2, a 13B LLM outperforming GPT-4 in zero-shot function calling, the capability to turn natural language instructions into executable code to use tools. |
+|[Perplexity](https://www.perplexity.ai/) | Copilot |
+|[Giskard](https://www.giskard.ai/) |Eliminate risks of biases, performance issues & security holes in ML models. In <8 lines of code. |
+|[Haystack](https://haystack.deepset.ai/) |Open-source LLM framework to build production-ready applications |
+|[Bing Chat](www.bing.com) |Your everyday AI companion |
+|[N-Bref](https://ai.meta.com/blog/introducing-n-bref-a-neural-based-decompiler-framework/) | Introducing N-Bref: a neural-based decompiler framework|
+|[Hydra](https://hydra.cc/)| A framework for elegantly configuring complex applications|
+|[Ml-ferret](https://github.com/apple/ml-ferret)|An End-to-End MLLM that Accept Any-Form Referring and Ground Anything in Response.  |
+|[GTN](https://ai.meta.com/blog/a-new-open-source-framework-for-automatic-differentiation-with-graphs/)|A new open source framework for automatic differentiation with graphs |
+|[ParlAI](https://ai.meta.com/tools/parlai/)| ParlAI is a unified platform that streamlines the process of researching, training, and evaluating conversational AI models across multiple tasks at once. |
+|[Dynabench](https://ai.meta.com/tools/dynabench/)|DynaBench is a research platform for dynamic data collection and benchmarking.  |
+|[KILT Benchmarking](https://ai.meta.com/tools/kilt/)|KILT is a resource for training, evaluating and analyzing NLP models on Knowledge Intensive Language Tasks.|
+|[Glow](https://ai.meta.com/tools/glow/)|Glow is a machine learning compiler that accelerates the performance of deep learning frameworks on different hardware platforms. |
+|[AudioCraft](https://ai.meta.com/resources/models-and-libraries/audiocraft/)|AudioCraft is a single-stop code base for all your generative audio needs: music, sound effects, and compression after training on raw audio signals. We have released controllable and high-quality models for music and audio generation from text inputs. |
+|[ELF](https://ai.meta.com/tools/elf/)| ELF is an extensive, lightweight, and flexible platform for game research that allows researchers and developers to train and test their algorithms in various game environments from board games to custom real-time strategy games.|
+|[PHYRE](https://ai.meta.com/tools/phyre/)| PHYRE is a benchmark for PHYsical REasoning that contains a set of simple classical mechanics puzzles in a 2D environment.|
+| [Imagen 2](https://deepmind.google/technologies/imagen-2/?_gl=1*103pahd*_up*MQ..*_ga*MTU0ODc3NDE4LjE3MDYwNDY0MTY.*_ga_LS8HVHCNQ0*MTcwNjA0NjQxNS4xLjAuMTcwNjA0NzM2MC4wLjAuMA..) |DeepMind's most advanced text-to-image technology |
+| [SynthID](https://deepmind.google/technologies/synthid/?_gl=1*1d1pazv*_up*MQ..*_ga*MTU0ODc3NDE4LjE3MDYwNDY0MTY.*_ga_LS8HVHCNQ0*MTcwNjA0NjQxNS4xLjAuMTcwNjA0NzM2MC4wLjAuMA..) | Identifying AI-generated content with SynthID|
+| [AlphaFold](https://deepmind.google/technologies/alphafold/?_gl=1*1d1pazv*_up*MQ..*_ga*MTU0ODc3NDE4LjE3MDYwNDY0MTY.*_ga_LS8HVHCNQ0*MTcwNjA0NjQxNS4xLjAuMTcwNjA0NzM2MC4wLjAuMA..) | AlphaFold is accelerating research in nearly every field of biology.|
+| [Phenaki](https://sites.research.google/phenaki/) | A model that can synthesize realistic videos from textual prompt sequences.|
+| [AlphaZero and MuZero](https://deepmind.google/technologies/alphazero-and-muzero/?_gl=1*1b2pf3q*_up*MQ..*_ga*MTU0ODc3NDE4LjE3MDYwNDY0MTY.*_ga_LS8HVHCNQ0*MTcwNjA0NjQxNS4xLjAuMTcwNjA0NzM2MC4wLjAuMA..) | AlphaZero and MuZero are powerful, general AI systems, that mastered a range of board games and video games — and are now helping us solve real-world problems.|
+| [AlphaGo](https://deepmind.google/technologies/alphago/?_gl=1*1b2pf3q*_up*MQ..*_ga*MTU0ODc3NDE4LjE3MDYwNDY0MTY.*_ga_LS8HVHCNQ0*MTcwNjA0NjQxNS4xLjAuMTcwNjA0NzM2MC4wLjAuMA..) |AlphaGo mastered the ancient game of Go, defeated a Go world champion, and inspired a new era of AI systems. |
+| [PaLM 2](https://ai.google/discover/palm2/) |PaLM 2 is our next generation large language model that builds on Google’s legacy of breakthrough research in machine learning and responsible AI. |
+| [PaLM-SayCan](https://sites.research.google/palm-saycan) | a robotics algorithm that combines the understanding of language models with the real-world capabilities of a helper robot.|
+| [Universal Speech Model](https://sites.research.google/usm/) |Universal Speech Model (USM) is a family of state-of-the-art speech models with 2B parameters trained on 12 million hours of speech and 28 billion sentences of text, spanning 300+ languages.  |
+| [WaveNet](https://deepmind.google/technologies/wavenet/?_gl=1*11al90w*_up*MQ..*_ga*MTU0ODc3NDE4LjE3MDYwNDY0MTY.*_ga_LS8HVHCNQ0*MTcwNjA0NjQxNS4xLjAuMTcwNjA0NzM2MC4wLjAuMA..) | Introduced in 2016, WaveNet was one of the first AI models to generate natural-sounding speech. |
+| [AlphaDev](https://deepmind.google/discover/blog/alphadev-discovers-faster-sorting-algorithms/?_gl=1*13ldhkr*_up*MQ..*_ga*MTU0ODc3NDE4LjE3MDYwNDY0MTY.*_ga_LS8HVHCNQ0*MTcwNjA0NjQxNS4xLjAuMTcwNjA0NzM2MC4wLjAuMA..) | AlphaDev uncovered a faster algorithm for sorting, a method for ordering data. Billions of people use these algorithms everyday without realising it.|
+| [AlphaCode](https://deepmind.google/discover/blog/competitive-programming-with-alphacode/?_gl=1*13ldhkr*_up*MQ..*_ga*MTU0ODc3NDE4LjE3MDYwNDY0MTY.*_ga_LS8HVHCNQ0*MTcwNjA0NjQxNS4xLjAuMTcwNjA0NzM2MC4wLjAuMA..) | As part of DeepMind’s mission to solve intelligence, we created a system called AlphaCode that writes computer programs at a competitive level.|
+| [AlphaTensor](https://deepmind.google/discover/blog/discovering-novel-algorithms-with-alphatensor/?_gl=1*184ezsd*_up*MQ..*_ga*MTU0ODc3NDE4LjE3MDYwNDY0MTY.*_ga_LS8HVHCNQ0*MTcwNjA0NjQxNS4xLjAuMTcwNjA0NzM2MC4wLjAuMA..) | AlphaTensor, the first artificial intelligence (AI) system for discovering novel, efficient, and provably correct algorithms for fundamental tasks such as matrix multiplication. |
+| [AlphaStar](https://deepmind.google/discover/blog/alphastar-grandmaster-level-in-starcraft-ii-using-multi-agent-reinforcement-learning/?_gl=1*184ezsd*_up*MQ..*_ga*MTU0ODc3NDE4LjE3MDYwNDY0MTY.*_ga_LS8HVHCNQ0*MTcwNjA0NjQxNS4xLjAuMTcwNjA0NzM2MC4wLjAuMA..) | AlphaStar is the first AI to reach the top league of a widely popular esport without any game restrictions.|
+| [Gemini](https://deepmind.google/technologies/gemini/?_gl=1*19sdu58*_up*MQ..*_ga*MTU0ODc3NDE4LjE3MDYwNDY0MTY.*_ga_LS8HVHCNQ0*MTcwNjA0NjQxNS4xLjAuMTcwNjA0NzM2MC4wLjAuMA..#introduction) | Gemini is built from the ground up for multimodality — reasoning seamlessly across text, images, video, audio, and code.|
+| [Unsloth](https://unsloth.ai/) | Fast fine-tuning for LLMs, 2x faster with 60% less memory |
+| [Crawl4AI](https://github.com/unclecode/crawl4ai) | Open-source LLM-friendly web crawler and scraper |
+| [ExcaliDraw](https://excalidraw.com/) | Virtual whiteboard for hand-drawn diagrams |
+| [Foldify](https://foldify.ai/) | Protein folding prediction tool |
+| [Adaline.AI](https://www.adaline.ai/) | AI workflow automation |
+| [CopilotKit](https://www.copilotkit.ai/) | Open-source toolkit for building AI copilots |
+| [AG-UI Protocol](https://github.com/ag-ui-protocol/ag-ui) | Agent-User Interaction Protocol for frontend apps |
+| [RAG-Anything](https://github.com/HKUDS/RAG-Anything) | All-in-one RAG framework |
+| [GenAgents](https://github.com/joonspk-research/genagents) | Generative agents research implementation |
+| [Climate TRACE](https://climatetrace.org/) | AI-powered emissions tracking |
+| [Veo 3/4](https://deepmind.google/technologies/veo/) | Google's AI video generation |
+| [Hailuo AI](https://hailuoai.video/) | Cinematic quality video generation by MiniMax |
+| [BasedLabs.ai](https://www.basedlabs.ai/) | AI image and video creator |
+| [Jupyter Agent 2](https://huggingface.co/spaces/lvwerra/jupyter-agent-2) | AI agent for Jupyter notebooks |
+| [prompts.chat](https://prompts.chat/) | Awesome AI prompts library |
+| [AGENTS.md](https://github.com/agents-md/agents-md) | Open source agent documentation tool |
+| [Microsoft Fabric Toolbox](https://github.com/microsoft/fabric-toolbox) | Tools and accelerators for Microsoft Fabric |
+| [Copilot Studio Kit](https://aka.ms/copilotstudiokit) | Microsoft Copilot Studio accelerator kit |
+| [LlamaIndex](https://www.llamaindex.ai/) | Build knowledge assistants over enterprise data |
+| [vLLM](https://vllm.ai/) | High-throughput LLM serving with Qwen3-Next support |
+| [Weavy](https://www.weavy.com/) | AI-powered design workflows |
+| [CoreML for YOLO](https://docs.ultralytics.com/) | CoreML export for YOLO11 models |
+| [Qwen](https://qwenlm.github.io/) | Qwen 3-Next open model |
+
+
+**[⬆ back to top](#contents)**
+
+##### Multimodal Models
+
+
+| Model | Provider | Capabilities |
+|-------|----------|--------------|
+| [GPT-4o](https://openai.com/gpt-4) | OpenAI | Text, vision, audio |
+| [Claude 3.5](https://www.anthropic.com/) | Anthropic | Text, vision, documents |
+| [Gemini Pro](https://deepmind.google/technologies/gemini/) | Google | Text, vision, audio, video |
+| [Llama 3.2 Vision](https://llama.meta.com/) | Meta | Text, vision (open weights) |
+| [Pixtral](https://mistral.ai/) | Mistral | Text, vision |
+| [Qwen2-VL](https://github.com/QwenLM/Qwen2-VL) | Alibaba | Text, vision (open weights) |
+| [Boogu-Image-0.1](https://github.com/Boogu-Project/Boogu-Image) | Boogu Project | Image understanding, text-to-image generation, image editing, bilingual text rendering (open weights) |
+| [MiMo-V2.6](https://huggingface.co/collections/XiaomiMiMo/mimo-v26) | Xiaomi | Text, vision, audio; agentic coding and tool use (open weights) |
+
+**[⬆ back to top](#contents)**
+
+##### Music Generators
+
+* [AIVA](https://www.aiva.ai/) - AI tool for creating music compositions in various genres.
+* [Amper AI](https://www.aigems.net/) - Collaborates with musicians to generate original music datasets.
+* [Jukebox by OpenAI](https://openai.com/) - Generates music and singing in various styles based on user input.
+* [Soundraw](https://soundraw.io/) - AI tool for creating royalty-free music.
+* [Evoke](https://evokemusic.ai/) - AI-powered music library with a diverse collection.
+* [YuE2](https://github.com/multimodal-art-projection/YuE) - Open-weight song generation model that plans melody and chords as an editable score before rendering vocals and accompaniment.
+* [LyricsGift](https://lyricsgift.com/) - Paid AI service that writes a personalised song from a typed story, with lyrics approved line by line before recording.
+
+**[⬆ back to top](#contents)**
+
+##### Newsletters
+
+* [The Batch by DeepLearning.AI](https://www.deeplearning.ai/the-batch/) - Weekly AI news and insights.
+* [AI Engineering Newsletter](https://www.aiengineering.com/) - Technical AI engineering updates.
+
+**[⬆ back to top](#contents)**
+
+##### Observability & Tracing
+
+| Tool | Description | Key Features |
+|------|-------------|--------------|
+| [LangSmith](https://smith.langchain.com/) | LangChain's observability platform | Tracing, debugging, datasets |
+| [Phoenix (Arize)](https://phoenix.arize.com/) | Open-source LLM observability | Traces, embeddings, evals |
+| [Langfuse](https://langfuse.com/) | Open-source tracing | Self-hostable, scores, cost tracking |
+| [Helicone](https://www.helicone.ai/) | LLM observability | Logging, caching, analytics |
+| [Weights & Biases](https://wandb.ai/) | ML experiment tracking | Prompts, artifacts, sweeps |
+| [Portkey](https://portkey.ai/) | AI gateway | Observability, routing, fallbacks |
+| [Braintrust](https://www.braintrust.dev/) | Eval and logging platform | Experiments, datasets |
+| [Bifrost](https://github.com/maximhq/bifrost) | AI gateway | Provider routing, failover, guardrails, usage controls, MCP, observability |
+
+
+**[⬆ back to top](#contents)**
+
+##### Open Model Ecosystem
+
+| Tool | Purpose | Key Feature |
+|------|---------|-------------|
+| [Hugging Face Hub](https://huggingface.co/models) | Model repository | 500k+ models available |
+| [Ollama](https://ollama.ai/) | Local model runner | Simple CLI interface |
+| [LM Studio](https://lmstudio.ai/) | Desktop app | GUI for running local models |
+| [llama.cpp](https://github.com/ggerganov/llama.cpp) | CPU inference | Efficient quantization |
+| [vLLM](https://github.com/vllm-project/vllm) | High-throughput serving | PagedAttention optimization |
+| [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) | Fine-tuning | Easy configuration-based training |
+| [Unsloth](https://github.com/unslothai/unsloth) | Fast fine-tuning | 2x faster, 60% less memory |
+
+**[⬆ back to top](#contents)**
+
+##### OpenAI Models and Tools
+
+* [OpenAI Gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
+* [CLIP by OpenAI](https://github.com/openai/CLIP) - Connects vision and language.
+* [OpenAI Baselines](https://github.com/openai/baselines) - High-quality implementations of reinforcement learning algorithms.
+* [Jukebox by OpenAI](https://github.com/openai/jukebox) - A neural network that generates music.
+* [OpenAI API](https://openai.com/api/) - Provides access to various OpenAI models.
+* [Whisper by OpenAI](https://github.com/openai/whisper) - A robust speech recognition system with language models.
+* [OpenAI Codex](https://openai.com/codex/) - Powers GitHub Copilot, provides code generation capabilities.
+* [OpenAI Quickstart](https://beta.openai.com/quickstart/) - Guides and resources to quickly start implementing OpenAI models.
+
+**[⬆ back to top](#contents)**
+
+##### Other Tools		
+
+* [Spinach](https://www.spinach.io/) - AI tool for meeting management.
+* [Sembly](https://www.sembly.ai/) - AI tool for meeting assistance.
+* [Fireflies](https://www.fireflies.ai/) - AI tool for meeting transcriptions.
+* [Krisp](https://www.krisp.ai/) - Noise cancellation and voice enhancement for meetings.
+* [tl;dv](https://www.tldv.io/) - AI tool for meeting summaries.
+* [Otter.ai](https://www.otter.ai/) - Transcription service.
+* [Fathom](https://www.fathom.ai/) - AI tool for data analysis in meetings.
+
+**[⬆ back to top](#contents)**
+
+##### Papers
+
+* [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (2022)](https://arxiv.org/abs/2201.11903) - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (2022): Using few-shot prompts to ask models to think step by step improves their reasoning. PaLM's score on math word problems (GSM8K) rises from 18% to 57%.
+* [Self-Consistency Improves Chain of Thought Reasoning in Language Models (2022)](https://arxiv.org/abs/2203.11171) - Taking votes from multiple outputs improves accuracy even more. Voting across 40 outputs raises PaLM's score on math word problems further, from 57% to 74%, and code-davinci-002's from 60% to 78%.
+* [Tree of Thoughts: Deliberate Problem Solving with Large Language Models (2023)](https://arxiv.org/abs/2305.10601) - Searching over trees of step by step reasoning helps even more than voting over chains of thought. It lifts GPT-4's scores on creative writing and crosswords.
+* [Language Models are Zero-Shot Reasoners (2022)](https://arxiv.org/abs/2205.11916) - Telling instruction-following models to think step by step improves their reasoning. It lifts text-davinci-002's score on math word problems (GSM8K) from 13% to 41%.
+* [Large Language Models Are Human-Level Prompt Engineers (2023)](https://arxiv.org/abs/2211.01910) - Automated searching over possible prompts found a prompt that lifts scores on math word problems (GSM8K) to 43%, 2 percentage points above the human-written prompt in Language Models are Zero-Shot Reasoners.
+* [Reprompting: Automated Chain-of-Thought Prompt Inference Through Gibbs Sampling (2023)](https://arxiv.org/abs/2305.09993) - Automated searching over possible chain-of-thought prompts improved ChatGPT's scores on a few benchmarks by 0–20 percentage points.
+* [Faithful Reasoning Using Large Language Models (2022)](https://arxiv.org/abs/2208.14271) - Chains of thought generated by alternative selection and inference prompts, a halter model that chooses when to halt selection-inference loops...
+* [STaR: Bootstrapping Reasoning With Reasoning (2022)](https://arxiv.org/abs/2203.14465) - Chain of thought reasoning can be baked into models via fine-tuning. For tasks with an answer key, example chains of thoughts can be generated by language models.
+* [ReAct: Synergizing Reasoning and Acting in Language Models (2023)](https://arxiv.org/abs/2210.03629) - For tasks with tools or an environment, chain of thought works better if you prescriptively alternate between Reasoning steps (thinking about what to do) and Acting (getting information from a tool or environment).
+* [Reflexion: an autonomous agent with dynamic memory and self-reflection (2023)](https://arxiv.org/abs/2303.11366) - Retrying tasks with memory of prior failures improves subsequent performance.
+* [Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP (2023)](https://arxiv.org/abs/2212.14024) - Composing retrieval and language models for knowledge-intensive NLP (2023)
+* [Improving Factuality and Reasoning in Language Models through Multiagent Debate (2023)](https://arxiv.org/abs/2305.14325) - Generating debates between a few ChatGPT agents over a few rounds improves scores on various benchmarks. Math word problem scores rise from 77% to 85%.
+* [Why Language Models Hallucinate](https://openai.com/research/) - OpenAI research on hallucination mechanisms.
+* [A Survey of Self-Evolving Agents](https://arxiv.org/abs/2507.21046) - Path to Artificial Super Intelligence.
+* [Vending-Bench](https://arxiv.org/abs/2502.15840) - Benchmark for long-term coherence of autonomous agents.
+* [Reasoning by Superposition](https://arxiv.org/abs/2505.12514) - Chain of continuous thought theoretical perspective.
+* [Gemini Robotics 1.5](https://arxiv.org/abs/2510.03342) - Embodied reasoning, thinking, and motion transfer.
+* [Weight Transfer for RL Post-Training](https://research.perplexity.ai/) - Training efficiency research.
+* [The Agent Loop: A Survey of Control Strategies, Skills, and Harnesses for LLM Agents (2026)](https://ssrn.com/abstract=7186738) - How agents run the reason-act-observe loop: control strategies, trained loops, termination and recovery, skills, and harnesses.
+* [Optical Diffusion Models for Image Generation (2024)](https://papers.nips.cc/paper_files/paper/2024/file/6cb81234ab47027e991728ed7dd76735-Paper-Conference.pdf) - Implements denoising diffusion image generation using passive diffractive optical layers.
+* [The Platonic Representation Hypothesis (2024)](https://arxiv.org/abs/2405.07987) - Argues that representations learned by models across modalities are converging toward a shared statistical model of reality.
+
+**[⬆ back to top](#contents)**
+
+##### Playbooks & Reference Architectures
+
+Official guidance and blueprints from major AI providers.
+
+**Microsoft:**
+
+| Playbook | Focus |
+|----------|-------|
+| [Azure AI Landing Zone](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/ai/) | Enterprise AI architecture |
+| [Responsible AI Playbook](https://www.microsoft.com/en-us/ai/responsible-ai) | Ethics and governance |
+| [Copilot Studio Governance](https://learn.microsoft.com/en-us/microsoft-copilot-studio/admin-governance) | Low-code agent governance |
+| [Azure OpenAI Landing Zone](https://github.com/Azure-Samples/azure-openai-landing-zone) | Reference architecture |
+| [AI Red Team Playbook](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming) | Security testing |
+
+**OpenAI:**
+
+| Playbook | Focus |
+|----------|-------|
+| [GPT Best Practices](https://platform.openai.com/docs/guides/prompt-engineering) | Prompt engineering |
+| [Safety Best Practices](https://platform.openai.com/docs/guides/safety-best-practices) | Safe deployments |
+| [Production Best Practices](https://platform.openai.com/docs/guides/production-best-practices) | Scaling guidance |
+| [Moderation Guide](https://platform.openai.com/docs/guides/moderation) | Content filtering |
+
+**Google:**
+
+| Playbook | Focus |
+|----------|-------|
+| [Generative AI on Vertex AI](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/overview) | GCP AI architecture |
+| [Responsible AI Practices](https://ai.google/responsibility/responsible-ai-practices/) | Ethics guidance |
+| [SAIF (Secure AI Framework)](https://safety.google/cybersecurity-advancements/saif/) | Security framework |
+| [Gemini API Best Practices](https://ai.google.dev/gemini-api/docs/best-practices) | API usage |
+
+**AWS:**
+
+| Playbook | Focus |
+|----------|-------|
+| [Generative AI on AWS](https://aws.amazon.com/generative-ai/) | AWS AI architecture |
+| [Bedrock Security](https://docs.aws.amazon.com/bedrock/latest/userguide/security.html) | Bedrock security |
+| [Well-Architected ML Lens](https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/machine-learning-lens.html) | ML best practices |
+
+**Community:**
+
+| Playbook | Focus |
+|----------|-------|
+| [LangChain RAG Best Practices](https://python.langchain.com/docs/tutorials/rag/) | RAG architecture |
+| [Anthropic Prompt Engineering](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) | Claude prompting |
+| [Hugging Face Production Guide](https://huggingface.co/docs/hub/enterprise-hub) | Model deployment |
+
+**[⬆ back to top](#contents)**
+
+##### Podcasts
+
+* [AI in Business](https://emerj.com/ai-in-business-podcast/) - Focuses on AI applications in business.
+* [The AI Element](https://www.elementai.com/newsroom/the-aielement) - Explores AI's impact on society and the future.
+* [Practical AI](https://changelog.com/practicalai) - Makes artificial intelligence practical, productive, and accessible to everyone.
+* [O'Reilly Data Show Podcast](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/) - Explores the opportunities and techniques driving big data and data science.
+* [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning) - Teaches the high-level fundamentals of machine learning and artificial intelligence.
+* [Lex Fridman Podcast](https://lexfridman.com/podcast/) - Conversations about AI, science, technology, and the human condition.
+* [The TWIML AI Podcast (This Week in Machine Learning & Artificial Intelligence)](https://twimlai.com/) - Covers a broad range of topics in AI.
+* [The AI Podcast by NVIDIA](https://blogs.nvidia.com/ai-podcast/) - Offers insights from leaders in AI and deep learning.
+* [Talking Machines](https://www.thetalkingmachines.com/) - A podcast that discusses the latest in machine learning and AI.
+* [Artificial Intelligence with Lex Fridman](https://lexfridman.com/ai/) - Conversations about the nature of intelligence, consciousness, love, and power.
+* [AI for You](https://aiandyou.net/) - A podcast focusing on making AI concepts and uses accessible to everyone.
+* [DataFramed](https://www.datacamp.com/community/podcast) - A DataCamp podcast, focusing on the latest trends and challenges facing the data science community.
+
+**[⬆ back to top](#contents)**
+
+##### People to Follow
+
+Researchers, practitioners, and thought leaders shaping the AI landscape.
+
+**Research & Academia:**
+
+| Person | Affiliation | Focus | Links |
+|--------|-------------|-------|-------|
+| Andrew Ng | DeepLearning.AI, Stanford | ML education, AI applications | [Twitter](https://twitter.com/AndrewYNg), [LinkedIn](https://www.linkedin.com/in/andrewyng/) |
+| Yann LeCun | Meta AI, NYU | Deep learning, self-supervised learning | [Twitter](https://twitter.com/ylecun) |
+| Fei-Fei Li | Stanford HAI | Computer vision, human-centered AI | [Twitter](https://twitter.com/drfeifei) |
+| Demis Hassabis | Google DeepMind | AGI, AlphaFold | [Twitter](https://twitter.com/demaborsa) |
+| Ilya Sutskever | Safe Superintelligence Inc | Alignment, scaling | [Twitter](https://twitter.com/iaborsa) |
+| Geoffrey Hinton | University of Toronto | Neural networks, AI safety | [Website](https://www.cs.toronto.edu/~hinton/) |
+| Yoshua Bengio | Mila, University of Montreal | Deep learning, AI safety | [Twitter](https://twitter.com/yoshaborsa) |
+| Andrej Karpathy | Independent | Neural networks, education | [Twitter](https://twitter.com/karpathy), [YouTube](https://www.youtube.com/@AndrejKarpathy) |
+
+**Industry & Practice:**
+
+| Person | Affiliation | Focus | Links |
+|--------|-------------|-------|-------|
+| Sam Altman | OpenAI | AI products, strategy | [Twitter](https://twitter.com/sama) |
+| Dario Amodei | Anthropic | AI safety, Claude | [Anthropic](https://www.anthropic.com/) |
+| Mustafa Suleyman | Microsoft AI | AI products, ethics | [Twitter](https://twitter.com/mustaborsa) |
+| Satya Nadella | Microsoft | Enterprise AI | [Twitter](https://twitter.com/sataborsa) |
+| Jensen Huang | NVIDIA | AI compute, hardware | [NVIDIA](https://www.nvidia.com/) |
+| Emad Mostaque | Stability AI | Open-source AI | [Twitter](https://twitter.com/EMostaque) |
+
+**Practitioners & Educators:**
+
+| Person | Focus | Links |
+|--------|-------|-------|
+| Chip Huyen | MLOps, production ML | [Twitter](https://twitter.com/chipborsa), [Blog](https://huyenchip.com/) |
+| Simon Willison | LLM tools, Datasette | [Twitter](https://twitter.com/simonaborsa), [Blog](https://simonwillison.net/) |
+| Hamel Husain | LLM engineering | [Twitter](https://twitter.com/hamelhborsa), [Blog](https://hamel.dev/) |
+| Eugene Yan | ML systems, RecSys | [Twitter](https://twitter.com/eugeneaborsa), [Blog](https://eugeneyan.com/) |
+| Lilian Weng | OpenAI, ML research | [Blog](https://lilianweng.github.io/) |
+| Jay Alammar | LLM visualization | [Blog](https://jalammar.github.io/) |
+| Sebastian Raschka | ML education | [Twitter](https://twitter.com/rasaborsa), [Blog](https://sebastianraschka.com/) |
+| Harrison Chase | LangChain | [Twitter](https://twitter.com/hwchase17) |
+| Jerry Liu | LlamaIndex | [Twitter](https://twitter.com/jerryjliu0) |
+
+**AI Safety & Ethics:**
+
+| Person | Focus | Links |
+|--------|-------|-------|
+| Stuart Russell | Value alignment | [Website](https://people.eecs.berkeley.edu/~russell/) |
+| Max Tegmark | AI existential risk | [Twitter](https://twitter.com/tegmark) |
+| Timnit Gebru | AI ethics, bias | [Twitter](https://twitter.com/timnitGebru) |
+| Joy Buolamwini | Algorithmic justice | [Twitter](https://twitter.com/jovialjoy) |
+| Rumman Chowdhury | Responsible AI | [Twitter](https://twitter.com/raborsa) |
+
+**[⬆ back to top](#contents)**
+
+##### Project and Product Management Tools
+
+* [JIRA by Atlassian](https://www.atlassian.com/software/jira) - JIRA by Atlassian: A tool for agile project management, especially for software development.
+* [Basecamp](https://basecamp.com/) - Basecamp: A web-based project management tool.
+* [ClickUp](https://clickup.com/) - ClickUp: All-in-one suite to manage people, projects, and everything in between.
+* [Monday.com](https://monday.com/) - Monday.com: A Work OS that powers teams to run projects and workflows with confidence.
+* [Smartsheet](https://www.smartsheet.com/) - Smartsheet: A platform for enterprise achievement.
+* [Wrike](https://www.wrike.com/) - Wrike: Versatile project management and collaboration software.
+* [Notion](https://www.notion.so/) - Notion: An all-in-one workspace for notes, tasks, wikis, and databases.
+* [Podio by Citrix](https://podio.com/) - Podio by Citrix: Customizable work management solution.
+
+**[⬆ back to top](#contents)**
+
+##### Prompting guides
+
+* [Brex's Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering) - Brex's introduction to language models and prompt engineering.
+* [learnprompting.org](https://learnprompting.org/) - An introductory course to prompt engineering.
+* [Lil'Log Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/) - An OpenAI researcher's review of the prompt engineering literature (as of March 2023).
+* [OpenAI Cookbook: Techniques to improve reliability](https://cookbook.openai.com/articles/techniques_to_improve_reliability) - A slightly dated (Sep 2022) review of techniques for prompting language models.
+* [promptingguide.ai](https://www.promptingguide.ai/) - A prompt engineering guide that demonstrates many techniques.
+
+**[⬆ back to top](#contents)**
+
+##### Prompting libraries
+
+* [Arthur Shield](https://www.arthur.ai/get-started) - A paid product for detecting toxicity, hallucination, prompt injection, etc.
+* [Chainlit](https://docs.chainlit.io/overview) - A Python library for making chatbot interfaces.
+* [Embedchain](https://github.com/embedchain/embedchain) - A Python library for managing and syncing unstructured data with LLMs.
+* [FLAML (A Fast Library for Automated Machine Learning & Tuning)](https://microsoft.github.io/FLAML/docs/Getting-Started/) - A Python library for automating selection of models, hyperparameters, and other tunable choices.
+* [Guardrails.ai](https://shreyar.github.io/guardrails/) - A Python library for validating outputs and retrying failures. Still in alpha, so expect sharp edges and bugs.
+* [Guidance](https://github.com/microsoft/guidance) - A handy looking Python library from Microsoft that uses Handlebars templating to interleave generation, prompting, and logical control.
+* [Haystack](https://github.com/deepset-ai/haystack) - Open-source LLM orchestration framework to build customizable, production-ready LLM applications in Python.
+* [LangChain](https://github.com/hwchase17/langchain) - A popular Python/JavaScript library for chaining sequences of language model prompts.
+* [LiteLLM](https://github.com/BerriAI/litellm) - A minimal Python library for calling LLM APIs with a consistent format.
+* [LlamaIndex](https://github.com/jerryjliu/llama_index) - A Python library for augmenting LLM apps with data.
+* [LMQL](https://lmql.ai/) - A programming language for LLM interaction with support for typed prompting, control flow, constraints, and tools.
+* [OpenAI Evals](https://github.com/openai/evals) - An open-source library for evaluating task performance of language models and prompts.
+* [Outlines](https://github.com/normal-computing/outlines) - A Python library that provides a domain-specific language to simplify prompting and constrain generation.
+* [Parea AI](https://www.parea.ai/) - A platform for debugging, testing, and monitoring LLM apps.
+* [Portkey](https://portkey.ai/) - A platform for observability, model management, evals, and security for LLM apps.
+* [Promptify](https://github.com/promptslab/Promptify) - A small Python library for using language models to perform NLP tasks.
+* [PromptPerfect](https://promptperfect.jina.ai/prompts) - A paid product for testing and improving prompts.
+* [Prompttools](https://github.com/hegelai/prompttools) - Open-source Python tools for testing and evaluating models, vector DBs, and prompts.
+* [Scale Spellbook](https://scale.com/spellbook) - A paid product for building, comparing, and shipping language model apps.
+* [Semantic Kernel](https://github.com/microsoft/semantic-kernel) - A Python/C#/Java library from Microsoft that supports prompt templating, function chaining, vectorized memory, and intelligent planning.
+* [Weights & Biases](https://wandb.ai/site/solutions/llmops) - A paid product for tracking model training and prompt engineering experiments.
+* [YiVal](https://github.com/YiVal/YiVal) - An open-source GenAI-Ops tool for tuning and evaluating prompts, retrieval configurations, and model parameters using customizable datasets, evaluation methods, and evolution strategies.
+
+**[⬆ back to top](#contents)**
+
+##### Quantum Computing Tools
+
+* [QuantumAI by Google](https://quantumai.google/) - Developing quantum algorithms to solve real-world problems.
+* [IBM Quantum Experience](https://quantum.ibm.com/) - Offers cloud-based quantum computing services.
+* [Microsoft Quantum Development Kit](https://learn.microsoft.com/en-us/azure/quantum/) - Includes the Q# programming language and simulators for quantum computing.
+* [Strawberry Fields](https://strawberryfields.ai/) - A Python library for simulating and optimizing quantum optics on quantum computers.
+* [Rigetti Quantum Cloud Services (QCS)](https://docs.rigetti.com/qcs/) - Provides quantum computing in the cloud.
+
+**[⬆ back to top](#contents)**
+
+##### RAG & Retrieval
+
+
+| Tool | Type | Description |
+|------|------|-------------|
+| [Chroma](https://www.trychroma.com/) | Vector DB | Open-source embedding database |
+| [Pinecone](https://www.pinecone.io/) | Vector DB | Managed vector search service |
+| [Weaviate](https://weaviate.io/) | Vector DB | Open-source with GraphQL API |
+| [Qdrant](https://qdrant.tech/) | Vector DB | High-performance vector similarity search |
+| [Milvus](https://milvus.io/) | Vector DB | Scalable open-source vector database |
+| [FAISS](https://github.com/facebookresearch/faiss) | Library | Facebook's efficient similarity search |
+| [Cohere Rerank](https://cohere.com/rerank) | API | Neural reranking for search results |
+| [Unstructured](https://unstructured.io/) | Preprocessing | Document parsing and chunking |
+
+**[⬆ back to top](#contents)**
+
+##### Regulations & Policy
+
+AI governance frameworks and regulations by jurisdiction.
+
+**European Union:**
+
+| Regulation | Status | Key Points |
+|------------|--------|------------|
+| [EU AI Act](https://artificialintelligenceact.eu/) | In force (2024) | Risk-based classification, prohibited uses, conformity assessments |
+| [GDPR](https://gdpr.eu/) | In force | Data protection, automated decision-making rights |
+| [AI Liability Directive](https://ec.europa.eu/info/law/better-regulation/) | Proposed | Fault-based liability for AI systems |
+
+**United Kingdom:**
+
+| Regulation | Status | Key Points |
+|------------|--------|------------|
+| [AI Safety Institute](https://www.gov.uk/government/organisations/ai-safety-institute) | Active | Pre-deployment testing, safety research |
+| [UK AI Regulation (Pro-Innovation)](https://www.gov.uk/government/publications/ai-regulation-a-pro-innovation-approach) | Framework | Sector-specific, principles-based |
+| [ICO AI Guidance](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/) | Guidance | Data protection in AI |
+
+**United States:**
+
+| Regulation | Status | Key Points |
+|------------|--------|------------|
+| [Executive Order on AI (14110)](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/) | In force (2023) | Safety standards, red-teaming, watermarking |
+| [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) | Published | Risk management guidance |
+| [State AI Laws](https://www.ncsl.org/technology-and-communication/artificial-intelligence-2024-legislation) | Various | Colorado, California, others |
+
+**China:**
+
+| Regulation | Status | Key Points |
+|------------|--------|------------|
+| [Generative AI Measures](http://www.cac.gov.cn/) | In force (2023) | Content moderation, training data requirements |
+| [Algorithm Recommendation Rules](http://www.cac.gov.cn/) | In force (2022) | Algorithmic transparency |
+| [Deep Synthesis Provisions](http://www.cac.gov.cn/) | In force (2023) | Deepfake labeling |
+
+**International Standards:**
+
+| Standard | Organization | Focus |
+|----------|--------------|-------|
+| [ISO/IEC 42001](https://www.iso.org/standard/81230.html) | ISO | AI management system |
+| [ISO/IEC 23894](https://www.iso.org/standard/77304.html) | ISO | AI risk management |
+| [IEEE 7000](https://ethicsinaction.ieee.org/) | IEEE | Ethical system design |
+| [OECD AI Principles](https://oecd.ai/en/ai-principles) | OECD | International guidelines |
+
+**Tracking Resources:**
+
+* [AI Policy Observatory (OECD)](https://oecd.ai/) - Global AI policy tracker.
+* [Stanford HAI Policy](https://hai.stanford.edu/policy) - AI policy research.
+* [Brookings AI Governance](https://www.brookings.edu/topic/artificial-intelligence/) - Policy analysis.
+* [Future of Life Institute Policy](https://futureoflife.org/cause-area/artificial-intelligence/) - AI governance advocacy.
+
+**[⬆ back to top](#contents)**
+
+##### Safety, Alignment & Guardrails
+
+
+| Tool | Type | Description |
+|------|------|-------------|
+| [Guardrails AI](https://www.guardrailsai.com/) | Library | Output validation and safety rails for LLM apps |
+| [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | Toolkit | NVIDIA's programmable safety rails |
+| [LLM Guard](https://github.com/protectai/llm-guard) | Library | Input/output scanning for security risks |
+| [Rebuff](https://github.com/protectai/rebuff) | Library | Prompt injection detection |
+| [Lakera Guard](https://www.lakera.ai/) | API | Real-time threat detection |
+| [Garak](https://github.com/leondz/garak) | Tool | LLM vulnerability scanner |
+| [Arthur Shield](https://www.arthur.ai/) | Platform | Toxicity and hallucination detection |
+
+**Research Organizations:**
+
+* [Anthropic Research](https://www.anthropic.com/research) - Constitutional AI, interpretability, and alignment research.
+* [Center for AI Safety](https://www.safe.ai/) - Research on AI existential risk.
+* [AI Now Institute](https://ainowinstitute.org/) - Social implications of artificial intelligence.
+* [Partnership on AI](https://partnershiponai.org/) - Multi-stakeholder responsible AI development.
+
+**[⬆ back to top](#contents)**
+
+##### Tokenization Tools
+
+* [BERT](https://github.com/google-research/bert) - Pre-trained NLP model by Google, effective in tokenization.
+* [Gensim](https://radimrehurek.com/gensim/) - A Python library for topic modelling and document indexing.
+* [Stanford NLP](https://nlp.stanford.edu/) - A suite of natural language analysis tools.
+* [TextBlob](https://textblob.readthedocs.io/en/dev/) - Simplified text processing in Python.
+* [OpenNLP](https://opennlp.apache.org/) - Machine learning-based toolkit for processing natural language text.
+* [Moses](https://www.statmt.org/moses/) - Moses: A statistical machine translation system.
+* [Polyglot](https://github.com/aboSamoor/polyglot) - Polyglot: Natural language pipeline that supports multilingual applications.
+* [UIMA](https://uima.apache.org/) - UIMA: Framework for analysis and annotation of unstructured content.
+
+**[⬆ back to top](#contents)**
+
+##### Video Content & Talks
+
+* [Microsoft Build 2025 Keynote](https://www.youtube.com/watch?v=...) - Satya Nadella opening keynote.
+* [Stanford Webinar: Agentic AI](https://www.youtube.com/watch?v=...) - Progression of language model usage.
+* [The Turing Lectures](https://www.youtube.com/c/TheTuringInstitute) - AI environmental implications, DeepSeek R1.
+* [Yann LeCun Talks](https://drive.google.com/) - PAISS and NYU CDS presentations.
+* [Eric Schmidt on AI](https://www.youtube.com/watch?v=...) - Future of AI and America.
+* [Sora 2 Introduction](https://openai.com/sora) - OpenAI video generation.
+* [WireSharkFest](https://www.youtube.com/@WireSharkFest) - Network analysis tutorials.
+* [NahamSec](https://www.nahamsec.com/) - Bug bounty and security content.
+
+**[⬆ back to top](#contents)**
+
+##### Visualization and Analytics Tools
+
+* [Datawrapper](https://www.datawrapper.de/) - An easy-to-use tool for creating interactive charts and maps.
+* [D3.js](https://d3js.org/) - A JavaScript library for producing dynamic, interactive data visualizations in web browsers.
+* [Sigma.js](https://www.sigmajs.org/) - A JavaScript library dedicated to graph drawing, for networks and other relational data.
+* [Vega](https://vega.github.io/) - A visualization grammar, a declarative format for creating, saving, and sharing interactive visualization designs.
+* [Highcharts](https://www.highcharts.com/) - A JavaScript charting library that makes it easy to add interactive charts to web and mobile projects.
+
+**[⬆ back to top](#contents)**
+
+##### Video
+
+* [Fliki](https://www.fliki.ai/) - Video creation tool.
+* [Lumen5](https://www.lumen5.com/) - AI-powered platform for engaging video content creation.
+* [Synthesia](https://www.synthesia.io/) - Generates videos from text inputs.
+* [DeepBrain AI](https://www.deepbrain.ai/) - Video tool.
+* [Runway](https://www.runwayml.com/) - Video tool.
+* [Pictory](https://www.pictory.ai/) - Video tool.
+* [Flexclip](https://www.flexclip.com/) - Offers templates and tools for editing and creating videos.
+* [Elai](https://www.elai.io/) - Customized AI video creation platform.
+* [Veed.io](https://www.veed.io/) - Generates professional-quality videos with speech-to-subtitle features.
+* [PVID](https://pvid.app/) - AI video generation platform for photo-to-video, text-to-video, and video-to-video workflows, with access to models such as Kling, Sora, and Veo.
+* [videos.social](https://videos.social) - Turns articles, PDFs, and prompts into narrated videos with editable scenes, scripts, and voiceovers.
+
+* [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - MIT-licensed, local-first TypeScript CLI and MCP toolkit for composing, editing, generating, and assembling videos from editable plan.json timelines.
+* [shortshort](https://www.shortshort.io/) - Turns one long talk, podcast, or course into vertical 9:16 shorts with word-by-word captions.
+
+**[⬆ back to top](#contents)**
+
+##### Writing and Content Creation
+
+* [ClickUp](https://www.clickup.com/) - A productivity software with AI features for writing and task management.
+* [ChatGPT by OpenAI](https://www.openai.com/) - A conversational AI model known for generating text and engaging in natural conversations.
+* [Jasper](https://www.jasper.ai/) -  Specializes in creating long-form content like blog articles and scripts.
+* [GrammarlyGO](https://www.grammarly.com/) - AI-powered content creation tool for brainstorming and drafting.
+* [Copy.ai](https://www.copy.ai/) - AI-assisted tool for producing a range of creative content.
+* [Wordtune](https://www.wordtune.com/) - AI writing assistant focusing on editing and rephrasing.
+* [Writesonic](https://writesonic.com/) - Optimizes content for search and has a chatbot for content generation.
+* [Rytr](https://rytr.me/) - Generates SEO-optimized content in seconds using machine learning.
+* [Scribe](https://scribehow.com/) - AI writing assistant for summarizing articles and aiding academic writing.
+* [AlphaCode](https://alphacode.deepmind.com/) - Coding assistant for writing code, resolving bugs, and suggesting programming solutions.
+* [GitHub Copilot](https://github.com/) - Collaborative coding tool offering code snippets and context-based guidance.
+* [GPT-4 by OpenAI](https://openai.com/) - Advanced AI language model for content creation and data analysis.
+* [Bard by Google](https://bard.google.com/) - Chatbot and content-generation tool using LaMDA.
+* [Cohere Generate](https://cohere.com/) - Creates personalized email content and interactive conversational agents.
+* [Claude by Anthropic](https://www.anthropic.com/) - AI assistant for text data processing and engaging in natural conversations.
+* [Frase IO](https://www.frase.io/) - Optimizes high-quality SEO content and creates content briefs.
+* [Peppertype.ai](https://www.peppercontent.io/) -  Generates content for blogs, product descriptions, and social media.
+* [ImagineYourBook](https://www.imagineyourbook.com/) - Plans and drafts full-length books chapter by chapter, with series story bibles and EPUB, Word, and Markdown export.
+
+**[⬆ back to top](#contents)**
+
+---
+
+## Connect with Us
+- [Follow us on Twitter](LINK_TO_TWITTER)
+- [Join our Discord Community](LINK_TO_DISCORD)
+- [Subscribe to our YouTube Channel](LINK_TO_YOUTUBE)
+
+---
+
+## APIs and Frameworks
+```mermaid
+flowchart LR
+  API[Generative AI APIs] -->|Integration| FW[Frameworks]
+  FW -->|Customization| AI[AI Projects]
+
+ 
