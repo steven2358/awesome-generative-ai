@@ -77,6 +77,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 - [LibreChat](https://librechat.ai/) - LibreChat is a free and open-source chat interface for assistant AIs. [#opensource](https://github.com/danny-avila/LibreChat).
 - [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [#opensource](https://github.com/mckaywrigley/chatbot-ui).
+- [BayesChat](https://bayeschat.xyz) - A native iOS and iPadOS client that points at any OpenAI- or Anthropic-compatible endpoint with your own key, optionally with remote MCP servers for tool use. Keys and conversations stay on the device.
 
 ### Search engines
 
