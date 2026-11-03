@@ -279,6 +279,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [KeepRule](https://keeprule.com) - Investment-discipline tool with curated principles from 26 investors and AI prompts for scenario analysis.
 - [GEOScore AI](https://geoscoreai.com/) - Free AI search visibility scanner that checks 11 GEO signals for ChatGPT, Perplexity, and Gemini visibility.
 - [DeepDNA](https://deepdna.ai) - AI-powered DNA analysis platform for personalized health, nutrition, and pharmacogenomic insights from consumer genetic data.
+- [DisconfirmAI](https://disconfirmai.com/en) - Investment research and reading platform that uses AI to look for evidence against a thesis, with daily source reading, filing and data research, and condition-based radar alerts.
 
 ## Learning resources
 
