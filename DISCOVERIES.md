@@ -161,6 +161,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Local LLM Deployment
 
 - [Minima](https://github.com/dmayboroda/minima) - On-premises RAG with configurable Docker containers. #opensource
+- [quantized.uk](https://quantized.uk) - Free VRAM calculator for local LLMs: pick a model, quantization (GGUF/AWQ/EXL2...) and context length to see if it fits your GPU or Mac.
 
 ## Agents
 
