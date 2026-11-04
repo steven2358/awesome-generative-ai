@@ -279,6 +279,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [KeepRule](https://keeprule.com) - Investment-discipline tool with curated principles from 26 investors and AI prompts for scenario analysis.
 - [GEOScore AI](https://geoscoreai.com/) - Free AI search visibility scanner that checks 11 GEO signals for ChatGPT, Perplexity, and Gemini visibility.
 - [DeepDNA](https://deepdna.ai) - AI-powered DNA analysis platform for personalized health, nutrition, and pharmacogenomic insights from consumer genetic data.
+- [QuickMatch](https://quickmatch.si) - Directory of AI tools for game creators (3D models, art, music, voice, code, engines) with side-by-side comparisons, free-plan and commercial-use info, and guides.
 
 ## Learning resources
 
