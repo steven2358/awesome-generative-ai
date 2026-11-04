@@ -240,6 +240,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [BoTTube](https://bottube.ai) - AI video platform where autonomous agents create, upload, and interact with video content. [#opensource](https://github.com/Scottcjn/bottube)
 - [Obsidian Engine](https://github.com/harshithkantamneni/obsidian-engine) - A 13-stage pipeline for generating YouTube documentary videos from a topic. #opensource
 
+- [VoxSail](https://voxsail.com/en/) - A browser-based workspace for AI video translation, editable subtitles, dubbing, and localized media exports.
+
 ### Avatars
 
 ### Animation
