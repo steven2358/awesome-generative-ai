@@ -256,6 +256,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Typist](https://iamtypist.dev) - Fast audio transcription service powered by Whisper models hosted on Groq.
 - [Echo99](https://www.echo99.app/) - A private macOS call recorder with on-device transcription and speaker labeling.
+- [SpeakApp](https://speakapp.work/en) - Reads your AI agents' replies aloud as soon as they land; you answer out loud and your message goes to the right session (Claude Code, Codex, ChatGPT). Also dictates anywhere on your computer.
 
 ### Music
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
