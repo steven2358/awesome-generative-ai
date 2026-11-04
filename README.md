@@ -380,6 +380,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Pika](https://pika.art/) - An idea-to-video platform that brings your creativity to motion.
 - [HeyGen](https://app.heygen.com/) - Turn scripts into talking videos with customizable AI avatars in minutes.
 - [Luma Dream Machine](https://lumalabs.ai/app) - An AI model that makes high quality, realistic videos fast from text and images.
+- [Cyanvid](https://cyanvid.com/?utm_source=github-steven2358-awesome-generative-ai&utm_medium=directory&utm_campaign=backlinks) - AI video generator. Create from text or images with clear credit quotes before you generate.
+- [Barz Studio](https://barzvideo.com/?utm_source=github-steven2358-awesome-generative-ai&utm_medium=directory&utm_campaign=backlinks) - Free browser rap lyric video maker. Bring your track, sync lyrics, export 9:16 WebM.
 - [KLING AI](https://kling.ai/) - Tools for creating imaginative images and videos.
 - [Hailuo AI](https://hailuoai.video/) - AI-powered text-to-video generator.
 - [Google Flow](https://labs.google/fx/tools/flow) - An AI filmmaking tool from Google, powered by Veo.
