@@ -68,6 +68,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Publish7](https://publish7.com/) - Agentic platform for digital marketing.
 - [WordLift Agent](https://wordlift.io/agent/) - AI agent for SEO tasks such as product descriptions, internal linking, and SERP analysis.
 
+- [Humanize Ink](https://humanizeink.com/) - Free AI humanizer that rewrites English drafts in natural, professional or casual tones and shows the original next to the result.
 ### ChatGPT extensions
 
 - [AI Character for GPT](https://chromewebstore.google.com/detail/ai-character-for-gpt/daoeioifimkjegafelcaljboknjkkohh) - Easily customize AI chatbots like ChatGPT and Google Gemini for better responses.
@@ -211,6 +212,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [PhotoMentor](https://photomentor.pro) - An AI tool for analyzing photos and providing composition and lighting feedback.
 - [AI Hairstyle Fit](https://aihairstylefit.com/) - A tool for previewing haircuts on a front-facing photo, with before/after comparison and a barber card with cutting notes.
 
+- [StylMorph](https://stylmorph.com/) - Free image-to-image tool that restyles a photo into a comic, cartoon or game-art look with a side-by-side comparison, no signup.
 ### Graphic design
 
 - [Framer AI](https://www.framer.com/ai/) - Enhance your website using Framer's AI-powered tools.
@@ -240,6 +242,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [BoTTube](https://bottube.ai) - AI video platform where autonomous agents create, upload, and interact with video content. [#opensource](https://github.com/Scottcjn/bottube)
 - [Obsidian Engine](https://github.com/harshithkantamneni/obsidian-engine) - A 13-stage pipeline for generating YouTube documentary videos from a topic. #opensource
 
+- [ReelBoop](https://reelboop.com/) - AI video templates that turn a photo into dance, outfit-change, duet and product videos, with a private preview and MP4 download.
+- [Skeleton AI](https://skeletonai.org/) - Generates skeleton explainer shorts from a topic, with ready-made prompts and vertical previews.
 ### Avatars
 
 ### Animation
