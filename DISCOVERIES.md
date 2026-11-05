@@ -239,6 +239,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [PVID](https://pvid.app/) - Free AI video generator aggregating Kling, Sora, and Veo, with image-to-video, text-to-video, and video-to-video modes.
 - [BoTTube](https://bottube.ai) - AI video platform where autonomous agents create, upload, and interact with video content. [#opensource](https://github.com/Scottcjn/bottube)
 - [Obsidian Engine](https://github.com/harshithkantamneni/obsidian-engine) - A 13-stage pipeline for generating YouTube documentary videos from a topic. #opensource
+- [Phosphene](https://phosphene.video/) - Free, open-source AI video studio that runs LTX-2.5 and MiniMax H3 locally on Apple Silicon Macs through MLX. [#opensource](https://github.com/mrbizarro/Phosphene)
 
 ### Avatars
 
