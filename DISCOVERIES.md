@@ -101,6 +101,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Price Per Token](https://pricepertoken.com/) - A tool for comparing LLM API pricing, token usage, and model benchmarks.
 - [Rival](https://rival.tips) - Leaderboard ranking 200+ AI models based on blind A/B human preference votes.
+- [LLM API Pricing Data](https://github.com/airootkit/llm-api-pricing) - API prices and token limits for OpenAI, Anthropic, Gemini and DeepSeek models as JSON and CSV, checked against official pricing pages. #opensource
 
 ### Other text generators
 
