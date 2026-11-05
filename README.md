@@ -462,6 +462,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [AI Governance](https://www.manning.com/books/ai-governance) - A book about governance, risk, compliance, security, privacy, and oversight for generative AI systems.
 - [AnimatedLLM](https://animatedllm.github.io/) - Interactive visualizations explaining how large language models work. [#opensource](https://github.com/kasnerz/animated-llm)
 - [Transformer Explainer](https://poloclub.github.io/transformer-explainer/) - Interactive visualization of how transformer-based LLMs work, running a live GPT-2 model in the browser. [#opensource](https://github.com/poloclub/transformer-explainer)
+- [MCP Explained](https://mcp-explained.com) - Interactive, animated walkthrough of the Model Context Protocol, showing every JSON-RPC message on the wire, how the spec changed across versions, and common MCP attacks step by step.
 
 ## More lists
 
