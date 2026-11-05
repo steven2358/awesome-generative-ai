@@ -77,6 +77,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 - [LibreChat](https://librechat.ai/) - LibreChat is a free and open-source chat interface for assistant AIs. [#opensource](https://github.com/danny-avila/LibreChat).
 - [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [#opensource](https://github.com/mckaywrigley/chatbot-ui).
+- [Slashspace](https://www.slashspace.ai/) - A local-first desktop canvas for branching AI chats across multiple models, with your own API keys.
 
 ### Search engines
 
