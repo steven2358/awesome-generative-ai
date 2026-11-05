@@ -481,3 +481,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [FlowGPT](https://flowgpt.com/) - Amplify your workflow with the best prompts.
 - [ChatGPT Prompts for Data Science](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) - A repository of useful data science prompts for ChatGPT.
 - [Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt) - Another awesome list for ChatGPT.
+
+## Free QR code tools
+
+- [QRify](https://qrify.dynv6.net) — free custom QR code generator with logo, colors, gradients and SVG export. 100% client-side, no sign-up. Guides for WiFi, menus, PDFs, WhatsApp, Google Maps, business cards and more.
