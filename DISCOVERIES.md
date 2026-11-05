@@ -67,6 +67,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [LogicBalls](https://logicballs.com/) - An AI writing tool for generating blog posts, ads, emails, and social media content. Includes a prompt library.
 - [Publish7](https://publish7.com/) - Agentic platform for digital marketing.
 - [WordLift Agent](https://wordlift.io/agent/) - AI agent for SEO tasks such as product descriptions, internal linking, and SERP analysis.
+- [Prizm](https://heyprizm.com/en?utm_source=github-awesome-generative-ai&utm_medium=annuaire&utm_campaign=annuaires-2026-11) - Tailors your CV and cover letter to a job ad from your real experience, after an honest verdict on whether to apply.
 
 ### ChatGPT extensions
 
