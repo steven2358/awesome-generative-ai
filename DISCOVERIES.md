@@ -124,6 +124,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Frontman](https://frontman.sh/) - A browser-based AI coding agent for editing frontend code with live app context. [#opensource](https://github.com/frontman-ai/frontman)
 - [Cortex](https://github.com/SKULLFIRE07/cortex-memory) - Persistent AI memory for coding assistants, auto-capturing decisions, patterns, and context from Claude Code, Cursor, and Cline sessions. #opensource
 
+- [IdeaMade](https://ideamade.ai/) - AI web app builder for non-developers, with editable product blueprints, live previews, publishing, and version history.
+
 ### Developer tools
 
 - [Vectara](https://www.vectara.com/) - A Generative AI product platform for developers.
