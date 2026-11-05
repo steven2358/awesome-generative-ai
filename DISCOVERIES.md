@@ -155,6 +155,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [CPS Framework](https://github.com/citedbyai/cps-framework) - AI-citation-readiness scoring for web content, with a free MCP checker and paid full audits.
 - [TabGAN](https://github.com/Diyago/Tabular-data-generation) - A Python library for generating synthetic tabular data with GANs, diffusion models, and language models. #opensource
 - [AKF](https://github.com/HMAKT99/AKF) - A file format for embedding trust scores, source provenance, and compliance metadata in AI-generated content. #opensource
+- [mcp4api](https://github.com/smusali/mcp4api) - Turns an OpenAPI Spec into a working MCP Server, then calls every generated tool against the API and reports which ones work. #opensource
+- [echoChain](https://github.com/smusali/echoChain) - A Python CLI that measures how information degrades when LLMs rewrite an answer over many steps, scored by an LLM judge panel with claim-level fidelity. #opensource
 
 ### Playgrounds
 
