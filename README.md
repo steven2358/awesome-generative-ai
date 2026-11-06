@@ -146,6 +146,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Loopin AI](https://www.loopinhq.com/) - Loopin is a collaborative meeting workspace that not only enables you to record, transcribe & summaries meetings using AI, but also enables you to auto-organise meeting notes on top of your calendar.
 - [Read AI](https://www.read.ai/) - An AI copilot for wherever you work, making your meetings, emails, and messages more productive with summaries, content discovery, and recommendations.
 - [Fireflies.ai](https://fireflies.ai) - Transcribe, summarize, search, and analyze all your team conversations.
+- [OneMira C1](https://onemira.com/products/c1) - Standalone AI voice recorder and local meeting assistant that transcribes in 99 languages with speaker diarization and generates local AI summaries, action items, and open Markdown wikis with zero subscription.
+
 
 ### Academia
 
