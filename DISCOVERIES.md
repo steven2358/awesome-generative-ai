@@ -161,6 +161,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Local LLM Deployment
 
 - [Minima](https://github.com/dmayboroda/minima) - On-premises RAG with configurable Docker containers. #opensource
+- [Outlier](https://outlier.host/) - Mac app that runs open-weight models locally for chat and coding, with a free tier and a one-time Pro license.
 
 ## Agents
 
