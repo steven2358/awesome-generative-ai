@@ -104,6 +104,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Anyword](https://anyword.com/) - Anyword's AI writing assistant generates effective copy for anyone.
 - [Hypotenuse AI](https://www.hypotenuse.ai/) - Turn a few keywords into original, insightful articles, product descriptions and social media copy.
 - [Lavender](https://www.lavender.ai/) - Lavender email assistant helps you get more replies in less time.
+- [Mach GTM MCP](https://github.com/verma6uc/mach-gtm-mcp) - Open-source MCP server for Claude and other MCP clients. Five outbound sales helpers for B2B teams: build an ICP, draft a cold email or LinkedIn message from a buying signal you provide, get a prospect research checklist, score a lead 0-100 against your ICP, and lay out a multi-touch sequence. Works only from what you give it; it does not look anything up or send anything. Install: `npx -y github:verma6uc/mach-gtm-mcp` #opensource
 - [Lex](https://lex.page/) - A word processor with artificial intelligence baked in, so you can write faster.
 - [Jenni](https://jenni.ai/) - Jenni is the ultimate writing assistant that saves you hours of ideation and writing time.
 - [QuillBot](https://quillbot.com) - AI-powered paraphrasing tool.
