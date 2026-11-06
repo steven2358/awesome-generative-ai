@@ -45,6 +45,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Custom interfaces
 
 - [Atlas UI 3](https://github.com/sandialabs/atlas-ui-3) - Full-stack LLM chat interface with MCP tool integration, multi-provider support, RAG, and agentic workflows. #opensource
+- [Molfar System](https://molfar.nova-hata.com) - Free Android app where several AI models from different providers hold a meeting: an orchestrator gathers their answers and a secretary keeps the minutes. Bring your own API keys.
 
 ### Search engines
 
