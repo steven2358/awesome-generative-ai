@@ -417,6 +417,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2) - A Whisper CLI client compatible with the original OpenAI client, using CTranslate2 for faster inference. [#opensource](https://github.com/Softcatala/whisper-ctranslate2)
 - [NeMo](https://github.com/NVIDIA-NeMo/Speech) - An open-source framework by NVIDIA for building speech AI systems, including automatic speech recognition and text-to-speech. #opensource
 - [Parakeet](https://huggingface.co/collections/nvidia/parakeet-asr-659711f49d1469e51546e021) - A family of open speech recognition models by NVIDIA, including streaming and multilingual variants. #opensource
+- [TranscribeLab](https://transcribelab.pro/) - Bot-free browser meeting recorder and AI transcription workspace that converts live calls, 5-hour audio files, and YouTube channels into searchable transcripts, action plans, and cited e-books.
 
 ### Music
 
