@@ -161,6 +161,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Local LLM Deployment
 
 - [Minima](https://github.com/dmayboroda/minima) - On-premises RAG with configurable Docker containers. #opensource
+- [RAMen](https://getramenai.com/) - Local llama.cpp server that saves every chat and agent session to disk and reopens it in seconds after a restart.
 
 ## Agents
 
