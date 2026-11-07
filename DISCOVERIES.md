@@ -96,6 +96,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Perlego Research Assistant](https://www.perlego.com/research-assistant) - AI research assistant that answers queries by referencing academic books in the Perlego library.
 - [Qualitati](https://mimitalk.app/) - AI qualitative research software for AI-moderated interviews, thematic analysis, and conversational surveys.
 - [BGPT](https://bgpt.pro/mcp/) - A scientific paper search tool with structured experimental data from full-text studies. [#opensource](https://github.com/connerlambden/bgpt-mcp)
+- [Scientific Figure](https://scientificfigure.com/) - Draws scientific illustrations, graphical abstracts, data plots, and conference posters from a text prompt, sketch, or PDF.
 
 ### Leaderboards
 
