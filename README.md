@@ -110,6 +110,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Postwise](https://postwise.ai/) - Write tweets, schedule posts and grow your following using AI.
 - [Copysmith](https://copysmith.ai/) - AI content creation solution for Enterprise & eCommerce.
 - [Humanize-Text](https://github.com/lynote-ai/humanize-text) - AI text humanizer with a multilingual rewriting pipeline and step-by-step examples. #opensource
+- [UnimeType](https://unimetype.com) - Multilingual input method and online converter that turns mixed-script Latin drafts (Pinyin, Romaji, Hinglish, Arabizi, Translit) into native script across whole sentences while preserving English words and polishing text in place. [#opensource](https://huggingface.co/UnimeType/Transliteration-2.0-4B)
 
 ### ChatGPT extensions
 
