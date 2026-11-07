@@ -244,6 +244,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Steel Browser](https://github.com/steel-dev/steel-browser) - An open-source browser sandbox and automation infrastructure for AI agents, with session management, screenshots, PDFs, proxies, and anti-bot tooling. #opensource
 - [Bifrost](https://github.com/maximhq/bifrost) - An open-source LLM gateway with routing, load balancing, guardrails, and observability for 1000+ models. #opensource
 - [fal](https://fal.ai/) - A developer platform for accessing and deploying image, video, audio, and 3D generation models.
+- [REA (Reverse Engineer Anything)](https://rea.tools/) - Connects coding agents to reverse-engineering tools through MCP to analyze binaries, applications, and runtime behavior. [#opensource](https://github.com/morluto/rea)
 
 ### Playgrounds
 
@@ -296,6 +297,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [OpenAgents](https://github.com/openagents-org/openagents) - Open-source platform for building AI agent networks with multi-protocol support (WebSocket, gRPC, HTTP, MCP, A2A). #opensource
 - [Dorothy](https://github.com/Charlie85270/Dorothy) - An open-source desktop app to orchestrate multiple AI CLI agents simultaneously with automations and Kanban management. #opensource
 - [Hive](https://github.com/aden-hive/hive) - An open-source multi-agent framework with auto-generated graphs, evolution loops, and MCP integration. #opensource
+- [Multica](https://multica.ai/) - A self-hostable workspace for assigning tasks to AI coding agents and tracking their progress alongside human teammates.
 
 ### Custom assistants
 
@@ -441,6 +443,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Morpher AI](https://morpher.com/ai) - Morpher AI delivers real-time insights and analysis for any market.
 - [Whimsical AI](https://whimsical.com/ai) - GPT-powered mind mapping, flowcharts, and visual tools for rapid idea development and process organization.
 - [Selfies with Sama](https://selfies-with-sama.vost.ai) - Grab a picture with a real-life billionaire!
+- [Pangram](https://www.pangram.com/) - Detects AI-generated and AI-assisted text through a web interface, browser extension, and API.
 
 ## Learning resources
 
