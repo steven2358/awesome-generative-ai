@@ -213,6 +213,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Graphic design
 
+- [AdVariq](https://advariq.com/) - AI-powered commercial ad creative and product marketing visual generator for DTC brands and online stores. (Freemium: Free trial available, paid plans start at 29 USD/month)
 - [Framer AI](https://www.framer.com/ai/) - Enhance your website using Framer's AI-powered tools.
 - [PPT.AI](https://ppt.ai/) - Create professional presentations in minutes.
 - [Seede](https://seede.ai/) - An AI tool for generating posters and marketing visuals from text descriptions.
