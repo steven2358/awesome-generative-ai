@@ -77,6 +77,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 - [LibreChat](https://librechat.ai/) - LibreChat is a free and open-source chat interface for assistant AIs. [#opensource](https://github.com/danny-avila/LibreChat).
 - [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [#opensource](https://github.com/mckaywrigley/chatbot-ui).
+- [Easy Mode for Claude Code](https://github.com/paragpandyareal/easy-mode-for-claude-code) - A friendly, Windows-first GUI for the Claude Code CLI with Undo save points, plain-English permission prompts and a "Just results" view. [#opensource](https://github.com/paragpandyareal/easy-mode-for-claude-code).
 
 ### Search engines
 
