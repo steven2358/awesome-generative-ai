@@ -161,6 +161,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Local LLM Deployment
 
 - [Minima](https://github.com/dmayboroda/minima) - On-premises RAG with configurable Docker containers. #opensource
+- [Kapitsa](https://github.com/nace-ai/kapitsa) - A native C++ LLM inference engine for Apple silicon, with Metal kernels, the Neural Engine, and OpenAI- and Anthropic-compatible APIs. #opensource
 
 ## Agents
 
