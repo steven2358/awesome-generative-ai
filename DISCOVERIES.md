@@ -220,6 +220,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [InkCraft](https://inkcraftapp.com) - Generate tattoo designs from a description and preview them on a photo of your own body.
 
 ### Image libraries
+- [Velapic](https://velapic.com) - Free library of high-resolution AI-generated images and phone & desktop wallpapers, free for commercial use, no sign-up, no watermark.
 
 ### Model libraries
 
