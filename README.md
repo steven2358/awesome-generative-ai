@@ -245,6 +245,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Bifrost](https://github.com/maximhq/bifrost) - An open-source LLM gateway with routing, load balancing, guardrails, and observability for 1000+ models. #opensource
 - [fal](https://fal.ai/) - A developer platform for accessing and deploying image, video, audio, and 3D generation models.
 - [REA (Reverse Engineer Anything)](https://rea.tools/) - Connects coding agents to reverse-engineering tools through MCP to analyze binaries, applications, and runtime behavior. [#opensource](https://github.com/morluto/rea)
+- [RocketRide](https://github.com/rocketride-org/rocketride-server) - An open-source AI meta-harness with a C++ runtime to build, test, publish, and operate agents and AI applications in production. #opensource
 
 ### Playgrounds
 
