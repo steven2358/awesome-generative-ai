@@ -215,7 +215,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [LMQL](https://lmql.ai/) - LMQL is a query language for large language models.
 - [LlamaIndex](https://www.llamaindex.ai/) - A data framework for building LLM applications over external data.
 - [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine tune LLM, CV and tabular models.
-- [Cursor](https://cursor.com/) - Cursor is the IDE of the future, built for pair-programming with Powerful AI.
+- [Cursor](https://cursor.com/)
+- [Exody](https://www.exody.ai/) - Native macOS autonomous AI coding workbench, Design Studio, and BYOK Smart Model Router (Claude, GPT, Gemini, Grok, DeepSeek, Ollama) with isolated git worktrees and independent diff verification. - Cursor is the IDE of the future, built for pair-programming with Powerful AI.
 - [SymbolicAI](https://github.com/ExtensityAI/symbolicai) - A neuro-symbolic framework for building applications with LLMs at the core.
 - [Vanna.ai](https://vanna.ai/) - An open-source Python RAG framework for SQL generation and related functionality. [#opensource](https://github.com/vanna-ai/vanna)
 - [Portkey](https://portkey.ai/) - A full-stack LLMOps platform for LLM monitoring, caching, and management.
