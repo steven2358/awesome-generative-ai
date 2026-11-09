@@ -444,6 +444,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Whimsical AI](https://whimsical.com/ai) - GPT-powered mind mapping, flowcharts, and visual tools for rapid idea development and process organization.
 - [Selfies with Sama](https://selfies-with-sama.vost.ai) - Grab a picture with a real-life billionaire!
 - [Pangram](https://www.pangram.com/) - Detects AI-generated and AI-assisted text through a web interface, browser extension, and API.
+- [iGen3D](https://igen3d.com/) - Generative AI text-to-3D and image-to-3D generator for 3D printing and digital assets.
 
 ## Learning resources
 
