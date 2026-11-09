@@ -182,6 +182,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Fazm](https://fazm.ai) - A native macOS app that runs Claude Code and Codex agents with persistent sessions, and can control the browser and other Mac apps. [#opensource](https://github.com/m13v/fazm)
 - [Network-AI](https://github.com/Jovancoding/Network-AI) - A TypeScript/Node.js multi-agent orchestrator with shared state, guardrails, token budgets, and adapters for multiple agent frameworks. #opensource
 - [Agency Orchestrator](https://github.com/jnMetaCode/agency-orchestrator) - YAML-first multi-agent workflow orchestrator with built-in AI roles, DAG parallelism, and conditional branching. Supports DeepSeek, Claude, OpenAI, and Ollama. #opensource
+- [Revo](https://github.com/shyringo/revo) - A terminal agent harness that starts its own work cycles without a prompt and keeps one durable memory across sleep and restarts. [#opensource](https://github.com/shyringo/revo)
 
 ### Custom assistants
 
