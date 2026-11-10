@@ -156,6 +156,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [TabGAN](https://github.com/Diyago/Tabular-data-generation) - A Python library for generating synthetic tabular data with GANs, diffusion models, and language models. #opensource
 - [AKF](https://github.com/HMAKT99/AKF) - A file format for embedding trust scores, source provenance, and compliance metadata in AI-generated content. #opensource
 
+- [BetterToken](https://bettertoken.ai) - Pay-as-you-go API gateway that serves Claude, GPT, DeepSeek, Kimi, GLM, MiniMax and Qwen models through OpenAI- and Anthropic-compatible endpoints with one key.
+
 ### Playgrounds
 
 ### Local LLM Deployment
