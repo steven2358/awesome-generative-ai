@@ -106,6 +106,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Never Jobless](https://neverjobless.com/) - Maximize your interview chances with AI-powered LinkedIn messaging.
 - [Vedika API](https://vedika.io/) - An astrology API with chat-based queries and horoscope endpoints.
+- [Prompt Generator](https://trypromptgenerator.com) - Free prompt generator that writes prompts in the syntax of the AI tool you pick, such as ChatGPT, Claude, Gemini, Midjourney, Nano Banana, Veo and Sora.
 
 ## Coding
 
