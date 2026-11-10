@@ -190,6 +190,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Mintlify](https://mintlify.com/) - AI powered documentation writer.
 - [AI2sql](https://www.ai2sql.io/) - With AI2sql, engineers and non-engineers can easily write efficient, error-free SQL queries without knowing SQL.
 - [Qodo](https://www.qodo.ai/) - AI code review tool with agentic workflows for IDEs, pull requests, and security.
+- [CodeCrab](https://www.codecrab.ai) - Local-first AI code reviewer with a "bring your own AI subscription or keys" model that learns your codebase, combining your local skills and specialized review skills via local AI CLIs so with zero data leaving your laptop.
 - [PR-Agent](https://github.com/The-PR-Agent/pr-agent) - AI-powered tool for automated PR analysis, feedback, suggestions and more.
 - [TurboPilot](https://github.com/ravenscroftj/turbopilot) - A self-hosted copilot clone which uses the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model in 4 GB of RAM.
 - [GPT-Code UI](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter. #opensource
