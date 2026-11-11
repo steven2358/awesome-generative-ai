@@ -210,6 +210,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [MyPicNow](https://www.mypicnow.com) - An AI headshot generator for creating professional profile photos from uploaded selfies.
 - [PhotoMentor](https://photomentor.pro) - An AI tool for analyzing photos and providing composition and lighting feedback.
 - [AI Hairstyle Fit](https://aihairstylefit.com/) - A tool for previewing haircuts on a front-facing photo, with before/after comparison and a barber card with cutting notes.
+- [Mangit](https://mangit.app/?utm_source=awesome-generative-ai) - A mobile app that translates manga and comic pages from a photo or screenshot, erasing the original text and typesetting the translation inside the speech bubbles.
 
 ### Graphic design
 
