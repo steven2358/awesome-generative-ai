@@ -218,6 +218,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Seede](https://seede.ai/) - An AI tool for generating posters and marketing visuals from text descriptions.
 - [PolyGlyph](https://polyglyph.io/) - AI-powered SVG generation and editing tool that turns text prompts into editable vector graphics.
 - [InkCraft](https://inkcraftapp.com) - Generate tattoo designs from a description and preview them on a photo of your own body.
+- [Brilliant](https://brilliant.design/) - Vector design tool where coding agents such as Claude Code, Cursor and Codex design on the same canvas as you through MCP, producing real, editable layers.
 
 ### Image libraries
 
