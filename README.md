@@ -268,6 +268,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ## Agents
 
+- [Kolivri](https://kolivri.com) - Real-time AI Voice Call Center & CRM platform with sub-second phone agents in 8 languages, persistent cross-call memory, and open-source [Telephony MCP server](https://github.com/kolivritech/kolivri-voice-mcp).
 ### Autonomous agents
 
 - [Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
