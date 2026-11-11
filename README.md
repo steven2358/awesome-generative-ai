@@ -445,6 +445,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Selfies with Sama](https://selfies-with-sama.vost.ai) - Grab a picture with a real-life billionaire!
 - [Pangram](https://www.pangram.com/) - Detects AI-generated and AI-assisted text through a web interface, browser extension, and API.
 
+- [GiftPilot](https://thegiftpilot.ai) - Free AI gift finder that turns a plain-language description of a person into real gift ideas from partner shops, with prices and reasons. No signup.
 ## Learning resources
 
 - [Learn Prompting](https://learnprompting.org/) - A free, open source course on communicating with artificial intelligence.
