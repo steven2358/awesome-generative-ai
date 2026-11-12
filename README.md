@@ -207,6 +207,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Developer tools
 
+- [mcp-slim](https://github.com/SalyyS1/mcp-slim) - Zero-dependency Python MCP stdio proxy and CLI profiler that reduces AI agent tool schema and output tokens by 50%-98.7% and scrubs leaked credentials in real time.
+- [LoRASpectra](https://github.com/SalyyS1/loraspectra) - Pure-NumPy SVD spectral analyzer, effective rank profiler, rank pruner, and multi-adapter conflict detector for `.safetensors` LoRA adapters.
 - [Cohere](https://cohere.com/) - Cohere provides access to advanced Large Language Models and NLP tools.
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
 - [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
