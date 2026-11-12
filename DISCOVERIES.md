@@ -313,5 +313,6 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Awesome AI Software Development Agents](https://github.com/flatlogic/awesome-ai-software-development-agents) - Curated list of AI agents designed for software development tasks.
 - [MODELDROP](https://modeldrop.fyi/) - A community tracker for new generative media AI model releases.
 - [MyVibe](https://www.myvibe.so) - A feed for discovering and sharing AI-created web apps, demos, and interactive projects.
+- [Free LLM API Tokens](https://freellmapi.link) - Weekday-updated tracker of 100+ free and free-tier LLM APIs, with OpenAI compatibility, tokens/day and rate limits. [#opensource](https://github.com/shivaprasad7894530722-wq/free-llm-api-tokens)
 
 ### Lists on ChatGPT
