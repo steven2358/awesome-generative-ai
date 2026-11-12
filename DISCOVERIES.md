@@ -161,6 +161,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Local LLM Deployment
 
 - [Minima](https://github.com/dmayboroda/minima) - On-premises RAG with configurable Docker containers. #opensource
+- [llamay](https://llamay.com) - A free, closed-source local inference server for GGUF models with Ollama-, OpenAI- and Anthropic-compatible APIs.
 
 ## Agents
 
