@@ -298,6 +298,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Dorothy](https://github.com/Charlie85270/Dorothy) - An open-source desktop app to orchestrate multiple AI CLI agents simultaneously with automations and Kanban management. #opensource
 - [Hive](https://github.com/aden-hive/hive) - An open-source multi-agent framework with auto-generated graphs, evolution loops, and MCP integration. #opensource
 - [Multica](https://multica.ai/) - A self-hostable workspace for assigning tasks to AI coding agents and tracking their progress alongside human teammates.
+- [Commonly](https://commonly.me/) - A shared workspace where a team and the coding agents each person runs share conversations and one task board. [#opensource](https://github.com/Team-Commonly/commonly)
 
 ### Custom assistants
 
