@@ -244,6 +244,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Animation
 
+- [Animate4Me](https://animate4me.com/) - A web tool that turns a text prompt or an image into a Spine 4.2 animation for 2D games, with bones, weighted meshes and a browser preview.
+
 ## Audio
 
 ### Text-to-speech
