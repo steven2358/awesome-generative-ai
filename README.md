@@ -130,7 +130,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
 - [Mem](https://mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
-- [Taskade](https://www.taskade.com/) - Outline tasks, notes, generated structured lists and mind maps with Taskade AI.
+- [Taskade](https://www.taskade.com/) - AI workspace with projects, agents and automations. Taskade Genesis builds a running app from one prompt.
 - [Notion AI](https://www.notion.so/product/ai) - Write better, more efficient notes and docs.
 - [Nekton AI](https://nekton.ai) - Automate your workflows with AI. Describe your workflows step by step in plain language.
 - [Limitless](https://www.limitless.ai/) - An AI memory assistant for recording conversations and meetings, generating summaries, and searching past interactions across apps and an optional wearable.
