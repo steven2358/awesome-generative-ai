@@ -189,6 +189,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Ebiose](https://github.com/ebiose-ai/ebiose) - An open-source framework for creating and evolving AI agents through iterative selection. #opensource
 - [OpenPaw](https://github.com/daxaur/openpaw) - A CLI tool that turns Claude Code into a personal assistant with skills for email, calendar, Spotify, smart home, and Slack. #opensource
 - [AnveVoice](https://anvevoice.app) - Voice AI assistant for websites that takes real DOM actions, navigating pages, filling forms, and clicking buttons in 50+ languages.
+- [Cedric](https://meet-cedric.com/) - An AI teammate who works alongside a team in chat and in their meetings, presents slides, pulls up data and does the follow-up in the team's tools with a person's approval.
 
 ## Image
 
