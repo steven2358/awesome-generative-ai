@@ -210,6 +210,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [MyPicNow](https://www.mypicnow.com) - An AI headshot generator for creating professional profile photos from uploaded selfies.
 - [PhotoMentor](https://photomentor.pro) - An AI tool for analyzing photos and providing composition and lighting feedback.
 - [AI Hairstyle Fit](https://aihairstylefit.com/) - A tool for previewing haircuts on a front-facing photo, with before/after comparison and a barber card with cutting notes.
+- [BestGroupShot](https://bestgroupshot.com) - AI tool to merge facial expressions from group burst photos to fix closed eyes and awkward poses.
 
 ### Graphic design
 
