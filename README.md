@@ -162,6 +162,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Rayyan](https://www.rayyan.ai/) - An AI-powered platform for managing systematic literature reviews with collaborative screening and data management tools.
 - [Paper2Agent](https://paper2agent.ai/) - Converts research papers and associated codebases into tested MCP servers and interactive AI agents. [#opensource](https://github.com/jmiao24/Paper2Agent)
 - [Ai2 ASTA](https://asta.allen.ai/) - A scholarly research assistant for finding papers, generating cited literature reports, and analyzing research data.
+- [AutoResearch](https://autoresearch.me/en/) - End-to-end research system that connects literature exploration, testable ideas, model implementation, GPU experiments and manuscript drafting into an evidence-backed paper. Private beta; access requires administrator approval.
 
 ### Leaderboards
 
