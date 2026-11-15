@@ -243,6 +243,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Avatars
 
 ### Animation
+- [VfxSmith](https://vfxsmith.com/) - Generate and refine animated pixel art effects for 2D games and export sprite sheets, GIFs, or Godot 4 packages.
 
 ## Audio
 
