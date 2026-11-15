@@ -155,6 +155,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [CPS Framework](https://github.com/citedbyai/cps-framework) - AI-citation-readiness scoring for web content, with a free MCP checker and paid full audits.
 - [TabGAN](https://github.com/Diyago/Tabular-data-generation) - A Python library for generating synthetic tabular data with GANs, diffusion models, and language models. #opensource
 - [AKF](https://github.com/HMAKT99/AKF) - A file format for embedding trust scores, source provenance, and compliance metadata in AI-generated content. #opensource
+- [HiAPI](https://hiapi.ai/?utm_source=github&utm_medium=awesome-list&utm_campaign=bf26&utm_content=awesome-generative-ai) - Pay-as-you-go API platform offering image, video, audio, and text models (GPT Image, Seedance, Kling, Veo, DeepSeek, Claude, Grok, Qwen) behind one key, with OpenAI-compatible Responses and Chat Completions endpoints for text and asynchronous task APIs for image, video, and audio; failed tasks are refunded automatically.
 
 ### Playgrounds
 
