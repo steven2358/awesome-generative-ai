@@ -280,6 +280,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation.
 - [Devin](https://devin.ai/) - An autonomous AI software engineer by Cognition Labs.
 - [OpenHands](https://github.com/OpenHands/OpenHands) - An autonomous agent designed to navigate the complexities of software engineering. #opensource
+- [No Stairs Please](https://nostairsplease.com/) - Every small stage in all 50 states, and who books it. Live-music venue directory with a remote MCP endpoint (https://nostairsplease.com/mcp) for AI agents.
 - [Davika](https://github.com/stitionai/devika) - An agentic AI software engineer. #opensource
 - [n8n](https://n8n.io/) - A workflow automation platform that combines AI capabilities with business process automation.
 - [Sauna](https://www.sauna.ai) - An AI assistant built for compounding context. It learns your taste, detects hidden patterns, augments your brain context and works proactively.
