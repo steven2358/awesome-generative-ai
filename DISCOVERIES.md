@@ -256,6 +256,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Typist](https://iamtypist.dev) - Fast audio transcription service powered by Whisper models hosted on Groq.
 - [Echo99](https://www.echo99.app/) - A private macOS call recorder with on-device transcription and speaker labeling.
+- [Sonorarium](https://sonorarium.com) - Pay-as-you-go transcription of audio and video in 60+ languages, powered by Whisper large-v3, with no subscription.
 
 ### Music
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
