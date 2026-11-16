@@ -41,6 +41,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [GPTHelp.ai](https://gpthelp.ai/) - AI customer support chatbot for your website.
 - [AnythingLLM](https://anythingllm.com/) - Turn any document, resource, or piece of content into context that any LLM can use. [#opensource](https://github.com/Mintplex-Labs/anything-llm)
 - [Character AI Bots](https://www.characteraibots.com/) - A directory of free AI roleplay characters available on Character.AI, JanitorAI, and SpicyChat.
+- [Adoree](https://adoree.ai/?utm_source=github-steven2358&utm_medium=community&utm_campaign=launch_nov2026) - AI relationship assistant that helps couples say what they mean without escalating, understand each other's side, and find a constructive next step.
 
 ### Custom interfaces
 
