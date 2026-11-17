@@ -155,6 +155,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [CPS Framework](https://github.com/citedbyai/cps-framework) - AI-citation-readiness scoring for web content, with a free MCP checker and paid full audits.
 - [TabGAN](https://github.com/Diyago/Tabular-data-generation) - A Python library for generating synthetic tabular data with GANs, diffusion models, and language models. #opensource
 - [AKF](https://github.com/HMAKT99/AKF) - A file format for embedding trust scores, source provenance, and compliance metadata in AI-generated content. #opensource
+- [NoGPU](https://nogpu.dev) - Trains a small CPU model on an LLM's past fixed-label decisions (intent routing, triage, moderation) that answers alone when confident and hands the rest to the LLM, with a free report on how many calls it would take.
 
 ### Playgrounds
 
