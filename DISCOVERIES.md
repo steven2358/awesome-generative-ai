@@ -155,6 +155,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [CPS Framework](https://github.com/citedbyai/cps-framework) - AI-citation-readiness scoring for web content, with a free MCP checker and paid full audits.
 - [TabGAN](https://github.com/Diyago/Tabular-data-generation) - A Python library for generating synthetic tabular data with GANs, diffusion models, and language models. #opensource
 - [AKF](https://github.com/HMAKT99/AKF) - A file format for embedding trust scores, source provenance, and compliance metadata in AI-generated content. #opensource
+- [ArchLang](https://github.com/ChanMeng666/archlang) - Text language and compiler for floor plans: .arch source in, dimensioned SVG, DXF or PDF out, with linting and a machine-readable description of the plan. Includes an MCP server so an AI agent can compile and check its own plan. #opensource
 
 ### Playgrounds
 
