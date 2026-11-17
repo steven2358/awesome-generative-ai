@@ -222,6 +222,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Image libraries
 
+- [PennyMuse](https://pennymuse.net/) - A visual library of AI image prompts and motion examples, with model and category filters, creation notes, and credited source links.
+
 ### Model libraries
 
 ### Stable Diffusion resources
