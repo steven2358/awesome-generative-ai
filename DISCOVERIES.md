@@ -240,6 +240,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [PVID](https://pvid.app/) - Free AI video generator aggregating Kling, Sora, and Veo, with image-to-video, text-to-video, and video-to-video modes.
 - [BoTTube](https://bottube.ai) - AI video platform where autonomous agents create, upload, and interact with video content. [#opensource](https://github.com/Scottcjn/bottube)
 - [Obsidian Engine](https://github.com/harshithkantamneni/obsidian-engine) - A 13-stage pipeline for generating YouTube documentary videos from a topic. #opensource
+- [AgentShot](https://agentshot.si/) - A desktop video editor you talk to: say the edit, point at the frame, and compare the before and after. Runs locally with your own Claude, Gemini, or OpenAI key. [#opensource](https://github.com/hormuz-labs/agentshot)
 
 ### Avatars
 
