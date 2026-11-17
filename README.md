@@ -445,6 +445,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Whimsical AI](https://whimsical.com/ai) - GPT-powered mind mapping, flowcharts, and visual tools for rapid idea development and process organization.
 - [Selfies with Sama](https://selfies-with-sama.vost.ai) - Grab a picture with a real-life billionaire!
 - [Pangram](https://www.pangram.com/) - Detects AI-generated and AI-assisted text through a web interface, browser extension, and API.
+- [AI-Vision](https://ai-vision.top) - Universal product indexation and Generative Engine Optimization (GEO) platform for AI search engines.
 
 ## Learning resources
 
