@@ -409,6 +409,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [TTS WebUI](https://github.com/rsxdalv/TTS-WebUI) - Web UI for running multiple text-to-speech, music generation, and audio tools. #opensource
 - [VoiceStudio](https://voicestudio.sh/) - A local AI voice studio for speech generation, voice cloning, voice design, dubbing, and transcription. [#opensource](https://github.com/debpalash/VoiceStudio)
 
+- [British Accent Generator](https://britishaccent.pro/) - AI British/UK accent TTS with 262 regional voices (RP, Scottish, Welsh, Northern Irish), plus voice clone/design and lip sync.
 ### Speech-to-text
 
 - [Whisper](https://openai.com/index/whisper/) - Robust speech recognition via large-scale weak supervision. [#opensource](https://github.com/openai/whisper)
