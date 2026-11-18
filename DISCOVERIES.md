@@ -123,6 +123,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Yume](https://github.com/aofp/yume) - Desktop GUI for Claude Code with multi-tab sessions, background agents, context compaction, and plugin system. #opensource
 - [Frontman](https://frontman.sh/) - A browser-based AI coding agent for editing frontend code with live app context. [#opensource](https://github.com/frontman-ai/frontman)
 - [Cortex](https://github.com/SKULLFIRE07/cortex-memory) - Persistent AI memory for coding assistants, auto-capturing decisions, patterns, and context from Claude Code, Cursor, and Cline sessions. #opensource
+- [REX](https://classeve.com/rex) - A coding agent that runs your whole Windows PC. Say what you need, by voice or text, and REX writes the code, works the applications already on your PC, and checks the result before it says done.
 
 ### Developer tools
 
