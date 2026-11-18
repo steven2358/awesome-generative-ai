@@ -409,6 +409,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [TTS WebUI](https://github.com/rsxdalv/TTS-WebUI) - Web UI for running multiple text-to-speech, music generation, and audio tools. #opensource
 - [VoiceStudio](https://voicestudio.sh/) - A local AI voice studio for speech generation, voice cloning, voice design, dubbing, and transcription. [#opensource](https://github.com/debpalash/VoiceStudio)
 
+- [CitePod](https://citepod.com/) - Turn study notes into an AI-generated study podcast with a transcript, topic coverage and recall questions.
+
 ### Speech-to-text
 
 - [Whisper](https://openai.com/index/whisper/) - Robust speech recognition via large-scale weak supervision. [#opensource](https://github.com/openai/whisper)
