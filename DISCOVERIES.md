@@ -211,6 +211,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [PhotoMentor](https://photomentor.pro) - An AI tool for analyzing photos and providing composition and lighting feedback.
 - [AI Hairstyle Fit](https://aihairstylefit.com/) - A tool for previewing haircuts on a front-facing photo, with before/after comparison and a barber card with cutting notes.
 - [Lupa AI](https://lupa.art/) - A platform for generating, editing, and upscaling images and videos.
+- [NeedPS](https://needps.app/landing/en/) - An iPhone and Android photo editor where you type the change, for removing people, restoring old photos, adding a person, upscaling to 4K or turning a sentence into a poster.
 
 ### Graphic design
 
