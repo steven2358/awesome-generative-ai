@@ -161,6 +161,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Local LLM Deployment
 
 - [Minima](https://github.com/dmayboroda/minima) - On-premises RAG with configurable Docker containers. #opensource
+- [LocalForge](https://localai.hexmobius.com/en?utm_source=awesome-generative-ai&utm_medium=directory&utm_campaign=backlink) - Checks which local LLMs fit a named GPU, CPU or Apple-silicon machine, which runtime to run them on, and what is measured versus unknown.
 
 ## Agents
 
