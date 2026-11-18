@@ -136,7 +136,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Limitless](https://www.limitless.ai/) - An AI memory assistant for recording conversations and meetings, generating summaries, and searching past interactions across apps and an optional wearable.
 - [NotebookLM](https://notebooklm.google/) - A research and note-taking online tool to interact with documents, powered by Google Gemini.
 - [Open Notebook](https://www.open-notebook.ai) - An open source implementation of NotebookLM with more flexibility and features. [#opensource](https://github.com/lfnovo/open-notebook)
-- [Screenpipe](https://github.com/screenpipe/screenpipe) - An open-source tool for recording screen and audio activity with AI-powered search, automations, and support for local LLMs. #opensource
+- [Screenpipe](https://github.com/screenpipe/screenpipe) - A screen and audio recorder with searchable local history, automations, and MCP access, source-available under the Screenpipe Commercial License. Raw history stays local by default; configured cloud AI, transcription, sync, and integrations can transmit context off-device.
 
 ### Meeting assistants
 
