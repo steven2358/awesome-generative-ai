@@ -27,6 +27,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Models
 
 - [SambaNova](https://sambanova.ai/) - Full stack generative AI platform, from chip to model, designed for enterprise and government entities and powered by a dataflow architecture.
+- [QuickSilver Pro](https://quicksilverpro.io/) - An OpenAI-compatible inference API for open-weight LLMs such as DeepSeek, Qwen, and Kimi, plus the Google Gemini family.
 
 ### Chatbots
 
