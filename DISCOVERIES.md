@@ -219,6 +219,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Seede](https://seede.ai/) - An AI tool for generating posters and marketing visuals from text descriptions.
 - [PolyGlyph](https://polyglyph.io/) - AI-powered SVG generation and editing tool that turns text prompts into editable vector graphics.
 - [InkCraft](https://inkcraftapp.com) - Generate tattoo designs from a description and preview them on a photo of your own body.
+- [GouTu AI](https://draw.lzkz.top/) - AI hand-drawn technical diagram generator built on Excalidraw supporting 12 diagram types (architecture, sequence, flowchart, mindmap, ER, topology, etc.) with editable canvas and PNG/SVG/.excalidraw export. [#opensource](https://github.com/co-pine/ai-excalidraw)
 
 ### Image libraries
 
