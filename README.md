@@ -387,6 +387,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [MaxVideoAI](https://maxvideoai.com/examples) - A workspace for generating and comparing videos across multiple AI video models.
 - [HyperFrames](https://hyperframes.heygen.com/) - A framework for AI agents to render videos by writing HTML, CSS, and JavaScript. [#opensource](https://github.com/heygen-com/hyperframes)
 
+- [Starpop](https://starpop.ai) - AI ad agent that researches customer language and winning ads, then generates UGC, static and video ads for e-commerce, apps and SaaS.
+
 ### Avatars
 
 - [D-ID](https://www.d-id.com/) - Create and interact with talking avatars at the touch of a button.
