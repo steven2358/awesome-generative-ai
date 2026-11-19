@@ -155,6 +155,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [CPS Framework](https://github.com/citedbyai/cps-framework) - AI-citation-readiness scoring for web content, with a free MCP checker and paid full audits.
 - [TabGAN](https://github.com/Diyago/Tabular-data-generation) - A Python library for generating synthetic tabular data with GANs, diffusion models, and language models. #opensource
 - [AKF](https://github.com/HMAKT99/AKF) - A file format for embedding trust scores, source provenance, and compliance metadata in AI-generated content. #opensource
+- [mcptask.online](https://mcptask.online/?language=en) - Task queue for people and AI developers; a runner on your own PC or Mac drives Claude Code, Codex CLI or OpenCode and ends every task as a pull request after tests and local CI. Closed source, 30-day free trial.
 
 ### Playgrounds
 
