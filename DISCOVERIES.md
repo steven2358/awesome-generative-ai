@@ -45,6 +45,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Custom interfaces
 
 - [Atlas UI 3](https://github.com/sandialabs/atlas-ui-3) - Full-stack LLM chat interface with MCP tool integration, multi-provider support, RAG, and agentic workflows. #opensource
+- [Quock](https://github.com/matteocelani/quock) - An open-source iPhone client for Ollama Cloud, with streaming replies, file attachments, and on-device chat history. Requires an ollama.com account; model inference happens in the cloud. #opensource
 
 ### Search engines
 
