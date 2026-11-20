@@ -245,6 +245,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Animation
 
+- [PawMambo](https://pawmambo.com/) - Creates a short AI dog dance video from a dog photo and a dance-reference clip.
+
 ## Audio
 
 ### Text-to-speech
