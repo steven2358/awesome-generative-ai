@@ -265,6 +265,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Harbor](https://github.com/av/harbor) - A containerized toolkit for running local LLM backends, UIs, and supporting services with one command. #opensource
 - [off-grid-mobile](https://github.com/alichherawalla/off-grid-mobile-ai) - React Native app for running LLMs, vision models, and Stable Diffusion on-device on iOS and Android without internet access. #opensource
 - [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - OpenAI-compatible local LLM inference server optimized for Apple Silicon, with tool calling, reasoning, vision, and structured output support. #opensource
+- [Claude Code Local](https://github.com/nicedreamzapp/claude-code-local) - Runs Anthropic's Claude Code against local models on Apple Silicon through an MLX server that speaks the Anthropic Messages API. #opensource
 
 ## Agents
 
