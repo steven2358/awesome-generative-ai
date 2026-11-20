@@ -396,6 +396,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 ### Animation
 
 - [Autodesk Flow Studio](https://www.autodesk.com/products/flow-studio) - AI-powered tool for animating and compositing CG characters into live-action footage.
+- [AI Pop Video](https://aipopvideo.com/) - Turn photos into short AI dance and effect videos from templates, or copy the moves from your own reference video.
 
 ## Audio
 
