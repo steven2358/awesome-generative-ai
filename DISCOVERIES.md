@@ -257,6 +257,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Typist](https://iamtypist.dev) - Fast audio transcription service powered by Whisper models hosted on Groq.
 - [Echo99](https://www.echo99.app/) - A private macOS call recorder with on-device transcription and speaker labeling.
+- [Utterwove](https://utterwove.kriva.studio/) - Android voice typing with downloadable on-device speech recognition models, transcript review, and optional AI rewriting.
 
 ### Music
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
@@ -316,3 +317,4 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [MyVibe](https://www.myvibe.so) - A feed for discovering and sharing AI-created web apps, demos, and interactive projects.
 
 ### Lists on ChatGPT
+
