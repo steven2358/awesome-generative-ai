@@ -155,6 +155,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [CPS Framework](https://github.com/citedbyai/cps-framework) - AI-citation-readiness scoring for web content, with a free MCP checker and paid full audits.
 - [TabGAN](https://github.com/Diyago/Tabular-data-generation) - A Python library for generating synthetic tabular data with GANs, diffusion models, and language models. #opensource
 - [AKF](https://github.com/HMAKT99/AKF) - A file format for embedding trust scores, source provenance, and compliance metadata in AI-generated content. #opensource
+- [Mudroom](https://github.com/Kernel-Hunter/mudroom) - Runs coding agents such as Claude Code, Codex and Gemini CLI in a Linux micro-VM on a copy of your project, with network access limited to an allowlist, then shows the changes as a diff so you apply only what you want. #opensource
 
 ### Playgrounds
 
