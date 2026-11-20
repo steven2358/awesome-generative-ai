@@ -67,6 +67,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [LogicBalls](https://logicballs.com/) - An AI writing tool for generating blog posts, ads, emails, and social media content. Includes a prompt library.
 - [Publish7](https://publish7.com/) - Agentic platform for digital marketing.
 - [WordLift Agent](https://wordlift.io/agent/) - AI agent for SEO tasks such as product descriptions, internal linking, and SERP analysis.
+- [Ritemark](https://ritemark.app) - Markdown writing app for macOS and Windows where Claude Code, Codex or OpenCode edit your local documents in place. [#opensource](https://github.com/ProductoryHQ/ritemark-native)
 
 ### ChatGPT extensions
 
