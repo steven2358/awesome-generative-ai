@@ -1,5 +1,7 @@
 # Contribution Guidelines
 
+*[Update 20 Nov. 2026: Automated pull requests are out of hand. I'm restricting them to collaborators only. If you still want to be on the list, get creative. No emailing though.]*
+
 *[Update 5 Sept. 2026: I review each contributed project by hand. Order: FIFO on the PR queue. If you want to jump the queue, get creative, surprise me, think outside of the box, make my day.]*
 
 ## Formatting
