@@ -58,6 +58,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [AI Story Generator](https://www.aistorygenerator.org) - Free AI-powered story generator that writes creative short stories for you on any topic.
 - [NeuronWriter](https://neuronwriter.com/) - AI writer and NLP content editor with SEO focus.
 - [Regie.ai](https://www.regie.ai/) - Automation of prospect research, message personalization, and email analysis.
+- [PromptPilot](https://github.com/navasshereef1/PromptPilot) - Free Windows app that rewrites your prompt in place inside ChatGPT, Claude and Gemini with one click. #opensource
 - [Capitol AI](https://www.capitol.ai/) - A smart document creator with Capitol AI's fusion of smart research, data, and AI.
 - [AI Humanize](https://aihumanize.io/) - Humanize AI transforms AI content into natural, human-like writing that bypasses all AI detection.
 - [Elephas](https://elephas.app/) - Personal AI writing assistant for the Mac.
