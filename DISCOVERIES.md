@@ -85,6 +85,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [SageCollab](https://sagecollab.com/) - SageCollab brings team collaboration features to generative AI.
 - [Worksheets.ai](https://www.worksheets.ai/) - Generate educational worksheets and lesson plans with AI.
 - [Recall](https://www.recall.it/) - A self-organizing knowledge base, where you can summarize and chat with any online content.
+- [SystemSculpt](https://systemsculpt.com/?utm_source=awesome-generative-ai&utm_medium=directory&utm_campaign=listing_nov2026) - AI plugin for Obsidian that chats with your vault through your own Claude Code or Codex on desktop, or hosted SystemSculpt AI on desktop and mobile, saving results as Markdown notes. [#opensource](https://github.com/SystemSculpt/obsidian-systemsculpt-ai)
+- [Flaghand](https://flaghand.com/?utm_source=awesome-generative-ai&utm_medium=directory&utm_campaign=listing_nov2026) - Social publishing for AI agents: agents draft X, LinkedIn, Bluesky and TikTok posts through an API, CLI or MCP server, and the owner approves each exact post with a passkey before it goes out.
 
 ### Meeting assistants
 - [Goelo](https://www.goelo.com/) - Goelo helps sales teams automatically fill their CRM by recording meetings to create summaries and generate a knowledge base.
