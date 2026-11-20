@@ -246,6 +246,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [fal](https://fal.ai/) - A developer platform for accessing and deploying image, video, audio, and 3D generation models.
 - [REA (Reverse Engineer Anything)](https://rea.tools/) - Connects coding agents to reverse-engineering tools through MCP to analyze binaries, applications, and runtime behavior. [#opensource](https://github.com/morluto/rea)
 
+- [ShipPage](https://shippage.ai) - Zero-config HTML publishing service for AI agents. One HTTP POST turns any HTML or Markdown into a public URL. Auto-registers on first call — no account, no API keys to configure. Install as OpenClaw skill or MCP server. [#opensource](https://github.com/jieshu666/ShipPage-Skill)
 ### Playgrounds
 
 - [OpenAI Playground](https://platform.openai.com/playground) - Explore resources, tutorials, API docs, and dynamic examples.
