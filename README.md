@@ -85,6 +85,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Phind](https://phind.com/) - AI-based search engine.
 - [You.com](https://you.com/) - A search engine built on AI that provides users with a customized search experience while keeping their data 100% private.
 - [Komo](https://komo.ai/) - An AI-powered search engine.
+- [Keenable](https://keenable.ai/) - Web search engine with its own index, built for AI agents: search and page-fetch API plus a hosted MCP server.
 
 ### Local search engines
 
