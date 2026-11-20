@@ -245,6 +245,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 ### Animation
 
+- [EmoteLoop](https://emoteloop.com/) - An AI Twitch emote maker that turns a selfie or one sentence into a transparent, looping 512px animated emote in about 20 seconds.
+
 ## Audio
 
 ### Text-to-speech
