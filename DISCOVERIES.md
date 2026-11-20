@@ -211,6 +211,8 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [PhotoMentor](https://photomentor.pro) - An AI tool for analyzing photos and providing composition and lighting feedback.
 - [AI Hairstyle Fit](https://aihairstylefit.com/) - A tool for previewing haircuts on a front-facing photo, with before/after comparison and a barber card with cutting notes.
 - [Lupa AI](https://lupa.art/) - A platform for generating, editing, and upscaling images and videos.
+- [PicGenix](https://razorlinestudios.co.uk/app.php?slug=picgenix) - Local Windows AI image generator running SDXL-Lightning and FLUX.2 Klein on your own NVIDIA GPU with Visual Memory reference photos and no per-image credits.
+- [AI ColourBack](https://razorlinestudios.co.uk/app.php?slug=colourback) - Offline Windows photo colourisation tool using the DDColor neural model for private batch restoration of black-and-white prints.
 
 ### Graphic design
 
@@ -262,6 +264,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
 - [Soundraw](https://soundraw.io/) - Create your beats with the power of AI.
 - [Jammable](https://www.jammable.com/) - AI voice covers and music creation platform.
+- [SongGenix](https://razorlinestudios.co.uk/app.php?slug=songgenix) - Local Windows AI music studio generating 30-second previews, full vocal songs, or instrumentals offline with line-by-line regeneration and WAV export.
 
 ## Other
 
