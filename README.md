@@ -130,6 +130,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
 - [Mem](https://mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
+- [Resimay](https://resimay.ai) - AI job tracker that tailors your resume to each job description, with an ATS check and application autofill.
 - [Taskade](https://www.taskade.com/) - Outline tasks, notes, generated structured lists and mind maps with Taskade AI.
 - [Notion AI](https://www.notion.so/product/ai) - Write better, more efficient notes and docs.
 - [Nekton AI](https://nekton.ai) - Automate your workflows with AI. Describe your workflows step by step in plain language.
