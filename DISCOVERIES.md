@@ -41,6 +41,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [GPTHelp.ai](https://gpthelp.ai/) - AI customer support chatbot for your website.
 - [AnythingLLM](https://anythingllm.com/) - Turn any document, resource, or piece of content into context that any LLM can use. [#opensource](https://github.com/Mintplex-Labs/anything-llm)
 - [Character AI Bots](https://www.characteraibots.com/) - A directory of free AI roleplay characters available on Character.AI, JanitorAI, and SpicyChat.
+- [Morse](https://trymorse.ai/?src=gh-awesome-generative-ai) - Private AI chat with GPT, Claude, Gemini, DeepSeek, and uncensored models, with chat history stored encrypted on your device.
 
 ### Custom interfaces
 
