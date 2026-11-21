@@ -90,6 +90,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 - [privateGPT](https://github.com/zylon-ai/private-gpt) - Ask questions to your documents without an internet connection, using the power of LLMs.
 - [quivr](https://github.com/QuivrHQ/quivr) - Dump all your files and chat with it using your generative AI second brain using LLMs & embeddings.
+- [PipesHub](https://github.com/pipeshub-ai/pipeshub-ai) - Self-hosted AI search with cited answers across workplace apps such as Slack, Google Drive, Jira and Microsoft 365, respecting each source's permissions. #opensource
 
 ### Writing assistants
 
