@@ -45,6 +45,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ### Custom interfaces
 
 - [Atlas UI 3](https://github.com/sandialabs/atlas-ui-3) - Full-stack LLM chat interface with MCP tool integration, multi-provider support, RAG, and agentic workflows. #opensource
+- [Trina AX](https://ax.trina.app) - Self-hosted team workspace that runs Claude Code and Codex on shared company files and team skills, with folder permissions checked per person. [#opensource](https://github.com/trina-app/trina-ax)
 
 ### Search engines
 
