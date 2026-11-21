@@ -171,6 +171,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [OpenRouter LLM Rankings](https://openrouter.ai/rankings) - Language models ranked and analyzed by usage across apps.
 - [SEAL LLM Leaderboard](https://labs.scale.com/leaderboard) - Expert-driven LLM benchmarks and updated AI model leaderboards.
 - [LLM Stats](https://llm-stats.com/) - Compare AI models across benchmarks, pricing, speed, and context window.
+- [Highworth AI](https://highworth.ai/) - Community worth-it scores for 60+ AI models, built from verified user reviews across Hacker News, Reddit, V2EX and Bilibili.
 
 ### Other text generators
 
