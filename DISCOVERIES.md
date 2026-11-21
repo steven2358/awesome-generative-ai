@@ -155,6 +155,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [CPS Framework](https://github.com/citedbyai/cps-framework) - AI-citation-readiness scoring for web content, with a free MCP checker and paid full audits.
 - [TabGAN](https://github.com/Diyago/Tabular-data-generation) - A Python library for generating synthetic tabular data with GANs, diffusion models, and language models. #opensource
 - [AKF](https://github.com/HMAKT99/AKF) - A file format for embedding trust scores, source provenance, and compliance metadata in AI-generated content. #opensource
+- [Every Other Token](https://github.com/Mattbusel/Every-Other-Token) - A Rust CLI and web UI that shows how confident a model was about each token of its answer, with perplexity and the top alternatives, from OpenAI, OpenRouter, Ollama or a local model. #opensource
 
 ### Playgrounds
 
