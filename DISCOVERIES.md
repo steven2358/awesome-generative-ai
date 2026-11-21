@@ -211,6 +211,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [PhotoMentor](https://photomentor.pro) - An AI tool for analyzing photos and providing composition and lighting feedback.
 - [AI Hairstyle Fit](https://aihairstylefit.com/) - A tool for previewing haircuts on a front-facing photo, with before/after comparison and a barber card with cutting notes.
 - [Lupa AI](https://lupa.art/) - A platform for generating, editing, and upscaling images and videos.
+- [Liveify](https://videolivephoto.com/photo-to-live-photo) - Animate a still photo into a Live Photo with AI; sign-in and credits are required, and there is no verified way to import the web .livp download into iPhone Photos.
 
 ### Graphic design
 
