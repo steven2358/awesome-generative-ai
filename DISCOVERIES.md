@@ -257,6 +257,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 
 - [Typist](https://iamtypist.dev) - Fast audio transcription service powered by Whisper models hosted on Groq.
 - [Echo99](https://www.echo99.app/) - A private macOS call recorder with on-device transcription and speaker labeling.
+- [Purr](https://purr.arunbrahma.com) - Free macOS app for dictation, voice editing and meeting notes, with the speech models and summaries running on-device. [#opensource](https://github.com/iamarunbrahma/purr)
 
 ### Music
 - [Boomy](https://boomy.com/) - Create original songs in seconds.
