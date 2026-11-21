@@ -41,6 +41,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [GPTHelp.ai](https://gpthelp.ai/) - AI customer support chatbot for your website.
 - [AnythingLLM](https://anythingllm.com/) - Turn any document, resource, or piece of content into context that any LLM can use. [#opensource](https://github.com/Mintplex-Labs/anything-llm)
 - [Character AI Bots](https://www.characteraibots.com/) - A directory of free AI roleplay characters available on Character.AI, JanitorAI, and SpicyChat.
+- [unbottled.ai](https://unbottled.ai/en-US?utm_source=awesome-generative-ai&utm_medium=directory&utm_campaign=listings-2026-11) - Chat with 100+ mainstream, open and uncensored models in one account, with the filter level set by the user. [#opensource](https://github.com/techfreaque/next-vibe)
 
 ### Custom interfaces
 
