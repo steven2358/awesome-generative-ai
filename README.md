@@ -246,6 +246,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [fal](https://fal.ai/) - A developer platform for accessing and deploying image, video, audio, and 3D generation models.
 - [REA (Reverse Engineer Anything)](https://rea.tools/) - Connects coding agents to reverse-engineering tools through MCP to analyze binaries, applications, and runtime behavior. [#opensource](https://github.com/morluto/rea)
 
+- [bf16.ai](https://bf16.ai) - Uncensored LLM API gateway for coding and personal AI agents with 1M context, native OpenAI & Anthropic endpoints, and zero prompt retention.
 ### Playgrounds
 
 - [OpenAI Playground](https://platform.openai.com/playground) - Explore resources, tutorials, API docs, and dynamic examples.
